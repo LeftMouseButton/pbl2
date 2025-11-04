@@ -1,0 +1,219 @@
+{
+  "disease_name": "Glioblastoma",
+  "synonyms": [
+    "Glioblastoma multiforme",
+    "GBM",
+    "Grade IV astrocytoma"
+  ],
+  "summary": "Glioblastoma is an aggressive malignant brain tumor originating from astrocytes or glial progenitor cells. It is the most common and deadly primary brain cancer, characterized by rapid growth, diffuse invasion, and poor prognosis.",
+  "causes": [
+    "Unknown (most cases idiopathic)",
+    "Previous cranial radiation exposure",
+    "Genetic disorders (neurofibromatosis type 1, Li–Fraumeni syndrome, Turcot syndrome, tuberous sclerosis)",
+    "Infection with cytomegalovirus (CMV)"
+  ],
+  "risk_factors": [
+    "Male sex",
+    "Older age",
+    "Ionizing radiation exposure",
+    "Genetic syndromes (e.g., NF1, Li–Fraumeni)",
+    "Occupational exposure (petroleum refining, rubber manufacturing)"
+  ],
+  "symptoms": [
+    "Headache",
+    "Seizures",
+    "Nausea and vomiting",
+    "Memory loss",
+    "Personality or mood changes",
+    "Cognitive decline",
+    "Focal neurological deficits",
+    "Hemiparesis",
+    "Speech difficulties"
+  ],
+  "diagnosis": [
+    "MRI with contrast (ring-enhancing lesion)",
+    "CT scan",
+    "Stereotactic biopsy or craniotomy with tumor resection",
+    "Histopathology (necrosis, microvascular proliferation)",
+    "Molecular testing (IDH-wildtype confirmation, MGMT promoter methylation, EGFR amplification, TERT mutation)"
+  ],
+  "treatments": [
+    "Maximal safe surgical resection",
+    "Radiotherapy (60 Gy in 30 fractions)",
+    "Concurrent temozolomide chemotherapy",
+    "Adjuvant temozolomide",
+    "Bevacizumab (anti-VEGF) for recurrence",
+    "Alternating electric field therapy (tumor-treating fields)",
+    "Corticosteroids (dexamethasone for edema)",
+    "Anticonvulsants (for seizure control)"
+  ],
+  "related_genes": [
+    "EGFR",
+    "TP53",
+    "PTEN",
+    "NF1",
+    "PDGFRA",
+    "TERT",
+    "IDH1",
+    "MGMT",
+    "CDKN2A",
+    "RB1",
+    "PIK3CA"
+  ],
+  "subtypes": [
+    {
+      "name": "Classical subtype",
+      "typical_patients": "Adults; EGFR amplification, chromosome 10 loss",
+      "five_year_survival": "≈5%",
+      "common_treatments": [
+        "Surgery",
+        "Radiotherapy",
+        "Temozolomide"
+      ]
+    },
+    {
+      "name": "Proneural subtype",
+      "typical_patients": "Younger patients; PDGFRA and TP53 mutations",
+      "five_year_survival": "≈10%",
+      "common_treatments": [
+        "Surgery",
+        "Radiotherapy",
+        "Temozolomide"
+      ]
+    },
+    {
+      "name": "Mesenchymal subtype",
+      "typical_patients": "Older patients; NF1 mutations, more aggressive",
+      "five_year_survival": "≈3%",
+      "common_treatments": [
+        "Surgery",
+        "Radiotherapy",
+        "Temozolomide",
+        "Bevacizumab"
+      ]
+    }
+  ],
+  "epidemiology": {
+    "global_cases_2015": "≈300000",
+    "global_deaths_2015": "≈250000",
+    "most_common_in": "Adults aged 55–75; more frequent in males",
+    "five_year_survival_rate": "≈5–7%"
+  },
+  "relationships": [
+    {
+      "source": "Glioblastoma",
+      "relation": "has_symptom",
+      "target": "Headache"
+    },
+    {
+      "source": "Glioblastoma",
+      "relation": "has_symptom",
+      "target": "Seizures"
+    },
+    {
+      "source": "Glioblastoma",
+      "relation": "has_symptom",
+      "target": "Personality changes"
+    },
+    {
+      "source": "Glioblastoma",
+      "relation": "has_symptom",
+      "target": "Cognitive decline"
+    },
+    {
+      "source": "Glioblastoma",
+      "relation": "has_cause",
+      "target": "Previous cranial radiation"
+    },
+    {
+      "source": "Glioblastoma",
+      "relation": "has_risk_factor",
+      "target": "Male sex"
+    },
+    {
+      "source": "Glioblastoma",
+      "relation": "has_risk_factor",
+      "target": "Older age"
+    },
+    {
+      "source": "Glioblastoma",
+      "relation": "has_risk_factor",
+      "target": "Ionizing radiation exposure"
+    },
+    {
+      "source": "Glioblastoma",
+      "relation": "associated_gene",
+      "target": "EGFR"
+    },
+    {
+      "source": "Glioblastoma",
+      "relation": "associated_gene",
+      "target": "TP53"
+    },
+    {
+      "source": "Glioblastoma",
+      "relation": "associated_gene",
+      "target": "PTEN"
+    },
+    {
+      "source": "Glioblastoma",
+      "relation": "associated_gene",
+      "target": "NF1"
+    },
+    {
+      "source": "Glioblastoma",
+      "relation": "associated_gene",
+      "target": "PDGFRA"
+    },
+    {
+      "source": "Glioblastoma",
+      "relation": "associated_gene",
+      "target": "TERT"
+    },
+    {
+      "source": "Glioblastoma",
+      "relation": "associated_gene",
+      "target": "MGMT"
+    },
+    {
+      "source": "Glioblastoma",
+      "relation": "treated_with",
+      "target": "Temozolomide"
+    },
+    {
+      "source": "Glioblastoma",
+      "relation": "treated_with",
+      "target": "Radiotherapy"
+    },
+    {
+      "source": "Glioblastoma",
+      "relation": "treated_with",
+      "target": "Surgery"
+    },
+    {
+      "source": "Glioblastoma",
+      "relation": "treated_with",
+      "target": "Bevacizumab"
+    },
+    {
+      "source": "Glioblastoma",
+      "relation": "treated_with",
+      "target": "Alternating electric field therapy"
+    },
+    {
+      "source": "Classical subtype",
+      "relation": "subtype_of",
+      "target": "Glioblastoma"
+    },
+    {
+      "source": "Proneural subtype",
+      "relation": "subtype_of",
+      "target": "Glioblastoma"
+    },
+    {
+      "source": "Mesenchymal subtype",
+      "relation": "subtype_of",
+      "target": "Glioblastoma"
+    }
+  ]
+}

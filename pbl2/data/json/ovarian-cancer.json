@@ -1,0 +1,189 @@
+{
+  "disease_name": "Ovarian cancer",
+  "synonyms": [
+    "Ovarian carcinoma",
+    "Cancer of the ovary"
+  ],
+  "summary": "Ovarian cancer is a malignant tumor arising from the tissues of the ovary. Most cases are epithelial carcinomas, though germ cell and stromal tumors also occur. It is often diagnosed at an advanced stage due to vague or absent early symptoms.",
+  "causes": [
+    "Genetic mutations (BRCA1, BRCA2)",
+    "DNA damage accumulation",
+    "Hormonal factors",
+    "Environmental influences"
+  ],
+  "risk_factors": [
+    "Family history of ovarian or breast cancer",
+    "Inherited BRCA1 or BRCA2 mutations",
+    "Lynch syndrome",
+    "Endometriosis",
+    "Hormone replacement therapy",
+    "Obesity",
+    "Older age",
+    "Never having been pregnant"
+  ],
+  "symptoms": [
+    "Abdominal pain or bloating",
+    "Pelvic pressure",
+    "Urinary urgency or frequency",
+    "Loss of appetite or early satiety",
+    "Constipation",
+    "Abdominal swelling or mass"
+  ],
+  "diagnosis": [
+    "Pelvic examination",
+    "Transvaginal ultrasound",
+    "CA-125 blood test",
+    "CT or MRI imaging",
+    "Biopsy during surgery"
+  ],
+  "treatments": [
+    "Surgical removal (debulking or oophorectomy)",
+    "Chemotherapy (platinum-based)",
+    "Targeted therapy (PARP inhibitors, bevacizumab)",
+    "Hormonal therapy (in selected cases)",
+    "Radiation therapy (rarely used)",
+    "Genetic counseling and testing"
+  ],
+  "related_genes": [
+    "BRCA1",
+    "BRCA2",
+    "TP53",
+    "PTEN",
+    "MLH1",
+    "MSH2",
+    "MSH6"
+  ],
+  "subtypes": [
+    {
+      "name": "Epithelial ovarian carcinoma",
+      "typical_patients": "Postmenopausal women",
+      "five_year_survival": "≈45%",
+      "common_treatments": [
+        "Surgery",
+        "Chemotherapy",
+        "Targeted therapy"
+      ]
+    },
+    {
+      "name": "Germ cell tumor",
+      "typical_patients": "Adolescents and young women",
+      "five_year_survival": "≈90%",
+      "common_treatments": [
+        "Surgery",
+        "Chemotherapy"
+      ]
+    },
+    {
+      "name": "Stromal tumor",
+      "typical_patients": "All ages, often younger women",
+      "five_year_survival": "≈75%",
+      "common_treatments": [
+        "Surgery",
+        "Hormonal therapy"
+      ]
+    }
+  ],
+  "epidemiology": {
+    "global_cases_2015": "238700",
+    "global_deaths_2015": "151900",
+    "most_common_in": "Older women, particularly postmenopausal",
+    "five_year_survival_rate": "≈45% overall"
+  },
+  "relationships": [
+    {
+      "source": "Ovarian cancer",
+      "relation": "has_symptom",
+      "target": "Abdominal pain"
+    },
+    {
+      "source": "Ovarian cancer",
+      "relation": "has_symptom",
+      "target": "Pelvic pressure"
+    },
+    {
+      "source": "Ovarian cancer",
+      "relation": "has_symptom",
+      "target": "Urinary urgency"
+    },
+    {
+      "source": "Ovarian cancer",
+      "relation": "has_symptom",
+      "target": "Loss of appetite"
+    },
+    {
+      "source": "Ovarian cancer",
+      "relation": "has_symptom",
+      "target": "Constipation"
+    },
+    {
+      "source": "Ovarian cancer",
+      "relation": "has_cause",
+      "target": "BRCA1 mutation"
+    },
+    {
+      "source": "Ovarian cancer",
+      "relation": "has_cause",
+      "target": "BRCA2 mutation"
+    },
+    {
+      "source": "Ovarian cancer",
+      "relation": "has_risk_factor",
+      "target": "Family history of ovarian cancer"
+    },
+    {
+      "source": "Ovarian cancer",
+      "relation": "has_risk_factor",
+      "target": "Endometriosis"
+    },
+    {
+      "source": "Ovarian cancer",
+      "relation": "associated_gene",
+      "target": "BRCA1"
+    },
+    {
+      "source": "Ovarian cancer",
+      "relation": "associated_gene",
+      "target": "BRCA2"
+    },
+    {
+      "source": "Ovarian cancer",
+      "relation": "associated_gene",
+      "target": "TP53"
+    },
+    {
+      "source": "Ovarian cancer",
+      "relation": "treated_with",
+      "target": "Surgery"
+    },
+    {
+      "source": "Ovarian cancer",
+      "relation": "treated_with",
+      "target": "Chemotherapy"
+    },
+    {
+      "source": "Ovarian cancer",
+      "relation": "treated_with",
+      "target": "PARP inhibitors"
+    },
+    {
+      "source": "Ovarian cancer",
+      "relation": "treated_with",
+      "target": "Bevacizumab"
+    },
+    {
+      "source": "Epithelial ovarian carcinoma",
+      "relation": "subtype_of",
+      "target": "Ovarian cancer"
+    },
+    {
+      "source": "Germ cell tumor",
+      "relation": "subtype_of",
+      "target": "Ovarian cancer"
+    },
+    {
+      "source": "Stromal tumor",
+      "relation": "subtype_of",
+      "target": "Ovarian cancer"
+    }
+  ]
+}

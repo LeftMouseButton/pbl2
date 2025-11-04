@@ -1,0 +1,218 @@
+{
+  "disease_name": "Lymphoma",
+  "synonyms": [
+    "Malignant lymphoma",
+    "Lymphoid malignancy"
+  ],
+  "summary": "Lymphoma is a group of blood cancers arising from lymphocytes, divided into Hodgkin lymphoma (HL) and non-Hodgkin lymphoma (NHL). It commonly presents with painless lymphadenopathy and B symptoms; diagnosis is by lymph-node biopsy with immunophenotyping and staging by imaging.",
+  "causes": [
+    "Epstein–Barr virus (EBV) infection",
+    "Human T-lymphotropic virus type 1 (HTLV-1) infection",
+    "Chronic immune stimulation and autoimmune disease",
+    "Immunosuppression (HIV/AIDS, post-transplant)",
+    "Pesticide exposure",
+    "Genetic and epigenetic alterations (e.g., BCL2, MYC, BCL6)"
+  ],
+  "risk_factors": [
+    "HIV/AIDS",
+    "Immunosuppressive therapy",
+    "Autoimmune disease",
+    "EBV infection",
+    "HTLV-1 infection",
+    "Older age",
+    "Male sex",
+    "Family history of lymphoma"
+  ],
+  "symptoms": [
+    "Painless lymphadenopathy",
+    "Fever",
+    "Night sweats",
+    "Unintended weight loss",
+    "Pruritus",
+    "Fatigue"
+  ],
+  "diagnosis": [
+    "Excisional lymph-node biopsy",
+    "Histopathology and immunophenotyping",
+    "Flow cytometry",
+    "FISH and cytogenetics",
+    "CT and PET-CT for staging",
+    "Bone marrow biopsy (selected cases)",
+    "Ann Arbor staging"
+  ],
+  "treatments": [
+    "Chemotherapy (e.g., CHOP)",
+    "Immunochemotherapy (e.g., R-CHOP with rituximab)",
+    "Radiation therapy",
+    "Targeted therapy (BTK inhibitors, PI3K inhibitors, anti-CD20)",
+    "CAR-T cell therapy (e.g., axi-cel, tisa-cel, liso-cel, brexu-cel)",
+    "Stem cell transplant (autologous or allogeneic)",
+    "Watchful waiting (indolent subtypes)"
+  ],
+  "related_genes": [
+    "BCL2",
+    "MYC",
+    "BCL6",
+    "TP53",
+    "CARD11",
+    "MYD88",
+    "EZH2",
+    "CCND1",
+    "ALK"
+  ],
+  "subtypes": [
+    {
+      "name": "Hodgkin lymphoma",
+      "typical_patients": "Young adults and older adults (bimodal)",
+      "five_year_survival": "≈85% (US)",
+      "common_treatments": [
+        "ABVD chemotherapy",
+        "Radiation therapy",
+        "Brentuximab vedotin (selected)",
+        "PD-1 inhibitors (relapsed)"
+      ]
+    },
+    {
+      "name": "Diffuse large B-cell lymphoma (DLBCL)",
+      "typical_patients": "Older adults; aggressive",
+      "five_year_survival": "≈60–70% (stage-dependent)",
+      "common_treatments": [
+        "R-CHOP",
+        "Radiation therapy (selected)",
+        "CAR-T (relapsed)"
+      ]
+    },
+    {
+      "name": "Follicular lymphoma",
+      "typical_patients": "Middle-aged to older adults; indolent",
+      "five_year_survival": "≈85–90%",
+      "common_treatments": [
+        "Watchful waiting",
+        "Rituximab ± chemotherapy",
+        "Radiation therapy (localized)"
+      ]
+    },
+    {
+      "name": "Mantle cell lymphoma",
+      "typical_patients": "Older men; t(11;14) CCND1 overexpression",
+      "five_year_survival": "≈60%",
+      "common_treatments": [
+        "Immunochemotherapy",
+        "BTK inhibitors",
+        "Stem cell transplant (selected)"
+      ]
+    },
+    {
+      "name": "Burkitt lymphoma",
+      "typical_patients": "Children and young adults; EBV-associated in endemic regions",
+      "five_year_survival": "≈80–90% with intensive therapy",
+      "common_treatments": [
+        "Intensive multi-agent chemotherapy",
+        "Rituximab"
+      ]
+    }
+  ],
+  "epidemiology": {
+    "global_cases_2015": "566000",
+    "global_deaths_2015": "305000",
+    "most_common_in": "More frequent in developed countries; NHL ~90% of cases",
+    "five_year_survival_rate": "US: HL ≈85%, NHL ≈69%"
+  },
+  "relationships": [
+    {
+      "source": "Lymphoma",
+      "relation": "has_symptom",
+      "target": "Painless lymphadenopathy"
+    },
+    {
+      "source": "Lymphoma",
+      "relation": "has_symptom",
+      "target": "Night sweats"
+    },
+    {
+      "source": "Lymphoma",
+      "relation": "has_symptom",
+      "target": "Fever"
+    },
+    {
+      "source": "Lymphoma",
+      "relation": "has_symptom",
+      "target": "Weight loss"
+    },
+    {
+      "source": "Lymphoma",
+      "relation": "has_risk_factor",
+      "target": "HIV/AIDS"
+    },
+    {
+      "source": "Lymphoma",
+      "relation": "has_risk_factor",
+      "target": "Immunosuppressive therapy"
+    },
+    {
+      "source": "Lymphoma",
+      "relation": "has_risk_factor",
+      "target": "EBV infection"
+    },
+    {
+      "source": "Lymphoma",
+      "relation": "has_cause",
+      "target": "HTLV-1 infection"
+    },
+    {
+      "source": "Lymphoma",
+      "relation": "associated_gene",
+      "target": "BCL2"
+    },
+    {
+      "source": "Lymphoma",
+      "relation": "associated_gene",
+      "target": "MYC"
+    },
+    {
+      "source": "Lymphoma",
+      "relation": "associated_gene",
+      "target": "BCL6"
+    },
+    {
+      "source": "Lymphoma",
+      "relation": "treated_with",
+      "target": "R-CHOP"
+    },
+    {
+      "source": "Lymphoma",
+      "relation": "treated_with",
+      "target": "Radiation therapy"
+    },
+    {
+      "source": "Lymphoma",
+      "relation": "treated_with",
+      "target": "CAR-T cell therapy"
+    },
+    {
+      "source": "Hodgkin lymphoma",
+      "relation": "subtype_of",
+      "target": "Lymphoma"
+    },
+    {
+      "source": "Diffuse large B-cell lymphoma",
+      "relation": "subtype_of",
+      "target": "Lymphoma"
+    },
+    {
+      "source": "Follicular lymphoma",
+      "relation": "subtype_of",
+      "target": "Lymphoma"
+    },
+    {
+      "source": "Mantle cell lymphoma",
+      "relation": "subtype_of",
+      "target": "Lymphoma"
+    },
+    {
+      "source": "Burkitt lymphoma",
+      "relation": "subtype_of",
+      "target": "Lymphoma"
+    }
+  ]
+}

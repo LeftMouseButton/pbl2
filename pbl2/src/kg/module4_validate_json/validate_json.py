@@ -1,0 +1,153 @@
+"""
+Auto-repair Validator for LLM Step-1 JSON Outputs
+-------------------------------------------------
+Checks and fixes structural issues in extracted JSONs before DB ingestion.
+No backup files are produced — JSONs are overwritten in place.
+
+Usage:
+    python -m src.kg.tests.validate_extracted_json data/json/leukemia.json
+    python -m src.kg.tests.validate_extracted_json data/json/
+"""
+
+from __future__ import annotations
+from pathlib import Path
+from typing import List, Optional, Any
+import sys, json, datetime, pydantic
+
+# ---------------------------------------------------------------------
+# Schema Definition
+# ---------------------------------------------------------------------
+class Subtype(pydantic.BaseModel):
+    name: str
+    typical_patients: Optional[str] = None
+    five_year_survival: Optional[str] = None
+    common_treatments: Optional[List[str]] = None
+
+
+class Epidemiology(pydantic.BaseModel):
+    global_cases_2015: Optional[Any] = None
+    global_deaths_2015: Optional[Any] = None
+    most_common_in: Optional[str] = None
+    five_year_survival_rate: Optional[str] = None
+
+
+class Relationship(pydantic.BaseModel):
+    source: str
+    relation: str
+    target: str
+
+
+class ExtractDoc(pydantic.BaseModel):
+    disease_name: str
+    synonyms: List[str] = []
+    summary: str = ""
+    causes: List[str] = []
+    risk_factors: List[str] = []
+    symptoms: List[str] = []
+    diagnosis: List[str] = []
+    treatments: List[str] = []
+    related_genes: List[str] = []
+    subtypes: List[Subtype] = []
+    epidemiology: Epidemiology = Epidemiology()
+    relationships: List[Relationship] = []
+
+
+# ---------------------------------------------------------------------
+# Validation + Auto-repair
+# ---------------------------------------------------------------------
+def repair_missing_keys(data: dict) -> dict:
+    """Fill in missing keys or wrong types with defaults."""
+    defaults = {
+        "disease_name": "Unknown Disease",
+        "synonyms": [],
+        "summary": "",
+        "causes": [],
+        "risk_factors": [],
+        "symptoms": [],
+        "diagnosis": [],
+        "treatments": [],
+        "related_genes": [],
+        "subtypes": [],
+        "epidemiology": {},
+        "relationships": []
+    }
+    for key, default in defaults.items():
+        if key not in data or data[key] is None:
+            data[key] = default
+        if isinstance(default, list) and not isinstance(data[key], list):
+            data[key] = [data[key]] if data[key] else []
+    return data
+
+
+def dump_json_compatible(model: pydantic.BaseModel) -> str:
+    """Serialize BaseModel safely for both Pydantic v1 and v2."""
+    if hasattr(model, "model_dump_json"):  # Pydantic 2.x
+        return model.model_dump_json(indent=2)
+    return model.json(indent=2, ensure_ascii=False)  # Pydantic 1.x
+
+
+def validate_file(path: Path):
+    print(f"🔍 Validating {path.name}...")
+    try:
+        text = path.read_text(encoding="utf-8")
+        data = json.loads(text)
+    except json.JSONDecodeError as e:
+        print(f"❌ {path.name}: Invalid JSON — {e}")
+        return False
+
+    data = repair_missing_keys(data)
+
+    try:
+        doc = ExtractDoc.parse_obj(data)
+    except pydantic.ValidationError as e:
+        print(f"⚠️  {path.name}: Schema mismatch, attempting repair…")
+        data = repair_missing_keys(data)
+        try:
+            doc = ExtractDoc.parse_obj(data)
+        except Exception as e2:
+            print(f"❌ {path.name}: Could not repair: {e2}")
+            return False
+
+    # semantic repairs
+    if not doc.disease_name.strip():
+        doc.disease_name = "Unknown Disease"
+    if not doc.relationships:
+        doc.relationships = [
+            {"source": doc.disease_name, "relation": "related_to", "target": "Unknown"}
+        ]
+
+    # overwrite JSON directly (no backup)
+    path.write_text(dump_json_compatible(doc), encoding="utf-8")
+    print(f"✅ {path.name}: Validated and saved (in place)")
+    return True
+
+
+def validate_all(target: Path):
+    if target.is_file():
+        return validate_file(target)
+    elif target.is_dir():
+        files = list(target.glob("*.json"))
+        if not files:
+            print(f"No JSON files found in {target}")
+            return False
+        ok = [validate_file(f) for f in files]
+        print(f"\nSummary: {sum(ok)}/{len(files)} passed (and fixed if needed).")
+        return all(ok)
+    else:
+        print(f"Path not found: {target}")
+        return False
+
+
+# ---------------------------------------------------------------------
+# CLI Entry
+# ---------------------------------------------------------------------
+if __name__ == "__main__":
+    if len(sys.argv) < 2:
+        print("Usage: python -m src.kg.tests.validate_extracted_json <file_or_dir>")
+        sys.exit(1)
+
+    start = datetime.datetime.now()
+    path = Path(sys.argv[1])
+    ok = validate_all(path)
+    print(f"\nCompleted in {(datetime.datetime.now() - start).total_seconds():.2f}s")
+    sys.exit(0 if ok else 1)

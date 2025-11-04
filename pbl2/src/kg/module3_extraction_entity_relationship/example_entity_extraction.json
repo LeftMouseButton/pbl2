@@ -1,0 +1,90 @@
+{
+    "disease_name": "Leukemia",
+    "synonyms": ["Leukaemia", "Blood cancer"],
+    "summary": "Leukemia is a group of blood cancers that start in the bone marrow and produce large numbers of abnormal white blood cells.",
+    "causes": [
+      "Genetic mutations activating oncogenes or deactivating tumor suppressor genes",
+      "Exposure to ionizing radiation",
+      "Exposure to petrochemicals such as benzene",
+      "Prior chemotherapy",
+      "Down syndrome and other chromosomal abnormalities",
+      "Infection with human T-lymphotropic virus type 1 (HTLV-1)"
+    ],
+    "risk_factors": [
+      "Smoking",
+      "High-dose radiation exposure",
+      "Occupational exposure to petrochemicals",
+      "Family history of leukemia",
+      "Older age",
+      "Male sex"
+    ],
+    "symptoms": [
+      "Fatigue",
+      "Fever",
+      "Frequent infections",
+      "Easy bruising or bleeding",
+      "Bone pain",
+      "Pale skin",
+      "Swollen lymph nodes or spleen"
+    ],
+    "diagnosis": [
+      "Complete blood count (CBC)",
+      "Bone marrow biopsy",
+      "Genetic and chromosomal testing",
+      "Imaging (MRI, CT, or ultrasound) for organ involvement"
+    ],
+    "treatments": [
+      "Chemotherapy",
+      "Radiation therapy",
+      "Targeted therapy (e.g., imatinib for CML)",
+      "Bone marrow or stem cell transplant",
+      "Supportive and palliative care"
+    ],
+    "related_genes": [
+      "BCR-ABL1",
+      "SPRED1",
+      "TP53",
+      "BRCA2",
+      "RUNX1"
+    ],
+    "subtypes": [
+      {
+        "name": "Acute lymphoblastic leukemia (ALL)",
+        "typical_patients": "Children and adults over 65",
+        "five_year_survival": "60–90%",
+        "common_treatments": ["Chemotherapy", "Radiotherapy"]
+      },
+      {
+        "name": "Chronic lymphocytic leukemia (CLL)",
+        "typical_patients": "Adults over 55",
+        "five_year_survival": "85%",
+        "common_treatments": ["Chemotherapy", "Immunotherapy"]
+      },
+      {
+        "name": "Acute myeloid leukemia (AML)",
+        "typical_patients": "Mostly adults",
+        "five_year_survival": "20%",
+        "common_treatments": ["Chemotherapy"]
+      },
+      {
+        "name": "Chronic myeloid leukemia (CML)",
+        "typical_patients": "Adults",
+        "five_year_survival": "90%",
+        "common_treatments": ["Imatinib (Gleevec)"]
+      }
+    ],
+    "epidemiology": {
+      "global_cases_2015": 2300000,
+      "global_deaths_2015": 353500,
+      "most_common_in": "Children and older adults",
+      "five_year_survival_rate": "67% (US 2014–2020)"
+    },
+    "relationships": [
+      {"source": "Leukemia", "relation": "has_symptom", "target": "Fatigue"},
+      {"source": "Leukemia", "relation": "has_cause", "target": "Ionizing radiation"},
+      {"source": "Leukemia", "relation": "has_gene_association", "target": "BCR-ABL1"},
+      {"source": "Chronic myeloid leukemia", "relation": "treated_with", "target": "Imatinib"},
+      {"source": "Acute lymphoblastic leukemia", "relation": "treated_with", "target": "Chemotherapy"}
+    ]
+  }
+  

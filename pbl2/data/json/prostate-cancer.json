@@ -1,0 +1,241 @@
+{
+  "disease_name": "Prostate cancer",
+  "synonyms": [
+    "Prostatic adenocarcinoma",
+    "Cancer of the prostate"
+  ],
+  "summary": "A malignancy of the prostate gland, most commonly adenocarcinoma, ranging from indolent localized tumors to aggressive metastatic disease; detection is often via PSA screening and confirmed by biopsy with Gleason/Grade Group, and management spans active surveillance to surgery, radiation, androgen deprivation, chemotherapy, targeted and radioligand therapies.",
+  "causes": [
+    "Accumulation of somatic DNA mutations",
+    "Androgen receptor pathway dysregulation",
+    "TMPRSS2–ERG gene fusion",
+    "Defects in DNA repair pathways"
+  ],
+  "risk_factors": [
+    "Older age",
+    "Family history (first-degree relative)",
+    "African ancestry",
+    "BRCA2 pathogenic variant",
+    "HOXB13 variant",
+    "Obesity"
+  ],
+  "symptoms": [
+    "Weak urine stream",
+    "Urinary frequency (nocturia)",
+    "Dysuria",
+    "Hematuria",
+    "Hematospermia",
+    "Erectile dysfunction",
+    "Back or bone pain",
+    "Unintentional weight loss",
+    "Fatigue"
+  ],
+  "diagnosis": [
+    "PSA blood test",
+    "Digital rectal exam (DRE)",
+    "Multiparametric MRI",
+    "Transrectal/transperineal needle biopsy",
+    "Gleason score / Grade Group",
+    "AJCC TNM staging",
+    "PSMA PET-CT (metastasis assessment)",
+    "Bone scan (osteoblastic mets)"
+  ],
+  "treatments": [
+    "Active surveillance",
+    "Radical prostatectomy (open/laparoscopic/robot-assisted)",
+    "External beam radiation therapy (IMRT)",
+    "Brachytherapy",
+    "Androgen deprivation therapy (GnRH agonist/antagonist)",
+    "Antiandrogens (enzalutamide, apalutamide, darolutamide)",
+    "Abiraterone acetate",
+    "Docetaxel chemotherapy",
+    "Cabazitaxel",
+    "Sipuleucel-T",
+    "PARP inhibitors (olaparib, rucaparib)",
+    "Lu-177 PSMA radioligand therapy",
+    "Radium-223 (bone mets palliation)",
+    "Zoledronic acid / Denosumab (skeletal events)"
+  ],
+  "related_genes": [
+    "BRCA2",
+    "BRCA1",
+    "HOXB13",
+    "TMPRSS2–ERG",
+    "SPOP",
+    "FOXA1",
+    "PTEN",
+    "TP53",
+    "RB1",
+    "ATM"
+  ],
+  "subtypes": [
+    {
+      "name": "Localized low-risk",
+      "typical_patients": "PSA <10 ng/mL, Grade Group 1, T1–T2a",
+      "five_year_survival": ">95%",
+      "common_treatments": [
+        "Active surveillance",
+        "Radical prostatectomy",
+        "Radiation therapy"
+      ]
+    },
+    {
+      "name": "Localized intermediate/high-risk",
+      "typical_patients": "Higher PSA or Grade Group ≥2, or T2b–T3",
+      "five_year_survival": "≈85–95% (stage-dependent)",
+      "common_treatments": [
+        "Radiation + ADT",
+        "Radical prostatectomy ± adjuvant therapy"
+      ]
+    },
+    {
+      "name": "Metastatic hormone-sensitive",
+      "typical_patients": "De novo or recurrent metastatic disease",
+      "five_year_survival": "≈60–80%",
+      "common_treatments": [
+        "ADT + docetaxel",
+        "ADT + AR-targeted agents"
+      ]
+    },
+    {
+      "name": "Castration-resistant (mCRPC)",
+      "typical_patients": "Progression despite castrate testosterone",
+      "five_year_survival": "≈30–40%",
+      "common_treatments": [
+        "AR-targeted agents",
+        "Docetaxel/Cabazitaxel",
+        "PARP inhibitor (HRR-mutated)",
+        "Lu-177 PSMA",
+        "Radium-223 (bone-predominant)"
+      ]
+    }
+  ],
+  "epidemiology": {
+    "global_cases_2015": "1200000",
+    "global_deaths_2015": "350000",
+    "most_common_in": "Older men; highest incidence in regions with high life expectancy (e.g., North America, Europe, Australia)",
+    "five_year_survival_rate": "Stage-dependent; localized >95%, distant 30–40%"
+  },
+  "relationships": [
+    {
+      "source": "Prostate cancer",
+      "relation": "has_symptom",
+      "target": "Weak urine stream"
+    },
+    {
+      "source": "Prostate cancer",
+      "relation": "has_symptom",
+      "target": "Urinary frequency"
+    },
+    {
+      "source": "Prostate cancer",
+      "relation": "has_symptom",
+      "target": "Hematuria"
+    },
+    {
+      "source": "Prostate cancer",
+      "relation": "has_symptom",
+      "target": "Back or bone pain"
+    },
+    {
+      "source": "Prostate cancer",
+      "relation": "has_risk_factor",
+      "target": "Older age"
+    },
+    {
+      "source": "Prostate cancer",
+      "relation": "has_risk_factor",
+      "target": "Family history"
+    },
+    {
+      "source": "Prostate cancer",
+      "relation": "has_risk_factor",
+      "target": "African ancestry"
+    },
+    {
+      "source": "Prostate cancer",
+      "relation": "associated_gene",
+      "target": "BRCA2"
+    },
+    {
+      "source": "Prostate cancer",
+      "relation": "associated_gene",
+      "target": "HOXB13"
+    },
+    {
+      "source": "Prostate cancer",
+      "relation": "associated_gene",
+      "target": "TMPRSS2–ERG"
+    },
+    {
+      "source": "Prostate cancer",
+      "relation": "diagnosed_by",
+      "target": "PSA blood test"
+    },
+    {
+      "source": "Prostate cancer",
+      "relation": "diagnosed_by",
+      "target": "Prostate biopsy"
+    },
+    {
+      "source": "Prostate cancer",
+      "relation": "treated_with",
+      "target": "Radical prostatectomy"
+    },
+    {
+      "source": "Prostate cancer",
+      "relation": "treated_with",
+      "target": "Radiation therapy"
+    },
+    {
+      "source": "Prostate cancer",
+      "relation": "treated_with",
+      "target": "Androgen deprivation therapy"
+    },
+    {
+      "source": "Prostate cancer",
+      "relation": "treated_with",
+      "target": "Abiraterone"
+    },
+    {
+      "source": "Prostate cancer",
+      "relation": "treated_with",
+      "target": "Enzalutamide"
+    },
+    {
+      "source": "Prostate cancer",
+      "relation": "treated_with",
+      "target": "Docetaxel"
+    },
+    {
+      "source": "Prostate cancer",
+      "relation": "treated_with",
+      "target": "PARP inhibitors"
+    },
+    {
+      "source": "Prostate cancer",
+      "relation": "treated_with",
+      "target": "Lu-177 PSMA"
+    },
+    {
+      "source": "Localized low-risk",
+      "relation": "subtype_of",
+      "target": "Prostate cancer"
+    },
+    {
+      "source": "Localized intermediate/high-risk",
+      "relation": "subtype_of",
+      "target": "Prostate cancer"
+    },
+    {
+      "source": "Metastatic hormone-sensitive",
+      "relation": "subtype_of",
+      "target": "Prostate cancer"
+    },
+    {
+      "source": "Castration-resistant (mCRPC)",
+      "relation": "subtype_of",
+      "target": "Prostate cancer"
+    }
+  ]
+}

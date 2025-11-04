@@ -1,0 +1,207 @@
+{
+  "disease_name": "Neuroblastoma",
+  "synonyms": [
+    "Peripheral neuroblastic tumor",
+    "Sympathetic nervous system tumor"
+  ],
+  "summary": "A pediatric embryonal malignancy of neural crest–derived sympathetic tissue, most often arising in the adrenal medulla or paraspinal sympathetic chain, with risk groups (low, intermediate, high) defined by age, stage, histology, and molecular markers such as MYCN amplification and 11q aberration.",
+  "causes": [
+    "MYCN amplification",
+    "ALK mutation",
+    "PHOX2B mutation",
+    "KIF1B mutation",
+    "ATRX mutation",
+    "TERT activation",
+    "1p deletion",
+    "11q deletion",
+    "17q gain",
+    "Neural crest developmental defects"
+  ],
+  "risk_factors": [
+    "Age <5 years",
+    "Male sex",
+    "Familial ALK mutation",
+    "PHOX2B germline mutation",
+    "Neurofibromatosis type 1",
+    "Beckwith–Wiedemann syndrome",
+    "History of cranial/spinal irradiation (rare association)"
+  ],
+  "symptoms": [
+    "Abdominal mass",
+    "Bone pain",
+    "Periorbital ecchymosis",
+    "Proptosis",
+    "Opsoclonus–myoclonus–ataxia",
+    "Horner syndrome",
+    "Hypertension",
+    "Diarrhea (VIP secretion)",
+    "Spinal cord compression",
+    "Pallor from anemia"
+  ],
+  "diagnosis": [
+    "Urine VMA/HVA catecholamine metabolites",
+    "MIBG scintigraphy",
+    "MRI/CT of primary and metastases",
+    "Tumor biopsy with histology",
+    "Bone marrow aspiration/biopsy",
+    "INSS/INRGSS staging",
+    "Molecular testing (MYCN, 1p/11q status, ploidy)"
+  ],
+  "treatments": [
+    "Observation (low-risk infants)",
+    "Surgical resection",
+    "Chemotherapy (cisplatin, carboplatin, cyclophosphamide, ifosfamide, doxorubicin, vincristine, etoposide, topotecan, irinotecan)",
+    "Radiation therapy",
+    "Autologous stem cell transplant",
+    "13-cis-retinoic acid (isotretinoin)",
+    "Anti-GD2 immunotherapy (dinutuximab + GM-CSF/IL-2)",
+    "I-131 MIBG therapy"
+  ],
+  "related_genes": [
+    "MYCN",
+    "ALK",
+    "PHOX2B",
+    "KIF1B",
+    "ATRX",
+    "TERT",
+    "LMO1",
+    "TP53"
+  ],
+  "subtypes": [
+    {
+      "name": "Low-risk neuroblastoma",
+      "typical_patients": "Infants and young children with localized, favorable biology",
+      "five_year_survival": "≥90%",
+      "common_treatments": [
+        "Observation",
+        "Surgery"
+      ]
+    },
+    {
+      "name": "Intermediate-risk neuroblastoma",
+      "typical_patients": "Children with locoregional disease or selected biology",
+      "five_year_survival": "70–90%",
+      "common_treatments": [
+        "Surgery",
+        "Chemotherapy"
+      ]
+    },
+    {
+      "name": "High-risk neuroblastoma",
+      "typical_patients": "Children >18 months or with metastatic/MYCN-amplified tumors",
+      "five_year_survival": "<40%",
+      "common_treatments": [
+        "Induction chemotherapy",
+        "Surgery",
+        "High-dose chemotherapy with autologous transplant",
+        "Radiation therapy",
+        "Isotretinoin",
+        "Anti-GD2 immunotherapy",
+        "I-131 MIBG (refractory/relapsed)"
+      ]
+    }
+  ],
+  "epidemiology": {
+    "global_cases_2015": "",
+    "global_deaths_2015": "",
+    "most_common_in": "Infants and children <5 years; most common cancer in infants",
+    "five_year_survival_rate": "Overall ≈67%; low/intermediate-risk >70–90%, high-risk <40%"
+  },
+  "relationships": [
+    {
+      "source": "Neuroblastoma",
+      "relation": "has_symptom",
+      "target": "Abdominal mass"
+    },
+    {
+      "source": "Neuroblastoma",
+      "relation": "has_symptom",
+      "target": "Bone pain"
+    },
+    {
+      "source": "Neuroblastoma",
+      "relation": "has_symptom",
+      "target": "Periorbital ecchymosis"
+    },
+    {
+      "source": "Neuroblastoma",
+      "relation": "has_symptom",
+      "target": "Opsoclonus–myoclonus–ataxia"
+    },
+    {
+      "source": "Neuroblastoma",
+      "relation": "has_symptom",
+      "target": "Horner syndrome"
+    },
+    {
+      "source": "Neuroblastoma",
+      "relation": "diagnosed_by",
+      "target": "Urine VMA/HVA"
+    },
+    {
+      "source": "Neuroblastoma",
+      "relation": "diagnosed_by",
+      "target": "MIBG scintigraphy"
+    },
+    {
+      "source": "Neuroblastoma",
+      "relation": "associated_gene",
+      "target": "MYCN"
+    },
+    {
+      "source": "Neuroblastoma",
+      "relation": "associated_gene",
+      "target": "ALK"
+    },
+    {
+      "source": "Neuroblastoma",
+      "relation": "associated_gene",
+      "target": "PHOX2B"
+    },
+    {
+      "source": "Neuroblastoma",
+      "relation": "associated_gene",
+      "target": "LMO1"
+    },
+    {
+      "source": "Neuroblastoma",
+      "relation": "treated_with",
+      "target": "Surgery"
+    },
+    {
+      "source": "Neuroblastoma",
+      "relation": "treated_with",
+      "target": "Chemotherapy"
+    },
+    {
+      "source": "Neuroblastoma",
+      "relation": "treated_with",
+      "target": "Autologous stem cell transplant"
+    },
+    {
+      "source": "Neuroblastoma",
+      "relation": "treated_with",
+      "target": "Anti-GD2 immunotherapy"
+    },
+    {
+      "source": "Neuroblastoma",
+      "relation": "treated_with",
+      "target": "I-131 MIBG therapy"
+    },
+    {
+      "source": "Low-risk neuroblastoma",
+      "relation": "subtype_of",
+      "target": "Neuroblastoma"
+    },
+    {
+      "source": "Intermediate-risk neuroblastoma",
+      "relation": "subtype_of",
+      "target": "Neuroblastoma"
+    },
+    {
+      "source": "High-risk neuroblastoma",
+      "relation": "subtype_of",
+      "target": "Neuroblastoma"
+    }
+  ]
+}

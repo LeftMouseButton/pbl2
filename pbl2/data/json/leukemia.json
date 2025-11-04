@@ -1,0 +1,259 @@
+{
+  "disease_name": "Leukemia",
+  "synonyms": [
+    "Leukaemia",
+    "Blood cancer"
+  ],
+  "summary": "Leukemia is a group of blood cancers originating in the bone marrow, characterized by the excessive production of abnormal white blood cells that impair normal hematopoiesis and immune function.",
+  "causes": [
+    "Genetic mutations activating oncogenes or deactivating tumor suppressor genes",
+    "Exposure to ionizing radiation",
+    "Exposure to petrochemicals such as benzene",
+    "Prior chemotherapy",
+    "Down syndrome and other chromosomal abnormalities",
+    "Infection with human T-lymphotropic virus type 1 (HTLV-1)",
+    "Formaldehyde exposure"
+  ],
+  "risk_factors": [
+    "Older age",
+    "Male sex",
+    "Smoking",
+    "High-dose radiation exposure",
+    "Occupational exposure to petrochemicals",
+    "Family history of leukemia",
+    "Chromosomal abnormalities (e.g., Down syndrome, Fanconi anemia)",
+    "Chemotherapy for prior malignancy",
+    "Inherited bone marrow failure syndromes"
+  ],
+  "symptoms": [
+    "Fatigue",
+    "Fever or night sweats",
+    "Frequent infections",
+    "Easy bruising or bleeding",
+    "Bone or joint pain",
+    "Pale skin",
+    "Swollen lymph nodes or spleen",
+    "Unintentional weight loss",
+    "Petechiae"
+  ],
+  "diagnosis": [
+    "Complete blood count (CBC)",
+    "Bone marrow biopsy",
+    "Genetic and chromosomal testing (e.g., Philadelphia chromosome)",
+    "Flow cytometry",
+    "Lumbar puncture (for CNS involvement)",
+    "Imaging (MRI, CT, ultrasound)"
+  ],
+  "treatments": [
+    "Chemotherapy",
+    "Radiation therapy",
+    "Targeted therapy (e.g., imatinib for CML, alemtuzumab for T-PLL)",
+    "Bone marrow or stem cell transplant",
+    "Immunotherapy (CAR-T cells, interferon-alpha)",
+    "Supportive and palliative care"
+  ],
+  "related_genes": [
+    "BCR-ABL1",
+    "SPRED1",
+    "TP53",
+    "BRCA2",
+    "RUNX1",
+    "FLT3",
+    "NPM1",
+    "DNMT3A",
+    "IDH1",
+    "IDH2"
+  ],
+  "subtypes": [
+    {
+      "name": "Acute lymphoblastic leukemia (ALL)",
+      "typical_patients": "Children and adults over 65",
+      "five_year_survival": "60–90%",
+      "common_treatments": [
+        "Chemotherapy",
+        "Radiotherapy",
+        "Bone marrow transplant"
+      ]
+    },
+    {
+      "name": "Chronic lymphocytic leukemia (CLL)",
+      "typical_patients": "Adults over 55",
+      "five_year_survival": "85%",
+      "common_treatments": [
+        "Chemotherapy",
+        "Immunotherapy"
+      ]
+    },
+    {
+      "name": "Acute myeloid leukemia (AML)",
+      "typical_patients": "Mostly adults",
+      "five_year_survival": "20%",
+      "common_treatments": [
+        "Chemotherapy",
+        "Stem cell transplant"
+      ]
+    },
+    {
+      "name": "Chronic myeloid leukemia (CML)",
+      "typical_patients": "Adults",
+      "five_year_survival": "90%",
+      "common_treatments": [
+        "Imatinib (Gleevec)",
+        "Bone marrow transplant"
+      ]
+    },
+    {
+      "name": "Hairy cell leukemia (HCL)",
+      "typical_patients": "Middle-aged to older men",
+      "five_year_survival": "96–100% (10-year survival)",
+      "common_treatments": [
+        "Cladribine",
+        "Pentostatin",
+        "Rituximab"
+      ]
+    }
+  ],
+  "epidemiology": {
+    "global_cases_2015": 2300000,
+    "global_deaths_2015": 353500,
+    "most_common_in": "Children and older adults; more common in developed countries",
+    "five_year_survival_rate": "67% (US 2014–2020)"
+  },
+  "relationships": [
+    {
+      "source": "Leukemia",
+      "relation": "has_symptom",
+      "target": "Fatigue"
+    },
+    {
+      "source": "Leukemia",
+      "relation": "has_symptom",
+      "target": "Fever"
+    },
+    {
+      "source": "Leukemia",
+      "relation": "has_symptom",
+      "target": "Easy bruising or bleeding"
+    },
+    {
+      "source": "Leukemia",
+      "relation": "has_symptom",
+      "target": "Frequent infections"
+    },
+    {
+      "source": "Leukemia",
+      "relation": "has_symptom",
+      "target": "Bone pain"
+    },
+    {
+      "source": "Leukemia",
+      "relation": "has_risk_factor",
+      "target": "Smoking"
+    },
+    {
+      "source": "Leukemia",
+      "relation": "has_risk_factor",
+      "target": "Ionizing radiation"
+    },
+    {
+      "source": "Leukemia",
+      "relation": "has_risk_factor",
+      "target": "Benzene exposure"
+    },
+    {
+      "source": "Leukemia",
+      "relation": "has_risk_factor",
+      "target": "Down syndrome"
+    },
+    {
+      "source": "Leukemia",
+      "relation": "has_cause",
+      "target": "Genetic mutations"
+    },
+    {
+      "source": "Leukemia",
+      "relation": "associated_gene",
+      "target": "BCR-ABL1"
+    },
+    {
+      "source": "Leukemia",
+      "relation": "associated_gene",
+      "target": "RUNX1"
+    },
+    {
+      "source": "Leukemia",
+      "relation": "associated_gene",
+      "target": "TP53"
+    },
+    {
+      "source": "Leukemia",
+      "relation": "treated_with",
+      "target": "Chemotherapy"
+    },
+    {
+      "source": "Leukemia",
+      "relation": "treated_with",
+      "target": "Radiation therapy"
+    },
+    {
+      "source": "Leukemia",
+      "relation": "treated_with",
+      "target": "Stem cell transplant"
+    },
+    {
+      "source": "Leukemia",
+      "relation": "treated_with",
+      "target": "Targeted therapy"
+    },
+    {
+      "source": "Acute lymphoblastic leukemia",
+      "relation": "subtype_of",
+      "target": "Leukemia"
+    },
+    {
+      "source": "Chronic lymphocytic leukemia",
+      "relation": "subtype_of",
+      "target": "Leukemia"
+    },
+    {
+      "source": "Acute myeloid leukemia",
+      "relation": "subtype_of",
+      "target": "Leukemia"
+    },
+    {
+      "source": "Chronic myeloid leukemia",
+      "relation": "subtype_of",
+      "target": "Leukemia"
+    },
+    {
+      "source": "Hairy cell leukemia",
+      "relation": "subtype_of",
+      "target": "Leukemia"
+    },
+    {
+      "source": "Chronic myeloid leukemia",
+      "relation": "associated_gene",
+      "target": "BCR-ABL1"
+    },
+    {
+      "source": "Chronic myeloid leukemia",
+      "relation": "treated_with",
+      "target": "Imatinib"
+    },
+    {
+      "source": "Acute myeloid leukemia",
+      "relation": "associated_gene",
+      "target": "RUNX1"
+    },
+    {
+      "source": "Acute lymphoblastic leukemia",
+      "relation": "treated_with",
+      "target": "Chemotherapy"
+    },
+    {
+      "source": "Hairy cell leukemia",
+      "relation": "treated_with",
+      "target": "Cladribine"
+    }
+  ]
+}

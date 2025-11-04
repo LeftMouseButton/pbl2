@@ -1,0 +1,162 @@
+{
+  "disease_name": "Esophageal cancer",
+  "synonyms": [
+    "Oesophageal cancer",
+    "Cancer of the esophagus"
+  ],
+  "summary": "Esophageal cancer is a malignancy arising in the esophagus, primarily in the form of squamous cell carcinoma (ESCC) or adenocarcinoma (EAC). The disease is often diagnosed at an advanced stage and has a poor overall prognosis.",
+  "causes": [
+    "Chronic irritation from alcohol and tobacco use",
+    "Gastroesophageal reflux disease (GERD) leading to Barrett's esophagus",
+    "Human papillomavirus (HPV) infection",
+    "Nitrosamine exposure",
+    "Diet low in fruits and vegetables",
+    "Thermal injury from drinking very hot beverages"
+  ],
+  "risk_factors": [
+    "Smoking",
+    "Heavy alcohol consumption",
+    "Barrett's esophagus",
+    "Obesity",
+    "Male sex",
+    "Older age",
+    "Achalasia",
+    "Caustic injury to the esophagus"
+  ],
+  "symptoms": [
+    "Progressive dysphagia (difficulty swallowing)",
+    "Odynophagia (painful swallowing)",
+    "Unintentional weight loss",
+    "Hoarseness",
+    "Cough",
+    "Hematemesis",
+    "Regurgitation",
+    "Chest pain",
+    "Fatigue"
+  ],
+  "diagnosis": [
+    "Upper endoscopy with biopsy",
+    "Barium swallow (esophagram)",
+    "Endoscopic ultrasound (EUS) for staging",
+    "CT and PET scans for metastasis",
+    "Bronchoscopy (for tracheobronchial invasion)",
+    "Histopathology (squamous vs. adenocarcinoma)"
+  ],
+  "treatments": [
+    "Esophagectomy (transhiatal, transthoracic, or minimally invasive)",
+    "Extended esophagectomy with lymph node dissection",
+    "Neoadjuvant chemoradiotherapy (CROSS regimen: carboplatin + paclitaxel + radiation)",
+    "Adjuvant chemotherapy (cisplatin + 5-FU)",
+    "Definitive chemoradiation (for unresectable disease)",
+    "Endoscopic mucosal resection (for stage 0/I)",
+    "Photodynamic therapy",
+    "Esophageal stent (palliation)",
+    "Immunotherapy (nivolumab, pembrolizumab)",
+    "Targeted therapy (trastuzumab for HER2-positive adenocarcinoma)"
+  ],
+  "related_genes": [
+    "TP53",
+    "CDKN2A",
+    "EGFR",
+    "ERBB2 (HER2)",
+    "KRAS",
+    "PIK3CA",
+    "NOTCH1",
+    "ARID1A"
+  ],
+  "subtypes": [
+    {
+      "name": "Esophageal squamous cell carcinoma (ESCC)",
+      "typical_patients": "Adults in developing regions; associated with alcohol and tobacco use",
+      "five_year_survival": "≈20%",
+      "common_treatments": [
+        "Chemoradiation",
+        "Surgery",
+        "Immunotherapy"
+      ]
+    },
+    {
+      "name": "Esophageal adenocarcinoma (EAC)",
+      "typical_patients": "Older men in developed countries; associated with Barrett’s esophagus and GERD",
+      "five_year_survival": "≈25%",
+      "common_treatments": [
+        "Esophagectomy",
+        "Neoadjuvant chemoradiation",
+        "Targeted therapy (HER2)"
+      ]
+    }
+  ],
+  "epidemiology": {
+    "global_cases_2015": "456000",
+    "global_deaths_2015": "400000",
+    "most_common_in": "Developing countries (ESCC) and Western nations (EAC); more frequent in males",
+    "five_year_survival_rate": "≈15% overall"
+  },
+  "relationships": [
+    {
+      "source": "Esophageal cancer",
+      "relation": "has_symptom",
+      "target": "Dysphagia"
+    },
+    {
+      "source": "Esophageal cancer",
+      "relation": "has_symptom",
+      "target": "Weight loss"
+    },
+    {
+      "source": "Esophageal cancer",
+      "relation": "has_cause",
+      "target": "Chronic alcohol use"
+    },
+    {
+      "source": "Esophageal cancer",
+      "relation": "has_cause",
+      "target": "Gastroesophageal reflux disease"
+    },
+    {
+      "source": "Esophageal cancer",
+      "relation": "has_risk_factor",
+      "target": "Smoking"
+    },
+    {
+      "source": "Esophageal cancer",
+      "relation": "has_risk_factor",
+      "target": "Barrett's esophagus"
+    },
+    {
+      "source": "Esophageal cancer",
+      "relation": "associated_gene",
+      "target": "TP53"
+    },
+    {
+      "source": "Esophageal cancer",
+      "relation": "associated_gene",
+      "target": "ERBB2 (HER2)"
+    },
+    {
+      "source": "Esophageal cancer",
+      "relation": "treated_with",
+      "target": "Esophagectomy"
+    },
+    {
+      "source": "Esophageal cancer",
+      "relation": "treated_with",
+      "target": "Chemoradiation"
+    },
+    {
+      "source": "Esophageal cancer",
+      "relation": "treated_with",
+      "target": "Immunotherapy"
+    },
+    {
+      "source": "Esophageal adenocarcinoma",
+      "relation": "subtype_of",
+      "target": "Esophageal cancer"
+    },
+    {
+      "source": "Esophageal squamous cell carcinoma",
+      "relation": "subtype_of",
+      "target": "Esophageal cancer"
+    }
+  ]
+}

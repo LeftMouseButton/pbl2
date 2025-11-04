@@ -1,0 +1,97 @@
+what is called extended esophagectomy, where more surrounding tissue, including lymph nodes, is removed en bloc.
+
+If the person cannot swallow at all, an esophageal stent may be inserted to keep the esophagus open; stents may also assist in occluding fistulas. A nasogastric tube may be necessary to continue feeding while treatment for the tumor is given, and some patients require a gastrostomy (feeding hole in the skin that gives direct access to the stomach). The latter two are especially important if the patient tends to aspirate food or saliva into the airways, predisposing for aspiration pneumonia.
+
+=== Chemotherapy and radiotherapy ===
+
+Chemotherapy depends on the tumor type, but tends to be cisplatin-based (or carboplatin or oxaliplatin) every three weeks with fluorouracil (5-FU) or capecitabine either continuously or every three weeks. In more studies, addition of epirubicin was better than other three drug regimens in advanced nonresectable cancer. However, a meta-analysis in 2017 failed to demonstrate that anthracyclines such as epirubicin improved survival. Therefore in metastatic cancer, a two drug combination is now standard. Most recently with the addition of nivolumab or pembrolizumab immunotherapy where molecular markers suggest these may be helpful.
+
+Chemotherapy may be given after surgery (adjuvant, i.e. to reduce risk of recurrence), before surgery (neoadjuvant) or if surgery is not possible. Cisplatin and fluorouracil were most commonly used a, however the REAL-2 trial confirmed that oxaliplatin and capecitabine were non-inferior and potentially more convenient.
+
+Radiotherapy is given before, during, or after chemotherapy or surgery, and sometimes on its own to control symptoms. In patients with localized disease but contraindications to surgery, "radical radiotherapy" may be used with curative intent.
+
+=== Other approaches ===
+
+Forms of endoscopic therapy have been used for stage 0 and I disease: endoscopic mucosal resection (EMR) and mucosal ablation using radiofrequency ablation, photodynamic therapy, Nd-YAG laser, or argon plasma coagulation.
+
+Laser therapy is the use of high-intensity light to destroy tumor cells while affecting only the treated area. This is typically done if the cancer cannot be removed by surgery. The relief of a blockage can help with pain and difficulty swallowing. Photodynamic therapy, a type of laser therapy, involves the use of drugs that are absorbed by cancer cells; when exposed to a special light, the drugs become active and destroy the cancer cells.
+
+=== Follow-up ===
+
+Patients are followed closely after a treatment regimen has been completed. Frequently, other treatments are used to improve symptoms and maximize nutrition.
+
+== Prognosis ==
+
+In general, the prognosis of esophageal cancer is quite poor, because most patients present with advanced disease. By the time the first symptoms (such as difficulty swallowing) appear, the disease has already progressed. The overall five-year survival rate (5YSR) in the United States is around 15%, and most people die within the first year of diagnosis. The latest survival data for England and Wales (patients diagnosed during 2007) show that only one in ten people survives esophageal cancer for at least ten years.
+
+Individualized prognosis depends largely on stage. Those with cancer restricted entirely to the esophageal mucosa have about an 80% 5YSR, but submucosal involvement brings this down to less than 50%. Extension into the muscularis propria (muscle layer of the esophagus) suggests a 20% 5YSR, and extension to the structures adjacent to the esophagus predict a 7% 5YSR. Patients with distant metastases (who are not candidates for curative surgery) have a less than 3% 5YSR.
+
+== Epidemiology ==
+
+Esophageal cancer is the eighth most frequently diagnosed cancer worldwide, and because of its poor prognosis, it is the sixth most common cause of cancer-related deaths. It caused about 400,000 deaths in 2012, accounting for about 5% of all cancer deaths (about 456,000 new cases were diagnosed, representing about 3% of all cancers).
+
+ESCC (esophageal squamous-cell carcinoma) comprises 60–70% of all cases of esophageal cancer worldwide, while EAC (esophageal adenocarcinoma) accounts for a further 20–30% (melanomas, leiomyosarcomas, carcinoids and lymphomas are less common types). The incidence of the two main types of esophageal cancer varies greatly between different geographical areas. In general, ESCC is more common in the developing world, and EAC is more common in the developed world.
+
+The worldwide incidence rate of ESCC in 2012 was 5.2 new cases per 100,000 person-years, with a male predominance (7.7 per 100,000 in men vs. 2.8 in women). It was the common type in 90% of the countries studied. ESCC is particularly frequent in the so-called "Asian esophageal cancer belt", an area that passes through northern China, southern Russia, north-eastern Iran, northern Afghanistan and eastern Turkey. In 2012, about 80% of ESCC cases worldwide occurred in central and south-eastern Asia, and over half (53%) of all cases were in China. The countries with the highest estimated national incidence rates were (in Asia) Mongolia and Turkmenistan and (in Africa) Malawi, Kenya and Uganda. The problem of esophageal cancer has long been recognized in the eastern and southern parts of Sub-Saharan Africa, where ESCC appears to predominate.
+
+In Western countries, EAC has become the dominant form of the disease, following an increase in incidence over recent decades (in contrast to the incidence of ESCC, which has remained largely stable). In 2012, the global incidence rate for EAC was 0.7 per 100,000 with a strong male predominance (1.1 per 100,000 in men vs. 0.3 in women). Areas with particularly high incidence rates include northern and western Europe, North America and Oceania. The countries with highest recorded rates were the UK, Netherlands, Ireland, Iceland and New Zealand.
+
+=== United States ===
+
+In the United States, esophageal cancer is the seventh-leading cause of cancer-related deaths among males (making up 4% of the total). The National Cancer Institute estimated that there were about 18,000 new cases and more than 15,000 deaths from esophageal cancer in 2013; the American Cancer Society estimated that during 2014, about 18,170 new esophageal cancer cases would be diagnosed, resulting in 15,450 deaths.
+
+The squamous-cell carcinoma type is more common among African American males with a history of heavy smoking or alcohol use. Until the 1970s, squamous-cell carcinoma accounted for the vast majority of esophageal cancers in the United States. In recent decades, incidence of adenocarcinoma of the esophagus (which is associated with Barrett's esophagus) steadily rose in the United States to the point that it has now surpassed squamous-cell carcinoma. In contrast to squamous-cell carcinoma, esophageal adenocarcinoma is more common in white American men (over the age of 60) than it is in African Americans. Multiple reports indicate esophageal adenocarcinoma incidence has increased during the past 20 years, especially in non-Hispanic white men. Esophageal adenocarcinoma age-adjusted incidence increased in New Mexico from 1973 to 2002. This increase was found in non-Hispanic whites and Hispanics and became predominant in non-Hispanic whites. Esophageal cancer incidence and mortality rates for African Americans continue to be higher than the rate for Causasians. However, incidence and mortality of esophageal cancer has significantly decreased among African Americans since the early 1980s, whereas with whites it has continued to increase. Between 1975 and 2004, incidence of the adenocarcinoma type increased among white American males by over 460% and among white American females by 335%.
+
+=== United Kingdom ===
+
+The incidence of esophageal adenocarcinoma has risen considerably in the UK in recent decades. Overall, esophageal cancer is the thirteenth most common cancer in the UK (around 8,300 people were diagnosed with the disease in 2011), and it is the sixth most common cause of cancer death (around 7,700 people died in 2012).
+
+== Society and culture ==
+
+=== Notable cases ===
+
+Humphrey Bogart, actor, died of esophageal cancer in 1957, aged 57.
+
+Billy Strayhorn, American jazz composer, pianist, lyricist, and arranger, who collaborated with bandleader and composer Duke Ellington, died of esophageal cancer in 1967 at age 51.
+
+Actor John Thaw died of esophageal cancer in 2002, at the age of 60.
+
+Christopher Hitchens, author and journalist, died of esophageal cancer in 2011, aged 62.
+
+Morrissey in October 2015 stated he has the disease and has described his experience when he first heard he had it.
+
+Mako Iwamatsu, voice actor for Avatar: The Last Airbender as General Iroh and Samurai Jack as Aku, died of esophageal cancer in 2006, aged 72.
+
+Robert Kardashian, attorney and businessman, died of esophageal cancer in 2003, aged 59.
+
+Traci Braxton, singer and reality TV star, died of esophageal cancer in 2022, aged 50.
+
+Andrew Bonar Law resigned as Prime Minister of the United Kingdom in 1923 and died of throat cancer shortly after aged 65.
+
+Ed Sullivan, host of the prominent self-titled television program The Ed Sullivan Show, died of esophageal cancer in 1974 at the age of 73.
+
+Lynn Yamada Davis, chef YouTube star, died of esophageal cancer in 2024, aged 67.
+
+== Research directions ==
+
+The risk of esophageal squamous-cell carcinoma may be reduced in people using aspirin or related NSAIDs, but in the absence of randomized controlled trials the current evidence is inconclusive.
+
+The genomics of esophageal adenocarcinoma is being studied using cancer genome sequencing. Esophageal adenocarcinoma is characterized by complex tumor genomes with heterogeneity within the tumor micro-environment.
+
+== See also ==
+
+Esophagogastric junctional adenocarcinoma
+
+== References ==
+
+== External links ==
+
+NCI esophageal cancer
+
+Cancer.Net: Esophageal Cancer
+
+Esophageal Cancer Archived 2009-07-12 at the Wayback Machine From Cancer Management: A Multidisciplinary Approach Archived 2009-05-15 at the Wayback Machine
+
+Oesophageal Cancer at Cancer Research UK
+
+National Comprehensive Cancer Network Archived 2019-03-31 at the Wayback Machine

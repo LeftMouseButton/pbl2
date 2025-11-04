@@ -1,0 +1,211 @@
+{
+  "disease_name": "Medulloblastoma",
+  "synonyms": [
+    "MB",
+    "Embryonal tumor of the cerebellum"
+  ],
+  "summary": "A malignant, invasive embryonal brain tumor of the cerebellum/posterior fossa, characterized by CSF dissemination and defined molecular subgroups (WNT, SHH, Group 3, Group 4) with distinct genetics and prognosis.",
+  "causes": [
+    "Aberrant WNT/β-catenin signaling",
+    "Aberrant SHH pathway activation",
+    "MYC amplification",
+    "MYCN amplification",
+    "TP53 mutation (subset)"
+  ],
+  "risk_factors": [
+    "Male sex",
+    "Childhood (peak <10 years)",
+    "Li–Fraumeni syndrome",
+    "Gorlin syndrome (PTCH1)",
+    "Turcot syndrome",
+    "Previous cranial irradiation"
+  ],
+  "symptoms": [
+    "Morning headache",
+    "Vomiting",
+    "Gait instability",
+    "Truncal ataxia",
+    "Diplopia",
+    "Papilledema",
+    "Sixth nerve palsy",
+    "Nystagmus"
+  ],
+  "diagnosis": [
+    "MRI brain (posterior fossa mass; 4th ventricle involvement)",
+    "CSF cytology (drop metastasis)",
+    "Surgical biopsy/resection with histology",
+    "Methylation profiling for subgrouping",
+    "Chang staging system"
+  ],
+  "treatments": [
+    "Maximal safe surgical resection",
+    "Craniospinal irradiation",
+    "Chemotherapy (cisplatin, carboplatin, vincristine, cyclophosphamide, lomustine)",
+    "Proton beam therapy (selected)",
+    "Corticosteroids (edema control)",
+    "Ventriculoperitoneal shunt (hydrocephalus)"
+  ],
+  "related_genes": [
+    "CTNNB1",
+    "PTCH1",
+    "SMO",
+    "SUFU",
+    "TP53",
+    "MYC",
+    "MYCN",
+    "DDX3X",
+    "KDM6A",
+    "SMARCA4",
+    "TBR1"
+  ],
+  "subtypes": [
+    {
+      "name": "WNT-activated medulloblastoma",
+      "typical_patients": "Children and adolescents; classic histology",
+      "five_year_survival": "≈90–95%",
+      "common_treatments": [
+        "Surgery",
+        "Craniospinal irradiation",
+        "Chemotherapy"
+      ]
+    },
+    {
+      "name": "SHH-activated medulloblastoma",
+      "typical_patients": "Infants and adults; desmoplastic/nodular common",
+      "five_year_survival": "≈70–80% (age- and TP53-dependent)",
+      "common_treatments": [
+        "Surgery",
+        "Radiotherapy (age-dependent)",
+        "Chemotherapy"
+      ]
+    },
+    {
+      "name": "Group 3 medulloblastoma",
+      "typical_patients": "Children; often MYC amplified; metastatic at diagnosis",
+      "five_year_survival": "≈40–50%",
+      "common_treatments": [
+        "Surgery",
+        "Craniospinal irradiation",
+        "Intensive chemotherapy"
+      ]
+    },
+    {
+      "name": "Group 4 medulloblastoma",
+      "typical_patients": "Children; most common subgroup",
+      "five_year_survival": "≈70–80%",
+      "common_treatments": [
+        "Surgery",
+        "Craniospinal irradiation",
+        "Chemotherapy"
+      ]
+    }
+  ],
+  "epidemiology": {
+    "global_cases_2015": "",
+    "global_deaths_2015": "",
+    "most_common_in": "Children (male predominance); rare in adults",
+    "five_year_survival_rate": "≈60–70% overall; subgroup-dependent"
+  },
+  "relationships": [
+    {
+      "source": "Medulloblastoma",
+      "relation": "has_symptom",
+      "target": "Morning headache"
+    },
+    {
+      "source": "Medulloblastoma",
+      "relation": "has_symptom",
+      "target": "Vomiting"
+    },
+    {
+      "source": "Medulloblastoma",
+      "relation": "has_symptom",
+      "target": "Truncal ataxia"
+    },
+    {
+      "source": "Medulloblastoma",
+      "relation": "has_symptom",
+      "target": "Diplopia"
+    },
+    {
+      "source": "Medulloblastoma",
+      "relation": "has_symptom",
+      "target": "Papilledema"
+    },
+    {
+      "source": "Medulloblastoma",
+      "relation": "has_risk_factor",
+      "target": "Male sex"
+    },
+    {
+      "source": "Medulloblastoma",
+      "relation": "has_risk_factor",
+      "target": "Childhood"
+    },
+    {
+      "source": "Medulloblastoma",
+      "relation": "associated_gene",
+      "target": "CTNNB1"
+    },
+    {
+      "source": "Medulloblastoma",
+      "relation": "associated_gene",
+      "target": "PTCH1"
+    },
+    {
+      "source": "Medulloblastoma",
+      "relation": "associated_gene",
+      "target": "SMO"
+    },
+    {
+      "source": "Medulloblastoma",
+      "relation": "associated_gene",
+      "target": "SUFU"
+    },
+    {
+      "source": "Medulloblastoma",
+      "relation": "associated_gene",
+      "target": "MYC"
+    },
+    {
+      "source": "Medulloblastoma",
+      "relation": "associated_gene",
+      "target": "MYCN"
+    },
+    {
+      "source": "Medulloblastoma",
+      "relation": "treated_with",
+      "target": "Craniospinal irradiation"
+    },
+    {
+      "source": "Medulloblastoma",
+      "relation": "treated_with",
+      "target": "Chemotherapy"
+    },
+    {
+      "source": "Medulloblastoma",
+      "relation": "treated_with",
+      "target": "Surgery"
+    },
+    {
+      "source": "WNT-activated medulloblastoma",
+      "relation": "subtype_of",
+      "target": "Medulloblastoma"
+    },
+    {
+      "source": "SHH-activated medulloblastoma",
+      "relation": "subtype_of",
+      "target": "Medulloblastoma"
+    },
+    {
+      "source": "Group 3 medulloblastoma",
+      "relation": "subtype_of",
+      "target": "Medulloblastoma"
+    },
+    {
+      "source": "Group 4 medulloblastoma",
+      "relation": "subtype_of",
+      "target": "Medulloblastoma"
+    }
+  ]
+}

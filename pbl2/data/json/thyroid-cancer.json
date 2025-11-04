@@ -1,0 +1,151 @@
+{
+  "disease_name": "Thyroid cancer",
+  "synonyms": [
+    "Thyroid carcinoma"
+  ],
+  "summary": "Thyroid cancer is a malignancy originating in the thyroid gland that can spread to other parts of the body. It often presents as a neck mass or lump and may affect swallowing or voice, but many cases are asymptomatic.",
+  "causes": [
+    "Ionizing radiation exposure",
+    "Genetic mutations such as RET, BRAF, and RAS",
+    "Multiple endocrine neoplasia type 2",
+    "Thyroiditis",
+    "GLP-1 agonist exposure (potential risk)"
+  ],
+  "risk_factors": [
+    "Radiation exposure at a young age",
+    "Family history of thyroid cancer",
+    "Obesity",
+    "Female sex",
+    "Asian ancestry",
+    "Thyroid enlargement"
+  ],
+  "symptoms": [
+    "Neck lump or swelling",
+    "Hoarseness",
+    "Difficulty swallowing",
+    "Neck pain",
+    "Lymph node enlargement",
+    "Voice changes"
+  ],
+  "diagnosis": [
+    "Ultrasound",
+    "Fine needle aspiration (FNA)",
+    "Thyroid imaging reporting and data system (TI-RADS)",
+    "Radioactive iodine scan",
+    "Thyroid function tests (TSH, T3, T4)",
+    "Calcitonin measurement",
+    "CT or PET scan for metastasis"
+  ],
+  "treatments": [
+    "Thyroidectomy",
+    "Radioactive iodine therapy",
+    "External radiation therapy",
+    "Chemotherapy",
+    "Targeted therapy (sorafenib, lenvatinib, vandetanib)",
+    "Thyroid hormone suppression therapy",
+    "Active surveillance for small tumors"
+  ],
+  "related_genes": [
+    "RET",
+    "BRAF",
+    "RAS",
+    "TP53"
+  ],
+  "subtypes": [
+    {
+      "name": "Papillary thyroid cancer",
+      "typical_patients": "Young females",
+      "five_year_survival": "98%",
+      "common_treatments": [
+        "Thyroidectomy",
+        "Radioactive iodine"
+      ]
+    },
+    {
+      "name": "Follicular thyroid cancer",
+      "typical_patients": "Adults, sometimes with Cowden syndrome",
+      "five_year_survival": "90%",
+      "common_treatments": [
+        "Thyroidectomy",
+        "Radioactive iodine"
+      ]
+    },
+    {
+      "name": "Medullary thyroid cancer",
+      "typical_patients": "Patients with MEN type 2",
+      "five_year_survival": "80%",
+      "common_treatments": [
+        "Surgery",
+        "Targeted therapy (vandetanib)"
+      ]
+    },
+    {
+      "name": "Anaplastic thyroid cancer",
+      "typical_patients": "Older adults",
+      "five_year_survival": "10%",
+      "common_treatments": [
+        "Surgery",
+        "External radiation",
+        "Chemotherapy"
+      ]
+    }
+  ],
+  "epidemiology": {
+    "global_cases_2015": "3.2 million",
+    "global_deaths_2015": "31,900",
+    "most_common_in": "Women aged 35–65, especially of Asian descent",
+    "five_year_survival_rate": "98% (US)"
+  },
+  "relationships": [
+    {
+      "source": "Thyroid cancer",
+      "relation": "has_symptom",
+      "target": "Neck lump"
+    },
+    {
+      "source": "Thyroid cancer",
+      "relation": "has_symptom",
+      "target": "Hoarseness"
+    },
+    {
+      "source": "Thyroid cancer",
+      "relation": "has_cause",
+      "target": "Ionizing radiation"
+    },
+    {
+      "source": "Thyroid cancer",
+      "relation": "has_cause",
+      "target": "BRAF mutation"
+    },
+    {
+      "source": "Thyroid cancer",
+      "relation": "has_gene_association",
+      "target": "RET"
+    },
+    {
+      "source": "Thyroid cancer",
+      "relation": "treated_with",
+      "target": "Radioactive iodine"
+    },
+    {
+      "source": "Papillary thyroid cancer",
+      "relation": "subtype_of",
+      "target": "Thyroid cancer"
+    },
+    {
+      "source": "Medullary thyroid cancer",
+      "relation": "associated_with",
+      "target": "Multiple endocrine neoplasia type 2"
+    },
+    {
+      "source": "Anaplastic thyroid cancer",
+      "relation": "has_prognosis",
+      "target": "Poor survival"
+    },
+    {
+      "source": "Follicular thyroid cancer",
+      "relation": "has_prognosis",
+      "target": "Good survival"
+    }
+  ]
+}

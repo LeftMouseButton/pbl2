@@ -1,0 +1,87 @@
+Adrenocortical carcinoma (ACC) is an aggressive cancer originating in the cortex (steroid hormone-producing tissue) of the adrenal gland.
+
+Adrenocortical carcinoma is remarkable for the many hormonal syndromes that can occur in patients with steroid hormone-producing ("functional") tumors, including Cushing's syndrome, Conn syndrome, virilization, and feminization. Adrenocortical carcinoma has often invaded nearby tissues or metastasized to distant organs at the time of diagnosis, and the overall 5-year survival rate is about 50%.
+
+Adrenocortical carcinoma is a rare tumor, with incidence of one to two per million population annually. It has a bimodal distribution by age, with cases clustering in children under 5 and in adults 30–40 years old. The widely used angiotensin-II-responsive steroid-producing cell line H295R was originally isolated from a tumor diagnosed as adrenocortical carcinoma.
+
+== Signs and symptoms ==
+
+Adrenocortical carcinoma may present differently in children and adults. Most tumors in children are functional, and virilization is by far the most common presenting symptom(s), followed by Cushing's syndrome and precocious puberty. Among adults presenting with hormonal syndromes, Cushing's syndrome alone is most common, followed by mixed Cushing's and virilization (glucocorticoid and androgen overproduction). Feminization and Conn syndrome (mineralocorticoid excess) occur in less than 10% of cases. Rarely, pheochromocytoma-like hypersecretion of catecholamines has been reported in adrenocortical cancers. Nonfunctional tumors (about 40%, authorities vary) usually present with abdominal or flank pain, varicocele, and renal vein thrombosis or they may be asymptomatic and detected incidentally.
+
+All patients with suspected ACC should be carefully evaluated for signs and symptoms of hormonal syndromes. For Cushing's syndrome (glucocorticoid excess), these include weight gain, muscle wasting, purple lines on the abdomen, a fatty "buffalo hump" on the neck, a "moon-like" face, and thinning, fragile skin. Virilism (androgen excess) is most obvious in women, and may produce excess facial and body hair, acne, enlargement of the clitoris, deepening of the voice, coarsening of facial features, cessation of menstruation. Conn syndrome (mineralcorticoid excess) is marked by high blood pressure, which can result in headache and hypokalemia (low serum potassium, which can in turn produce muscle weakness, confusion, and palpitations), low plasma renin activity, and high serum aldosterone. Feminization (estrogen excess) is most readily noted in men, and includes breast enlargement, decreased libido, and impotence.
+
+== Pathophysiology ==
+
+The main etiologic factor of ACC is unknown, although families with Li–Fraumeni syndrome, caused by an inherited inactivation mutation in TP53, have increased risk. Several genes have been shown to be recurrently mutated, including TP53, CTNNB1, MEN1, PRKAR1A, RPL22, and DAXX. The telomerase gene TERT is often amplified while ZNRF3 and CDKN2A are often homozygously deleted. The genes h19, insulin-like growth factor II (IGF-II), and p57kip2 are important for fetal growth and development. They are located on chromosome 11p. Expression of the h19 gene is markedly reduced in both nonfunctioning and functioning adrenal cortical carcinomas, especially in tumors producing cortisol and aldosterone. Also, a loss occurs of activity of the p57kip2 gene product in virilizing adenomas and adrenal cortical carcinomas. In contrast, IGF-II gene expression has been shown to be high in adrenal cortical carcinomas. Finally, c-myc gene expression is relatively high in neoplasms, and it is often linked to poor prognosis.
+
+Bilateral adrenocortical tumors are less common than unilateral. The majority of bilateral tumours can be distinguished according to size and aspect of the nodules: primary pigmented nodular adrenocortical disease, which can be sporadic or part of Carney complex, and primary bilateral macro nodular adrenal hyperplasia.Metastasis is most commonly to the liver and lung.
+
+== Diagnosis ==
+
+=== Laboratory findings ===
+
+Hormonal syndromes should be confirmed with laboratory testing. Laboratory findings in Cushing syndrome include increased serum glucose (blood sugar) and increased urine cortisol. Adrenal virilism is confirmed by the finding of an excess of serum androstenedione and dehydroepiandrosterone. Findings in Conn syndrome include low serum potassium, low plasma renin activity, and high serum aldosterone. Feminization is confirmed with the finding of excess serum estrogen.
+
+=== Imaging ===
+
+Radiological studies of the abdomen, such as CT scans and magnetic resonance imaging are useful for identifying the site of the tumor, differentiating it from other diseases, such as adrenocortical adenoma, and determining the extent of invasion of the tumor into surrounding organs and tissues. On CT, it shows heterogeneous appearance due to necrosis, calcifications, and haemorrhage. After contrast injection, it shows peripheral enhancement. Invasion of adjacent structures such as kidney, vena cava, liver, and retroperitoneal lymph nodes are also common.
+
+On MRI, it shows low intensity on T1-weighted images, and high T2 signal with strong heterogeneous contrast enhancement and slow washout. Haemorrhagic areas may show high T1-signal. Imaging with positron emission tomography (PET) is useful during initial investigation of potentially malignant adrenal tumors and for detecting metastasis. Fluorodeoxyglucose ([18F]FDG or FDG) has high sensitivity but cannot distinguish ACC from other malignancies. 11C-labelled metomidate binds to enzymes expressed in adrenocortical cells and has been used as a radiotracer with high specificity for adrenal tumors.
+
+=== Pathology ===
+
+Adrenal tumors are often not biopsied prior to surgery, so diagnosis is confirmed on examination of the surgical specimen by a pathologist. Grossly, ACCs are often large, with a tan-yellow cut surface, and areas of hemorrhage and necrosis. On microscopic examination, the tumor usually displays sheets of atypical cells with some resemblance to the cells of the normal adrenal cortex. The presence of invasion and mitotic activity help differentiate small cancers from adrenocortical adenomas.
+
+Several relatively rare variants of ACC include:
+
+Oncocytic adrenal cortical carcinoma
+
+Myxoid adrenal cortical carcinoma
+
+Carcinosarcoma
+
+Adenosquamous adrenocortical carcinoma
+
+Clear cell adrenal cortical carcinoma
+
+=== Differential diagnosis ===
+
+Differential diagnosis includes:
+
+Adrenocortical adenoma
+
+Renal cell carcinoma
+
+Pheochromocytoma
+
+Hepatocellular carcinoma
+
+Adrenocortical carcinomas are most commonly distinguished from adrenocortical adenomas (their benign counterparts) by the Weiss system, as follows:
+
+Total score indicates:
+
+0-2: Adrenocortical adenoma
+
+3: Undetermined
+
+4-9: Adrenocortical carcinoma
+
+== Treatment ==
+
+The only curative treatment is complete surgical excision of the tumor, which can be performed even in the case of invasion into large blood vessels, such as the renal vein or inferior vena cava. The 5-year survival rate after successful surgery is 50–60%, but unfortunately, many patients are not surgical candidates. A 2018 systematic review suggests that laparoscopic retroperotenial adrenalectomy appears to reduce late morbidity, time to oral fluid or food intake and time to ambulation when compared to laparoscopic transperitoneal adrenalectomy, however there is uncertainty about these effects due to very low-quality evidence. For outcomes such as all-cause mortality, early morbidity, socioeconomic effects, and operative and postoperative parameter, the evidence is uncertain about the effects of either interventions over the other.
+
+Radiation therapy and radiofrequency ablation may be used for palliation in patients who are not surgical candidates. Minimally invasive surgical techniques remain controversial due to the absence of long-term data, with a particular concern for rates of recurrence and peritoneal carcinomatosis.
+
+Chemotherapy regimens typically include the drug mitotane, an inhibitor of steroid synthesis, which is toxic to cells of the adrenal cortex, as well as standard cytotoxic drugs. A retrospective analysis showed a survival benefit for mitotane in addition to surgery when compared to surgery alone.
+
+The two most common regimens are cisplatin, doxorubicin, etoposide (EDP) + mitotane, and streptozotocin + mitotane. The FIRM-ACT trial demonstrated higher rates of response and longer progression-free survival with EDP + mitotane than with streptozotocin + mitotane.
+
+== Prognosis ==
+
+ACC, generally, carries a poor prognosis, with an overall 5-year survival rate of about 50%. Five-year disease-free survival for a complete resection of a stage I–III ACC is about 30%. The most important prognostic factors are age of the patient and stage of the tumor. Poor prognostic factors include mitotic activity, venous invasion, weight of 50 g or more, diameter of 6.5 cm or more, Ki-67/MIB1 labeling index of 4% or more, and p53 positive.
+
+In its malignancy, adrenocortical carcinoma is unlike most tumours of the adrenal cortex, which are benign (adenomas) and only occasionally cause Cushing's syndrome.
+
+== References ==
+
+== External links ==

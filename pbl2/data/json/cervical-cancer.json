@@ -1,0 +1,236 @@
+{
+  "disease_name": "Cervical cancer",
+  "synonyms": [
+    "Cervical carcinoma",
+    "Cancer of the cervix"
+  ],
+  "summary": "A malignancy arising from the cervix, most commonly squamous cell carcinoma or adenocarcinoma, driven in the vast majority of cases by persistent infection with high‑risk human papillomavirus (HPV) leading to E6/E7‑mediated inactivation of p53 and Rb; preventable via HPV vaccination and screening (Pap/HPV tests).",
+  "causes": [
+    "Persistent high‑risk HPV infection (e.g., HPV‑16, HPV‑18)",
+    "HPV E6-mediated TP53 degradation",
+    "HPV E7-mediated RB1 inactivation",
+    "Progression from cervical intraepithelial neoplasia (CIN)"
+  ],
+  "risk_factors": [
+    "High-risk HPV infection",
+    "Smoking",
+    "Immunosuppression (e.g., HIV)",
+    "Long-term oral contraceptive use",
+    "High parity",
+    "Early onset of sexual activity",
+    "Multiple sexual partners",
+    "In utero DES exposure"
+  ],
+  "symptoms": [
+    "Postcoital bleeding",
+    "Intermenstrual bleeding",
+    "Abnormal vaginal discharge",
+    "Pelvic pain",
+    "Dyspareunia",
+    "Back pain",
+    "Leg swelling",
+    "Hematuria",
+    "Rectal bleeding",
+    "Fatigue"
+  ],
+  "diagnosis": [
+    "Pap smear (cytology)",
+    "HPV DNA testing",
+    "Colposcopy",
+    "Cervical biopsy (punch, cone) / LEEP",
+    "Endocervical curettage",
+    "FIGO staging",
+    "MRI/CT/PET for staging"
+  ],
+  "treatments": [
+    "Conization/LEEP (for CIN and microinvasive)",
+    "Radical hysterectomy with lymphadenectomy",
+    "Fertility-sparing radical trachelectomy (early stage)",
+    "External-beam radiotherapy (EBRT)",
+    "Brachytherapy",
+    "Concurrent chemoradiation (cisplatin-based)",
+    "Chemotherapy (platinum-based)",
+    "Bevacizumab (anti-VEGF)",
+    "Immunotherapy (pembrolizumab; cemiplimab)",
+    "Antibody–drug conjugate (tisotumab vedotin)"
+  ],
+  "related_genes": [
+    "TP53",
+    "RB1",
+    "PIK3CA",
+    "PTEN",
+    "KRAS"
+  ],
+  "subtypes": [
+    {
+      "name": "Squamous cell carcinoma",
+      "typical_patients": "Adult women; most common histology",
+      "five_year_survival": "≈66–70% overall (varies by stage)",
+      "common_treatments": [
+        "Chemoradiation",
+        "Radical hysterectomy",
+        "Brachytherapy"
+      ]
+    },
+    {
+      "name": "Adenocarcinoma",
+      "typical_patients": "Adult women; rising incidence",
+      "five_year_survival": "Similar to squamous cell at same stage",
+      "common_treatments": [
+        "Surgery (early)",
+        "Chemoradiation"
+      ]
+    },
+    {
+      "name": "Adenosquamous carcinoma",
+      "typical_patients": "Adult women",
+      "five_year_survival": "Varies by stage",
+      "common_treatments": [
+        "Chemoradiation",
+        "Surgery (selected early cases)"
+      ]
+    },
+    {
+      "name": "Small cell neuroendocrine carcinoma",
+      "typical_patients": "Adult women; aggressive",
+      "five_year_survival": "Poor; lower than other histologies",
+      "common_treatments": [
+        "Chemoradiation",
+        "Systemic chemotherapy"
+      ]
+    }
+  ],
+  "epidemiology": {
+    "global_cases_2015": "",
+    "global_deaths_2015": "",
+    "most_common_in": "Low- and middle-income countries; globally the 4th most common cancer in women",
+    "five_year_survival_rate": "≈66–68% overall (US); strongly stage-dependent"
+  },
+  "relationships": [
+    {
+      "source": "Cervical cancer",
+      "relation": "has_cause",
+      "target": "Persistent high‑risk HPV infection (e.g., HPV‑16, HPV‑18)"
+    },
+    {
+      "source": "Cervical cancer",
+      "relation": "has_cause",
+      "target": "HPV E6-mediated TP53 degradation"
+    },
+    {
+      "source": "Cervical cancer",
+      "relation": "has_cause",
+      "target": "HPV E7-mediated RB1 inactivation"
+    },
+    {
+      "source": "Cervical cancer",
+      "relation": "has_symptom",
+      "target": "Postcoital bleeding"
+    },
+    {
+      "source": "Cervical cancer",
+      "relation": "has_symptom",
+      "target": "Abnormal vaginal discharge"
+    },
+    {
+      "source": "Cervical cancer",
+      "relation": "has_symptom",
+      "target": "Pelvic pain"
+    },
+    {
+      "source": "Cervical cancer",
+      "relation": "has_risk_factor",
+      "target": "Smoking"
+    },
+    {
+      "source": "Cervical cancer",
+      "relation": "has_risk_factor",
+      "target": "Immunosuppression (e.g., HIV)"
+    },
+    {
+      "source": "Cervical cancer",
+      "relation": "has_risk_factor",
+      "target": "Long-term oral contraceptive use"
+    },
+    {
+      "source": "Cervical cancer",
+      "relation": "diagnosed_by",
+      "target": "Pap smear (cytology)"
+    },
+    {
+      "source": "Cervical cancer",
+      "relation": "diagnosed_by",
+      "target": "HPV DNA testing"
+    },
+    {
+      "source": "Cervical cancer",
+      "relation": "treated_with",
+      "target": "Chemoradiation"
+    },
+    {
+      "source": "Cervical cancer",
+      "relation": "treated_with",
+      "target": "Radical hysterectomy"
+    },
+    {
+      "source": "Cervical cancer",
+      "relation": "treated_with",
+      "target": "Brachytherapy"
+    },
+    {
+      "source": "Cervical cancer",
+      "relation": "treated_with",
+      "target": "Bevacizumab"
+    },
+    {
+      "source": "Cervical cancer",
+      "relation": "treated_with",
+      "target": "Pembrolizumab"
+    },
+    {
+      "source": "Cervical cancer",
+      "relation": "treated_with",
+      "target": "Cemiplimab"
+    },
+    {
+      "source": "Cervical cancer",
+      "relation": "treated_with",
+      "target": "Tisotumab vedotin"
+    },
+    {
+      "source": "Squamous cell carcinoma",
+      "relation": "subtype_of",
+      "target": "Cervical cancer"
+    },
+    {
+      "source": "Adenocarcinoma",
+      "relation": "subtype_of",
+      "target": "Cervical cancer"
+    },
+    {
+      "source": "Adenosquamous carcinoma",
+      "relation": "subtype_of",
+      "target": "Cervical cancer"
+    },
+    {
+      "source": "Small cell neuroendocrine carcinoma",
+      "relation": "subtype_of",
+      "target": "Cervical cancer"
+    },
+    {
+      "source": "Cervical cancer",
+      "relation": "associated_gene",
+      "target": "TP53"
+    },
+    {
+      "source": "Cervical cancer",
+      "relation": "associated_gene",
+      "target": "RB1"
+    },
+    {
+      "source": "Cervical cancer",
+      "relation": "associated_gene",
+      "target": "PIK3CA"
+    }
+  ]
+}

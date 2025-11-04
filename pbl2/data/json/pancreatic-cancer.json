@@ -1,0 +1,247 @@
+{
+  "disease_name": "Pancreatic cancer",
+  "synonyms": [
+    "Pancreatic carcinoma",
+    "Pancreatic ductal adenocarcinoma",
+    "PDAC"
+  ],
+  "summary": "A malignant tumor arising in the pancreas, most commonly pancreatic ductal adenocarcinoma (PDAC). It often presents late with obstructive jaundice, weight loss, and abdominal/back pain. Prognosis is poor overall, though outcomes improve with complete surgical resection and modern combination chemotherapy.",
+  "causes": [
+    "KRAS activation",
+    "TP53 loss",
+    "CDKN2A (p16) inactivation",
+    "SMAD4 (DPC4) loss",
+    "Chronic pancreatic inflammation (chronic pancreatitis)",
+    "Hereditary predisposition (BRCA2, PALB2, STK11, PRSS1, Lynch genes, ATM)"
+  ],
+  "risk_factors": [
+    "Smoking",
+    "Older age",
+    "Male sex",
+    "Family history of pancreatic cancer",
+    "Chronic pancreatitis",
+    "Diabetes mellitus (including new-onset)",
+    "Obesity",
+    "Alcohol use (via pancreatitis)",
+    "Hereditary syndromes (BRCA1/2, PALB2, STK11/Peutz–Jeghers, CDKN2A/FAMMM, Lynch, PRSS1)"
+  ],
+  "symptoms": [
+    "Painless jaundice",
+    "Dark urine",
+    "Pale stools (acholic)",
+    "Pruritus",
+    "Epigastric pain radiating to back",
+    "Weight loss",
+    "Anorexia",
+    "Nausea and vomiting",
+    "New-onset diabetes",
+    "Depression",
+    "Trousseau syndrome (migratory thrombophlebitis)"
+  ],
+  "diagnosis": [
+    "Pancreatic protocol CT scan",
+    "MRI/MRCP",
+    "Endoscopic ultrasound with FNA",
+    "ERCP (biliary decompression; brushings)",
+    "CA 19-9 blood test",
+    "Liver function tests (bilirubin, ALP)",
+    "Staging laparoscopy (selected)",
+    "PET-CT (selected)"
+  ],
+  "treatments": [
+    "Pancreaticoduodenectomy (Whipple procedure)",
+    "Distal pancreatectomy ± splenectomy",
+    "Total pancreatectomy (selected)",
+    "Neoadjuvant chemotherapy (FOLFIRINOX; gemcitabine + nab-paclitaxel)",
+    "Adjuvant chemotherapy (mFOLFIRINOX; gemcitabine ± capecitabine)",
+    "Chemoradiation (selected)",
+    "Biliary stent (palliation)",
+    "Celiac plexus block (pain control)",
+    "PARP inhibitors (BRCA1/2, PALB2)",
+    "Immunotherapy (pembrolizumab for MSI‑H/dMMR)",
+    "NTRK inhibitors (for NTRK fusions)"
+  ],
+  "related_genes": [
+    "KRAS",
+    "TP53",
+    "CDKN2A",
+    "SMAD4",
+    "BRCA2",
+    "BRCA1",
+    "PALB2",
+    "STK11",
+    "PRSS1",
+    "ATM",
+    "MLH1",
+    "MSH2",
+    "MSH6",
+    "PMS2",
+    "NTRK",
+    "GNAS"
+  ],
+  "subtypes": [
+    {
+      "name": "Pancreatic ductal adenocarcinoma (PDAC)",
+      "typical_patients": "Older adults; often smokers or with metabolic risk factors",
+      "five_year_survival": "≈12% overall (higher if resected)",
+      "common_treatments": [
+        "Whipple or distal pancreatectomy",
+        "FOLFIRINOX",
+        "Gemcitabine + nab‑paclitaxel"
+      ]
+    },
+    {
+      "name": "Pancreatic neuroendocrine tumor (PanNET)",
+      "typical_patients": "Adults; may present with hormone syndromes or incidentally",
+      "five_year_survival": "≈60–90% (stage- and grade-dependent)",
+      "common_treatments": [
+        "Surgery",
+        "Somatostatin analogs",
+        "Everolimus",
+        "Sunitinib",
+        "PRRT (Lu‑177 DOTATATE)"
+      ]
+    },
+    {
+      "name": "Acinar cell carcinoma",
+      "typical_patients": "Adults, more often men",
+      "five_year_survival": "≈20–40% (stage-dependent)",
+      "common_treatments": [
+        "Surgery",
+        "Chemotherapy"
+      ]
+    },
+    {
+      "name": "IPMN‑associated carcinoma",
+      "typical_patients": "Older adults with IPMN",
+      "five_year_survival": "≈40–60% after resection (varies by histology)",
+      "common_treatments": [
+        "Surgical resection",
+        "Adjuvant chemotherapy (selected)"
+      ]
+    }
+  ],
+  "epidemiology": {
+    "global_cases_2015": "411000",
+    "global_deaths_2015": "411000",
+    "most_common_in": "Older adults; more frequent in men; higher incidence in developed countries",
+    "five_year_survival_rate": "≈12% overall (US); stage-dependent"
+  },
+  "relationships": [
+    {
+      "source": "Pancreatic cancer",
+      "relation": "has_symptom",
+      "target": "Painless jaundice"
+    },
+    {
+      "source": "Pancreatic cancer",
+      "relation": "has_symptom",
+      "target": "Weight loss"
+    },
+    {
+      "source": "Pancreatic cancer",
+      "relation": "has_symptom",
+      "target": "Back pain"
+    },
+    {
+      "source": "Pancreatic cancer",
+      "relation": "has_symptom",
+      "target": "Pruritus"
+    },
+    {
+      "source": "Pancreatic cancer",
+      "relation": "has_risk_factor",
+      "target": "Smoking"
+    },
+    {
+      "source": "Pancreatic cancer",
+      "relation": "has_risk_factor",
+      "target": "Chronic pancreatitis"
+    },
+    {
+      "source": "Pancreatic cancer",
+      "relation": "has_risk_factor",
+      "target": "Diabetes mellitus"
+    },
+    {
+      "source": "Pancreatic cancer",
+      "relation": "has_risk_factor",
+      "target": "Obesity"
+    },
+    {
+      "source": "Pancreatic cancer",
+      "relation": "has_risk_factor",
+      "target": "Family history of pancreatic cancer"
+    },
+    {
+      "source": "Pancreatic cancer",
+      "relation": "associated_gene",
+      "target": "KRAS"
+    },
+    {
+      "source": "Pancreatic cancer",
+      "relation": "associated_gene",
+      "target": "TP53"
+    },
+    {
+      "source": "Pancreatic cancer",
+      "relation": "associated_gene",
+      "target": "CDKN2A"
+    },
+    {
+      "source": "Pancreatic cancer",
+      "relation": "associated_gene",
+      "target": "SMAD4"
+    },
+    {
+      "source": "Pancreatic cancer",
+      "relation": "associated_gene",
+      "target": "BRCA2"
+    },
+    {
+      "source": "Pancreatic cancer",
+      "relation": "treated_with",
+      "target": "Pancreaticoduodenectomy (Whipple procedure)"
+    },
+    {
+      "source": "Pancreatic cancer",
+      "relation": "treated_with",
+      "target": "FOLFIRINOX"
+    },
+    {
+      "source": "Pancreatic cancer",
+      "relation": "treated_with",
+      "target": "Gemcitabine + nab‑paclitaxel"
+    },
+    {
+      "source": "Pancreatic cancer",
+      "relation": "treated_with",
+      "target": "PARP inhibitors"
+    },
+    {
+      "source": "Pancreatic cancer",
+      "relation": "treated_with",
+      "target": "Biliary stent"
+    },
+    {
+      "source": "Pancreatic ductal adenocarcinoma (PDAC)",
+      "relation": "subtype_of",
+      "target": "Pancreatic cancer"
+    },
+    {
+      "source": "Pancreatic neuroendocrine tumor (PanNET)",
+      "relation": "subtype_of",
+      "target": "Pancreatic cancer"
+    },
+    {
+      "source": "Acinar cell carcinoma",
+      "relation": "subtype_of",
+      "target": "Pancreatic cancer"
+    },
+    {
+      "source": "IPMN‑associated carcinoma",
+      "relation": "subtype_of",
+      "target": "Pancreatic cancer"
+    }
+  ]
+}

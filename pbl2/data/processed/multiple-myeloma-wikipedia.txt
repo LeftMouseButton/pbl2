@@ -1,0 +1,365 @@
+Multiple myeloma (MM), also known as plasma cell myeloma and simply myeloma, is a cancer of plasma cells, a type of white blood cell that normally produces antibodies. Often, no symptoms are noticed initially. As it progresses, bone pain, anemia, renal insufficiency, and infections may occur. Complications may include hypercalcemia and amyloidosis.
+
+The cause of multiple myeloma is unknown. Risk factors include obesity, radiation exposure, family history, age and certain chemicals. There is an increased risk of multiple myeloma in certain occupations. This is due to the occupational exposure to aromatic hydrocarbon solvents having a role in causation of multiple myeloma. Multiple myeloma is the result of a multi-step malignant transformation, and almost universally originates from the pre-malignant stage monoclonal gammopathy of undetermined significance (MGUS). As MGUS evolves into MM, another pre-stage of the disease is reached, known as smoldering myeloma (SMM).
+
+In MM, the abnormal plasma cells produce abnormal antibodies, which can cause kidney problems and overly thick blood. The plasma cells can also form a mass in the bone marrow or soft tissue. When one tumor is present, it is called a plasmacytoma; more than one is called multiple myeloma. Multiple myeloma is diagnosed based on blood or urine tests finding abnormal antibody proteins (often using electrophoretic techniques revealing the presence of a monoclonal spike in the results, termed an m-spike), bone marrow biopsy finding cancerous plasma cells, and medical imaging finding bone lesions. Another common finding is high blood calcium levels.
+
+Multiple myeloma is considered treatable, but generally incurable. Remissions may be brought about with steroids, chemotherapy, targeted therapy, and stem cell transplant. Bisphosphonates and radiation therapy are sometimes used to reduce pain from bone lesions. New approaches utilizing CAR-T cell therapy have been included in the treatment regimens.
+
+Globally, about 175,000 people were diagnosed with the disease in 2020, while about 117,000 people died from the disease that year. In the U.S., forecasts suggest about 35,000 people will be diagnosed with the disease in 2023, and about 12,000 people will die from the disease that year. In 2020, an estimated 170,405 people were living with myeloma in the U.S.
+
+It is difficult to judge mortality statistics because treatments for the disease are advancing rapidly. Based on data concerning people diagnosed with the disease between 2013 and 2019, about 60% lived five years or more post-diagnosis, with about 34% living ten years or more. People newly diagnosed with the disease now have a better outlook, due to improved treatments.
+
+The disease usually occurs around the age of 60 and is more common in men than women. It is uncommon before the age of 40. The word myeloma is from Greek myelo- 'marrow' and -oma 'tumor'.
+
+== Signs and symptoms ==
+
+Because many organs can be affected by myeloma, the symptoms and signs vary greatly. Fatigue and bone pain are the most common symptoms at presentation. The CRAB criteria were formerly the benchmark used to establish the presence of active multiple myeloma (as opposed to an earlier, generally asymptomatic, "smoldering" form of the disease). The CRAB criteria are:
+
+Calcium: serum calcium >0.25 mmol/L (>1 mg/dL) higher than the upper limit of normal or >2.75 mmol/L (>11 mg/dL)
+
+Renal insufficiency: creatinine clearance <40 mL per minute or serum creatinine >1.77 mol/L (>2 mg/dL)
+
+Anemia: hemoglobin value of >2g/dL below the lowest limit of normal, or a hemoglobin value <10g/dL
+
+Bone lesions: osteolytic lesions on skeletal radiography, CT, or PET/CT
+
+As of 2014 the diagnostic criteria were expanded and updated by the IMWG (International Myeloma Working Group) to add three myeloma-defining events, any one of which indicates the presence of active multiple myeloma. Each of these three events may occur before any of the CRAB criteria appears, thereby making more people eligible for treatment with myeloma drugs earlier.
+
+=== Bone pain ===
+
+Bone pain affects almost 70% of people with multiple myeloma and is one of the most common symptoms. Myeloma bone pain usually involves the spine and ribs and worsens with activity. Persistent, localized pain may indicate a pathological bone fracture. Involvement of the vertebrae may lead to spinal cord compression or kyphosis. Myeloma bone disease is due to the overexpression of receptor activator for nuclear factor κ B ligand (RANKL) by bone marrow stroma. RANKL activates osteoclasts, which resorb bone. The resultant bone lesions are lytic (cause breakdown) in nature. They are best seen in plain radiographs, which may show "punched-out" resorptive lesions (including the "raindrop" appearance of the skull on radiography). The breakdown of bone also leads to the release of calcium ions into the blood, leading to hypercalcemia and its associated symptoms.
+
+=== Anemia ===
+
+The anemia found in myeloma is usually normocytic and normochromic. It results from the replacement of normal bone marrow by infiltrating tumor cells and inhibition of normal red blood cell production (hematopoiesis) by cytokines.
+
+=== Impaired kidney function ===
+
+Impaired kidney function may develop, either acutely or chronically, and with any degree of severity.
+
+The most common cause of kidney failure in multiple myeloma is due to proteins secreted by the malignant cells. Myeloma cells produce monoclonal proteins of varying types, most commonly immunoglobulins (antibodies) and free light chains, resulting in abnormally high levels of these proteins in the blood. Depending on the size of these proteins, they may be excreted through the kidneys. These proteins and light chains can damage the kidneys. Increased bone resorption leads to hypercalcemia and causes nephrocalcinosis, thereby contributing to kidney failure. Amyloidosis is a distant third in the causation. People with amyloidosis have high levels of amyloid protein that can be excreted through the kidneys and cause damage to the kidneys and other organs.
+
+Light chains produce myriad effects that can manifest as the Fanconi syndrome (type II kidney tubular acidosis).
+
+=== Infection ===
+
+Collateral infections are common with multiple myeloma since the disease impairs the functioning of blood components that normally resist pathogens. The most common infections are pneumonia, urinary tract infections, and sepsis. The greatest risk period for the occurrence of infection is in the initial few months after the start of new drug therapy, since many drug therapies further suppress the normal immune response.
+
+Infections (and "adverse events" for all diseases) are graded by a standardized scale. With some myeloma drug therapies, over 30% of people experience a "Grade 3" or higher infection (many people experience multiple such infections), calling for intervention at least by antibiotics. Of people who die within six months of their myeloma diagnosis, between 20% and 50% die from collateral infections.
+
+Clinical evaluation of a person's immune response is typically performed by a lab test that measures the levels of different immunoglobulins in the blood. There are five varieties of immunoglobulins, indicated by the suffices -A, -D, -E, -G and -M. In the aggregate, the immunoglobulin level may be elevated with the disease, but the majority of such increased antibodies are of a monoclonal variety due to the clonal plasma cell and are thus ineffective. Such ineffective antibodies are common of the immunoglobulin -A and -G varieties. When the measure of effective antibodies drops below a threshold (a condition termed hypogammaglobulinemia), supplemental immunoglobulins may be provided by periodic infusions to reduce the risk of collateral infections.
+
+=== Neurological symptoms ===
+
+Some symptoms (e.g., weakness, confusion, and fatigue) may be due to anemia or hypercalcemia. Headache, visual changes, and retinopathy may be the result of hyperviscosity of the blood depending on the properties of the paraprotein. Finally, radicular pain, loss of bowel or bladder control (due to involvement of spinal cord leading to cord compression) or carpal tunnel syndrome, and other neuropathies (due to infiltration of peripheral nerves by amyloid) may occur. It may give rise to paraplegia in late-presenting cases.
+
+When the disease is well-controlled, neurological symptoms may result from current treatments, some of which may cause peripheral neuropathy, manifesting itself as numbness or pain in the hands, feet, and lower legs.
+
+=== Mouth ===
+
+The initial symptoms may involve pain, numbness, swelling, expansion of the jaw, tooth mobility, and radiolucency. Multiple myeloma in the mouth can mimic common tooth problems such as periapical abscess or periodontal abscess, gingivitis, periodontitis, or other gingival enlargement or masses.
+
+== Cause ==
+
+The cause of multiple myeloma is generally unknown.
+
+=== Risk factors ===
+
+Monoclonal gammopathy of undetermined significance (MGUS) increases the risk of developing multiple myeloma. MGUS transforms to multiple myeloma at the rate of 1% to 2% per year, and almost all cases of multiple myeloma are preceded by MGUS.
+
+Smoldering multiple myeloma increases the risk of developing multiple myeloma. Individuals diagnosed with this premalignant disorder develop multiple myeloma at a rate of 10% per year for the first five years, 3% per year for the next five years, and then 1% per year.
+
+Obesity is related to multiple myeloma with each increase of body mass index by five increasing the relative risk by 11%. In addition, studies have shown a positive correlation between BMI and adhesion of multiple myeloma cells.This is due, in part, to cross-talk at a cellular level between fat cells and multiple myeloma cells leading to drug resistance.
+
+Studies have reported a familial predisposition to myeloma. Hyperphosphorylation of several proteins—the paratarg proteins—a tendency that is inherited in an autosomal dominant manner, appears to be a common mechanism in these families. This tendency is more common in African Americans with myeloma and may contribute to the higher rates of myeloma in this group.
+
+=== Occupations ===
+
+In a study to investigate the association between occupational exposure to aromatic hydrocarbon solvents (benzene and its many derivatives), evidence has shown that these solvents have a role in the causation of multiple myeloma. The occurrence of multiple myeloma may be more common in certain occupations. The risk of multiple myeloma incidence is higher in occupations such as firefighting, hairdressing, and agricultural and industrial work. The risk in certain occupations is due to exposure to different chemicals. Repeated exposure to chemicals increases the risk of multiple myeloma. The use of pesticides and hazardous chemicals in occupations, like firefighting and agriculture, has been seen to cause an increase in risk for multiple myeloma. Other occupations, such as industrial occupations, are also at increased risk for multiple myeloma. Industrial workers are exposed to chemicals containing aromatic hydrocarbon solvents.
+
+Exposure to aromatic hydrocarbon solvents, benzene, toluene, and xylene, can increase risk of multiple myeloma. Increased duration, high intensity of exposure, or repeated exposure was associated with an increased risk of multiple myeloma by up to 63%. The time from exposure to diagnosis was studied, and diagnosis after exposure lagged at least 20 years. When exposure to one chemical was identified, there was usually exposure to another hydrocarbon solvent identified. Multiple myeloma affects more men, older adults, and African Americans. These populations also have higher exposure frequencies than their female counterparts.
+
+==== Epstein–Barr virus ====
+
+Rarely, Epstein–Barr virus (EBV) is associated with multiple myeloma, particularly in individuals who have an immunodeficiency due to HIV/AIDS, organ transplantation, or a chronic inflammatory condition such as rheumatoid arthritis. EBV-positive multiple myeloma is classified by the World Health Organization (2016) as one form of the Epstein–Barr virus-associated lymphoproliferative diseases and termed Epstein–Barr virus-associated plasma cell myeloma. EBV-positive disease is more common in the plasmacytoma rather than the multiple myeloma form of plasma cell cancer. Tissues involved in EBV+ disease typically show foci of EBV+ cells with the appearance of rapidly proliferating immature or poorly differentiated plasma cells. The cells express products of EBV genes such as EBER1 and EBER2. While the EBV contributes to the development and/or progression of most Epstein–Barr virus-associated lymphoproliferative diseases, its role in multiple myeloma is not known. However, people who are EBV-positive with localized plasmacytoma(s) are more likely to progress to multiple myeloma compared to people with EBV-negative plasmacytoma(s). This suggests that EBV may have a role in the progression of plasmacytomas to systemic multiple myeloma.
+
+== Pathophysiology ==
+
+B lymphocytes start in the bone marrow and move to the lymph nodes. As they progress, they mature and display different proteins on their cell surfaces (cell surface antigens). When they are activated to secrete antibodies, they are known as plasma cells.
+
+Multiple myeloma develops in B lymphocytes after they have left the part of the lymph node known as the germinal center. The normal cell type most closely associated with MM cells is generally taken to be either an activated memory B cell or the precursor to plasma cells, the plasmablast.
+
+The immune system keeps the proliferation of B cells and the secretion of antibodies tightly controlled. When chromosomes and genes are damaged, often through rearrangement, this control is lost. Often, a promoter gene moves (or translocates) to a chromosome, where it stimulates an antibody gene to overproduction.
+
+A chromosomal translocation between the immunoglobulin heavy chain gene (on chromosome 14, locus q32) and an oncogene (often 11q13, 4p16.3, 6p21, 16q23 and 20q11) is frequently observed in people with multiple myeloma. This mutation causes dysregulation of the oncogene, which appears to be an important initiating event in the pathogenesis of myeloma. The result is a proliferation of a plasma cell clone and genomic instability that leads to further mutations and translocations. The chromosome 14 abnormality is observed in about 50% of all cases of myeloma. Deletion of (parts of) chromosome 13 is also observed in about 50% of cases.
+
+Production of cytokines (especially IL-6) by the plasma cells causes much of their localized damage, such as osteoporosis, and creates a microenvironment in which the malignant cells thrive. Angiogenesis (the generation of new blood vessels) is increased.
+
+The produced antibodies are deposited in various organs, leading to kidney failure, polyneuropathy, and various other myeloma-associated symptoms.
+
+=== Epigenetics ===
+
+Epigenetic modifications, as DNA methylation or histone modifications, are key to disease establishment and progression. In a study that investigated the DNA methylation profile of multiple myeloma cells and normal plasma cells, a gradual demethylation from stem cells to plasma cells was observed, with site-specific gain of methylation. Loss of methylation is associated with gene activation and gain of methylation is correlated with gene silencing. The dysregulated methylation pattern in multiple myeloma results in the activation of specific oncogenes and repression of specific tumor suppressor genes. The observed methylation pattern of CpG within intronic regions with enhancer-related chromatin marks in multiple myeloma is similar to undifferentiated precursor and stem cells. These results may represent a de novo epigenetic reprogramming in multiple myeloma, leading to the acquisition of a methylation pattern related to stemness.
+
+Other studies have identified a multiple myeloma specific gene silencing pattern associated with abnormal histone modifications caused by dysregulation of the polycomb repressive complex 2 (PRC2). Increased expression of the PRC2 subunit, EZH2 have been described to be a common feature in multiple myeloma, resulting in an accumulation and redistribution of histone H3 lysine 27 trimethylation which advances with disease severity.
+
+=== Genetics ===
+
+Genetic abnormalities in multiple myeloma divide the disease into two main groups: hyperdiploid multiple myeloma and non-hyperdiploid multiple myeloma. Hyperdiploid MM is associated with a good prognosis and includes trisomies of odd-numbered chromosomes. Non-hyperdiploid MM has a worse outcome and is characterized by translocations on chromosome 14, which leads to the expression of oncogenes. These translocations can be t(11;14), t(6;14), t(4;14), t(14;16), t(14;20). Other genetic alterations are 1q amplification, deletion 1p, deletion 17, deletion 13, MYC overexpression, and point mutations in key pathways.
+
+Associated genetic mutations include ATM, BRAF, CCND1, DIS3, FAM46C, KRAS, NRAS and TP53.
+
+=== Development ===
+
+The genetic and epigenetic changes occur progressively. The initial change, often involving one chromosome 14 translocation, establishes a clone of bone marrow plasma cells that causes the asymptomatic disorder MGUS, which is a premalignant disorder characterized by increased numbers of plasma cells in the bone marrow or the circulation of a myeloma protein immunoglobulin. Further genetic or epigenetic changes produce a new clone of bone marrow plasma cells, usually descended from the original clone, that causes the more serious, but still asymptomatic, premalignant disorder smoldering multiple myeloma. This myeloma is characterized by a rise in the number of bone marrow plasma cells or levels of the circulating myeloma protein above that seen in MGUS.
+
+Subsequent genetic and epigenetic changes lead to a new, more aggressive clone of plasma cells, which causes further rises in the level of the circulating myeloma protein, further rises in the number of bone marrow plasma cells, or the development of one or more of a specific set of "CRAB" symptoms, which are the basis for diagnosing malignant multiple myeloma and treating the disease.
+
+In a small percentage of multiple myeloma cases, further genetic and epigenetic changes lead to the development of a plasma cell clone that moves from the bone marrow into the circulatory system, invades distant tissues, and thereby causes the most malignant of all plasma cell dyscrasias, plasma cell leukemia. Thus, a fundamental genetic instability in plasma cells or their precursors leads to the progression:
+
+Monoclonal gammopathy of undetermined significance → smoldering multiple myeloma → multiple myeloma → plasma cell leukemia
+
+Being asymptomatic, monoclonal gammopathy of undetermined significance and smoldering multiple myeloma are typically diagnosed fortuitously by detecting a myeloma protein on serum protein electrophoresis tests done for other purposes. MGUS is a relatively stable condition afflicting 3% of people aged 50 and 5% of people aged 70; it progresses to multiple myeloma at a rate of 0.5–1% cases per year; smoldering multiple myeloma does so at a rate of 10% per year for the first 5 years, but then falls off sharply to 3% per year for the next 5 years and thereafter to 1% per year.
+
+Overall, some 2–4% of multiple myeloma cases eventually progress to plasma cell leukemia.
+
+== Diagnosis ==
+
+=== Blood tests ===
+
+The globulin level may be normal in established disease. A doctor may request protein electrophoresis of the blood and urine, which might show the presence of a paraprotein (monoclonal protein, or M protein) band, with or without reduction of the other (normal) immunoglobulins (known as immune paresis). One type of paraprotein is the Bence Jones protein, which is a urinary paraprotein composed of free light chains. Quantitative measurements of the paraprotein are necessary to establish a diagnosis and to monitor the disease. The paraprotein is a specific immunoglobulin (or fragment of immunoglobulin) originally produced by the mutated plasma cell, which began to multiply and is now produced by the entire line of malignant cells.
+
+In theory, multiple myeloma can produce all classes of immunoglobulin, but IgG paraproteins are most common, followed by IgA and IgM. IgD and IgE myeloma are very rare. In addition, light and or heavy chains (the building blocks of antibodies) may be secreted in isolation: κ- or λ-light chains or any of the five types of heavy chains (α-, γ-, δ-, ε- or μ-heavy chains). People without evidence of a monoclonal protein may have "nonsecretory" myeloma (not producing immunoglobulins); this represents about 3% of all people with multiple myeloma.
+
+Additional findings may include a raised calcium level (when osteoclasts are breaking down bone, releasing it into the bloodstream), raised serum creatinine level due to reduced kidney function, which is mainly due to casts of paraprotein deposition in the kidney, although the cast may also contain complete immunoglobulins, Tamm–Horsfall protein and albumin.
+
+Other useful laboratory tests include quantitative measurements of IgA, IgG, and IgM to look for immune paresis, and beta-2 microglobulin, which provides prognostic information. On peripheral blood smear, the rouleaux formation of red blood cells is commonly seen, though this is not specific.
+
+The recent introduction of a commercial immunoassay for the measurement of free light chains potentially offers an improvement in monitoring disease progression and response to treatment, particularly where the paraprotein is difficult to measure accurately by electrophoresis (for example, in light chain myeloma, or where the paraprotein level is very low). Initial research also suggests that measuring free light chains may also be used, in conjunction with other markers, for assessment of the risk of progression from MGUS to multiple myeloma.
+
+This assay, the serum free light chain assay, has recently been recommended by the International Myeloma Working Group for the screening, diagnosis, prognosis, and monitoring of plasma cell dyscrasias.
+
+=== Histopathology ===
+
+A bone marrow biopsy is usually performed to estimate the percentage of bone marrow occupied by plasma cells. This percentage is used in the diagnostic criteria for myeloma. Immunohistochemistry (staining particular cell types using antibodies against surface proteins) can detect plasma cells that express immunoglobulin in the cytoplasm and occasionally on the cell surface; myeloma cells are often CD56, CD38, CD138, and CD319 positive and CD19, CD20, and CD45 negative. Flow cytometry is often used to establish the clonal nature of the plasma cells, which will generally express only kappa or lambda light chain. Cytogenetics may also be performed in myeloma for prognostic purposes, including a myeloma-specific fluorescent in situ hybridization and virtual karyotype.
+
+The plasma cells seen in multiple myeloma have several possible morphologies. First, they could appear like a normal plasma cell, a large cell two or three times the size of a peripheral lymphocyte. Because they are actively producing antibodies, the Golgi apparatus typically produces a light-colored area adjacent to the nucleus, called a perinuclear halo. The single nucleus (with a single nucleolus with vesicular nuclear chromatin) is eccentric, displaced by an abundant cytoplasm.
+
+Other common morphologies seen, but which are not usual in normal plasma cells, include:
+
+Bizarre cells, which are multinucleated
+
+Mott cells, containing multiple clustered cytoplasmic droplets or other inclusions (sometimes confused with Auer rods, commonly seen in myeloid blasts)
+
+Flame cells, having a fiery red cytoplasm
+
+Historically, the CD138 has been used to isolate myeloma cells for diagnostic purposes. However, this antigen disappears rapidly ex vivo. Recently, however, the surface antigen CD319 (SLAMF7) was discovered to be considerably more stable and allows robust isolation of malignant plasma cells from delayed or even cryopreserved samples.
+
+The prognosis varies widely depending on various risk factors. The Mayo Clinic has developed a risk-stratification model termed Mayo Stratification for Myeloma and Risk-adapted Therapy (mSMART), which categorizes people into high-risk and standard-risk groups. People with deletion of chromosome 13 or hypodiploidy by conventional cytogenetics, t(4;14), t(14;16), t(14;20) or 17p- by molecular genetic studies, or with a high plasma cell labeling index (3% or more) are considered to have high-risk myeloma.
+
+=== Medical imaging ===
+
+The diagnostic examination of a person with suspected multiple myeloma typically includes a skeletal survey. This is a series of X-rays of the skull, axial skeleton, and proximal long bones. Myeloma activity sometimes appears as "lytic lesions" (with local disappearance of normal bone due to resorption) or as "punched-out lesions" on the skull X-ray ("raindrop skull"). Lesions may also be sclerotic, which is seen as radiodense. Overall, the radiodensity of myeloma is between −30 and 120 Hounsfield units (HU). Magnetic resonance imaging is more sensitive than simple X-rays in the detection of lytic lesions. An MRI may supersede a skeletal survey, especially when vertebral disease is suspected. Occasionally, a CT scan is performed to measure the size of soft-tissue plasmacytomas. Nuclear medicine bone scans are typically not of any additional value in the workup of people with myeloma (no new bone formation; lytic lesions not well visualized on nuclear bone scan).
+
+=== Diagnostic criteria ===
+
+In 2003, the IMWG agreed on diagnostic criteria for symptomatic myeloma, asymptomatic myeloma, and MGUS, which was subsequently updated in 2009:
+
+Symptomatic myeloma (all three criteria must be met):
+
+Clonal plasma cells >10% on bone marrow biopsy or (in any quantity) in a biopsy from other tissues (plasmacytoma)
+
+A monoclonal protein (myeloma protein) in either serum or urine, and it has to be more than 3g/dL (except in cases of true nonsecretory myeloma)
+
+Evidence of end-organ damage felt related to the plasma cell disorder (related organ or tissue impairment, CRAB):
+
+HyperCalcemia (corrected calcium >2.75 mmol/L, >11 mg/dL)
+
+Renal failure (kidney insufficiency) attributable to myeloma
+
+Anemia (hemoglobin <10 g/dL)
+
+Bone lesions (lytic lesions or osteoporosis with compression fractures)
+
+Note: Recurrent infections alone in a person who has none of the CRAB features are not sufficient to make the diagnosis of myeloma. People who lack CRAB features, but have evidence of amyloidosis, should be considered as having amyloidosis and not myeloma. CRAB-like abnormalities are common with numerous diseases, and these abnormalities must be felt to be directly attributable to the related plasma cell disorder, and every attempt made to rule out other underlying causes of anemia, kidney failure, etc.
+
+In 2014, the IMWG updated its criteria further to include biomarkers of malignancy. These biomarkers are >60% clonal plasma cells, a serum involved / uninvolved free light chain ratio ≥ 100 (the concentration of the involved free light chain must be ≥ 100 mg/L) and more than one focal lesion ≥ 5 mm by MRI. Together, these biomarkers and the CRAB criteria are known as myeloma-defining events (MDEs). A person must have >10 % clonal plasma cells and any MDE to be diagnosed with myeloma. The biomarker criteria were added so that smouldering people with multiple myeloma at high risk of developing multiple myeloma could be diagnosed before organ damage occurred, so they would therefore have a better prognosis.
+
+Asymptomatic/smoldering myeloma:
+
+Serum M protein >30 g/L (3 g/dL) or
+
+Clonal plasma cells >10% on bone marrow biopsy and
+
+No myeloma-related organ or tissue impairment
+
+Monoclonal gammopathy of undetermined significance (MGUS):
+
+Serum paraprotein <30 g/L (3 g/dL) and
+
+Clonal plasma cells <10% on bone marrow biopsy and
+
+No myeloma-related organ or tissue impairment or a related B-cell lymphoproliferative disorder
+
+Related conditions include solitary plasmacytoma (a single tumor of plasma cells, typically treated with irradiation), plasma cell dyscrasia (where only the antibodies produce symptoms, e.g., AL amyloidosis), and peripheral neuropathy, organomegaly, endocrinopathy, monoclonal plasma cell disorder, and skin changes.
+
+=== Staging ===
+
+In multiple myeloma, staging helps with prognostication but does not guide treatment decisions. The Durie-Salmon staging system was used historically and was replaced by the International Staging System (ISS), published by the International Myeloma Working Group in 2005. The revised ISS (R-ISS) was published in 2015 and incorporates cytogenetics and lactate dehydrogenase (LDH).
+
+Stage I: β2 microglobulin (β2M) < 3.5 mg/L, albumin ≥ 3.5 g/dL, normal cytogenetics, no elevated LDH
+
+Stage II: Not classified under Stage I or Stage III
+
+Stage III: β2M ≥ 5.5 mg/L and either elevated LDH or high-risk cytogenetics [t(4,14), t(14,16), and/or del(17p)]
+
+== Prevention ==
+
+The risk of developing multiple myeloma can be reduced slightly by maintaining a normal body weight.
+
+== Treatment ==
+
+Most drug therapies employ multiple agents, e.g., so-called "triplet" or "quadruplet" therapies. Many such groupings include one or more of a monoclonal antibody (e.g., isatuximab or daratumumab), an immunomodulatory agent (e.g., lenalidomide or pomalidomide), and a proteasome inhibitor (e.g., or bortezomib, carfilzomib or ixazomib), in combination with a steroid (e.g., dexamethasone).
+
+While triplet therapies were the standard of care for many years, current practice more commonly applies quadruplets of drugs. Such combination therapies are commonly referenced by initials, employing upper-case letters for drug brand names and lower-case letters for generic drug names, e.g., VRd for Velcade (brand name for bortezomib), Revlimid (brand name for lenalidomide), and dexamethasone. Similarly with DKRd, with the D representing Darzalex (brand name for daratumumab), and K representing Kyprolis (brand name for carfilzomib). (Emerging practice is not to call such drugs "chemotherapy" because they are not the traditional non-specific intracellular poisons that operate in the classic "chemo" fashion of inhibiting mitosis or inducing DNA damage.)
+
+Commonly, the efficacy of each drug diminishes over time, as the cancer develops drug resistance mechanisms, such as clonal evolution or genetic mutations. In part for this reason, multiple myeloma has not historically been treated when in its "smoldering" stage, since the drug(s) utilized may then be of diminished efficacy if the disease progresses to a symptomatic stage. Thus, the standard of care was "watchful waiting" while the disease smoldered. Increasingly, however, efforts are underway to study whether drug therapies applied during the smoldering stage might prevent the disease from ever advancing to the active stage. Exemplary are the GEM-CESAR, ASCENT and Immuno-PRISM clinical trials.
+
+After drug therapy has reduced a patient's cancer burden, some patients undergo a bone marrow transplant (more properly termed a autologous hematopoietic stem cell transplant, or ASCT) to suppress the disease further. However, this procedure is not available for frail patients, as it essentially resets aspects of the immune system and requires redevelopment of natural defenses, such as by administering childhood vaccines.
+
+Increasingly, precision medicine therapies are being explored, with research indicating that certain variants and genetic subtypes of the disease respond more favorably to some drug therapies than others. For example, some research indicates that patients with the t(11,14) genetic translocation (present in about 15-20% of multiple myeloma patients) may particularly benefit from Venetoclax therapy (which is FDA approved for other blood cancers but not yet available for multiple myeloma patients except through clinical trials).
+
+While drug therapies commonly entail months or years of treatment, CAR-T therapy offers the alternative of a single treatment (albeit involving a prolonged hospital stay). Moreover, CAR-T treatment seems to provide a deeper, longer-lasting disease remission than existing drugs. The FDA originally approved CAR T-Cell therapy only for myeloma patients in later stages of the disease, but in 2024 expanded approval to include patients who have relapsed after only a single line of treatment.
+
+A therapy that also leverages T-cell immune response is the class of drugs termed bispecific T-cell engagers (BITE), or sometimes simply bispecific antibodies. The first drug in this class approved for multiple myeloma is teclistamab, but its use is reserved for people in the later stages of the disease. Another BITE drug, talquetamab is under study.
+
+Treatment is indicated in myeloma with symptoms. If there are no symptoms, but a paraprotein typical of myeloma and diagnostic bone marrow is present without end-organ damage, treatment is usually deferred or restricted to clinical trials. Treatment for multiple myeloma is focused on decreasing the clonal plasma cell population and consequently decrease the symptoms of disease.
+
+=== Chemotherapy ===
+
+==== Initial ====
+
+The preferred treatment for those under the age of 65 treatment with bortezomib-based regimens, and lenalidomide–dexamethasone, to be followed by high dose chemotherapy and stem cell transplant. A 2016 study concluded that a stem cell transplant is the preferred treatment for multiple myeloma. There are two types of stem cell transplants to treat multiple myeloma. In autologous hematopoietic stem-cell transplantation (ASCT) – the patient's stem cells are collected from the patient's blood. The patient is given high-dose chemotherapy, and the patient's stem cells are then transplanted back into the patient. The process is not curative but does prolong overall survival and complete remission. In allogeneic stem-cell transplantation, a healthy donor's stem cells are transplanted into the affected person. Allogenic stem-cell transplantation has the potential for a cure, but is used in a very small percentage of people (and in the relapsed setting, not as part of initial treatment). Furthermore, a 5–10% treatment-associated mortality rate is associated with allogeneic stem-cell transplant.
+
+People over age 65 and people with significant concurrent illnesses often cannot tolerate stem-cell transplantation. For these people, the standard of care has been chemotherapy with melphalan and prednisone. Recent studies among this population suggest improved outcomes with new chemotherapy regimens, e.g., with bortezomib. Treatment with bortezomib, melphalan, and prednisone had an estimated overall survival of 83% at 30 months, lenalidomide plus low-dose dexamethasone an 82% survival at 2 years, and melphalan, prednisone, and lenalidomide had a 90% survival at 2 years. Head-to-head studies comparing these regimens have not been performed as of 2008.
+
+There is support for continuous therapies with multiple drug combinations of antimyeloma drugs bortezomib, lenalidomide, and thalidomide as initial treatment for transplant-ineligible multiple myeloma. Further clinical studies are required to determine the potential harms of these drugs and their effect on the person's quality of life. A 2009 review noted, "Deep venous thrombosis and pulmonary embolism are the major side effects of
+
+thalidomide and lenalidomide. Lenalidomide causes more myelosuppression, and thalidomide causes more sedation. Chemotherapy-induced peripheral neuropathy and thrombocytopenia are major side effects of bortezomib." The addition of subcutaneous daratumumab to induction and consolidation therapy with bortezomib, lenalidomide, and dexamethasone, and to lenalidomide maintenance therapy, conferred improved progression-free survival among transplantation-eligible patients with newly diagnosed multiple myeloma.
+
+Treatment of related hyperviscosity syndrome may be required to prevent neurologic symptoms or kidney failure.
+
+==== Maintenance ====
+
+Most people, including those treated with ASCT, relapse after initial treatment. Maintenance therapy using a prolonged course of low-toxicity medications is often used to prevent relapse. A 2017 meta-analysis showed that post-ASCT maintenance therapy with lenalidomide improved progression-free survival and overall survival in people at standard risk. A 2012 clinical trial showed that people with intermediate- and high-risk disease benefit from a bortezomib-based maintenance regimen.
+
+==== Relapse ====
+
+Reasons for relapse include disease evolution, either from the selective pressure applied by treatment or by de novo mutations and/or if the disease was inadequately represented in the initial biopsy. Relapse within the first 18 months of diagnosis is considered as functional high-risk multiple myeloma. Depending on the person's condition, the prior treatment modalities used, and the duration of remission, options for relapsed disease include retreatment with the original agent, use of other agents (such as melphalan, cyclophosphamide, thalidomide, or dexamethasone, alone or in combination), and a second ASCT.
+
+Later in the course of the disease, it becomes refractory (resistant) to formerly effective treatment. This stage is referred to as relapsed/refractory multiple myeloma (RRMM). Treatment modalities that are commonly used to treat RRMM include dexamethasone, proteasome inhibitors (e.g. bortezomib and carfilzomib), immunomodulatory imide drugs (e.g. thalidomide, lenalidomide, and pomalidomide), and certain monoclonal antibodies (e.g. isatuximab against CD38 or antibodies targeting CD319). Survival expectancy has risen in recent years, and new treatments are under development.
+
+Kidney failure in multiple myeloma can be acute (reversible) or chronic (irreversible). Acute kidney failure typically resolves when the calcium and paraprotein levels are brought under control. Treatment of chronic kidney failure is dependent on the type of kidney failure and may involve dialysis.
+
+Several newer options are approved for the management of advanced disease:
+
+belantamab mafodotin: a monoclonal antibody against B-cell maturation antigen (BCMA), also known as CD269, indicated for the treatment of adults with relapsed or refractory multiple myeloma who have received at least four prior therapies including an anti-CD38 monoclonal antibody, a proteasome inhibitor, and an immunomodulatory agent.
+
+carfilzomib: a proteasome inhibitor that is indicated:
+
+as a single agent in people who have received one or more lines of therapy
+
+in combination with dexamethasone or with lenalidomide and dexamethasone in people who have received one to three lines of therapy
+
+daratumumab: a monoclonal antibody against CD38 indicated in people who have received at least three prior lines of therapy including a proteasome inhibitor and an immunomodulatory agent or who are double refractory to a proteasome inhibitor and an immunomodulatory agent
+
+elotuzumab: an immunostimulatory humanized monoclonal antibody against SLAMF7 (also known as CD319) indicated in combination with lenalidomide and dexamethasone in people who have received one to three prior therapies
+
+isatuximab: a monoclonal antibody against CD38 indicated in combination with pomalidomide and dexamethasone for the treatment of adults with multiple myeloma who have received at least two prior therapies including lenalidomide and a proteasome inhibitor.
+
+ixazomib: an orally available proteasome inhibitor indicated in combination with lenalidomide and dexamethasone in people who have received at least one prior therapy
+
+panobinostat: an orally available histone deacetylase inhibitor used in combination with bortezomib and dexamethasone in people who have received at least two prior chemotherapy regimens, including bortezomib and an immunomodulatory agent
+
+selinexor: an orally available selective inhibitor of nuclear export indicated in combination with dexamethasone in people who have received at least four prior therapies and whose disease does not respond to at least two proteasome inhibitors, two immunomodulatory agents and an anti-CD38 monoclonal antibody
+
+idecabtagene vicleucel: first cell-based gene therapy was approved by FDA in 2021 for the treatment of adults with relapsed or refractory multiple myeloma who have received at least four prior therapies
+
+Talquetamab (Talvey) and elranatamab (Elrexfio) were approved for medical use in the United States in August 2023.
+
+=== Stem cell transplant ===
+
+Stem cell transplant can be used to treat multiple myeloma, either using one's own stem cells (autograft) or from a donor (allograft). Allografts come with a particular risk of a graft-versus-host-disease. Mesenchymal stromal cells may reduce all-cause mortality if they are used for a therapeutic reason, and the therapeutic use of MSCs may increase the complete response of acute and chronic GvHD, but the evidence is very uncertain. The evidence suggests that MSCs for prophylactic reason result in little to no difference in all-cause mortality, in the relapse of malignant diseases, and in the incidence of acute GvHD. The evidence suggests that MSCs for prophylactic reason reduce the incidence of chronic GvHD.
+
+=== CAR-T cell therapy ===
+
+Two CAR T cell platforms have been approved in multiple myeloma:
+
+Idecabtagene vicleucel (Abecma) – first cell-based gene therapy was approved by FDA in 2021 for the treatment of adults with relapsed or refractory multiple myeloma who have received at least four prior therapies
+
+Ciltacabtagene autoleucel (Carvykti) was approved for medical use in the United States in February 2022. Ciltacabtagene autoleucel is indicated for the treatment of adults with relapsed or refractory multiple myeloma after four or more prior lines of therapy, including a proteasome inhibitor, an immunomodulatory agent, and an anti-CD38 monoclonal antibody.
+
+=== Other measures ===
+
+In addition to direct treatment of the plasma cell proliferation, bisphosphonates (e.g., pamidronate or zoledronic acid) are routinely administered to prevent fractures; they have also been observed to have a direct antitumor effect even in people without known skeletal disease. If needed, red blood cell transfusions or erythropoietin can be used for management of anemia.
+
+=== Side effects ===
+
+Chemotherapies and stem cell transplants can cause unwanted bleeding and may require platelet transfusions. It was seen that platelet transfusions for people undergoing chemotherapy or stem cell transplantation for the prevention of bleeding events had different effects on the number of participants with a bleeding event, the number of days on which bleeding occurred, the mortality secondary to bleeding and the number of platelet transfusions depending on the way they were used (therapeutic, depending on a threshold, different dose schedules or prophylactic).
+
+=== Supportive treatment ===
+
+Adding physical exercises to the standard treatment for adult patients with haematological malignancies like multiple myeloma may result in little to no difference in mortality, in the quality of life, and physical functioning. These exercises may result in a slight reduction in depression. Furthermore, aerobic physical exercises probably reduce fatigue. The evidence is very uncertain about the effect and serious adverse events
+
+=== Palliative care ===
+
+Multiple national cancer treatment guidelines recommend early palliative care for people with advanced multiple myeloma at the time of diagnosis and for anyone who has significant symptoms.
+
+Palliative care is appropriate at any stage of multiple myeloma and can be provided alongside curative treatment. In addition to addressing symptoms of cancer, palliative care helps manage unwanted side effects, such as pain and nausea related to treatments.
+
+=== Teeth ===
+
+Oral prophylaxis, hygiene instruction, and elimination of sources of infection within the mouth before beginning cancer treatment can reduce the risk of infectious complications. Before starting bisphosphonate therapy, the person's dental health should be evaluated to assess the risk factors to prevent the development of medication-related osteonecrosis of the jaw (MRONJ). If there are any symptoms or radiographic appearance of MRONJ, such as jaw pain, loose tooth, or mucosal swelling, early referral to an oral surgeon is recommended. Dental extractions should be avoided during the active period of treatment, and the affected tooth should be treated with nonsurgical root canal therapies instead.
+
+== Prognosis ==
+
+Overall the 5-year survival rate is around 54% in the United States. With high-dose therapy followed by ASCT, the median survival has been estimated in 2003 to be about 4.5 years, compared to a median around 3.5 years with "standard" therapy.
+
+The international staging system can help to predict survival, with a median survival (in 2005) of 62 months for stage-1 disease, 45 months for stage-2 disease, and 29 months for stage-3 disease. The median age at diagnosis is 69 years.
+
+=== Genetic testing ===
+
+SNP array karyotyping can detect copy number alterations of prognostic significance that may be missed by a targeted FISH panel.
+
+The following table outlines the prognostic effect of various genetic findings in multiple myeloma, with chromosomal translocations designated t, followed by standard nomenclature thereof:
+
+== Epidemiology ==
+
+Globally, multiple myeloma affected 488,000 people and resulted in 101,100 deaths in 2015. This is up from 49,000 in 1990.
+
+=== United Kingdom ===
+
+Myeloma is the 17th-most common cancer in the UK: around 4,800 people were diagnosed with the disease in 2011. It is the 16th-most common cause of cancer death: around 2,700 people died of it in 2012.
+
+=== United States ===
+
+In the United States in 2016, an estimated 30,330 new cases and 12,650 deaths were reported. These numbers are based on assumptions made using data from 2011, which estimated the number of people affected as 83,367 people, the number of new cases as 6.1 per 100,000 people per year, and the mortality as 3.4 per 100,000 people per year.
+
+Multiple myeloma is the second-most prevalent blood cancer (10%) after non-Hodgkin's lymphoma. It represents about 1.8% of all new cancers and 2.1% of all cancer deaths.
+
+Multiple myeloma affects slightly more men than women. African Americans and Native Pacific Islanders have the highest reported number of new cases of this disease in the United States, and Asians have the lowest. Results of one study found the number of new cases of myeloma to be 9.5 cases per 100,000 African Americans and 4.1 cases per 100,000 Caucasian Americans. Among African Americans, myeloma is one of the top-10 causes of cancer death.
+
+== Other animals ==
+
+Multiple myeloma has been diagnosed in dogs, cats, and horses.
+
+In dogs, multiple myeloma accounts for around 8% of all haemopoietic tumors. Multiple myeloma occurs in older dogs and is not particularly associated with either males or females. No breeds appear overrepresented in case reviews that have been conducted. Diagnosis in dogs is usually delayed due to the initial nonspecificity and range of clinical signs possible. Diagnosis usually involves bone marrow studies, X-rays, and plasma-protein studies. In dogs, protein studies usually reveal the monoclonal gammaglobulin elevation to be IgA or IgG in an equal number of cases. In rare cases the globulin elevation is IgM, which is referred to as Waldenström's macroglobulinemia. The prognosis for initial control and return to good quality of life in dogs is good; 43% of dogs started on a combination chemotherapeutic protocol achieved complete remission. Long-term survival is normal, with a median of 540 days reported. The disease eventually recurs, becoming resistant to available therapies. The complications of kidney failure, sepsis, or pain can lead to an animal's death, frequently by euthanasia.
+
+== See also ==
+
+Development of analogs of thalidomide
+
+== References ==
+
+== External links ==
