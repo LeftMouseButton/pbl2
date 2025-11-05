@@ -1,0 +1,83 @@
+Ewing sarcoma is a type of pediatric cancer that forms in bone or soft tissue. Symptoms may include swelling and pain at the site of the tumor, fever, and a bone fracture. The most common areas where it begins are the legs, pelvis, and chest wall. In about 25% of cases, the cancer has already spread to other parts of the body at the time of diagnosis. Complications may include a pleural effusion or paraplegia.
+
+It is a type of small round cell sarcoma. The cause of Ewing sarcoma is unknown, most cases appearing to occur randomly. Though not strongly associated with known hereditary cancer syndromes, accumulating evidence suggests a strong inherited risk factor, identifying a genetic component having multiple chromosome loci associated with Ewing sarcoma susceptibility. Sometimes Ewing sarcoma is associated with a germline mutation. The underlying mechanism often involves a genetic change known as a reciprocal translocation. Diagnosis is based on biopsy of the tumor.
+
+Treatment often includes chemotherapy, radiation therapy, surgery, and stem cell transplant. Targeted therapy and immunotherapy are being studied. Five-year survival is about 70%. A number of factors, however, affect this estimate.
+
+In 1920, James Ewing discerned that these tumors are a distinct type of cancer. It affects approximately one in a million people per year in the United States. Ewing sarcoma occurs most often in teenagers and young adults and represents 2% of childhood cancers. Caucasians are affected more often than African Americans or Asians, while males are affected more often than females.
+
+== Signs and symptoms ==
+
+Ewing sarcoma is more common in males (1.6 male:1 female) and usually presents in childhood or early adulthood, with a peak between 10 and 20 years of age. It can occur anywhere in the body but most commonly in the pelvis and proximal long tubular bones, especially around the growth plates. The diaphyses of the femur are the most common sites, followed by the tibia and the humerus. Thirty percent are overtly metastatic at presentation, while 10–15% of people present with a pathologic fracture at the time of diagnosis. People usually experience extreme bone pain. Rarely, the tumor presents as extraskeletal, or outside the bone, such as in the vagina, pleura, or otherwise.
+
+Signs and symptoms include intermittent fevers, anemia, leukocytosis, increased sedimentation rate, and other symptoms of inflammatory systemic illness.
+
+According to the Bone Cancer Research Trust (BCRT), the most common symptoms are localized pain, swelling, and sporadic bone pain with variable intensity. The swelling is most likely to be visible if the sarcoma is located on a bone near the surface of the body, but when it occurs in other places deeper in the body, like on the pelvis, it may not be visible.
+
+== Genetics ==
+
+Genetic exchange between chromosomes can cause cells to become cancerous. Most cases of Ewing sarcoma (about 85%) are the result of a defining genetic event; a reciprocal translocation between chromosomes 11 and 22, t(11,22), which fuses the Ewing Sarcoma Breakpoint Region 1 (EWSR1) gene of chromosome 22 (which encodes the EWS protein) to the Friend Leukemia Virus Integration 1 (FLI1) gene (which encodes Friend Leukemia Integration 1 transcription factor (FLI1), a member of the ETS transcription factor family) of chromosome 11. The resultant chromosomal translocation causes the EWS trans-activation domain (which is usually silent in the wild type) to become very active, this leads to the translation of a new EWS-FLI1 fusion protein. EWS proteins are involved in meiosis, B-lymphocyte maturation, hematopoietic stem cell renewal, DNA repair and cell senescence. ETS transcription factors are involved in cell differentiation and cell cycle control. The EWS-FLI1 fusion protein has phase transition properties allowing it to transition into a liquid-like phase, separated by compartments consisting of membrane-less organelles. This phase transition property allows the fusion protein to access and activate micro-satellite regions of the genome that would otherwise be inaccessible. This fusion protein can convert usually silent chromatin regions into fully active enhancers leading to oncogenesis of the cells.
+
+The EWS-FLI1 fusion protein also causes variable expression of the genome via epigenetic mechanisms. The fusion protein does this by recruiting enzymes that affect DNA methylation, histone acetylation and direct inhibition of non-coding microRNA. EWS-FLI1 promotes histone acetylation, which leads to uncoiling of DNA (which is usually tightly wound around histones); this chromatin relaxation leads to the DNA being more accessible to transcription factors and thus enhancing the expression of the associated genes. DNA methylation leads to gene silencing as it prevents transcription factor binding. EWS-FLI1 reduces DNA methylation (which occurs mostly in areas corresponding to transcription enhancers), leading to increased gene expression. The EWS-FLI1 fusion protein inhibits certain microRNAs of cells (such as miRNA-145). MiRNA-145 normally activates RNA-induced silencing complexes (RISCs) to inhibit or degrade mRNA that is involved in cell pluripotency. Thus, ESW-FLI1 inhibition of the microRNA miRNA-145 leads to increased pluripotency, decreased differentiation of cells and increased oncogenesis.
+
+A 2012 genome-wide association study (GWAS) identified three susceptibility loci located on chromosomes 1, 10 and 15. A 2015 continuative study discovered that the Ewing sarcoma susceptibility gene EGR2, which is located within the chromosome 10 susceptibility locus, is regulated by the EWSR1-FLI1 fusion oncogene via a GGAA-microsatellite. A 2018 GWAS (Machiela, et al, 2018) reaffirmed the susceptibility loci on chromosomes 1, 10 and 15 and added 3 additional loci on chromosomes 6 and 20; totaling 1p36.22, 6p25.1, 10q21.3, 15q15.1, 20p11.22 and 20p11.23. The latter locus is near NKX2-2, a highly overexpressed gene in Ewing sarcoma.
+
+EWS/FLI functions as the master regulator. Other translocations are at t(21;22) and t(7;22). Ewing sarcoma cells are positive for CD99 and MIC2, and negative for CD45.
+
+== Diagnosis ==
+
+The definitive diagnosis is based on histomorphologic findings, immunohistochemistry and molecular pathology.
+
+Ewing sarcoma is a small-blue-round-cell tumor that typically has a clear cytoplasm on H&E staining, due to glycogen. The presence of the glycogen can be demonstrated with positive PAS staining and negative PAS diastase staining. The characteristic immunostain is CD99, which diffusely marks the cell membrane. However, as CD99 is not specific for Ewing sarcoma, several auxiliary immunohistochemical markers can be employed to support the histological diagnosis. Morphologic and immunohistochemical findings are corroborated with an associated chromosomal translocation, of which several occur. The most common translocation, present in about 90% of Ewing sarcoma cases, is t(11;22)(q24;q12), which generates an aberrant transcription factor through fusion of the EWSR1 gene with the FLI1 gene.
+
+The pathologic differential diagnosis is the grouping of small-blue-round-cell tumors, which includes lymphoma, alveolar rhabdomyosarcoma, and desmoplastic small round cell tumor, among others.
+
+=== Medical imaging ===
+
+On conventional radiographs, typical findings of Ewing sarcoma consist of multiple confluent lytic bone lesions that have a "moth eaten" pattern due to permeative destruction of bone. There will also be a displaced periosteum as the new sub-periosteal layer of bone begins to grow on top of the tumor. This raised or displaced periosteum is consistent with the classic radiographic finding of the Codman triangle. The proliferative reaction of bone can also create delicate laminations constituting the periosteal layers and giving the radiographic appearance of an onion peel. Plain films add valuable information in the initial evaluation or screening. The wide zone of transition (e.g. permeative) is the most useful plain film characteristic in differentiation of benign versus aggressive or malignant lytic lesions.
+
+Magnetic resonance imaging (MRI) should be routinely used in the work-up of malignant tumors. It will show the full bony and soft tissue extent and relate the tumor to other nearby anatomic structures (e.g. vessels). Gadolinium contrast is not necessary as it does not give additional information over noncontrast studies, though some current researchers argue that dynamic, contrast-enhanced MRI may help determine the amount of necrosis within the tumor, thus help in determining response to treatment prior to surgery.
+
+Computed axial tomography (CT) can also be used to define the extraosseous extent of the tumor, especially in the skull, spine, ribs, and pelvis. Both CT and MRI can be used to follow response to radiation and/or chemotherapy. Bone scintigraphy can also be used to follow tumor response to therapy.
+
+In the group of malignant small round cell tumors that includes Ewing sarcoma, bone lymphoma, and small cell osteosarcoma, the cortex may appear almost normal radiographically, while permeative growth occurs throughout the Haversian channels. These tumors may be accompanied by a large soft-tissue mass while almost no bone destruction is visible. The radiographs frequently do not show any signs of cortical destruction.
+
+Radiographically, Ewing sarcoma presents as "moth-eaten" destructive radiolucencies of the medulla and erosion of the cortex with expansion.
+
+=== Differential diagnosis ===
+
+Other entities with similar clinical presentations include osteomyelitis, osteosarcoma (especially telangiectatic osteosarcoma), and eosinophilic granuloma. Soft-tissue neoplasms such as pleomorphic undifferentiated sarcoma (malignant fibrous histiocytoma) that erode into adjacent bone may also have a similar appearance. Accumulating evidence suggests that EWSR1-NFATc2 positive sarcomas, which were previously considered to possibly belong to the Ewing family of tumors, differ from Ewing sarcoma in their genetics, transcriptomes, and epigenetic and epidemiological profiles, indicating that they might represent a distinct tumor entity.
+
+== Treatment ==
+
+Almost all people receive multidrug chemotherapy (most often vincristine, doxorubicin, cyclophosphamide, ifosfamide, and etoposide), as well as local disease control with surgery and/or radiation. An aggressive approach is necessary because almost all people with apparently localized disease at the time of diagnosis actually have asymptomatic metastatic disease.
+
+The surgical resection may involve limb salvage or amputation. Complete excision at the time of biopsy may be performed if malignancy is confirmed at the time it is examined. Treatment lengths vary depending on location and stage of the disease at diagnosis. Radical chemotherapy may be as short as six treatments at three-week cycles, but most people undergo chemotherapy for 6–12 months and radiation therapy for 5–8 weeks. Radiotherapy has been used for localized disease. The tumor has a unique property of being highly sensitive to radiation, sometimes acknowledged by the phrase "melting like snow", but the main drawback is that it recurs dramatically after some time.
+
+Antisense oligodeoxynucleotides have been proposed as possible treatment by down-regulating the expression of the oncogenic fusion protein associated with the development of Ewing sarcoma resulting from the EWS-ETS gene translocation. In addition, the synthetic retinoid derivative fenretinide (4-hydroxy(phenyl)retinamide) has been reported to induce high levels of cell death in Ewing sarcoma cell lines in vitro and to delay growth of xenografts in in vivo mouse models.
+
+In most pediatric cancers including sarcoma, proton beam radiation (also known as proton therapy) delivers an equally effective dose to the tumor with less damage to the surrounding normal tissue compared to photon radiation.
+
+== Prognosis ==
+
+Staging attempts to distinguish people with localized from those with metastatic disease. The most common areas of metastasis are the lungs, bone and bone marrow with less common areas of metastasis being the lymph nodes, liver, and brain. The presence of metastatic disease is the most important prognostic factor in Ewing sarcoma, with the 5-year survival rate being only 30% when metastasis is present at the time of diagnosis, compared to a 70% 5-year survival rate with no metastasis present. Another important prognostic factor is the location of the primary tumor; proximal tumors (located in the pelvis and sacrum) are worse prognostic indicators as compared to more distal tumors. Other factors associated with a poor prognosis include a large primary neoplasm, older age at diagnosis (older than 18 years of age), and increased lactate dehydrogenase (LDH) levels.
+
+Five-year survival for localized disease is greater than 70% after therapy. Prior to the use of multi-drug chemotherapy, long-term survival was less than 10%. The development of multi-disciplinary therapy with chemotherapy, irradiation, and surgery has increased current long-term survival rates in most clinical centers to greater than 50%. However, some sources state it is 25–30%.
+
+Retrospective research showed that two chemokine receptors, CXCR4 and CXCR7, can be used as molecular prognosis factors. People who express low levels of both chemokine receptors have the highest odds of long-term survival with >90% survival at five years post-diagnosis versus <30% survival at five years for patients with very high expression levels of both receptors. A recent study also suggested a role for SOX2 as an independent prognostic biomarker that can be used to identify patients at high risk for tumor relapse.
+
+== Epidemiology ==
+
+Ewing sarcomas represent 16% of primary bone sarcomas. In the United States, they are most common in the second decade of life, with a rate of 0.3 cases per million in children under 3 years of age, and as high as 4.6 cases per million in adolescents aged 15–19 years. Nearly 80% of patients are aged less than 20 years of age. It is uncommon in patients younger than 5 years and older than 30 years.
+
+Internationally, the annual incidence rate averages less than 2 cases per million children. In the United Kingdom, an average of six children per year are diagnosed; mainly males in early stages of puberty. With occurrences primarily arising in older children and teenagers, one causal theory is puberty, e.g. its rapid growth spurts making bone tissue more cancer susceptible during development years.
+
+A grouping of three unrelated teenagers in Wake Forest, North Carolina, have been diagnosed with Ewing sarcoma. All three children were diagnosed in 2011 and all attended the same temporary classroom together while the school underwent renovation. A fourth teenager living nearby was diagnosed in 2009. The odds of this grouping are considered significant. Ewing sarcoma occurs about 10- to 20-fold more commonly in people of European descent compared to people of African descent.
+
+Ewing sarcoma is the second most common bone cancer in children and adolescents, with poor prognosis and outcome in ~70% of initial diagnoses and 10–15% of relapses.
+
+== References ==
+
+== Further reading ==
+
+== External links ==

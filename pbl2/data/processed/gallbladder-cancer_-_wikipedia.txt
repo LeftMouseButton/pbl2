@@ -1,0 +1,85 @@
+Gallbladder cancer is a relatively uncommon cancer, with an incidence of fewer than 2 cases per 100,000 people per year in the United States. It is particularly common in central and South America, central and eastern Europe, Japan and northern India; it is also common in certain ethnic groups such as Native American and Hispanic peoples. If diagnosed early enough, the cancer may be cured by removing the gallbladder, part of the liver and associated lymph nodes. However, the cancer is often only found after patients present with symptoms such as abdominal pain, jaundice and vomiting, and by then it has often spread to other organs such as the liver.
+
+Gallbladder cancer is thought to be related to the formation of gallstones, which may lead to calcification of the gallbladder, a condition known as porcelain gallbladder. Porcelain gallbladder is also rare. Some studies indicate that people with porcelain gallbladder have a high risk of developing gallbladder cancer, but other studies question this. The outlook is poor for recovery if the cancer is found after symptoms have started to occur, with a five-year survival rate of close to 3%.
+
+== Signs and symptoms ==
+
+Steady pain in the upper right abdomen
+
+Indigestion (dyspepsia)
+
+Bilious vomit
+
+Weakness
+
+Loss of appetite
+
+Weight loss
+
+Jaundice and vomiting due to obstruction
+
+Early symptoms mimic gallbladder inflammation due to gallstones. Later, the symptoms may be that of biliary and stomach obstruction.
+
+Of note, Courvoisier's law states that in the presence of a palpably enlarged gallbladder which is nontender and accompanied with mild painless jaundice, the cause is unlikely to be gallstones. This implicates possible malignancy of the gallbladder or pancreas, and the swelling is unlikely due to gallstones due to the chronic inflammation associated with gallstones leading to a shrunken, non-distensible gallbladder. However, the original observations of Ludwig Georg Courvoisier, published in Germany in 1890, were not originally cited as a law, and no mention of malignancy or pain (tenderness) was made. These points are commonly misquoted or confused in the medical literature.
+
+== Risk factors ==
+
+Gender— it is approximately twice as common in women than men and presents commonly in seventh and eighth decades
+
+Obesity
+
+Chronic cholecystitis and cholelithiasis
+
+Primary sclerosing cholangitis
+
+Chronic typhoid infection of gallbladder; chronic Salmonella typhi carriers have 3 to 200 times higher risk of gallbladder cancer than non-carriers and 1–6% lifetime risk of development of cancer
+
+Various single nucleotide polymorphisms (SNPs) have been shown to be associated with gallbladder cancer; however, existing genetic studies in GBC susceptibility have so far been insufficient to confirm any association
+
+Gallbladder polyps
+
+Calcified gallbladder wall (porcelain gallbladder)
+
+Congenital abnormalities of the bile duct such as choledochal cyst
+
+== Diagnosis ==
+
+Early diagnosis is not generally possible. People at high risk, such as women or Native Americans with gallstones, are evaluated closely. Transabdominal ultrasound, CT scan, endoscopic ultrasound, MRI, and MR cholangio-pancreatography (MRCP) may be used for diagnosis. A large number of gallbladder cancers are found incidentally in patients being evaluated for cholelithiasis or gallstone formation, which is far more common. A biopsy is the only certain way to tell whether or not the tumorous growth is malignant.
+
+=== Differential diagnosis ===
+
+Xanthogranulomatous cholecystitis (XGC) is a rare form of gallbladder disease which mimics gallbladder cancer although it is not cancerous. It was first discovered and reported in the medical literature in 1976 by J.J. McCoy Jr., and colleagues.
+
+== Treatment ==
+
+If the cancer is detected early, in a stage before has spread, it may be treatable by surgery. Gallbladder cancer surgery is called radical cholecystectomy or extended cholecystectomy and involves the removal of the gallbladder along with adequate removal of its liver bed to the healthy tissue. The lymph nodes in the vicinity of the cancer may also be removed. Sometimes removal of a large part of the liver called an hepatectomy is required to completely remove the tumor. The bile duct may also need to be removed. However, with gallbladder cancer's poor prognosis, most patients die within a year of surgery. If surgery is not possible, endoscopic stenting or percutaneous transhepatic biliary drainage (PTBD) of the biliary tree may reduce jaundice, and a stent in the stomach may relieve vomiting. Chemotherapy and radiation may also be used with surgery. If gallbladder cancer is diagnosed after cholecystectomy for stone disease (incidental cancer), re-operation to remove part of liver and lymph nodes is required in most cases. When it is done as early as possible, patients have the best chance of long-term survival and even cure.
+
+== Epidemiology ==
+
+Most tumors are adenocarcinomas, with a small percent being squamous cell carcinomas.
+
+Gallbladder cancer is relatively rare, affecting fewer than 5000 people in the United States per year
+
+It is more common in South American countries, Japan, and Israel; in Chile, gallbladder cancer is the fourth most common cause of cancer deaths.
+
+It is the fifth most common gastrointestinal cancer
+
+It is up to five times more common in women than men depending on population (e.g. 73% female in China)
+
+The age adjusted incidence rates of gallbladder cancer is highest in Chile, followed by the state of Assam, India
+
+== Prognosis ==
+
+The prognosis for gallbladder cancer is poor. The cancer commonly spreads to the liver, bile duct, stomach, and duodenum.
+
+== Research ==
+
+A better understanding of the biology of biliary tract cancers, including gallbladder cancer, is being achieved by advances in genomic profiling. This research is providing insight into deficiencies in the tumor cell's ability to accurately repair damages in their own DNA. The tumors in about 25% of patients with biliary tract cancer have some form of DNA damage repair deficiency. Knowledge of such deficiencies can be exploited to potentially increase response to treatment strategies that are currently available such as chemotherapy, radiotherapy, or immunotherapy.
+
+== References ==
+
+== External links ==
+
+U.S. National Cancer Institute Gallbladder Cancer Treatment (www.cancer.gov)
+
+Gallbladder Cancer Foundation (https://gallbladdercancer.org)

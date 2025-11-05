@@ -1,0 +1,53 @@
+Fibrosarcoma (fibroblastic sarcoma) is a malignant mesenchymal tumour derived from fibrous connective tissue and characterized by the presence of immature proliferating fibroblasts or undifferentiated anaplastic spindle cells in a storiform pattern. Fibrosarcomas mainly arise in people between the ages of 25 and 79, but may also occur in infants. It originates in fibrous tissues of the bone and invades long or flat bones such as the femur, tibia, and mandible. It also involves the periosteum and overlying muscle.
+
+== Presentation ==
+
+=== Adult-type ===
+
+Individuals presenting with fibrosarcoma are usually adults thirty to fifty-five years old, often presenting with pain. Among adults, fibrosarcomas develop equally in men and women.
+
+=== Infantile-type ===
+
+In infants, fibrosarcoma (often termed congenital infantile fibrosarcoma) is usually congenital. Infants presenting with this fibrosarcoma usually do so in the first two years of their life. Cytogenetically, congenital infantile fibrosarcoma is characterized by the majority of cases having a translocation between chromosomes 12 and 15 (notated as t(12;15)(p13;q25)) that results in formation of the fusion gene, ETV6-NTRK3, plus individual cases exhibiting trisomy for chromosomes 8, 11, 17, or 20. The histology, association with the ETV6-NRTK3 fusion gene as well as certain chromosome trisomies, and the distribution of markers for cell type (i.e. cyclin D1 and Beta-catenin) within this tumor are similar to those found in the cellular form of mesoblastic nephroma. Indeed, mesoblastic nephroma and congenital infantile sarcoma appear to be the same disease with the exception that mesoblastic lymphoma originates in the kidney whereas congenital infantile sarcoma originates in non-renal tissues.
+
+== Pathology ==
+
+The tumor may present different degrees of differentiation: low grade (differentiated), intermediate malignancy and high malignancy (anaplastic). Depending on this differentiation, tumour cells may resemble mature fibroblasts (spindle-shaped), secreting collagen, with rare mitoses. These cells are arranged in short fascicles which split and merge, giving the appearance of "fish bone" known as a herringbone pattern. Poorly differentiated tumors consist in more atypical cells, pleomorphic, giant cells, multinucleated, numerous atypical mitoses and reduced collagen production. Presence of immature blood vessels (sarcomatous vessels lacking endothelial cells) favors the bloodstream metastasizing. There are many tumors in the differential diagnosis, including spindle cell melanoma, spindle cell squamous cell carcinoma, synovial sarcoma, leiomyosarcoma, malignant peripheral nerve sheath tumor and biphenotypic sinonasal sarcoma.
+
+== Diagnosis ==
+
+Ancillary testing for fibrosarcoma includes IHC, where vimentin is positive, cytokeratin and S100 are negative, and actin is variable.
+
+== In animals ==
+
+=== Dogs ===
+
+Fibrosarcoma occurs most frequently in the mouth in dogs. The tumor is locally invasive, and often recurs following surgery. Radiation therapy and chemotherapy are also used in treatment. Fibrosarcoma is also a rare bone tumor in dogs.
+
+=== Cats ===
+
+In cats, fibrosarcoma occurs on the skin. It is also the most common vaccine-associated sarcoma. In 2014, Merial launched Oncept IL-2 in Europe for the management of such feline fibrosarcomas.
+
+Bostock DE, et al. performed a study of cats that had fibrosarcomas excised and were followed for a minimum of three years, or until death. Two factors, tumor site and mitotic index, were found to be of prognostic significance, but tumor size, duration of growth, and histologic appearance were not. Following removal of fibrosarcomas from the flank in six cats, none died as a result of the tumor but 24 of 35 (70%) cats with fibrosarcoma in the skin of the head, back, or limbs were euthanized because of local recurrence, usually within nine months of surgery.
+
+== See also ==
+
+Benign fibrous histiocytoma
+
+Dermatofibrosarcoma protuberans
+
+Fibrous connective tissue
+
+Fibroma
+
+Malignant fibrous histiocytoma
+
+Neurofibrosarcoma
+
+== References ==
+
+== External links ==
+
+Fibrosarcoma of Bone: Review of a Rare Primary Malignancy of Bone Archived 2021-03-09 at the Wayback Machine
+
+Atlas of Pathology
