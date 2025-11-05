@@ -11,32 +11,13 @@ Usage:
 
 from __future__ import annotations
 from pathlib import Path
-from typing import List, Optional, Any
+from typing import List
 import sys, json, datetime, pydantic
+
 
 # ---------------------------------------------------------------------
 # Schema Definition
 # ---------------------------------------------------------------------
-class Subtype(pydantic.BaseModel):
-    name: str
-    typical_patients: Optional[str] = None
-    five_year_survival: Optional[str] = None
-    common_treatments: Optional[List[str]] = None
-
-
-class Epidemiology(pydantic.BaseModel):
-    global_cases_2015: Optional[Any] = None
-    global_deaths_2015: Optional[Any] = None
-    most_common_in: Optional[str] = None
-    five_year_survival_rate: Optional[str] = None
-
-
-class Relationship(pydantic.BaseModel):
-    source: str
-    relation: str
-    target: str
-
-
 class ExtractDoc(pydantic.BaseModel):
     disease_name: str
     synonyms: List[str] = []
@@ -47,16 +28,14 @@ class ExtractDoc(pydantic.BaseModel):
     diagnosis: List[str] = []
     treatments: List[str] = []
     related_genes: List[str] = []
-    subtypes: List[Subtype] = []
-    epidemiology: Epidemiology = Epidemiology()
-    relationships: List[Relationship] = []
+    subtypes: List[str] = []
 
 
 # ---------------------------------------------------------------------
 # Validation + Auto-repair
 # ---------------------------------------------------------------------
 def repair_missing_keys(data: dict) -> dict:
-    """Fill in missing keys or wrong types with defaults."""
+    """Ensure all keys exist with proper types."""
     defaults = {
         "disease_name": "Unknown Disease",
         "synonyms": [],
@@ -68,12 +47,12 @@ def repair_missing_keys(data: dict) -> dict:
         "treatments": [],
         "related_genes": [],
         "subtypes": [],
-        "epidemiology": {},
-        "relationships": []
     }
+
     for key, default in defaults.items():
         if key not in data or data[key] is None:
             data[key] = default
+        # Convert non-lists to single-element lists when needed
         if isinstance(default, list) and not isinstance(data[key], list):
             data[key] = [data[key]] if data[key] else []
     return data
@@ -81,9 +60,12 @@ def repair_missing_keys(data: dict) -> dict:
 
 def dump_json_compatible(model: pydantic.BaseModel) -> str:
     """Serialize BaseModel safely for both Pydantic v1 and v2."""
-    if hasattr(model, "model_dump_json"):  # Pydantic 2.x
+    # Pydantic v2.x
+    if hasattr(model, "model_dump_json"):
         return model.model_dump_json(indent=2)
-    return model.json(indent=2, ensure_ascii=False)  # Pydantic 1.x
+    # Pydantic v1.x
+    return model.json(indent=2, ensure_ascii=False)
+
 
 
 def validate_file(path: Path):
@@ -100,7 +82,7 @@ def validate_file(path: Path):
     try:
         doc = ExtractDoc.parse_obj(data)
     except pydantic.ValidationError as e:
-        print(f"⚠️  {path.name}: Schema mismatch, attempting repair…")
+        print(f"⚠️ {path.name}: Schema mismatch, attempting repair…")
         data = repair_missing_keys(data)
         try:
             doc = ExtractDoc.parse_obj(data)
@@ -108,15 +90,9 @@ def validate_file(path: Path):
             print(f"❌ {path.name}: Could not repair: {e2}")
             return False
 
-    # semantic repairs
     if not doc.disease_name.strip():
         doc.disease_name = "Unknown Disease"
-    if not doc.relationships:
-        doc.relationships = [
-            {"source": doc.disease_name, "relation": "related_to", "target": "Unknown"}
-        ]
 
-    # overwrite JSON directly (no backup)
     path.write_text(dump_json_compatible(doc), encoding="utf-8")
     print(f"✅ {path.name}: Validated and saved (in place)")
     return True
@@ -143,7 +119,7 @@ def validate_all(target: Path):
 # ---------------------------------------------------------------------
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python -m src.kg.tests.validate_extracted_json <file_or_dir>")
+        print("Usage: python validate_json.py <file_or_dir>")
         sys.exit(1)
 
     start = datetime.datetime.now()

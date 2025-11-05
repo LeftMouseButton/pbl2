@@ -12,113 +12,40 @@ Output:
 
 from pathlib import Path
 from datetime import datetime
-import hashlib, json, requests, time
+import hashlib, json, requests, time, re, html, xml.etree.ElementTree as ET
 
 # --- Configuration -------------------------------------------------------------
 RAW_DIR = Path("data/raw")
 RAW_DIR.mkdir(parents=True, exist_ok=True)
 META_PATH = RAW_DIR / "metadata.jsonl"
+DISEASE_FILE = Path("disease_names.txt")
 
-HEADERS = {"User-Agent": "DSGT-KG-Crawler/1.0 (+https://example.org)"}
-
-CANCER_SOURCES = {
-    "breast_cancer": [
-        ("wikipedia", "Breast_cancer"),
-        ("medlineplus", "https://medlineplus.gov/breastcancer.html"),
-    ],
-    "lung_cancer": [
-        ("wikipedia", "Lung_cancer"),
-        ("medlineplus", "https://medlineplus.gov/lungcancer.html"),
-    ],
-    "colorectal_cancer": [
-        ("wikipedia", "Colorectal_cancer"),
-        ("medlineplus", "https://medlineplus.gov/colorectalcancer.html"),
-    ],
-    "leukemia": [
-        ("wikipedia", "Leukemia"),
-        ("medlineplus", "https://medlineplus.gov/leukemia.html"),
-    ],
-    "pancreatic_cancer": [
-        ("wikipedia", "Pancreatic_cancer"),
-        ("medlineplus", "https://medlineplus.gov/pancreaticcancer.html"),
-    ],
-    "prostate_cancer": [
-        ("wikipedia", "Prostate_cancer"),
-        ("medlineplus", "https://medlineplus.gov/prostatecancer.html"),
-    ],
-    "ovarian_cancer": [
-        ("wikipedia", "Ovarian_cancer"),
-        ("medlineplus", "https://medlineplus.gov/ovariancancer.html"),
-    ],
-    "stomach_cancer": [
-        ("wikipedia", "Stomach_cancer"),
-        ("medlineplus", "https://medlineplus.gov/stomachcancer.html"),
-    ],
-    "esophageal_cancer": [
-        ("wikipedia", "Esophageal_cancer"),
-        ("medlineplus", "https://medlineplus.gov/esophagealcancer.html"),
-    ],
-    "lymphoma": [
-        ("wikipedia", "Lymphoma"),
-        ("medlineplus", "https://medlineplus.gov/lymphoma.html"),
-    ],
-    "multiple_myeloma": [
-        ("wikipedia", "Multiple_myeloma"),
-        ("medlineplus", "https://medlineplus.gov/multiplemyeloma.html"),
-    ],
-    "chronic_myelogenous_leukemia": [
-        ("wikipedia", "Chronic_myelogenous_leukemia"),
-        ("medlineplus", "https://medlineplus.gov/chronicmyeloidleukemia.html"),
-    ],
-    "glioblastoma": [
-        ("wikipedia", "Glioblastoma"),
-        ("medlineplus", "https://medlineplus.gov/glioblastoma.html"),
-    ],
-    "medulloblastoma": [
-        ("wikipedia", "Medulloblastoma"),
-        ("medlineplus", "https://medlineplus.gov/medulloblastoma.html"),
-    ],
-    "thyroid_cancer": [
-        ("wikipedia", "Thyroid_cancer"),
-        ("medlineplus", "https://medlineplus.gov/thyroidcancer.html"),
-    ],
-    "adrenocortical_carcinoma": [
-        ("wikipedia", "Adrenocortical_carcinoma"),
-        ("medlineplus", "https://medlineplus.gov/adrenocorticalcarcinoma.html"),
-    ],
-    "cervical_cancer": [
-        ("wikipedia", "Cervical_cancer"),
-        ("medlineplus", "https://medlineplus.gov/cervicalcancer.html"),
-    ],
-    "endometrial_cancer": [
-        ("wikipedia", "Endometrial_cancer"),
-        ("medlineplus", "https://medlineplus.gov/endometrialcancer.html"),
-    ],
-    "neuroblastoma": [
-        ("wikipedia", "Neuroblastoma"),
-        ("medlineplus", "https://medlineplus.gov/neuroblastoma.html"),
-    ],
-    "melanoma": [
-        ("wikipedia", "Melanoma"),
-        ("medlineplus", "https://medlineplus.gov/melanoma.html"),
-    ],
-}
+HEADERS = {"User-Agent": "DSGT-KG-Crawler/1.3 (+https://example.org)"}
 
 
 # --- Utility functions ---------------------------------------------------------
 def checksum(s: str) -> str:
-    """Compute SHA256 checksum for provenance."""
     return hashlib.sha256(s.encode("utf-8")).hexdigest()
 
 
+def load_diseases() -> list[str]:
+    if not DISEASE_FILE.exists():
+        raise FileNotFoundError(f"{DISEASE_FILE} not found")
+    with open(DISEASE_FILE, "r", encoding="utf-8") as f:
+        return [line.strip() for line in f if line.strip()]
+
+
+def slugify(name: str) -> str:
+    return name.lower().replace(" ", "_").replace("-", "_")
+
+
 def fetch_wikipedia_text(title: str) -> str:
-    """Fetch clean plaintext from Wikipedia API."""
     api = "https://en.wikipedia.org/w/api.php"
     params = {
         "action": "query",
         "prop": "extracts",
         "explaintext": True,
-        "titles": title,
+        "titles": title.replace(" ", "_"),
         "format": "json",
     }
     try:
@@ -132,8 +59,119 @@ def fetch_wikipedia_text(title: str) -> str:
         return ""
 
 
+# ---------- Helpers for MedlinePlus selection ----------
+_TAG_RE = re.compile(r"<[^>]+>")
+
+
+def _clean_text(x: str) -> str:
+    if not x:
+        return ""
+    x = html.unescape(x)
+    x = _TAG_RE.sub("", x)
+    return re.sub(r"\s+", " ", x).strip()
+
+
+def _norm(s: str) -> str:
+    s = s.lower()
+    s = _TAG_RE.sub("", s)
+    s = html.unescape(s)
+    s = re.sub(r"[^a-z0-9\s]+", " ", s)
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def _url_key(url: str) -> str:
+    m = re.search(r"/([^/]+)\.html?$", url.lower())
+    return m.group(1) if m else ""
+
+
+def _token_join(s: str) -> str:
+    return _norm(s).replace(" ", "")
+
+
+def _contains_phrase(text: str, phrase: str) -> bool:
+    return _norm(phrase) in _norm(text)
+
+
+# ---------- MedlinePlus Web Service ----------
+def medlineplus_search(disease_name: str) -> dict | None:
+    base_url = "https://wsearch.nlm.nih.gov/ws/query"
+    params = {"db": "healthTopics", "term": disease_name, "retmax": 8, "rettype": "brief"}
+    try:
+        r = requests.get(base_url, params=params, headers=HEADERS, timeout=15)
+        r.raise_for_status()
+    except Exception as e:
+        print(f"[WARN] MedlinePlus query failed for {disease_name}: {e}")
+        return None
+
+    try:
+        root = ET.fromstring(r.text)
+    except Exception as e:
+        print(f"[WARN] XML parse error for {disease_name}: {e}")
+        return None
+
+    docs = []
+    for doc in root.findall(".//document"):
+        url = doc.attrib.get("url", "")
+        rank = int(doc.attrib.get("rank", "999999"))
+        title, alt_titles, full_summary = "", [], ""
+        for content in doc.findall("content"):
+            name = content.attrib.get("name", "").lower()
+            text = _clean_text("".join(content.itertext()))
+            if name == "title":
+                title = text
+            elif name == "alttitle":
+                alt_titles.append(text)
+            elif name == "fullsummary":
+                full_summary = text
+
+        docs.append({
+            "url": url,
+            "rank": rank,
+            "title": title,
+            "alt_titles": alt_titles,
+            "summary": full_summary,
+        })
+
+    if not docs:
+        print(f"[INFO] No MedlinePlus results for {disease_name}")
+        return None
+
+    # Scoring heuristic
+    q_norm = _norm(disease_name)
+    q_join = _token_join(disease_name)
+    qualifiers = {"male", "female", "men", "women", "pregnancy", "pediatric", "child", "children"}
+    query_has_qualifier = any(q in q_norm.split() for q in qualifiers)
+
+    def score(d):
+        s = 0
+        urlkey = _url_key(d["url"])
+        if urlkey == q_join:
+            s += 120
+        if not query_has_qualifier and urlkey.startswith(
+            ("male", "female", "pregnancy", "child", "pediatric", "men", "women")
+        ):
+            s -= 60
+        title_norm = _norm(d["title"])
+        if title_norm == q_norm:
+            s += 100
+        elif _contains_phrase(d["title"], disease_name):
+            s += 35
+        for at in d["alt_titles"]:
+            at_norm = _norm(at)
+            if at_norm == q_norm:
+                s += 40
+            elif _contains_phrase(at, disease_name):
+                s += 15
+        if _contains_phrase(d["summary"], disease_name):
+            s += 10
+        s += max(0, 30 - min(d["rank"], 30))
+        return s
+
+    best = max(docs, key=score)
+    return best
+
+
 def fetch_medlineplus_html(url: str) -> str:
-    """Fetch raw HTML from MedlinePlus."""
     try:
         r = requests.get(url, headers=HEADERS, timeout=15)
         r.raise_for_status()
@@ -143,6 +181,7 @@ def fetch_medlineplus_html(url: str) -> str:
         return ""
 
 
+# --- File I/O ------------------------------------------------------------------
 def save_file(content: str, path: Path):
     path.write_text(content, encoding="utf-8")
     print(f"[OK] Saved: {path}")
@@ -155,44 +194,59 @@ def append_metadata(record: dict):
 
 # --- Main crawl logic ----------------------------------------------------------
 def crawl_all():
-    """
-    Crawl all sources defined in CANCER_SOURCES.
-    Produces text/html files and a metadata JSONL for provenance.
-    """
-    print("[INFO] Starting crawl...")
-    for disease, sources in CANCER_SOURCES.items():
-        for source_type, source_data in sources:
-            timestamp = datetime.utcnow().isoformat()
-            if source_type == "wikipedia":
-                text = fetch_wikipedia_text(source_data)
-                ext = "txt"
-                url = f"https://en.wikipedia.org/wiki/{source_data}"
-            else:
-                text = fetch_medlineplus_html(source_data)
-                ext = "html"
-                url = source_data
+    diseases = load_diseases()
+    print(f"[INFO] Loaded {len(diseases)} diseases from {DISEASE_FILE}")
 
-            if not text:
-                continue
+    for disease_name in diseases:
+        slug = slugify(disease_name)
+        timestamp = datetime.utcnow().isoformat()
 
-            fname = f"{disease}_{source_type}.{ext}"
-            path = RAW_DIR / fname
-            save_file(text, path)
+        # Wikipedia
+        wiki_path = RAW_DIR / f"{slug}_wikipedia.txt"
+        if wiki_path.exists():
+            print(f"[SKIP] Wikipedia already exists: {wiki_path}")
+        else:
+            wiki_text = fetch_wikipedia_text(disease_name)
+            if wiki_text:
+                save_file(wiki_text, wiki_path)
+                append_metadata({
+                    "disease": disease_name,
+                    "source_type": "wikipedia",
+                    "url": f"https://en.wikipedia.org/wiki/{disease_name.replace(' ', '_')}",
+                    "path": str(wiki_path),
+                    "crawl_timestamp": timestamp,
+                    "checksum": checksum(wiki_text),
+                    "license": "CC-BY-SA 4.0",
+                })
+                time.sleep(1.2)
 
-            meta = {
-                "disease": disease,
-                "source_type": source_type,
-                "url": url,
-                "path": str(path),
-                "crawl_timestamp": timestamp,
-                "checksum": checksum(text),
-                "license": "unknown",
-            }
-            append_metadata(meta)
-            time.sleep(1.5)  # rate limit
+        # MedlinePlus
+        med_path = RAW_DIR / f"{slug}_medlineplus.html"
+        if med_path.exists():
+            print(f"[SKIP] MedlinePlus already exists: {med_path}")
+            continue
+
+        mp = medlineplus_search(disease_name)
+        if mp and mp.get("url"):
+            html_doc = fetch_medlineplus_html(mp["url"])
+            if html_doc:
+                save_file(html_doc, med_path)
+                append_metadata({
+                    "disease": disease_name,
+                    "source_type": "medlineplus",
+                    "url": mp["url"],
+                    "title": mp.get("title", ""),
+                    "alt_titles": mp.get("alt_titles", []),
+                    "summary_snippet": (mp.get("summary") or "")[:400],
+                    "path": str(med_path),
+                    "crawl_timestamp": timestamp,
+                    "checksum": checksum(html_doc),
+                    "license": "Public domain (NIH)",
+                })
+                time.sleep(1.2)
+
     print("[INFO] Crawl complete.")
 
 
 if __name__ == "__main__":
     crawl_all()
-

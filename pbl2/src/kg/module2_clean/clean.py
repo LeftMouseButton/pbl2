@@ -148,7 +148,20 @@ def process_file(raw_path: Path) -> dict:
     else:
         cleaned = clean_plain_text(content)
 
-    out_name = slugify(raw_path.stem) + ".txt"
+    # Derive disease prefix and source suffix from the RIGHT side
+    stem = raw_path.stem.lower()
+
+    if "_" in stem:
+        disease_part, source_part = stem.rsplit("_", 1)
+    elif "-" in stem:
+        disease_part, source_part = stem.rsplit("-", 1)
+    else:
+        disease_part, source_part = stem, "unknown"
+
+    disease = slugify(disease_part)
+    source = slugify(source_part)
+
+    out_name = f"{disease}_-_{source}.txt"
     out_path = OUT_DIR / out_name
     out_path.write_text(cleaned, encoding="utf-8")
 
@@ -165,6 +178,8 @@ def process_file(raw_path: Path) -> dict:
 
     print(f"[OK] {raw_path.name} → {out_name}")
     return record
+
+
 
 
 def process_all(raw_dir: Path = RAW_DIR):
