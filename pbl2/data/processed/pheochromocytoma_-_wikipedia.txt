@@ -1,0 +1,65 @@
+what is known in North America. In the first national, epidemiological population-based study in Asia utilizing Korean National Health Insurance Service data, the prevalence of a pheochromocytoma was reported at 2.13 per 100,000 persons with an incidence of 0.18 per 100,000 person-years. This is lower than the occurrence reported from Rochester, Minnesota (0.8 per 100,000 person-years), in a study conducted from 1950 to 1979. However, the Netherlands also conducted a study using a nationwide registry and reported incidence results of 0.57 per 100,000 person-years from 2011 to 2015, which was a significant increase from their 0.37 cases per 100,000 person-years reported from 1995 to 1999. Current hypotheses for why the incidence of pheochromocytoma is growing in the Dutch population point to the advent of modern imaging evaluation and the ability to detect these tumors before death. While each of the above studies reported varying incidence and prevalence values, all have indicated that the average age at initial diagnosis is between the third to fifth decade of life. When younger patients are diagnosed with a pheochromocytoma, there should be a high suspicion for hereditary disease, as genetic anticipation (earlier disease onset with each generation) is associated with some mutations.
+
+Classically, the pheochromocytoma "rules of 10" have been taught, particularly to medical students:
+
+10% of patients have malignant disease
+
+10% of patients have bilateral (both left and right adrenal glands) disease
+
+10% of patients have extra-adrenal (paraganglioma) disease
+
+10% of patients have inherited (familial disease)
+
+Despite the prominence in many respected textbooks, these guidelines have since been established as inaccurate and are not used in current epidemiological discussions.
+
+As suggested above, incidental imaging has become a major player in the diagnosis of patients with pheochromocytoma, with current estimates that 10–49% of all cases diagnosed after imaging was obtained for another reason. When an adrenal nodule (potential tumor) is discovered on computed tomography or magnetic resonance imaging, there is a 5–10% chance the lesion is a pheochromocytoma. The incidence of adrenal tumors is found in the infographic above, with pheochromocytoma noted in yellow in the top right corner.
+
+== History ==
+
+In 1800, an Irish physician (Charles Sugrue) penned a case report to the London Medical and Physical Journal describing the peculiar case of an 8-year-old male patient who had had seemingly random fits of pain concentrated in the abdomen accompanied by "a hectic flush distinctly marked on each cheek" with a "constant profuse and universal perspiration." Following his death, a group of physicians performed an autopsy to determine cause of death and discovered a six-inch oblong tumor composed of an unknown "yellow-ish coloured substance" coming from the capsula renalis (what is now known as the adrenal gland). This would become the first known clinical description of a pheochromocytoma, but as no features of the tumor itself were described, complete credit is given to the German Felix Fraenkel, who provided a clinical and morphologic picture of this tumor. Following the initial 1886 monograph by Fraenkel describing "sarcoma and angio-sarcoma" in a 18-year-old female, a group of investigators led by Hartmut Neumann in 2007 traced the patient's family members and identified a pathogenic variant in the RET proto-oncogene (p.C634W), associated with Multiple endocrine neoplasia type 2.
+
+While various physicians were recognizing symptoms and treating patients, Czech biologist Alfred Kohn reported his discovery of the paraganglia system, which would later become crucial to the diagnosis of these tumors. Furthermore, he also introduced the term "chromaffin," allowing pathologists to recognize tumors that arose from the adrenal gland.
+
+In 1908, two pathologists, Henri Alezais and Felix Peyron, introduced the scientific community to "paraganglioma" after they discovered extra-adrenal tissue that reacted to chromium salts, which mimicked the reaction of the adrenal medulla. Just four years later, German pathologist Ludwig Pick coined the term "pheochromocytoma" after he observed the consistent color change in tumors associated with the adrenal medulla. Many surgeons attempted to remove these tumors over the next decade, but their patients died intraoperatively from shock. In 1926, Charles Mayo (a founder of the Mayo Clinic) became the first physician to successfully excise a pheochromocytoma. However, Mayo was likely unaware of the diagnosis before the operation. Not until 1929 was a pheochromocytoma recognized preoperatively. Throughout the early 1900s, the operative mortality rate for a pheochromocytoma ranged from 30 to 45%. Retrospective series have postulated that these alarmingly high death rates were due to the lack of a pre-operative blockade with alpha and beta-adrenoceptor antagonist and the need for modern anesthesia practices. From this point forward, physician-scientists have been recognizing patterns in patients with pheochromocytoma and identifying genetic associations and various syndromes.
+
+== Society and culture ==
+
+While a rare disease, there have been several references to pheochromocytoma in popular culture and the media, specifically medical television dramas. Additionally, there is a strong online patient advocacy community that works to connect patients with rare diseases and allows them to meet other individuals who are experiencing similar diagnoses and treatment strategies.
+
+=== Zebra culture ===
+
+In the medical community, students are often taught "when you hear hoofbeats, think horses, not zebras." In other words, common diagnoses are common, so healthcare professionals should first rule out what is most expected (the horses) before diving into the rare etiologies that are far less likely to be correct (the zebras). However, the symbol of the zebra has become increasingly powerful to the rare disease community and resulted in several organizations, societies, and special events (Rare Disease Day) to draw attention to the least common option sometimes being the correct diagnosis.
+
+The National Organization for Rare Disorders is a United States–based advocacy parent organization to promote awareness and research opportunities to cure rare diseases. Groups such as these encourage patients to become their advocates and change agents in their healthcare decision-making processes.
+
+=== Media ===
+
+In July 2012, an actual pheochromocytoma patient, Tannis Brown, former vice-president of the PheoPara Troopers, was featured on the Discovery Fit & Health Network program Diagnosis: Dead or Alive. The show highlighted her personal struggle with misdiagnosed disease as many physicians felt her episodic headaches and hypertension (high blood pressure) were related to stress.
+
+In the seventh and eighth seasons of Grey's Anatomy, series regular Henry has a Von Hippel-Lindau (VHL) mutation that has resulted in a pheochromocytoma. The story arc was met with mixed opinions from the rare disease community. The executive director of the VHL Alliance was happy with the portrayal of a VHL patient in mainstream media, but pointed out that of the four scripts she knew of with a VHL patient, three involved a pheochromocytoma, which occurs in less than a fifth of all VHL patients.
+
+A case of pheochromocytoma was featured in the first episode of season 2 of House, M.D.. Dr. House and his team are tasked with diagnosing and treating an inmate on death row. Although the patient has a violent history of homicide, Dr. House suspects that his episodic rage and aggression may be caused by an adrenaline secreting tumor. Dr. House is able to locate the tumor and diagnoses the patient with pheochromocytoma. Dr. Foreman, one of the doctors, attempts to appeal the inmate's death penalty on the basis that he was unable to control his actions due to his tumor. This kind of legal defense is rarely successful, however.
+
+=== Famous People with Pheochromocytoma ===
+
+President Dwight D. Eisenhower experienced several cardiovascular events, including a heart attack in 1955 and multiple strokes, alongside documented episodes of severe hypertension throughout his life. Despite extensive medical evaluation, the underlying cause of his erratic blood pressure remained undiagnosed until his death in 1969. Autopsy findings unexpectedly revealed a 1.5 cm pheochromocytoma in the left adrenal gland, suggesting that the tumor may have contributed to his hypertensive crises and potentially exacerbated his ischemic cardiomyopathy. The case underscores how even a sitting president could have this rare tumor go undiagnosed for years, despite extensive medical care.
+
+== Etymology ==
+
+1920s: from phaeochrome (another term for chromaffin), from Greek phaios 'dusky' + khrōma 'color', + -cyte.
+
+== References ==
+
+== Further reading ==
+
+== External links ==
+
+"General Information About Pheochromocytoma and Paraganglioma" from the National Cancer Institute
+
+Pheochromocytoma and Paraganglioma from the American Society of Clinical Oncology
+
+Pheochromocytoma; Rare Disease Database from the National Organization for Rare Disorders
+
+What's to Know about Pheochromocytoma from Medical News Today
+
+MedlinePlus Overview pheochromocytoma

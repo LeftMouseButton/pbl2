@@ -1,0 +1,159 @@
+Vulvar cancer is a cancer of the vulva, the outer portion of the female genitals. It most commonly affects the labia majora. Less often, the labia minora, clitoris, or Bartholin's glands are affected. Symptoms include a lump, itchiness, changes in the skin, or bleeding from the vulva.
+
+Risk factors include vulvar intraepithelial neoplasia (VIN), HPV infection, genital warts, smoking, and many sexual partners. Most vulvar cancers are squamous cell cancers. Other types include adenocarcinoma, melanoma, sarcoma, and basal cell carcinoma. Diagnosis is suspected based on physical examination and confirmed by tissue biopsy. Routine screening is not recommended.
+
+Prevention may include HPV vaccination. Standard treatments may include surgery, radiation therapy, chemotherapy, and biologic therapy. Vulvar cancer newly affected about 44,200 people and resulted in 15,200 deaths globally in 2018. In the United States, it newly occurred in about 6,070 people with 1,280 deaths a year. Onset is typically after the age of 45. The five-year survival rate for vulvar cancer is around 71% as of 2015. Outcomes, however, are affected by whether spread has occurred to lymph nodes.
+
+== Signs and symptoms ==
+
+The signs and symptoms can include:
+
+Itching, burn, or bleeding on the vulva that does not go away.
+
+Changes in the color of the skin of the vulva, so that it looks redder or whiter than is normal.
+
+Skin changes in the vulva, including what looks like a rash or warts.
+
+Sores, lumps, or ulcers on the vulva that do not go away.
+
+Pain in the pelvis, especially during urination or sex.
+
+Typically, a lesion presents in the form of a lump or ulcer on the labia majora and may be associated with itching, irritation, local bleeding or discharge, in addition to pain with urination or pain during sexual intercourse. The labia minora, clitoris, perineum and mons pubis are less commonly involved. Due to modesty or embarrassment, people may put off seeing a doctor.
+
+Melanomas tend to display the typical asymmetry, uneven borders, and dark discoloration, as do melanomas in other parts of the body.
+
+Adenocarcinoma can arise from the Bartholin's gland and present with a painful lump.
+
+== Causes ==
+
+Two main pathophysiological pathways are currently understood to contribute to the development of vulvar cancer: human papillomavirus (HPV) infection and chronic inflammation or autoimmunity affecting the vulvar area.
+
+HPV DNA can be found in up to 87% of vulvar intraepithelial neoplasia (VIN) and 29% of invasive vulvar cancers; HPV 16 is the most commonly detected subtype in VIN and vulvar cancer, followed by HPV 33 and HPV 18. VIN is a superficial lesion of the skin that has not invaded the basement membrane—or a pre-cancer. VIN may progress to carcinoma in situ and, eventually, squamous cell cancer.
+
+Chronic inflammatory conditions of the vulva that may be precursors to vulvar cancer include lichen sclerosus, which can predispose to differentiated VIN.
+
+=== Risk factors ===
+
+Risk factors for vulvar cancer are largely related to the causal pathways above, involving exposure or infection with the HPV virus and/or acquired or innate autoimmunity.
+
+Increasing age
+
+History of vulvar or cervical intraepithelial neoplasia
+
+Increased number of male sexual partners
+
+Prior history of pre-invasive or invasive cervical cancer
+
+History of cigarette smoking
+
+Infection with human immunodeficiency virus (HIV)
+
+Vulvar lichen sclerosus
+
+Immunodeficiency syndromes
+
+Northern European ancestry
+
+== Diagnosis ==
+
+Examination of the vulva is part of the gynecologic evaluation. It should include a thorough inspection of the perineum, including areas around the clitoris and urethra, and palpation of the Bartholin's glands.
+
+The exam may reveal an ulceration, lump, or mass in the vulvar region. Any suspicious lesions need to be sampled, or biopsied. This can generally be done in an office setting under local anesthesia. Small lesions can be removed under local anesthesia.
+
+Additional evaluation may include a chest X-ray, an intravenous pyelogram, cystoscopy or proctoscopy, as well as blood counts and metabolic assessment.
+
+=== Types ===
+
+Depending on the cellular origin, different histologic cancer subtypes may arise in vulvar structures.
+
+==== Squamous cell carcinoma ====
+
+A recent analysis of the Surveillance, Epidemiology and End Results (SEER) registry of the US National Cancer Institute has shown that squamous cell carcinoma accounts for approximately 75% of all vulvar cancers. These lesions originate from epidermal squamous cells, the most common type of skin cell. Carcinoma in situ is a precursor lesion of squamous cell cancer that does not invade through the basement membrane. There are two types of precursor lesions:
+
+Usual-type vulvar intraepithelial neoplasia (uVIN), which is associated with human papillomavirus (HPV) and often affects younger women. This precursor lesion progresses to basaloid or warty squamous cell carcinoma in approximately 6%.
+
+Differentiated vulvar intraepithelial neoplasia (dVIN), which is associated with chronic skin conditions including lichen sclerosus and lichen planus and typically affects older women. This lesion progresses to keratinizing squamous cell carcinoma in approximately 33%.
+
+Squamous lesions tend to arise in a single site and occur most commonly in the vestibule. They grow by local extension and spread via the local lymph system. The lymphatics of the labia drain to the upper vulva and mons pubis, then to both superficial and deep inguinal and femoral lymph nodes. The last deep femoral node is called the Cloquet's node. Spread beyond this node reaches the lymph nodes of the pelvis. The tumor may also invade nearby organs such as the vagina, urethra, and rectum and spread via their lymphatics.
+
+A verrucous carcinoma of the vulva is a rare subtype of squamous cell cancer and tends to appear as a slowly growing wart. Verrucous vulvar cancers tend to have a good overall prognosis, as these lesions hardly ever spread to regional lymph nodes or metastasize.
+
+==== Basal cell carcinoma ====
+
+Basal cell carcinoma accounts for approximately 8% of all vulvar cancers. It typically affects women in the 7th and 8th decades of life. These tend to be slow-growing lesions on the labia majora but can occur anywhere on the vulva. Their behavior is similar to basal cell cancers in other locations. They often grow locally and have low risk for deep invasion or metastasis.
+
+Treatment involves local excision, but these lesions have a tendency to recur if not completely removed.
+
+==== Melanoma ====
+
+Melanoma is the third most common type and accounts for 6% of all vulvar cancers. These lesions arise from melanocytes, the cells that give skin color. The median age at diagnosis is 68 years; however, an analysis of the Surveillance, Epidemiology and End Results (SEER) registry of the US National Cancer Institute has shown that it has been diagnosed in girls as young as 10 years and women up to 107 years.
+
+The underlying biology of vulvar melanoma differs significantly from skin melanomas, and mutational analyses have shown that only 8% harbor a BRAF mutation compared to 70% of skin melanomas. KIT mutations, however are significantly more common in vulvar melanoma. This has a direct impact on the medical treatment of vulvar melanomas: BRAF-inhibitors that are commonly used in the treatment of skin melanomas, play a minor role in vulvar melanomas. However, vulvar melanomas frequently express PD-L1 and checkpoint inhibitors (including CTLA-4 inhibitors and PD-1 inhibitors) are effective in the treatment of advanced-stage vulvar melanoma. In recurrent melanoma, tyrosine kinase inhibitors may be used in those patients with a KIT mutation.
+
+Based on histology, there are different subtypes of vulvar melanoma: superficial spreading, nodular, acral lentigous and amelanotic melanoma. Vulvar melanomas are unique in that they are staged using the AJCC cancer staging for melanoma instead of the FIGO staging system.
+
+Diagnosis of vulvar melanoma is often delayed, and approximately 32% of women already have regional lymph node involvement or distant metastases at the time of diagnosis. Lymph node metastases and high mitotic count are indicators of poor outcome. The overall prognosis is poor and significantly worse than in skin melanomas: The median overall survival is 53 months.
+
+==== Bartholin gland carcinoma ====
+
+The Bartholin gland is a rare malignancy and usually occurs in women in their mid-sixties.
+
+==== Other lesions ====
+
+Other forms of vulvar cancer include invasive Extramammary Paget's disease, adenocarcinoma (of the Bartholin glands, for example), and sarcoma.
+
+=== Staging ===
+
+Anatomical staging supplemented preclinical staging starting in 1988. FIGO's revised TNM classification system uses tumor size (T), lymph node involvement (N), and presence or absence of metastasis (M) as criteria for staging. Stages I and II describe the early stages of vulvar cancer that still appear to be confined to the site of origin. Stage III cancers include greater disease extension to neighboring tissues and inguinal lymph nodes on one side. Stage IV indicates metastatic disease to the inguinal lymph nodes on both sides or distant metastases.
+
+=== Differential diagnosis ===
+
+Other cancerous lesions in the differential diagnosis include Paget's disease of the vulva and vulvar intraepithelial neoplasia (VIN). Non-cancerous vulvar diseases include lichen sclerosus, squamous cell hyperplasia, and vulvar vestibulitis. A number of diseases cause infectious lesions including herpes genitalis, human papillomavirus, syphilis, chancroid, granuloma inguinale, and lymphogranuloma venereum.
+
+== Treatment ==
+
+Surgery is a mainstay of therapy, depending on anatomical staging, and is usually reserved for cancers that have not spread beyond the vulva. Surgery may involve a wide local excision (excision of the tumor with a safety-margin of healthy tissue, that ensures complete removal of the tumor), radical partial vulvectomy, or radical complete vulvectomy with removal of vulvar tissue, inguinal and femoral lymph nodes. In cases of early vulvar cancer, the surgery may be less extensive and consist of a wide excision or a simple vulvectomy. Surgery is significantly more extensive when the cancer has spread to nearby organs such as the urethra, vagina, or rectum. Complications of surgery include wound infection, sexual dysfunction, edema, and thrombosis, as well as lymphedema secondary to dissected lymph nodes.
+
+Sentinel lymph node (SLN) dissection is a technique used to identify the main lymph node(s) draining the tumor. The goal is to remove as few lymph nodes as possible, decreasing the risk of adverse effects. Location of the sentinel node(s) may require the use of technetium(99m)-labeled nano-colloid, or a combination of technetium and 1% isosulfan blue dye, wherein the combination may reduce the number of women with "'missed"' groin node metastases compared with technetium only.
+
+Radiation therapy may be used in more advanced vulvar cancer cases when the disease has spread to the lymph nodes and/or pelvis. It may be performed before or after surgery. In early vulvar cancer, primary radiotherapy to the groin results in less morbidity but may be linked with a higher risk of groin recurrence and reduced survival compared to surgery. Chemotherapy is not usually used as primary treatment but may be used in advanced cases with spread to the bones, liver or lungs. It may also be given at a lower dose together with radiation therapy. Checkpoint inhibitors may be given in melanoma of the vulva.
+
+Electrochemotherapy with intravenous bleomycin administered to heavily pre-treated patients showed a reasonable tumor control and improved progression-free survival and overall survival in responder subjects.
+
+There is no significant difference in overall survival or treatment‐related adverse effects in women with locally advanced vulval cancer when comparing primary chemoradiation or neoadjuvant chemoradiation with primary surgery. There is a need for good-quality studies comparing various primary treatments.
+
+Women with vulvar cancer should have routine follow-up and exams with their oncologist, often every three months for the first 2–3 years after treatment. They should not have routine surveillance imaging to monitor the cancer unless new symptoms appear or tumor markers begin rising. Imaging without these indications is discouraged because it is unlikely to detect a recurrence or improve survival and is associated with its own side effects and financial costs.
+
+== Prognosis ==
+
+Overall, five-year survival rates for vulvar cancer are around 78% but may be affected by individual factors including cancer stage, cancer type, patient age, and general medical health. Five-year survival is greater than 90% for patients with stage I lesions but decreases to 20% when pelvic lymph nodes are involved. Lymph node involvement is the most important predictor of prognosis.
+
+Prognosis depends on the stage of cancer, which refers to the amount and spread of cancer in the body. The stages are broken into four categories. Stage one, also called "localized," is when the cancer is limited to one part of the body. This has the highest survival rate of 59%. When the cancer starts to spread, this is referred to as "distant" or "regional"; this stage usually involves the cancer spreading to the lymph nodes. This survival rate is 29%. The third stage is when the cancer has metastasized and spread throughout the body, which is the lowest survival rate of 6%. When vulvar cancer is caught early, the survival rate is at its highest.
+
+== Epidemiology ==
+
+Vulvar cancer newly affected about 44,200 people and resulted in 15,200 deaths globally in 2018.
+
+Vulvar cancer can be split into two types. One starts as an infection by human papillomavirus, which leads to vulvar intraepithelial neoplasia (VIN) and potentially on to vulvar cancer. This is most common in younger women, predominantly under the age of 40. The second type is vulvar non-neoplastic epithelial disorders (VNED). This is most common in older women, due to the increased risk for developing cellular atypia, which in turn leads to cancer.
+
+=== United Kingdom ===
+
+Vulvar cancer causes less than 1% of all cancer cases and deaths, but around 6% of all gynecologic cancers diagnosed in the UK. Around 1,200 women were diagnosed with the disease in 2011, and 400 women died in 2012. In the United Kingdom, 7 out of 10 vulval cancer patients have major surgical resection as part of their cancer treatment. 22% of patients use radiotherapy and only 7% use chemotherapy as a treatment plan. There are very high survival rates; patients diagnosed with vulvar cancer have an 82% of living more than one year, a 64% chance of living at least five years, and a 53% chance of living ten or more years. The rate of survival increases depending on the age of the patient and the stage of the cancer.
+
+=== United States ===
+
+In the United States, it newly occurred in about 6,070 people with 1,280 deaths a year. It makes up about 0.3% of new cancer cases, and 5% of gynecologic cancers in the United States. Vulvar cancer cases have been rising in the United States at an increase of 0.6% each year for the past ten years.
+
+== See also ==
+
+Penile cancer
+
+Vaginal cancer
+
+== References ==
+
+== External links ==
+
+Vulvar Cancer Treatment (PDQ®)–Health Professional Version—Information from the US National Cancer Institute
+
+Canavan TP, Cohen D (October 2002). "Vulvar cancer". American Family Physician. 66 (7): 1269–74. PMID 12387439. Review article for general practitioners.

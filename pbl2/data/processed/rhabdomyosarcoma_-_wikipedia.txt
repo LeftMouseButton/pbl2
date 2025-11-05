@@ -1,0 +1,109 @@
+Rhabdomyosarcoma (RMS) is a highly aggressive form of cancer that develops from mesenchymal cells that have failed to fully differentiate into myocytes of skeletal muscle. Cells of the tumor are identified as rhabdomyoblasts.
+
+The four subtypes are embryonal rhabdomyosarcoma, alveolar rhabdomyosarcoma, pleomorphic rhabdomyosarcoma, and spindle-cell/sclerosing rhabdomyosarcoma. Embryonal and alveolar are the main groups, and these types are the most common soft tissue sarcomas of childhood and adolescence. The pleomorphic type is usually found in adults.
+
+It is generally considered to be a disease of childhood, as the vast majority of cases occur in those below the age of 18. It is commonly described as one of the small-blue-round-cell tumors of childhood due to its appearance on an H&E stain. Despite being relatively rare, it accounts for approximately 40% of all recorded soft-tissue sarcomas.
+
+RMS can occur in any soft-tissue site in the body, but is primarily found in the head, neck, orbit, genitourinary tract, genitals, and extremities. No clear risk factors have been identified, but the disease has been associated with some congenital abnormalities. Signs and symptoms vary according to tumor site, and prognosis is closely tied to the location of the primary tumor. Common sites of metastasis include the lungs, bone marrow, and bones. There are many classification systems for RMS and a variety of defined histological types. Embryonal rhabdomyosarcoma is the most common type and comprises about 60% of cases.
+
+Outcomes vary considerably, with five-year survival rates between 35 and 95%, depending on the type of RMS involved, so clear diagnosis is critical for effective treatment and management.
+
+Treatment usually involves a combination of surgery, chemotherapy, and radiation. 60 to 70% of newly diagnosed patients with nonmetastatic disease can be cured using this combined approach to therapy. Despite aggressive multimodality treatment, less than 20% of patients with metastatic RMS are able to be cured of their disease.
+
+== Types ==
+
+Given the difficulty in diagnosing rhabdomyosarcoma, definitive classification of subtypes has proven difficult. As a result, classification systems vary by institute and organization. Rhabdomyosarcoma in the 2020 WHO classification, though, is listed as four histological subtypes: embryonal, alveolar, pleomorphic, and spindle-cell/sclerosing.
+
+=== Embryonal ===
+
+Embryonal rhabdomyosarcoma (ERMS) is the most common histological variant, comprising about 60–70% of childhood cases. It is most common in children birth to four years old, with a maximum reported incidence of four cases per million children. ERMS is characterized by spindle-shaped cells with a stromal-rich appearance, and the morphology is similar to the developing muscle cells of a 6- to 8-week-old embryo. Tumors often present in the head and neck, as well as the genitourinary tract.
+
+==== Embryonal subtype ====
+
+Botryoid rhabdomyosarcoma is almost always found in mucosal-lined organs, including the vagina, bladder, and nasopharynx (although presentation in the nasopharynx typically affects older children). It often presents in infants younger than a year old, as a round, grape-like mass on the affected organ. Histologically, cells of the botryoid variant are defined by a dense tumor layer under an epithelium (cambium layer). This subtype has a good prognosis.
+
+Botryoid rhabdomyosarcoma is also sometimes present in adult women, found in the cervix or uterus.
+
+=== Alveolar ===
+
+Alveolar rhabdomyosarcoma (ARMS) is the second-most common type. ARMS comprises around 20–25% of RMS-related tumors, and it is equally distributed among all age groups with an incidence of about one case per million people ages 0 to 19. For this reason, it is the most common form of RMS observed in young adults and teenagers, who are less prone to the embryonal variant. This type of RMS is characterized by densely packed, round cells that arrange around spaces similar in shape to pulmonary alveoli, although variants have been discovered without these characteristic alveolar spacings. ARMS tends to form more often in the extremities, trunk, and peritoneum. It is also typically more aggressive than ERMS.
+
+=== Pleomorphic ===
+
+Pleomorphic rhabdomyosarcoma (undifferentiated rhabdomyosarcoma), also known as anaplastic rhabdomyosarcoma, is defined by the presence of pleomorphic cells with large, lobate hyperchromatic nuclei and multipolar mitotic figures. These tumors display high heterogeneity and extremely poor differentiation. The pleomorphic cells may be diffuse or localized, with the diffuse variation correlating to a worse prognosis. It occurs most often in adults, rarely in children, and is often discovered in the extremities. Due to the lack of discernible separation among cancers of this type, clinicians often label undiagnosed sarcomas with little to no discernible features as anaplastic RMS. It is the most aggressive type of RMS, and often requires intensive treatment.
+
+=== Spindle-cell/sclerosing ===
+
+Spindle-cell/sclerosing rhabdomyosarcoma is an added subtype listed in the 2020 WHO classification of soft-tissue sarcomas.
+
+This subtype is very similar to that of leiomyosarcoma (cancer of the smooth muscle tissue), and it has a fascicular, spindled, and leiomyomatous growth pattern with notable rhabdomyoblastic differentiation . It occurs most commonly in the paratesticular region, and the prognosis for this particular form of RMS is excellent with a reported five-year survival rate of 95%. The sclerosing aspect of this subtype has a hyaline sclerosis and pseudovascular development.
+
+Multiple classification systems have been proposed for guiding management and treatment, and the most recent and widely used classification system is the "International Classification of Rhabdomyosarcoma" or ICR. It was created by the IRSG in 1995 after their series of four multi-institutional trials aimed at studying the presentation, histology, epidemiology, and treatment of RMS (IRSG I–IV). The ICR system is based on prognostic indicators identified in IRSG I–IV. Pleomorphic rhabdomyosarcoma usually occurs in adults rather than children, and is therefore not included in this system.
+
+== Signs and symptoms ==
+
+RMS can occur in almost any soft-tissue site in the body; the most common primary sites are genitourinary (24%), parameningeal (16%), extremity (19%), orbit (9%), other head and neck (10%), and miscellaneous other sites (22%). RMS often presents as a mass, but signs and symptoms can vary widely depending on the site of the primary tumor. Genitourinary tumors may present with hematuria, urinary tract obstruction, and/or a scrotal or vaginal mass. Tumors that arise in the retroperitoneum and mediastinum can become quite large before producing signs and symptoms. Parameningeal tumors may present with cranial nerve dysfunction, symptoms of sinusitis, ear discharge, headaches, and facial pain. Orbital tumors often present with orbital swelling and proptosis. Extremity tumors generally present as a rapidly enlarging, firm mass in the relevant tissue. The cancer's prevalence in the head, face, and neck will often allow for earlier signs of the disease simply due to the obvious nature of tumors in these locations. Despite the varying presentation and typically aggressive nature of the disease, RMS has the potential to be diagnosed and treated early. The fourth IRSG study found that 23% of patients were diagnosed in time for a complete resection of their cancer, and 15% had resection with only minimal remnants of the diseased cells.
+
+== Risk factors ==
+
+Rhabdomyosarcoma is difficult to diagnose. Risk factors that increase the likelihood of this cancer include inherited disorders such as Li-Fraumeni syndrome, Neurofibromatosis type 1, Beckwith-Wiedemann syndrome, Costello syndrome, Noonan syndrome, and DICER1 syndrome.
+
+== Genetic ==
+
+There are multiple genetic lesions associated with rhabdomyosarcoma, but there has been little consistent data demonstrating an association between specific genetic abnormalities and outcome. However, alveolar and embryonal types of RMS can be distinguished cytogenetically, and identification of specific genetic lesions can allow for accurate classification of the ARMS subtype when the histopathological findings are equivocal or unclear. This is valuable for clinical practice as the alveolar type presents a higher risk to the patient and will often require more aggressive treatment than the embryonal type. Thus, ARMS is also referred to as Fusion Positive rhabdomyosarcoma (FP-RMS). Up to 90% of alveolar RMS cases present with a translocations of t(2;13)(q35, q14) or, less commonly, t(1;13)(p36, q15). Both involve the translocation of a DNA binding domain of either PAX3 or PAX7, a member of the Paired Box family of transcription factors, to a transactivation site on FOXO1 (previously known as FKHR), a member of the forkhead/HNF-3 transcription factor family. The t(2;13) translocation results in a fusion of the PAX3 gene with FOXO1, while the t(1;13) translocation involves the fusion of PAX7 with FOXO1. PAX3 has a demonstrated role in muscle cell development, which supports its potential role in RMS. The t(2;13) translocation can result in the PAX3-FKHR fusion product, which is indicative of classic cystic ARMS. Cases of FP-RMS are associated with a poorer prognosis than fusion-negative RMS.
+
+The fusion protein presents a potential therapeutic target, and in recent years more research has been conducted to clarify the role of PAX3-FOXO1 in FP-RMS. PAX3-FOXO1 is now known to drive key oncogenes such as MYC and MYCN by creating long-distance genetic interactions by super enhancers. In this context, PAX3-FOXO1 both (1) drives the expression of MYC, MYCN and even MYOD1 (a transcription factor highly expressed in all RMS subtypes) but also (2) co-binds with these master transcription factors at super enhancers to support cancer growth. Furthermore, it was demonstrated that FP-RMS subtypes were especially sensitive to inhibitors (such as JQ1) of a super enhancer bound protein BRD4.
+
+Embryonal RMS usually presents with a loss of heterozygosity (LOH) in the short arm of chromosome 11 (p11,15.5). This region is associated with multiple oncogenes, and the potential loss-of-function of this region is likely associated with the loss of a tumor suppressor. However, the specific consequences of this LOH at (p11,15.5) have yet to be determined. The short arm of chromosome 11 is also the site of the insulin-like growth factor 2 gene (IGF-2), which is often over-expressed in RMS.
+
+The loss-of-function of tumor suppressor p53 is associated with many cancers including rhabdomyosarcoma, and approximately 50% of RMS cases have been shown to carry some form of mutation to the P53 gene. Other oncogenes often associated with rhabdomyosarcoma, albeit with less frequency, include NMYC, NRAS, KRAS, P16, and c-Met. One study showed that 35% of embryonal RMS tumors contained activating mutations in either NRAS or KRAS and it is worth noting that ras activation has been shown to block myogenic differentiation, which could help explain its potential role in rhabdomyosarcogenesis. More recently, a mechanistic and epigenetic link between mutant RAS isoforms and a block of myogenic differentiation has been demonstrated. Furthermore, it has been shown that this differentiation block can be overcome with a clinical stage inhibitor of the MAP kinase pathway known as a MEK inhibitor.
+
+== Diagnosis ==
+
+Rhabdomyosarcoma is often difficult to diagnose due to its similarities to other cancers and varying levels of differentiation. It is loosely classified as one of the small-blue-round-cell tumors due to its appearance on an H&E stain. Other cancers that share this classification include neuroblastoma, Ewing sarcoma, and lymphoma, and a diagnosis of RMS requires confident elimination of these morphologically similar diseases. The defining diagnostic trait for RMS is confirmation of malignant skeletal muscle differentiation with myogenesis (presenting as a plump, pink cytoplasm) under light microscopy. Cross striations may or may not be present. Accurate diagnosis is usually accomplished through immunohistochemical staining for muscle-specific proteins such as myogenin, muscle-specific actin, desmin, D-myosin, and myoD1. Myogenin, in particular, has been shown to be highly specific to RMS, although the diagnostic significance of each protein marker may vary depending on the type and location of the malignant cells. The alveolar type of RMS tends to have stronger muscle-specific protein staining. Electron microscopy may also aid in diagnosis, with the presence of actin and myosin or Z bands pointing to a positive diagnosis of RMS. Classification into types and subtypes is accomplished through further analysis of cellular morphology (alveolar spacings, presence of cambium layer, aneuploidy, etc.) as well as genetic sequencing of tumor cells. Some genetic markers, such as the PAX3-FKHR fusion gene expression in alveolar RMS, can aid in diagnosis. Open biopsy is usually required to obtain sufficient tissue for accurate diagnosis. All findings must be considered in context, as no one trait is a definitive indicator for RMS.
+
+=== Staging ===
+
+Following diagnosis and histopathological analysis, various imaging techniques may be used, including MRI, ultrasound, and a bone scan in order to determine the extent of local invasion and any metastasis. Further investigational techniques may be necessary depending on tumor sites. A parameningeal presentation of RMS will often require a lumbar puncture to rule out metastasis to the meninges. A paratesticular presentation will often require an abdominal CT to rule out local lymph node involvement, and so on. Outcomes are strongly tied to the extent of the disease, and its early mapping is important for treatment planning.
+
+The current staging system for rhabdomyosarcoma is unusual relative to most cancers. It utilizes a modified TNM (tumor-nodes-metastasis) system originally developed by the IRSG. This system accounts for tumor size (> or <5 cm), lymph node involvement, tumor site, and presence of metastasis. It grades on a scale of 1 to 4 based on these criteria. In addition, patients are sorted by clinical group (from the clinical groups from the IRSG studies) based on the success of their first surgical resection. The current Children's Oncology Group protocols for the treatment of RMS categorize patients into one of four risk categories based on tumor grade and clinical group, and these risk categories have been shown to be highly predictive of outcome.
+
+== Treatment ==
+
+Treatment of rhabdomyosarcoma is a multidisciplinary practice involving surgery, chemotherapy, radiation, and possibly immunotherapy. Surgery is generally the first step in a combined therapeutic approach. Resectability varies depending on tumor site, and RMS often presents in sites that don't allow for full surgical resection without significant morbidity and loss of function. Less than 20% of RMS tumors are fully resected with negative margins. Rhabdomyosarcomas are highly chemosensitive, with approximately 80% of cases responding to chemotherapy. Multi-agent chemotherapy is indicated for all patients with rhabdomyosarcoma. Before the use of adjuvant and neoadjuvant therapy involving chemotherapeutic agents, treatment solely by surgical means had a survival rate of <20%. Modern survival rates with adjuvant therapy are approximately 60–70%.
+
+There are two main methods of chemotherapy treatment for RMS. There is the VAC regimen, consisting of vincristine, actinomycin D, and cyclophosphamide, and the IVA regimen, consisting of ifosfamide, vincristine, and actinomycin D. These drugs are administered in 9–15 cycles depending on the staging of the disease and other therapies used. Other drug and therapy combinations may also show additional benefits. The addition of doxorubicin and cisplatin to the VAC regimen was shown to increase survival rates of patients with alveolar-type, early-stage RMS in the IRS study III, and this same addition improved survival rates and doubled bladder salvage rates in patients with stage III RMS of the bladder. In children and young adults with stage IV metastatic rhabdomyosarcoma, a Cochrane review has found no evidence to support the use of high-dose chemotherapy as a standard therapy.
+
+Radiation therapy, which kills cancer cells with focused doses of radiation, is often indicated in the treatment of rhabdomyosarcoma, and the exclusion of this treatment from disease management has been shown to increase recurrence rates. Radiation therapy is used when resecting the entirety of the tumor would involve disfigurement or loss of important organs (eye, bladder, etc.). Generally, in any case where a lack of complete resection is suspected, radiation therapy is indicated. Administration is usually following 6–12 weeks of chemotherapy if tumor cells are still present. The exception to this schedule is the presence of parameningeal tumors that have invaded the brain, spinal cord, or skull. In these cases, radiation treatment is started immediately. In some cases, special radiation treatment may be required. Brachytherapy, or the placement of small, radioactive "seeds" directly inside the tumor or cancer site, is often indicated in children with tumors of sensitive areas such as the testicles, bladder, or vagina. This reduces scattering and the degree of late toxicity following dosing. Radiation therapy is more often indicated in higher stage classifications.
+
+Immunotherapy is a more recent treatment modality that is still in development. This method involves recruiting and training the patient's immune system to target the cancer cells. This can be accomplished through administering small molecules designed to pull immune cells towards the tumors, taking immune cells pulled from the patient, and training to attack tumors through presentation with tumor antigens or other experimental methods. A specific example here would be presenting some of the patient's dendritic cells, which direct the immune system to foreign cells, with the PAX3-FKHR fusion protein in order to focus the patient's immune system to the malignant RMS cells. All cancers, including rhabdomyosarcoma, could benefit from this new, immune-based approach.
+
+== Prognosis ==
+
+Prognosis in rhabdomyosarcoma patients has been shown to be dependent on age, tumor site, resectability of tumor, tumor size, regional lymph node involvement, presence of metastasis, site and extent of metastasis, and biological and histopathological characteristics of the tumor cells. Survival after recurrence is poor, and new salvage therapy strategies are needed.
+
+== Epidemiology ==
+
+Rhabdomyosarcoma is the most common soft-tissue sarcoma in children as well as the third most common solid tumor in children. Recent estimates place the incidence of the disease at approximately 4.5 case per 1 million children/adolescents with approximately 250 new cases in the United States each year. With the vast majority of cases of RMS occurring in children or adolescents, two-thirds of reported cases occur in youths under the age of 10. RMS also occurs slightly more often in males than in females, with a ratio of approximately 1.3–1.5:1. In addition, slightly lower prevalence of the disease has been reported in black and Asian children relative to white children. In most cases, there are no clear predisposing risk factors for the development of RMS. It tends to occur sporadically with no obvious cause. However, RMS has been correlated with familial cancer syndromes and congenital abnormalities including neurofibromatosis type 1, Beckwith-Wiedemann syndrome, Li–Fraumeni syndrome, cardio-facio-cutaneous syndrome, and Costello syndrome. It has also been associated with parental use of cocaine and marijuana.
+
+== History ==
+
+Rhabdomyosarcoma was first described by Weber, a German physician, in 1845, but it was not until the paper by Arthur Stout in 1946 that RMS was formally classified. The first thirty years of investigation were conducted by the Intergroup Rhabdomyosarcoma Study Group (IRSG), an independent National Cancer Institute (NCI)-funded cooperative that has become a part of the Children's Oncology Group.
+
+A notable recent case was that of [Bella Rodriguez-Torres](https://en.wikipedia.org/wiki/Bella_Rodriguez-Torres), a Miami child diagnosed with stage four alveolar rhabdomyosarcoma whose story inspired the #LiveLikeBella movement and related pediatric cancer awareness efforts.
+
+== Research ==
+
+Cancer stem cells of rhabdomyosarcoma have been identified and fibroblast growth factor receptor 3 has been suggested as their marker. Preclinical animal studies that try to use conditionally replicating adenoviruses against such cells are in progress.
+
+Epigenetic therapy for rhabdomyosarcoma is becoming more important. A recent study by Bharathy et al. found that deacetylase inhibitor, entinostat works in aggressive subtype, alveolar rhabdomyosarcoma (aRMS) by specifically blocking the activity of HDAC3, thereby preventing epigenetic suppression of a microRNA that inhibits PAX3:FOXO1 translation. These findings and ongoing clinical trials (ADVL1513) shows promise for an effective therapy for some patients with aRMS.
+
+== See also ==
+
+Rhabdomyoma
+
+== References ==
+
+Saboo, S. S.; Krajewski, K. M.; Zukotynski, K.; Howard, S.; Jagannathan, J. P.; Hornick, J. L.; Ramaiya, N. (2012). "Imaging Features of Primary and Secondary Adult Rhabdomyosarcoma". American Journal of Roentgenology. 199 (6): W694 – W703. doi:10.2214/AJR.11.8213. PMID 23169742.
+
+== External links ==
