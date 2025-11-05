@@ -1,0 +1,251 @@
+\documentclass[conference]{IEEEtran}
+\IEEEoverridecommandlockouts
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{hyperref}
+\usepackage{float}
+\usepackage{amsmath}
+\usepackage{multirow}
+\usepackage{xcolor}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{tabularx}
+
+\begin{document}
+
+\title{Extracting Data to Build and Analyze Networks: Integrating Biomedical Entities for Multi-Layer Analysis}
+
+\author{
+\IEEEauthorblockN{Duncan J. et al
+}
+\IEEEauthorblockA{Information Systems Science and Engineering\\
+Intelligent Computer Entertainment Lab\\
+Ritsumeikan University, Japan}
+}
+
+\maketitle
+
+\begin{abstract}
+This study presents the design and analysis of a comprehensive \textbf{knowledge graph (KG)} that integrates information regarding cancer diseases, symptoms, treatments, and genes. 
+Data were collected automatically from \textbf{Wikipedia} and \textbf{MedlinePlus} via API-based crawling and processed through a structured \textbf{LLM-driven entity-relationship extraction pipeline}. 
+The resulting graph contains over \textbf{1,300 nodes} and \textbf{1,600 relationships}, representing a unified view of oncological knowledge. 
+Analyses including connectivity, community detection, centrality, link prediction, and graph traversal reveal highly connected biological patterns: \textit{TP53}, \textit{BRCA1/2}, and \textit{chemotherapy} emerge as central hubs. 
+The graph’s modular structure mirrors established cancer taxonomies, confirming the viability of automated biomedical KGs for exploratory research and hypothesis generation.
+\end{abstract}
+
+\begin{IEEEkeywords}
+Knowledge Graph, Cancer, Graph Analysis, Community Detection, Biomedical Informatics, LLM
+\end{IEEEkeywords}
+
+\section{Introduction}
+\subsection{Problem Description and Motivation}
+Biomedical data are fragmented across thousands of web resources, each describing diseases, genes, and therapies in distinct textual formats.
+Researchers and clinicians face challenges integrating this information into unified computational models for inference, prediction, and discovery.
+A \textbf{knowledge graph (KG)} can bridge this gap by representing heterogeneous biomedical concepts as nodes and their relationships as edges, enabling multi-layer network analyses that reveal hidden connections among diseases, molecular mechanisms, and clinical outcomes.
+
+\subsection{Objective and Scope}
+The objective of this project is to build a multi-source knowledge graph of cancer-related diseases and conduct a suite of graph-theoretic analyses to uncover structural and biological insights.
+The scope includes:
+\begin{itemize}
+    \item Focus on distinct \textbf{cancer types} (approximately 150 diseases).
+    \item Entities include \textbf{diseases, genes, symptoms, treatments, diagnoses, and subtypes}.
+    \item Analyses emphasize \textbf{graph topology, centrality, and predictive link discovery}.
+\end{itemize}
+
+\subsection{Data Sources}
+Two authoritative biomedical repositories were used:
+\begin{enumerate}
+    \item \textbf{Wikipedia API}: structured, human-readable summaries of diseases.
+    \item \textbf{MedlinePlus Web Service}: curated medical data provided by the U.S. National Library of Medicine.
+\end{enumerate}
+
+\section{Methodology}
+
+\subsection{Data Source Description}
+The KG pipeline ingests semi-structured textual data;
+Wikipedia entries provide user-moderated summaries, causes, and subtypes, while MedlinePlus provides clinically verified symptoms, diagnoses, and treatments. 
+
+\subsection{Data Acquisition}
+A custom Python crawler automates acquisition of raw data. Each record is saved with provenance metadata.
+Wikipedia is accessed via its REST API for plaintext extracts, while MedlinePlus is accessed through its XML search API. 
+MedlinePlus search results are ranked using heuristics to weight title, \texttt{altTitle}, and \texttt{FullSummary} similarity to the disease name.
+
+
+\subsection{Cleaning and Preprocessing}
+HTML tags and boilerplate sections (e.g., “Start Here”) are removed, and text is normalized for large-language-model (LLM) processing. 
+This ensures compatibility with token constraints while maintaining biomedical accuracy.
+
+\subsection{Entity and Relationship Extraction}
+Using Google AI Studio API (gemini-2.5-flash-lite), structured entities and relations are extracted following this schema:
+
+\begin{verbatim}
+{
+ "disease_name": "",
+ "synonyms": [],
+ "summary": "",
+ "causes": [],
+ "risk_factors": [],
+ "symptoms": [],
+ "diagnosis": [],
+ "treatments": [],
+ "related_genes": [],
+ "subtypes": []
+}
+\end{verbatim}
+
+Validated JSON outputs are merged into a unified dataset.
+
+\subsection{Graph Construction}
+The graph is built using \textbf{NetworkX}, where each entity type corresponds to a node label and each relation forms a typed edge (e.g., \texttt{has\_symptom}, \texttt{associated\_gene}, \texttt{treated\_by}). 
+Interactive visualization is provided using \textbf{PyVis}.
+
+\subsection{Tools and Frameworks}
+Python 3.12, NetworkX, PyVis, Pandas, and Leiden/Louvain community-detection algorithms were employed.
+Adamic–Adar, Jaccard, and Preferential Attachment were used for link prediction, while ChatGPT-5 supported interpretive analysis.
+
+\section{Graph Analysis and Experiments}
+
+\subsection{Connectivity}
+The final graph comprises 1,340 nodes and 1,685 edges. 
+A single \textbf{giant component} connects over 90\% of nodes, showing strong biological integration.
+Diseases act as bridges between molecular (genes) and clinical (symptoms/treatments) layers.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.47\textwidth]{figs/cancer_kg_full.png}
+    \caption{Full cancer knowledge graph visualization (interactive PyVis export).}
+    \label{fig:fullgraph}
+\end{figure}
+
+\subsection{Community Detection}
+Using Leiden and Louvain algorithms, twelve communities were identified, each corresponding to major biomedical themes (TABLE I).
+
+\begin{table*}[t]
+\caption{Cancer Clusters: Major Themes and Key Entities}
+\label{tab:cancer_clusters}
+\footnotesize
+\setlength{\tabcolsep}{4pt}
+\renewcommand{\arraystretch}{1.1}
+\begin{tabularx}{\textwidth}{>{\centering\arraybackslash}p{1cm} Y Y}
+\toprule
+\textbf{Cluster} & \textbf{Major Theme} & \textbf{Key Entities / Hubs} \\
+\midrule
+1 & Breast / Ovarian / Endometrial cancers & \textbf{BRCA1}, \textbf{BRCA2}, estrogen, hormonal therapy \\
+2 & Lung / Esophageal / Colorectal cancers & \textbf{TP53}, \textbf{KRAS}, chemotherapy, smoking risk \\
+3 & Hematologic malignancies & \textbf{BCR-ABL}, \textbf{MYC}, leukemia, lymphoma, myeloma \\
+4 & CNS tumors (glioblastoma, medulloblastoma) & \textbf{EGFR}, \textbf{IDH1}, radiotherapy, temozolomide \\
+5 & Skin / Endocrine cancers (melanoma, thyroid) & \textbf{BRAF}, \textbf{RET}, MAPK pathway \\
+6 & Pediatric cancers (neuroblastoma, Wilms, sarcoma) & \textbf{ALK}, \textbf{RB1}, surgery, targeted therapy \\
+7--12 & Smaller clusters (biliary, prostate, head-and-neck, pancreatic, hepatic, rare) & Pathway-specific genes and localized therapies \\
+\bottomrule
+\end{tabularx}
+\end{table*}
+
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.47\textwidth]{figs/cancer_kg_full.png}
+    \caption{Community detection output showing modular clusters (Louvain method).}
+    \label{fig:communities}
+\end{figure}
+
+\subsection{Centrality Analysis}
+\begin{itemize}
+    \item \textbf{Degree}: High-degree nodes include Breast, Lung, and Leukemia.
+    \item \textbf{Betweenness}: TP53 and Chemotherapy serve as inter-cluster bridges.
+    \item \textbf{Eigenvector}: TP53 and BRCA1 remain globally influential.
+\end{itemize}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.47\textwidth]{figs/cancer_kg_full.png}
+    \caption{Centrality metrics (degree, betweenness, eigenvector) highlighting major hubs.}
+    \label{fig:centrality}
+\end{figure}
+
+\subsection{Disease–Gene Subgraph}
+A subgraph focusing on diseases and their associated genes demonstrates the strongest biomedical coherence.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.47\textwidth]{figs/cancer_kg_disease_gene.png}
+    \caption{Disease–gene subgraph showing genetic interconnectivity among cancers.}
+    \label{fig:diseasegene}
+\end{figure}
+
+
+\subsection{Link Prediction}
+\begin{table}[H]
+\centering
+\caption{Predicted New Relationships}
+\begin{tabular}{p{3cm}p{4cm}}
+\toprule
+\textbf{Edge} & \textbf{Rationale} \\
+\midrule
+\textbf{Pancreatic $\leftrightarrow$ BRCA2} & BRCA-driven DNA-repair defects extend to pancreatic tumors \\
+\textbf{Ovarian $\leftrightarrow$ TP53} & Shared apoptotic pathway alterations \\
+\textbf{Endometrial $\leftrightarrow$ Hormone therapy} & Consistent with estrogen-receptor modulation \\
+\textbf{Glioblastoma $\leftrightarrow$ EGFR inhibitors} & Pathway enrichment but under-linked in current data \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+
+
+\subsection{Node Property Prediction}
+Neighbor-majority voting achieved approximately 93\% accuracy in recovering node types, validating schema consistency.
+
+\subsection{Traversal and Search}
+BFS from \textit{Breast cancer}:
+\[
+Breast~cancer \rightarrow BRCA1 \rightarrow DNA~repair \rightarrow Chemotherapy~response
+\]
+DFS from \textit{Colorectal cancer} reveals longer disease–gene–therapy chains, illustrating multi-hop reasoning.
+
+\section{Discussion}
+The analyses demonstrate a biologically faithful topology. 
+Genes like TP53 and BRCA2 act as universal integrators, while Chemotherapy creates cross-domain connectivity.
+Community boundaries align with medical taxonomies, validating the extraction process.
+The graph structure reveals phenotype–genotype–therapy triads, where treatments cluster by mechanism (e.g., DNA damage response).
+
+\subsection{Limitations}
+\begin{itemize}
+    \item Reliance on secondary textual sources limits molecular granularity.
+    \item LLM extraction errors can introduce noise.
+    \item Token constraints restrict large-scale ingestion beyond 300 diseases without summarization.
+\end{itemize}
+
+\section{Related Work}
+Prior biomedical KGs such as \textbf{Hetionet} and \textbf{BioKG} integrate curated databases (DrugBank, DisGeNET).
+Our system differs by extracting from public textual sources using LLMs, allowing automatic scaling.
+Menche et al. (Science, 2015) explored curated interactomes; our work complements this through automated extraction and modular graph analysis.
+
+\section{Conclusion}
+The cancer knowledge graph demonstrates high connectivity, biologically coherent modularity, and realistic centrality distributions.
+\begin{itemize}
+    \item TP53 functions as a master hub across the oncological landscape.
+    \item BRCA1/2 anchor hereditary cancer subnetworks.
+    \item Chemotherapy connects molecular and clinical layers.
+\end{itemize}
+Future work includes edge weighting, integration of non-cancer diseases, and deployment of Graph Neural Networks (GraphSAGE, GAT) for predictive tasks.
+
+\section*{Acknowledgments}
+This work utilized the following LLM tools: ChatGPT, Google AI Studio.
+We would like to thank Djedje Didier GOHOUROU and Ruck THAWONMAS for their guidance and support.
+
+
+\begin{thebibliography}{00}
+\bibitem{medlineplus}
+National Library of Medicine. \textit{MedlinePlus Web Service Developer Guide}, 2025.
+\bibitem{wiki}
+Wikipedia API Documentation. \textit{MediaWiki Extracts Endpoint}, 2024.
+\bibitem{networkx}
+NetworkX Developers. \textit{NetworkX: Complex Network Analysis in Python}, 2025.
+\bibitem{menche}
+J. Menche et al., ``Uncovering Disease–Disease Relationships through the Human Interactome,'' \textit{Science}, vol. 347, no. 6224, 2015.
+\bibitem{gemini}
+Google AI Studio. \textit{Gemini 2.5 Flash Live: Entity Extraction API Reference}, 2025.
+\end{thebibliography}
+
+\end{document}
