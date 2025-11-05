@@ -1,0 +1,50 @@
+A leiomyosarcoma (LMS) is a rare malignant (cancerous) smooth muscle tumor. The word is from  leio- 'smooth'  myo- 'muscle' and  sarcoma 'tumor of connective tissue'. The stomach, bladder, uterus, blood vessels, and intestines are examples of hollow organs made up of smooth muscles where LMS can be located; however, the uterus and abdomen are the most common sites.
+Although leiomyosarcomas are rare, they belong to the more common types of soft-tissue sarcoma, representing 10–20% of new cases. This type of cancer is more frequently diagnosed in adults as compared to children.  When considering LMS specifically in the context of the uterus, it affects approximately 6 individuals per 1 million people in the United States each year. LMSs are resistant cancers, meaning they are generally not very responsive to chemotherapy or radiation. The best outcomes occur when the tumor tissue can be removed surgically at an early stage, while it is small and has not yet spread from the original site (it remains in situ).
+
+
+== Mechanism ==
+Smooth muscle cells make up the involuntary muscles, which are found in most parts of the body, including the uterus, stomach and intestines, the walls of all blood vessels, and the skin. These are the areas where LMSs originate. LMSs also often develop in the retroperitoneal region which consists of the suprarenal glands, the kidney, and ureter. Just as it is not known what truly causes most sarcomas, LMSs have similarly complex karyotypes and it is suggested that because of the complexity, genomic instability might be the cause.
+Uterine leiomyosarcomas come from the smooth muscle in the muscle layer of the uterus. Cutaneous leiomyosarcomas derive from the pilo-erector muscles in the skin. Gastrointestinal leiomyosarcomas might come from smooth muscle in the gastrointestinal (GI) tract, or alternatively, from a blood vessel. At most other primary sites—retroperitoneal extremity (in the abdomen, behind the intestines), truncal, abdominal organs, etc.—leiomyosarcomas appear to grow from the muscle layer of a blood vessel (the tunica media). Thus, a leiomyosarcoma can have a primary site of origin anywhere in the body from a blood vessel.
+The tumors are usually hemorrhagic, soft, and microscopically marked by pleomorphism, abundant (15–30 per 10 high-power fields) abnormal mitotic figures, and coagulative tumor cell necrosis. The differential diagnosis, which includes spindle cell carcinoma, spindle cell melanoma, fibrosarcoma, malignant peripheral nerve sheath tumor, and even biphenotypic sinonasal sarcoma, is wide.
+
+
+== Diagnosis ==
+
+To diagnose LMS, a physical exam may be performed by one’s physician, imaging tests such as MIT, CT, and PET scans can be performed, or tissue biopsies can also be completed where the histopathology of the removed tissue sample is examined. Because LMS is a widespread disease, the symptoms vary based on the location and size of the tumor. Some of the symptoms include nausea and vomiting, palpable lumps, pain, bleeding, and unintentional weight loss.
+
+
+== Treatment ==
+Surgery, with as wide a margin of removal as possible, has generally been the most effective and preferred way to attack LMS.  If surgical margins are narrow or not clear of tumor, however, or in some situations where tumor cells were left behind, chemotherapy or radiation has been shown to give a clear survival benefit.  While LMS tends to be resistant to radiation and chemotherapy, each case is different and results can vary widely.
+For metastatic (widespread) disease, chemotherapy and targeted therapies are the first choices. 
+Chemotherapy regimens include doxorubicin/ifosfamide and doxorubicin combination/gemcitabine and docetaxel/trabectedin; pazopanib is the targeted therapy used in metastatic leiomyosarcoma as second line and is well tolerated.
+LMS of uterine origin often responds to hormonal treatments. As of 2020, several clinical trials for uterine LMS are active.
+
+
+== Uterine leiomyomas vs uterine leiomyosarcomas ==
+Leiomyomas are benign smooth muscle tumors that have overlapping features with leiomyosarcomas. Although both originate from smooth muscle, leiomyomas notably do not mature to become leiomyosarcomas. Leiomyomas are seen in premenopausal women and are symptomatic 20–50% of the time, while leiomyosarcomas, the most common uterine sarcomas, are seen in older postmenopausal women, with 40-60 being the peak age incidence. Since leiomyomas are benign and mostly asymptomatic, minimally invasive treatment modalities are used to treat them. For this same reason, distinguishing them from LMSs before surgical procedures is crucial to  ensure that laparoscopic procedures or diagnosis delay will not lead to heightened morbidity given the poor prognosis of LMS. For example, the FDA has warned against using morcellation for benign leiomyomas, as those with unsuspected sarcomas are at risk of cancer spread.
+
+
+== Notable cases ==
+People who have had leiomyosarcoma include:
+
+Irene Hirano, fundraiser for charitable causes and second wife of Daniel Inouye
+Leicester City footballer Keith Weller, who made over 300 appearances for the Foxes, scoring 47 goals, made four appearances for England, scoring one goal.
+Katie Price
+Canadian public-health physician Sheela Basrur (1956–2008) developed uterine leiomyosarcoma in 2006.
+American actress Diana Sands
+The first year of treatment for leiomyosarcoma of Canadian comedian Irwin Barker was the subject of a 2008 television documentary, That's My Time; he died in 2010.
+Linda Uttley (1966–2009), English rugby union footballer in the Women's England Team, was diagnosed with leiomyosarcoma in 2007 and died in 2009 at the age of 43.
+Deborah Finck (1967-2025), Tiktoker and Nanny 911 star, was diagnosed with leiomyosarcoma in 2020 and died on January 14, 2025, at the age of 57.
+Loni Anderson (1945-2025), American actress, died from metastatic uterine leiomyosarcoma on August 3, 2025, at the age of 79.
+
+
+== See also ==
+Uterine sarcoma
+
+
+== References ==
+
+
+== External links ==
+Gastrointestinal Stromal Tumors at eMedicine
+Leiomyosarcoma Support & Direct Research Foundation
