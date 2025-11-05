@@ -1,0 +1,150 @@
+acoustic neuroma
+adenoid carcinoma
+adenoid cystic carcinoma
+adrenal gland cancer
+adrenal medulla cancer
+adrenocortical carcinoma
+ampulla of Vater cancer
+ampullary carcinoma
+anal cancer
+anaplastic thyroid cancer
+angiosarcoma
+appendix cancer
+appendix neuroendocrine tumor
+astroblastoma
+astrocytoma
+atypical teratoid rhabdoid tumor
+basal cell carcinoma
+bile duct cancer
+biliary tract cancer
+bladder cancer
+bladder squamous cell carcinoma
+bone cancer
+bone marrow cancer
+brain tumor
+breast cancer
+bronchial carcinoid tumor
+carcinoid syndrome
+carcinoid tumor
+carcinosarcoma
+Castleman disease
+cerebellar astrocytoma
+cervical cancer
+cholangio­carcinoma
+chordoma
+choriocarcinoma
+chronic myelogenous leukemia
+clear cell sarcoma
+colorectal cancer
+cutaneous T-cell lymphoma
+dermatofibrosarcoma protuberans
+desmoid tumor
+embryonal carcinoma
+endocrine cancer
+endometrial cancer
+ependymoblastoma
+ependymoma
+epithelioid hemangioendothelioma
+esophageal adenocarcinoma
+esophageal cancer
+Ewing sarcoma
+eye cancer
+fallopian tube cancer
+fibrolamellar carcinoma
+fibrosarcoma
+gallbladder cancer
+gastric adenocarcinoma
+gastric cancer
+gestational trophoblastic disease
+glioblastoma
+glomus tumor
+granulosa cell tumor
+hairy cell leukemia
+head and neck cancer
+hepatoblastoma
+hepatocellular carcinoma
+Hodgkin lymphoma
+hypopharyngeal cancer
+inflammatory breast cancer
+intestinal cancer
+intrahepatic bile duct cancer
+invasive ductal carcinoma
+Kaposi sarcoma
+kidney cancer
+laryngeal cancer
+laryngeal squamous cell carcinoma
+leiomyosarcoma
+leukemia
+liposarcoma
+liver cancer
+lung cancer
+lymphangiosarcoma
+lymphoma
+male breast cancer
+malignant melanoma of the eye
+malignant mesothelioma
+malignant mixed Müllerian tumor
+malignant peripheral nerve sheath tumor
+malignant rhabdoid tumor
+medullary breast cancer
+medullary thyroid cancer
+medulloblastoma
+mediastinal germ cell tumor
+melanoma
+meningioma
+Merkel cell carcinoma
+mesonephric carcinoma
+mesothelioma
+mesothelioma (peritoneal type)
+mucinous carcinoma
+mucinous ovarian cancer
+mucosal melanoma
+multiple endocrine neoplasia
+multiple myeloma
+myelodysplastic syndromes
+myelofibrosis
+myxofibrosarcoma
+nasal cavity and paranasal sinus cancer
+nasal cavity cancer
+nasopharyngeal cancer
+nephroblastoma
+neuroblastoma
+neuroendocrine tumor
+non-Hodgkin lymphoma
+non-melanoma skin cancer
+oligodendroglioma
+oral cancer
+oropharyngeal cancer
+osteosarcoma
+ovarian cancer
+ovarian germ cell tumor
+pancreatic cancer
+pancreatoblastoma
+paraganglioma
+parathyroid cancer
+penile cancer
+pericardial mesothelioma
+pheochromocytoma
+pituitary tumor
+plasma cell leukemia
+pleural mesothelioma
+primary peritoneal cancer
+prostate cancer
+retinoblastoma
+rhabdomyosarcoma
+salivary gland cancer
+sarcoma of the uterus
+serous carcinoma
+sinonasal cancer
+skin cancer
+soft tissue sarcoma
+stomach cancer
+testicular cancer
+thymoma
+thyroid cancer
+urethral cancer
+uterine sarcoma
+vaginal cancer
+vaginal stromal sarcoma
+vulvar cancer
+Wilms tumor
