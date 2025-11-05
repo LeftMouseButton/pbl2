@@ -1,0 +1,41 @@
+{
+  "disease_name": "Astrocytoma",
+  "synonyms": [
+    "Astrocytomata"
+  ],
+  "summary": "Astrocytoma is a type of brain tumor originating from astrocytes, a type of glial cell in the cerebrum. It typically does not spread outside the brain and spinal cord. Astrocytomas are the second most common type of glioma after glioblastomas and can occur in most parts of the brain and occasionally the spinal cord. They are classified into two broad classes: those with narrow zones of infiltration (mostly noninvasive) and those with diffuse zones of infiltration (high-grade).",
+  "causes": [
+    "Genetic mutations",
+    "Homozygous deletion of CDKN2A/B (high-grade astrocytoma)",
+    "Genome-wide pattern of DNA copy-number alterations (CNAs)"
+  ],
+  "risk_factors": [],
+  "symptoms": [],
+  "diagnosis": [
+    "X-ray computed tomography (CT) scan",
+    "Magnetic resonance imaging (MRI) scan",
+    "Histologic analysis (historically)",
+    "Histopathological and molecular findings (current WHO criteria)",
+    "Neurological exam (vision, balance, coordination, mental status)",
+    "Biopsy (tissue removal for examination and grading)",
+    "Grading of tumor sample (WHO grading system)"
+  ],
+  "treatments": [
+    "Surgical removal (for low-grade astrocytomas)",
+    "Radiation therapy",
+    "Implant radiation treatment",
+    "Chemotherapy",
+    "Palliative management (for high-grade astrocytomas)"
+  ],
+  "related_genes": [
+    "CDKN2A/B"
+  ],
+  "subtypes": [
+    "Pilocytic astrocytoma",
+    "Subependymal giant cell astrocytoma",
+    "Pleomorphic xanthoastrocytoma",
+    "High-grade astrocytoma",
+    "Anaplastic astrocytoma (grade III)",
+    "Glioblastoma (grade IV GBM)"
+  ]
+}

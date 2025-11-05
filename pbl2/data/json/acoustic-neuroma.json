@@ -1,0 +1,29 @@
+{
+  "disease_name": "Acoustic Neuroma",
+  "synonyms": [
+    "Vestibular Schwannoma"
+  ],
+  "summary": "Acoustic neuroma, also known as vestibular schwannoma, is a benign tumor that develops on the nerve connecting the ear and brain.",
+  "causes": [],
+  "risk_factors": [],
+  "symptoms": [
+    "Hearing loss",
+    "Tinnitus",
+    "Dizziness",
+    "Balance problems",
+    "Facial numbness or weakness"
+  ],
+  "diagnosis": [
+    "Brain MRI (Head MRI)",
+    "Head CT",
+    "Hearing test"
+  ],
+  "treatments": [
+    "Surgery",
+    "Radiation therapy",
+    "Stereotactic radiosurgery",
+    "Gamma Knife surgery"
+  ],
+  "related_genes": [],
+  "subtypes": []
+}

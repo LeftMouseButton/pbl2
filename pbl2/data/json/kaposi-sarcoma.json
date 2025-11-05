@@ -1,0 +1,51 @@
+{
+  "disease_name": "Kaposi sarcoma",
+  "synonyms": [
+    "KS"
+  ],
+  "summary": "Kaposi sarcoma (KS) is a type of cancer that causes lesions (abnormal tissue) to grow in different parts of the body, including the skin, lymph nodes, mucous membranes, and other organs. These lesions are usually red or purple and are made of cancer cells, new blood vessels, and blood cells. KS can begin in more than one place in the body simultaneously.",
+  "causes": [
+    "Infection with human herpesvirus-8 (HHV-8)",
+    "Human herpesvirus-8 (HHV-8) also called Kaposi sarcoma-associated herpesvirus (KSHV)"
+  ],
+  "risk_factors": [
+    "Weakened immune systems due to HIV",
+    "Weakened immune systems due to medicines taken after an organ transplant",
+    "Older men of Mediterranean or Eastern European Jewish heritage",
+    "Young men in Africa"
+  ],
+  "symptoms": [
+    "Red, purple, or brown skin lesions on the legs and feet",
+    "Lesions on the ankles or soles of the feet",
+    "Painful swelling due to pressure from lesions blocking lymph and blood flow",
+    "Abdominal pain",
+    "Diarrhea",
+    "Shortness of breath"
+  ],
+  "diagnosis": [
+    "Medical and family history",
+    "Physical exam",
+    "Chest x-ray",
+    "Biopsy of skin lesions",
+    "Endoscopy for stomach and intestines",
+    "Bronchoscopy for lungs",
+    "Blood tests",
+    "Imaging tests to check for spread"
+  ],
+  "treatments": [
+    "HIV medicines (for epidemic KS)",
+    "Adjusting dose or switching immunosuppressant medicines (for iatrogenic KS)",
+    "Radiation therapy",
+    "Surgery",
+    "Cryosurgery",
+    "Chemotherapy",
+    "Immunotherapy"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Epidemic (HIV-associated) Kaposi sarcoma",
+    "Iatrogenic (transplant-related) Kaposi sarcoma",
+    "Classic Kaposi sarcoma",
+    "Endemic (African) Kaposi sarcoma"
+  ]
+}

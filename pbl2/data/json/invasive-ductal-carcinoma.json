@@ -1,0 +1,69 @@
+{
+  "disease_name": "Breast cancer",
+  "synonyms": [
+    "Breast carcinoma"
+  ],
+  "summary": "Breast cancer is a cancer that starts in breast tissue when cells in the breast change and grow out of control, forming a tumor. It can be 'in situ' (not spread further) or 'invasive' (spread outside the breast to nearby tissues, lymph nodes, or other parts of the body through the lymph system or blood). It is the second most common cancer in women in the United States and can rarely affect men.",
+  "causes": [
+    "Changes in genetic material (DNA)",
+    "Inherited genetic changes (hereditary breast cancer)",
+    "Genetic changes in BRCA1 and BRCA2 genes",
+    "Exposure to estrogen hormone (due to reproductive history)",
+    "Hormone therapy for menopause symptoms",
+    "Radiation therapy to the breast or chest"
+  ],
+  "risk_factors": [
+    "Older age",
+    "History of breast cancer or benign breast disease",
+    "Inherited risk of breast cancer (BRCA1 and BRCA2 gene changes)",
+    "Dense breast tissue",
+    "Menstruating at an early age",
+    "Older age at first birth or never having given birth",
+    "Starting menopause at a later age",
+    "Obesity",
+    "Drinking alcohol"
+  ],
+  "symptoms": [
+    "New lump or thickening in or near the breast or in the armpit",
+    "Change in the size or shape of the breast",
+    "Dimple or puckering in the skin of the breast (orange peel appearance)",
+    "Nipple turned inward into the breast",
+    "Nipple discharge (other than breast milk, sudden, bloody, or from one breast)",
+    "Scaly, red, or swollen skin in the nipple area or the breast",
+    "Pain in any area of the breast"
+  ],
+  "diagnosis": [
+    "Physical exam (clinical breast exam - CBE)",
+    "Medical history",
+    "Mammogram",
+    "Ultrasound",
+    "MRI",
+    "Breast biopsy",
+    "Blood chemistry tests (BMP, CMP, electrolyte panel)",
+    "Genetic tests (BRCA, TP53 genes)",
+    "HER2 test",
+    "Estrogen and progesterone receptor test",
+    "Cancer staging (including other imaging tests and sentinel lymph node biopsy)"
+  ],
+  "treatments": [
+    "Mastectomy",
+    "Lumpectomy",
+    "Radiation therapy",
+    "Chemotherapy",
+    "Hormone therapy",
+    "Targeted therapy",
+    "Immunotherapy"
+  ],
+  "related_genes": [
+    "BRCA1",
+    "BRCA2",
+    "TP53",
+    "HER2"
+  ],
+  "subtypes": [
+    "Ductal carcinoma",
+    "Lobular carcinoma",
+    "Inflammatory breast cancer",
+    "Paget's disease of the breast"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "disease_name": "Eye Cancer",
+  "synonyms": [
+    "Ocular Oncology",
+    "Eye Neoplasms"
+  ],
+  "summary": "Eye cancer refers to cancers that start in or spread to the eye. There are several types of eye cancer, including intraocular melanoma and retinoblastoma.",
+  "causes": [],
+  "risk_factors": [],
+  "symptoms": [
+    "Eye symptoms"
+  ],
+  "diagnosis": [
+    "Dilating eye drops",
+    "Stages of Intraocular (Uveal) Melanoma",
+    "Stages of Retinoblastoma"
+  ],
+  "treatments": [
+    "Drugs Approved for Retinoblastoma",
+    "Treatment of Intraocular (Uveal) Melanoma",
+    "Ocular proton therapy",
+    "Chemotherapy"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Intraocular (Uveal) Melanoma",
+    "Retinoblastoma",
+    "Cancers Affecting the Retina",
+    "Lacrimal gland tumor"
+  ]
+}

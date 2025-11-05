@@ -1,0 +1,44 @@
+{
+  "disease_name": "Tonsillitis",
+  "synonyms": [],
+  "summary": "Tonsillitis is an inflammation (swelling) of the tonsils, sometimes occurring along with swollen adenoids.",
+  "causes": [
+    "Viral infection",
+    "Bacterial infection (e.g., strep throat)"
+  ],
+  "risk_factors": [
+    "Being a child over age two",
+    "Being a child ages 5-15 (for bacterial tonsillitis)",
+    "Being a younger child (for viral tonsillitis)"
+  ],
+  "symptoms": [
+    "Sore throat",
+    "Red, swollen tonsils",
+    "Trouble swallowing",
+    "White or yellow coating on tonsils",
+    "Swollen glands in the neck",
+    "Fever",
+    "Bad breath"
+  ],
+  "diagnosis": [
+    "Assessment of symptoms and medical history",
+    "Physical examination of throat and neck",
+    "Rapid strep test",
+    "Throat culture"
+  ],
+  "treatments": [
+    "Rest",
+    "Plenty of fluids",
+    "Soft foods",
+    "Warm liquids or cold foods",
+    "Avoiding irritants (e.g., cigarette smoke)",
+    "Humidifier",
+    "Saltwater gargles",
+    "Lozenges (for children over four)",
+    "Over-the-counter pain relievers (acetaminophen)",
+    "Antibiotics (for bacterial infections)",
+    "Tonsillectomy (surgery to remove tonsils)"
+  ],
+  "related_genes": [],
+  "subtypes": []
+}

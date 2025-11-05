@@ -1,0 +1,69 @@
+{
+  "disease_name": "Anal cancer",
+  "synonyms": [
+    "Anal carcinoma"
+  ],
+  "summary": "Anal cancer is a cancer that forms in the tissues of the anus, the opening at the end of the large intestine where stool leaves the body. It is typically a squamous cell carcinoma, but other types include adenocarcinoma, small cell carcinoma, and melanoma.",
+  "causes": [
+    "Human papillomavirus (HPV) infection",
+    "HIV infection",
+    "Remnant of the cloacal membrane of the embryo (cloacogenic carcinoma)"
+  ],
+  "risk_factors": [
+    "Human papillomavirus (HPV) infection",
+    "HIV/AIDS",
+    "Receptive anal sex",
+    "Smoking",
+    "Many sexual partners",
+    "History of cervical cancer",
+    "History of vaginal cancer",
+    "History of vulvar cancer",
+    "Immunosuppression (e.g., after organ transplant)"
+  ],
+  "symptoms": [
+    "Bleeding from the anus or rectum",
+    "Lump near the anus",
+    "Pain or pressure in the anus or rectum",
+    "Itchiness or discharge from the anus",
+    "Change in bowel habits",
+    "Narrower stools",
+    "Increased frequency of bowel movements",
+    "Bowel incontinence"
+  ],
+  "diagnosis": [
+    "Physical examination",
+    "Digital rectal examination (DRE)",
+    "Anoscopy",
+    "High-resolution anoscopy",
+    "Proctoscopy",
+    "Endo-anal ultrasound",
+    "Endorectal ultrasound",
+    "Tissue biopsy",
+    "Anal Pap smears"
+  ],
+  "treatments": [
+    "Radiation therapy",
+    "Chemotherapy",
+    "Surgery",
+    "Infrared photocoagulation (for carcinoma-in-situ and anal intraepithelial neoplasia)",
+    "5-FU (5-fluorouracil)",
+    "Mitomycin C (MMC)",
+    "Cisplatin",
+    "Capecitabine",
+    "Doxorubicin",
+    "Taxol",
+    "Carboplatinum"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Squamous cell carcinoma",
+    "Adenocarcinoma",
+    "Small cell carcinoma",
+    "Melanoma",
+    "Lymphoma",
+    "Sarcoma",
+    "Cloacogenic carcinoma",
+    "Epidermoid carcinoma",
+    "Basaloid carcinoma"
+  ]
+}

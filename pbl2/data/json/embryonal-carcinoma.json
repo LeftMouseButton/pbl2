@@ -1,0 +1,58 @@
+{
+  "disease_name": "Embryonal carcinoma",
+  "synonyms": [
+    "Nonseminomatous germ cell tumour"
+  ],
+  "summary": "Embryonal carcinoma is a type of nonseminomatous germ cell tumor that can occur in the ovaries and testes. It is characterized by cells that are attempting to evolve into their next stage of development. In the testis, it often presents as a component of mixed germ cell tumors.",
+  "causes": [],
+  "risk_factors": [],
+  "symptoms": [
+    "Palpable testicular mass",
+    "Asymmetric testicular enlargement",
+    "Low back pain",
+    "Dyspnoea",
+    "Cough",
+    "Haemoptysis",
+    "Haematemesis",
+    "Neurologic abnormalities",
+    "Sexual precocity (in ovary)",
+    "Abnormal uterine bleeding (in ovary)",
+    "Testicular lump (may be painful)"
+  ],
+  "diagnosis": [
+    "Gross examination showing pale grey, poorly defined tumor with hemorrhage and necrosis",
+    "Microscopic features: indistinct cell borders, mitoses, variable architecture (tubulopapillary, glandular, solid, embryoid bodies), nuclear overlap, necrosis",
+    "Predominant architectural patterns: Solid, glandular, papillary",
+    "Serum alpha-fetoprotein (AFP) levels (elevated levels more suggestive of yolk sac tumor)",
+    "Serum human chorionic gonadotropin (hCG) levels (in association with other tumors)",
+    "Abdominal exploration",
+    "Abdominal Ultrasound",
+    "Alpha Fetoprotein (AFP) Tumor Marker Test",
+    "CEA Test",
+    "Endoscopic Retrograde Cholangiopancreatography (ERCP)",
+    "Liver Biopsy",
+    "Liver Function Tests",
+    "Needle Biopsy",
+    "Tumor Marker Tests",
+    "Distinguishing from seminoma, teratocarcinoma, yolk sac tumor, and Sertoli–Leydig cell tumor"
+  ],
+  "treatments": [
+    "Chemotherapy",
+    "Cryosurgery",
+    "TACE Cancerous Tumor Therapy",
+    "Thermal Ablation for Tumor Treatment",
+    "Liver Transplantation"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Ovarian embryonal carcinoma",
+    "Testicular embryonal carcinoma",
+    "Pure embryonal carcinoma",
+    "Mixed germ cell tumor (component)",
+    "Polyembryoma-like proliferations",
+    "Diffuse embryoma-like proliferations",
+    "Childhood Undifferentiated Embryonal Sarcoma of the Liver",
+    "Hepatoblastoma",
+    "Infantile Choriocarcinoma of the Liver"
+  ]
+}

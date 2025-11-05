@@ -1,0 +1,81 @@
+{
+  "disease_name": "Chronic Myelogenous Leukemia",
+  "synonyms": [
+    "CML",
+    "Chronic Myeloid Leukemia"
+  ],
+  "summary": "Chronic myelogenous leukemia (CML) is a cancer of the white blood cells, specifically a type of chronic leukemia characterized by the increased and unregulated growth of myeloid cells in the bone marrow and their accumulation in the blood. It is a clonal bone marrow stem cell disorder associated with the Philadelphia chromosome, a characteristic chromosomal translocation.",
+  "causes": [
+    "Genetic change called the Philadelphia chromosome",
+    "BCR-ABL fusion gene creating an abnormal protein that allows leukemia cells to grow out of control"
+  ],
+  "risk_factors": [
+    "Older age",
+    "Male sex",
+    "Exposure to high-dose radiation"
+  ],
+  "symptoms": [
+    "Feeling very tired",
+    "Weight loss for no known reason",
+    "Drenching night sweats",
+    "Fever",
+    "Pain or a feeling of fullness below the ribs on the left side",
+    "Hepatosphenomegaly",
+    "Left upper quadrant pain",
+    "Loss of appetite",
+    "Mild fever",
+    "Bleeding",
+    "Petechiae",
+    "Ecchymosis",
+    "Bone pain",
+    "Increased bone marrow fibrosis"
+  ],
+  "diagnosis": [
+    "Complete blood count (CBC) with differential",
+    "Blood chemistry tests",
+    "Bone marrow aspiration",
+    "Bone marrow biopsy",
+    "Genetic tests for Philadelphia chromosome",
+    "Cytogenetics to detect translocation t(9;22)(q34;q11.2)",
+    "Fluorescent in situ hybridization (FISH) for BCR-ABL1",
+    "PCR for BCR-ABL1",
+    "Imaging tests"
+  ],
+  "treatments": [
+    "Tyrosine-kinase inhibitors (TKIs)",
+    "Imatinib",
+    "Dasatinib",
+    "Nilotinib",
+    "Radotinib",
+    "Bosutinib",
+    "Asciminib",
+    "Omacetaxine",
+    "Ponatinib",
+    "Chemotherapy",
+    "Immunotherapy",
+    "High-dose chemotherapy with stem cell transplant",
+    "Bone marrow transplant",
+    "Allogeneic stem cell transplant",
+    "Myelosuppressive therapy",
+    "Leukapheresis",
+    "Splenectomy",
+    "Interferon alfa-2b",
+    "Interferon-alpha",
+    "Cytarabine",
+    "Hydroxyurea",
+    "Alkylating agents",
+    "Steroids",
+    "Donor lymphocyte infusion (DLI)"
+  ],
+  "related_genes": [
+    "BCR-ABL",
+    "ABL1",
+    "BCR",
+    "BCR-ABL1"
+  ],
+  "subtypes": [
+    "Chronic phase",
+    "Accelerated phase",
+    "Blast crisis"
+  ]
+}

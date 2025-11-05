@@ -1,0 +1,66 @@
+{
+  "disease_name": "Ependymoma",
+  "synonyms": [],
+  "summary": "Ependymoma is a tumor that arises from the ependyma, a tissue of the central nervous system. It can occur in the brain or spinal cord, with common locations including the floor of the fourth ventricle and the lumbosacral region. Ependymomas are classified by location, cellular features, and molecular characteristics, with grades ranging from I to III.",
+  "causes": [
+    "Radial glia (suggested origin)"
+  ],
+  "risk_factors": [
+    "Neurofibromatosis type II"
+  ],
+  "symptoms": [
+    "Severe headache",
+    "Nausea",
+    "Vomiting",
+    "Visual loss",
+    "Papilledema",
+    "Loss of balance",
+    "Vertigo",
+    "Hydrocephalus",
+    "Drowsiness",
+    "Bilateral Babinski sign",
+    "Gait change",
+    "Impaction/constipation",
+    "Back flexibility",
+    "Loss of appetite",
+    "Difficulty sleeping",
+    "Temporary inability to distinguish colors",
+    "Uncontrollable twitching",
+    "Seeing vertical or horizontal lines when in bright light",
+    "Temporary memory loss",
+    "Increased intracranial pressure",
+    "Back pain",
+    "Numbness or weakness in the limbs",
+    "Urinary or bowel problems"
+  ],
+  "diagnosis": [
+    "Histological examination (morphology)",
+    "Molecular characteristics",
+    "Imaging (MRI, CT, ultrasound)"
+  ],
+  "treatments": [
+    "Maximum surgical resection",
+    "Radiation therapy",
+    "Chemotherapy (limited use, for special cases)",
+    "Craniospinal irradiation (controversial)",
+    "Palliative care"
+  ],
+  "related_genes": [
+    "ZFTA",
+    "YAP1",
+    "EPN",
+    "MYC"
+  ],
+  "subtypes": [
+    "Myxopapillary ependymoma (MPE)",
+    "Subependymoma",
+    "Anaplastic ependymoma",
+    "Ependymoblastoma",
+    "Extraspinal ependymoma (EEP)",
+    "Supratentorial ependymoma",
+    "Posterior fossa ependymoma",
+    "Spinal ependymoma",
+    "Posterior Fossa Group A",
+    "Posterior Fossa Group B"
+  ]
+}

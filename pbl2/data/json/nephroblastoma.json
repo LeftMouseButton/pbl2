@@ -1,0 +1,23 @@
+{
+  "disease_name": "Wilms Tumor",
+  "synonyms": [
+    "Nephroblastoma",
+    "Childhood Kidney Tumors"
+  ],
+  "summary": "Wilms tumor, also known as nephroblastoma, is a type of kidney cancer that primarily affects children. It is the most common kidney cancer in children.",
+  "causes": [
+    "Genetic mutations"
+  ],
+  "risk_factors": [
+    "WAGR syndrome"
+  ],
+  "symptoms": [],
+  "diagnosis": [],
+  "treatments": [
+    "Chemotherapy"
+  ],
+  "related_genes": [
+    "ALKBH1"
+  ],
+  "subtypes": []
+}

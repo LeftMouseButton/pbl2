@@ -1,0 +1,85 @@
+{
+  "disease_name": "Cervical cancer",
+  "synonyms": [
+    "Cancer of the cervix"
+  ],
+  "summary": "Cervical cancer is a type of cancer that develops in the cervix, the lower, narrow end of the uterus that opens into the vagina. It is caused by abnormal cell growth that can invade or spread to other parts of the body. Early stages are often asymptomatic, but later symptoms can include abnormal vaginal bleeding, pelvic pain, or pain during sexual intercourse. The vast majority of cases are linked to persistent genital human papillomavirus (HPV) infection.",
+  "causes": [
+    "Persistent genital human papillomavirus (HPV) infection",
+    "HPV 16 and 18 strains",
+    "Smoking",
+    "Weakened immune system (e.g., HIV infection)",
+    "Long-term use of oral contraceptives",
+    "Multiple pregnancies",
+    "Exposure to diethylstilbestrol (DES) before birth"
+  ],
+  "risk_factors": [
+    "Genital human papillomavirus (HPV) infection",
+    "Smoking (active and passive)",
+    "Weakened immune system",
+    "Birth control pills (long-term use)",
+    "Starting sex at a young age",
+    "Having many sexual partners",
+    "Having partners with many sexual partners",
+    "Multiple pregnancies",
+    "Obesity",
+    "Exposure to DES before birth"
+  ],
+  "symptoms": [
+    "No symptoms in early stages",
+    "Abnormal vaginal bleeding (e.g., after sex, between periods)",
+    "Pelvic pain",
+    "Pain during sexual intercourse",
+    "Vaginal discharge (watery, strong odor, or bloody)",
+    "Loss of appetite",
+    "Weight loss",
+    "Fatigue",
+    "Back pain",
+    "Leg pain",
+    "Swollen legs",
+    "Heavy vaginal bleeding",
+    "Bone fractures",
+    "Leakage of urine or feces from the vagina",
+    "Hydronephrosis with flank pain",
+    "Blood clots in the legs",
+    "Rectal bleeding",
+    "Bleeding in the urine",
+    "Abdominal pain",
+    "Difficult or painful bowel movements",
+    "Difficult or painful urination"
+  ],
+  "diagnosis": [
+    "Cervical screening (Pap test, HPV test)",
+    "Colposcopy",
+    "Cervical biopsy",
+    "Medical imaging (ultrasound, CT scan, MRI)",
+    "Loop electrical excision procedure",
+    "Cervical conization"
+  ],
+  "treatments": [
+    "Surgery (excision, ablation, hysterectomy, trachelectomy)",
+    "Radiation therapy (external beam radiotherapy, brachytherapy)",
+    "Chemotherapy (e.g., cisplatin-based, hycamtin)",
+    "Chemoradiotherapy",
+    "Targeted therapy",
+    "Immunotherapy (e.g., pembrolizumab, cemiplimab-rwlc, tisotumab vedotin)",
+    "Fertility-sparing therapy"
+  ],
+  "related_genes": [
+    "TP53",
+    "pRb",
+    "VEGF"
+  ],
+  "subtypes": [
+    "Squamous cell carcinoma",
+    "Adenocarcinoma",
+    "Adenosquamous carcinoma",
+    "Small cell carcinoma",
+    "Neuroendocrine tumour",
+    "Glassy cell carcinoma",
+    "Villoglandular adenocarcinoma",
+    "Gastric-type mucinous adenocarcinoma",
+    "Melanoma (rare)",
+    "Lymphoma (rare)"
+  ]
+}

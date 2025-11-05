@@ -1,0 +1,47 @@
+{
+  "disease_name": "Choriocarcinoma",
+  "synonyms": [],
+  "summary": "Choriocarcinoma is a trophoblastic cancer that usually originates in the placenta. It is characterized by early hematogenous spread to the lungs and is considered the malignant end of gestational trophoblastic disease (GTD). It can also arise in the testis or ovary as a germ cell tumor.",
+  "causes": [
+    "Hydatidiform mole",
+    "Spontaneous abortion",
+    "Ectopic pregnancy",
+    "Normal-term pregnancy",
+    "Hyperemesis gravidarum",
+    "Trophoblastic components in mixed germ cell tumors"
+  ],
+  "risk_factors": [],
+  "symptoms": [
+    "Increased quantitative chorionic gonadotropin levels",
+    "Vaginal bleeding",
+    "Shortness of breath",
+    "Hemoptysis",
+    "Chest pain",
+    "Multiple infiltrates on chest X-ray",
+    "Testicular cancer (in males)",
+    "Skin hyperpigmentation (in males)",
+    "Gynecomastia (in males)",
+    "Weight loss (in males)",
+    "Decreased thyroid-stimulating hormone (TSH)",
+    "Hyperthyroidism"
+  ],
+  "diagnosis": [
+    "Chest X-ray showing multiple infiltrates",
+    "Identification of syncytiotrophoblasts and cytotrophoblasts without placental villi",
+    "Elevated blood levels of beta-human chorionic gonadotropin (beta-HCG)"
+  ],
+  "treatments": [
+    "Chemotherapy (single-agent methotrexate or actinomycin-D for low-risk disease)",
+    "Combination chemotherapy regimens (EMACO: etoposide, methotrexate, actinomycin D, cyclophosphamide, vincristine for intermediate or high-risk disease)",
+    "Hysterectomy (for patients >40 years or those for whom sterilization is not an obstacle, or with severe infection and uncontrolled bleeding)",
+    "Chemotherapy (for gestational choriocarcinoma)",
+    "Chemotherapy (less effective for testicular or ovarian choriocarcinoma)"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Gestational choriocarcinoma",
+    "Testicular choriocarcinoma",
+    "Ovarian choriocarcinoma",
+    "Infantile choriocarcinoma of the liver"
+  ]
+}

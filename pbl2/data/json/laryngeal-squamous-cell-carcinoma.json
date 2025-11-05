@@ -1,0 +1,51 @@
+{
+  "disease_name": "Head and neck cancer",
+  "synonyms": [],
+  "summary": "Head and neck cancer is a term for cancers that develop in the mouth, nose and sinuses, salivary glands, and throat and voice box (larynx). Most head and neck cancers are squamous cell cancers, beginning in the moist tissues lining the head and neck. The cancer cells can spread into deeper tissue as the cancer grows.",
+  "causes": [
+    "Squamous cell carcinoma"
+  ],
+  "risk_factors": [
+    "Tobacco use",
+    "Alcohol consumption",
+    "Male sex",
+    "Age over 50",
+    "History of head or neck cancer",
+    "HPV infection",
+    "Exposure to wood dusts",
+    "Exposure to certain toxic substances at work",
+    "Radiation exposure to the head and neck",
+    "Epstein-Barr virus (EBV) infection",
+    "Asian ethnicity"
+  ],
+  "symptoms": [
+    "Lump in the neck",
+    "Sore in the mouth or throat that does not heal",
+    "Painful sore in the mouth or throat",
+    "Sore throat that does not go away",
+    "Trouble swallowing",
+    "Change or hoarseness in the voice"
+  ],
+  "diagnosis": [
+    "Physical exam",
+    "Blood tests",
+    "Urine tests",
+    "Endoscopy",
+    "Biopsy",
+    "Imaging tests"
+  ],
+  "treatments": [
+    "Surgery",
+    "Radiation therapy",
+    "Chemotherapy",
+    "Cancer immunotherapy",
+    "Targeted therapy",
+    "Physical therapy",
+    "Dietary counseling",
+    "Speech therapy"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Squamous cell cancers"
+  ]
+}

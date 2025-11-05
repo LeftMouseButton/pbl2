@@ -1,0 +1,63 @@
+{
+  "disease_name": "Gestational Trophoblastic Disease",
+  "synonyms": [
+    "GTD",
+    "Gestational Trophoblastic Tumour",
+    "GTT",
+    "Molar pregnancy"
+  ],
+  "summary": "Gestational trophoblastic disease (GTD) is a group of rare pregnancy-related tumors that occur when cells in the womb start to proliferate uncontrollably. These tumors arise from trophoblasts, the cells that form the placenta. GTD can range from benign to malignant and can sometimes simulate pregnancy.",
+  "causes": [
+    "Abnormal conception with excessive placental development",
+    "Maternal ovum with no functional DNA (complete hydatidiform mole)",
+    "Dispermic fertilization of an empty ovum (complete hydatidiform mole)",
+    "Dispermic fertilization of a normal ovum (partial hydatidiform mole)"
+  ],
+  "risk_factors": [
+    "Maternal age under 20 years",
+    "Maternal age over 35 years",
+    "Previous GTD",
+    "Maternal age under 16 years",
+    "Maternal age over 45 years"
+  ],
+  "symptoms": [
+    "Vaginal bleeding",
+    "Enlarged uterus",
+    "Pelvic pain or discomfort",
+    "Vomiting too much (hyperemesis)",
+    "Elevated serum hCG",
+    "Acute respiratory symptoms",
+    "Neurological symptoms"
+  ],
+  "diagnosis": [
+    "Blood tests",
+    "Ultrasound",
+    "Tests done after miscarriage or abortion",
+    "Serum beta hCG measurement",
+    "Histological confirmation",
+    "hCG testing"
+  ],
+  "treatments": [
+    "Evacuation of pregnancy",
+    "Suction curettage",
+    "Hysterectomy",
+    "Systemic (intravenous) methotrexate",
+    "Chemotherapy",
+    "Methotrexate",
+    "Dactinomycin",
+    "Actinomycin D",
+    "Radiotherapy"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Hydatidiform mole",
+    "Invasive mole",
+    "Choriocarcinoma",
+    "Placental site trophoblastic tumour",
+    "Epithelioid trophoblastic tumour",
+    "Complete hydatidiform mole",
+    "Partial hydatidiform mole",
+    "Gestational trophoblastic neoplasia (GTN)",
+    "Persistent trophoblastic disease (PTD)"
+  ]
+}

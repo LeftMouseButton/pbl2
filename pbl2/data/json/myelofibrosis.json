@@ -1,0 +1,35 @@
+{
+  "disease_name": "Myelofibrosis",
+  "synonyms": [
+    "Primary Myelofibrosis"
+  ],
+  "summary": "Myelofibrosis is a rare bone marrow cancer that affects the production of blood cells. It is characterized by the scarring of the bone marrow, which impairs its ability to produce normal blood cells. This can lead to anemia, low platelet counts, and an enlarged spleen.",
+  "causes": [],
+  "risk_factors": [],
+  "symptoms": [
+    "Fatigue",
+    "Enlarged spleen",
+    "Anemia",
+    "Low platelet counts",
+    "Bone pain"
+  ],
+  "diagnosis": [
+    "Bone marrow biopsy",
+    "Blood tests"
+  ],
+  "treatments": [
+    "Medications to manage symptoms",
+    "Blood transfusions",
+    "Stem cell transplant"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Primary Myelofibrosis",
+    "Atypical Chronic Myelogenous Leukemia",
+    "Essential Thrombocythemia",
+    "Juvenile Myelomonocytic Leukemia",
+    "Myelodysplastic/Myeloproliferative Neoplasm, Unclassifiable",
+    "Polycythemia Vera",
+    "Thrombocythemia and Thrombocytosis"
+  ]
+}

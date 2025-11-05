@@ -1,0 +1,46 @@
+{
+  "disease_name": "Chordoma",
+  "synonyms": [
+    "Bone cancer",
+    "Sarcoma"
+  ],
+  "summary": "Chordoma is a rare, slow-growing cancer that originates from cellular remnants of the notochord, typically found in the skull base and spine. It is a type of bone cancer classified as a sarcoma, and while sometimes mistaken for brain or spinal cord tumors due to its location, it does not arise from nervous tissue.",
+  "causes": [
+    "Duplication of the brachyury gene (familial form)",
+    "Genetic predisposition"
+  ],
+  "risk_factors": [
+    "Family history of chordoma",
+    "Germline duplication of brachyury"
+  ],
+  "symptoms": [],
+  "diagnosis": [
+    "Immunohistochemistry (detecting brachyury and cytokeratin)",
+    "Histological examination (conventional, chondroid, dedifferentiated variants)",
+    "Imaging (CT and MRI scans)"
+  ],
+  "treatments": [
+    "Surgical resection",
+    "Radiation therapy (proton therapy, carbon ion therapy)",
+    "Pemetrexed",
+    "Pembrolizumab",
+    "Afatinib",
+    "Apatinib",
+    "Imatinib"
+  ],
+  "related_genes": [
+    "BRACHYURY",
+    "TSC1",
+    "TSC2",
+    "PTEN",
+    "CDKN2A",
+    "CDKN2B",
+    "CSPG4"
+  ],
+  "subtypes": [
+    "Conventional chordoma",
+    "Chondroid chordoma",
+    "Dedifferentiated chordoma",
+    "Extra axial chordoma"
+  ]
+}

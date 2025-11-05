@@ -1,0 +1,50 @@
+{
+  "disease_name": "Oligodendroglioma",
+  "synonyms": [
+    "Oligodendroglioma, IDH-mutant, and 1p/19q-codeleted"
+  ],
+  "summary": "Oligodendrogliomas are a type of glioma believed to originate from oligodendrocytes or glial precursor cells. They primarily occur in adults but are also found in children, comprising about 5% of all central nervous system tumors. They are characterized by specific genetic alterations, including IDH mutations and 1p/19q co-deletion, which are associated with chemosensitivity and improved prognosis.",
+  "causes": [
+    "Unknown",
+    "Viral cause (some studies suggest)",
+    "NJDS gene mutation (69% correlation in one study)",
+    "Irradiation of pituitary adenoma (single case report)"
+  ],
+  "risk_factors": [],
+  "symptoms": [
+    "Seizure activity (often the first symptom)",
+    "Headaches associated with increased intracranial pressure",
+    "Neurological deficits (e.g., visual loss, motor weakness, cognitive decline)",
+    "Neuropsychological deficits (e.g., anxiety)"
+  ],
+  "diagnosis": [
+    "Computed tomography (CT) scan",
+    "Magnetic resonance imaging (MRI) scan",
+    "Brain biopsy",
+    "Histopathologic examination",
+    "Molecular diagnostics (e.g., IDH mutation testing, 1p/19q co-deletion analysis)",
+    "Fluorescence in situ hybridization (FISH)",
+    "Loss of heterozygosity (LOH) analysis",
+    "Virtual karyotyping"
+  ],
+  "treatments": [
+    "Watchful waiting",
+    "Symptomatic treatment (anticonvulsants for seizures, steroids for brain swelling)",
+    "Chemotherapy (e.g., temozolomide)",
+    "Radiation therapy",
+    "Neurosurgery (maximal safe resection)",
+    "Stereotactic surgery (for small, early-diagnosed tumors)"
+  ],
+  "related_genes": [
+    "NJDS",
+    "IDH1",
+    "IDH2",
+    "TP53",
+    "EGFR"
+  ],
+  "subtypes": [
+    "Grade II (low grade) oligodendroglioma",
+    "Anaplastic oligodendroglioma",
+    "Glioblastoma multiforme (GBM) with oligodendroglial component"
+  ]
+}

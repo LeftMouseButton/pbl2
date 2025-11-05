@@ -1,0 +1,84 @@
+{
+  "disease_name": "Anaplastic thyroid cancer",
+  "synonyms": [
+    "Anaplastic thyroid carcinoma",
+    "ATC"
+  ],
+  "summary": "Anaplastic thyroid cancer (ATC) is an aggressive and uncommon form of thyroid cancer characterized by the uncontrolled growth of highly abnormal cells in the thyroid gland. It accounts for a small percentage of thyroid cancer cases but is responsible for a disproportionately high number of deaths due to its aggressive behavior and resistance to treatments. ATC often dedifferentiates from pre-existing differentiated thyroid cancer, leading to poor prognosis and a median survival time of a few months.",
+  "causes": [
+    "Dedifferentiation from differentiated thyroid cancer"
+  ],
+  "risk_factors": [
+    "Age over sixty",
+    "Long-standing goiter",
+    "Repeated radiation exposure to the chest or neck",
+    "Being a woman",
+    "Being Asian",
+    "Exposure to radiation treatments to head or neck as a child",
+    "Radiation emergency exposure",
+    "Certain genetic conditions (e.g., multiple endocrine neoplasia)",
+    "Family history of thyroid cancer or thyroid disease"
+  ],
+  "symptoms": [
+    "Rapidly enlarging neck mass",
+    "Redness and swelling of overlying skin",
+    "Difficulty controlling voice",
+    "Hoarseness",
+    "Difficulty swallowing",
+    "Trouble breathing",
+    "Cough",
+    "Neck pain",
+    "Symptoms from distant metastases (e.g., to the brain)",
+    "Coughing up blood (rare)",
+    "Lump (nodule) in the neck",
+    "Pain when swallowing"
+  ],
+  "diagnosis": [
+    "Fine-needle aspiration biopsy",
+    "Microscopic examination of thyroid tissue",
+    "Immunohistochemistry testing (keratin, p53, PAX8 positive; thyroid transcription factor-1, thyroglobulin, calcitonin negative)",
+    "High levels of PD-L1 expression",
+    "BRAF and TERT mutations",
+    "Physical exam (checking neck for swelling, lumps)",
+    "Medical history",
+    "Thyroid tests",
+    "Other blood or imaging tests",
+    "Ultrasound imaging (hypoechoic mass with invasion of local structures)",
+    "Contrast-enhanced computed tomography (CT) scan of the neck (if surgery planned)",
+    "PET scan (for staging)",
+    "CT scan of neck, chest, abdomen, and pelvis (if PET unavailable)",
+    "Magnetic resonance imaging (MRI) of the brain (to assess for distant metastases)"
+  ],
+  "treatments": [
+    "Surgery (often unresectable)",
+    "Radiation therapy (external beam radiotherapy, EBRT)",
+    "Chemotherapy",
+    "Targeted therapy (e.g., BRAF and MEK inhibitors like dabrafenib and trametinib, vemurafenib and cobimetinib)",
+    "Immunotherapy (e.g., atezolizumab, pembrolizumab, spartalizumab)",
+    "Combinatorial therapy (molecular-based)",
+    "Thyroid hormone therapy",
+    "Radioactive iodine therapy (typically ineffective)",
+    "Supportive care (e.g., tracheostomy)",
+    "Palliative treatment",
+    "Watchful waiting (less common for ATC)"
+  ],
+  "related_genes": [
+    "p53",
+    "PAX8",
+    "BRAF",
+    "TERT",
+    "PD-L1"
+  ],
+  "subtypes": [
+    "Sarcomatoid variant",
+    "Squamoid variant",
+    "Osteoclastic variant",
+    "Paucicellular variant",
+    "Rhabdoid variant",
+    "Carcinosarcoid variant",
+    "Differentiated thyroid cancer",
+    "Papillary cancer",
+    "Follicular cancer",
+    "Medullary thyroid cancer"
+  ]
+}

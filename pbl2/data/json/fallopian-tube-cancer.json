@@ -1,0 +1,70 @@
+{
+  "disease_name": "Fallopian tube cancer",
+  "synonyms": [
+    "Primary fallopian tube cancer",
+    "PFTC",
+    "Tubal cancer"
+  ],
+  "summary": "Primary fallopian tube cancer is a malignant neoplasm that originates from the fallopian tube. It is grouped under epithelial ovarian cancers and shares similarities and treatments with ovarian and primary peritoneal cancers.",
+  "causes": [
+    "Genetic mutations (DNA changes)",
+    "Inherited genetic changes (hereditary ovarian cancer)",
+    "BRCA1 gene mutations",
+    "BRCA2 gene mutations",
+    "Lynch syndrome",
+    "Endometriosis"
+  ],
+  "risk_factors": [
+    "Family history of ovarian cancer",
+    "Inherited BRCA1 gene mutations",
+    "Inherited BRCA2 gene mutations",
+    "Lynch syndrome",
+    "Endometriosis",
+    "Hormone replacement therapy",
+    "Overweight or obesity",
+    "Tall stature",
+    "Older age (post-menopause)",
+    "Never been pregnant"
+  ],
+  "symptoms": [
+    "Abnormal vaginal bleeding",
+    "Blood-stained watery vaginal discharge",
+    "Pelvic pain",
+    "Abdominal distension",
+    "Feeling of fullness",
+    "Weight loss",
+    "Pain in the abdomen or pelvis",
+    "Swelling in the abdomen or pelvis",
+    "Feeling of pressure in the abdomen or pelvis",
+    "Sudden or frequent urge to urinate",
+    "Trouble eating",
+    "A lump in the pelvic area",
+    "Gas",
+    "Bloating",
+    "Constipation",
+    "Vaginal discharge (intermittent hydrosalpinx)"
+  ],
+  "diagnosis": [
+    "Blood tests (Ca-125, CBC)",
+    "Medical imaging (transvaginal ultrasound, abdominal ultrasound, CT scan, MRI)",
+    "Pathologic assessment of fallopian tissue (SEE-FIM Protocol)",
+    "Pelvic mass detection on routine gynecologic examination",
+    "Biopsy of tissue (often during surgery)"
+  ],
+  "treatments": [
+    "Surgery (total abdominal hysterectomy, removal of ovaries, tubes, uterus, cervix, omentum removal, lymph node sampling)",
+    "Cytoreductive surgery",
+    "Adjuvant chemotherapy (platinum-based)",
+    "Radiation therapy (palliative or curative)",
+    "Targeted therapy"
+  ],
+  "related_genes": [
+    "BRCA1",
+    "BRCA2"
+  ],
+  "subtypes": [
+    "Adenocarcinoma",
+    "Leiomyosarcoma",
+    "Transitional cell carcinoma"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "disease_name": "Hemangiosarcoma",
+  "synonyms": [
+    "Angiosarcoma"
+  ],
+  "summary": "Hemangiosarcoma is a rapidly growing, highly invasive cancer that arises from the lining of blood vessels. It occurs almost exclusively in dogs, and rarely in other animals and humans. A frequent cause of death is tumor rupture leading to rapid bleeding.",
+  "causes": [
+    "Vinyl chloride toxicity (in humans)",
+    "Sun exposure (suspected for skin hemangiosarcoma)"
+  ],
+  "risk_factors": [
+    "German Shepherds (breed)",
+    "Golden Retrievers (breed)",
+    "Spayed female dogs (higher risk for cardiac hemangiosarcoma)",
+    "Neutered dogs (higher risk compared to intact males)",
+    "Older age (implicit)"
+  ],
+  "symptoms": [
+    "Rapid bleeding (due to tumor rupture)",
+    "Collapse",
+    "Hypovolemia",
+    "Loss of appetite",
+    "Arrhythmias",
+    "Weight loss",
+    "Weakness",
+    "Lethargy",
+    "Pale mucous membranes",
+    "Sudden death",
+    "Enlarged abdomen (due to hemorrhage)",
+    "Short-term lethargy (after rupture)",
+    "Weakness in back legs",
+    "Paleness of tongue and gums",
+    "Rapid heart rate",
+    "Weak pulse",
+    "Right-sided heart failure",
+    "Pericardial effusion",
+    "Cardiac tamponade",
+    "Anemia",
+    "Thrombocytopenia",
+    "Disseminated intravascular coagulation (DIC)",
+    "Presence of nRBC, schistocytes, and acanthocytes in blood smear",
+    "Leukocytosis with neutrophilia, left shift, and monocytosis"
+  ],
+  "diagnosis": [
+    "Biopsy and histopathology",
+    "Cytologic aspirates (may be inconclusive)",
+    "Ultrasound",
+    "CT scan",
+    "MRI",
+    "FDG-PET/CT"
+  ],
+  "treatments": [
+    "Chemotherapy (e.g., doxorubicin)",
+    "Surgical removal of the tumor with the affected organ (e.g., splenectomy)",
+    "Coriolus versicolor (Turkey Tail mushroom) extract (efficacy debated)",
+    "Immune therapy (being developed)",
+    "Preventive vaccine (being developed)"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Cardiac hemangiosarcoma",
+    "Splenic hemangiosarcoma",
+    "Hepatic hemangiosarcoma",
+    "Cutaneous hemangiosarcoma",
+    "Visceral hemangiosarcoma"
+  ]
+}

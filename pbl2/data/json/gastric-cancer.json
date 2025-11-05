@@ -1,0 +1,34 @@
+{
+  "disease_name": "Stomach Cancer",
+  "synonyms": [
+    "Gastric Cancer",
+    "Stomach Neoplasms"
+  ],
+  "summary": "Stomach cancer, also known as gastric cancer, refers to cancer that develops in the stomach. It can affect any part of the stomach and may spread to other organs. The provided text lists various resources for understanding symptoms, diagnosis, treatment, and research related to stomach cancer.",
+  "causes": [
+    "Helicobacter pylori (H. pylori) infection"
+  ],
+  "risk_factors": [
+    "Helicobacter pylori (H. pylori) infection",
+    "Dietary factors (not explicitly detailed but implied by nutrition counseling)"
+  ],
+  "symptoms": [],
+  "diagnosis": [
+    "Tumor Marker Tests",
+    "Upper GI Endoscopy",
+    "Upper GI Series"
+  ],
+  "treatments": [
+    "Gastrectomy",
+    "Surgery",
+    "Chemotherapy",
+    "Radiation therapy",
+    "Pembrolizumab"
+  ],
+  "related_genes": [
+    "Hereditary diffuse gastric cancer"
+  ],
+  "subtypes": [
+    "Childhood Stomach Cancer"
+  ]
+}

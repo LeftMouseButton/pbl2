@@ -1,0 +1,47 @@
+{
+  "disease_name": "Clear cell sarcoma",
+  "synonyms": [],
+  "summary": "Clear cell sarcoma is a rare sub-type of sarcoma that mainly occurs in soft tissues and the dermis. It presents as a slow-growing mass, often affecting tendons and aponeuroses, and is typically found in the extremities, particularly around the knee, feet, and ankle. Patients are usually between 20 and 40 years old. Recurrence is common, and metastasis can occur in over 50% of cases.",
+  "causes": [
+    "EWSR1-ATF1 fusion gene",
+    "EWSR1-CREB1 fusion gene",
+    "EWSR1-CREM fusion gene",
+    "EWSR1-DDIT3 fusion gene"
+  ],
+  "risk_factors": [],
+  "symptoms": [
+    "Slow growing mass",
+    "Lump or hard mass",
+    "Pain",
+    "Tenderness"
+  ],
+  "diagnosis": [
+    "X-rays",
+    "Computed tomography (CT) scans",
+    "MRI",
+    "Physical exam",
+    "Biopsy",
+    "Chest CT",
+    "Bone scan",
+    "Positron emission tomography (PET)"
+  ],
+  "treatments": [
+    "Surgery",
+    "Radiation therapy",
+    "Chemotherapy",
+    "Targeted therapy"
+  ],
+  "related_genes": [
+    "EWSR1-ATF1",
+    "EWSR1-CREB1",
+    "EWSR1-CREM",
+    "EWSR1-DDIT3",
+    "S-100",
+    "HMB-45",
+    "MITF"
+  ],
+  "subtypes": [
+    "Clear cell sarcoma of the soft tissues",
+    "Clear cell sarcoma of the kidney"
+  ]
+}

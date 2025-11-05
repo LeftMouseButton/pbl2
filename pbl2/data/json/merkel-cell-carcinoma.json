@@ -1,0 +1,39 @@
+{
+  "disease_name": "Merkel Cell Carcinoma",
+  "synonyms": [
+    "MCC"
+  ],
+  "summary": "Merkel cell carcinoma (MCC) is a rare, aggressive type of skin cancer that begins in the Merkel cells, which are found in the epidermis of the skin. It often appears as a firm, painless, flesh-colored or bluish-red nodule, most commonly on sun-exposed areas of the body.",
+  "causes": [
+    "Merkel cell polyomavirus infection",
+    "Exposure to ultraviolet (UV) radiation",
+    "Weakened immune system"
+  ],
+  "risk_factors": [
+    "Older age",
+    "Fair skin",
+    "Chronic sun exposure",
+    "Weakened immune system (e.g., due to HIV, organ transplant, or certain medications)",
+    "History of other skin cancers (basal cell carcinoma, squamous cell carcinoma, melanoma)"
+  ],
+  "symptoms": [
+    "Firm, painless, flesh-colored or bluish-red nodules",
+    "Rapid growth of nodules",
+    "Most commonly on sun-exposed areas (face, head, neck, arms)"
+  ],
+  "diagnosis": [
+    "Skin biopsy",
+    "Immunohistochemistry",
+    "Imaging tests (CT scan, PET scan, MRI) to check for spread"
+  ],
+  "treatments": [
+    "Surgery (wide local excision, Mohs surgery)",
+    "Radiation therapy",
+    "Chemotherapy",
+    "Immunotherapy (e.g., avelumab, pembrolizumab)"
+  ],
+  "related_genes": [
+    "9q22.3 microdeletion"
+  ],
+  "subtypes": []
+}

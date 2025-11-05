@@ -1,0 +1,52 @@
+{
+  "disease_name": "Atypical teratoid rhabdoid tumor",
+  "synonyms": [
+    "AT/RT",
+    "Malignant rhabdoid tumor of the CNS"
+  ],
+  "summary": "A rare, aggressive tumor usually diagnosed in childhood, most commonly occurring in the central nervous system (CNS), including the brain and spinal cord. It is characterized by specific genetic alterations, particularly involving the INI1/hSNF5 gene.",
+  "causes": [
+    "Germline genetic mutations in the INI1/hSNF5 gene",
+    "Biallelic inactivation of the INI1/hSNF5 tumor suppressor gene",
+    "Chromosome 22 deletion or mutation"
+  ],
+  "risk_factors": [
+    "Young age (childhood)",
+    "Family history of rhabdoid tumors or other CNS tumors",
+    "Presence of germline mutations in the INI1 gene"
+  ],
+  "symptoms": [
+    "Headache",
+    "Vomiting",
+    "Lethargy",
+    "Ataxia (unsteady gait)",
+    "Progressive paraplegia (spinal tumors)",
+    "Abnormal feeling in the legs (spinal tumors)"
+  ],
+  "diagnosis": [
+    "Magnetic resonance imaging (MRI) of the brain and spine",
+    "Computed tomography (CT) of chest and abdomen",
+    "Lumbar puncture for cerebrospinal fluid (CSF) analysis",
+    "Bone marrow aspiration and biopsy",
+    "Bone scan",
+    "Cytological or genetic analysis of tumor tissue",
+    "Genetic analysis for INI1/hSNF5 gene deletion or mutation",
+    "Immunohistochemical staining",
+    "Cytogenetic studies (FISH)"
+  ],
+  "treatments": [
+    "Surgery",
+    "Chemotherapy (e.g., cisplatinum, carboplatinum, cyclophosphamide, vincristine, etoposide, intrathecal mafosfamide)",
+    "Radiation therapy (external beam, conformal, proton beam)",
+    "High dose chemotherapy with stem cell rescue",
+    "Chromatin remodeling agents (preclinical evaluation)"
+  ],
+  "related_genes": [
+    "INI1/hSNF5",
+    "SMARCB1",
+    "OPN"
+  ],
+  "subtypes": [
+    "Malignant rhabdoid tumor (MRT) of the kidney (closely related)"
+  ]
+}

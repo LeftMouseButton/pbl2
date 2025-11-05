@@ -1,0 +1,46 @@
+{
+  "disease_name": "Mediastinal germ cell tumor",
+  "synonyms": [
+    "Malignant mediastinal germ cell tumor",
+    "Mediastinal germ cell tumors"
+  ],
+  "summary": "Mediastinal germ cell tumors are tumors that derive from germ cell rest remnants in the mediastinum. They are uncommon, representing only 3 to 10% of tumors originating in the mediastinum. Malignant mediastinal tumors are usually symptomatic at the time of diagnosis and cause symptoms by compressing or invading adjacent structures.",
+  "causes": [
+    "Abnormal migration of germ cells during embryogenesis",
+    "Widespread distribution of germ cells to multiple sites during normal embryogenesis"
+  ],
+  "risk_factors": [
+    "Young males"
+  ],
+  "symptoms": [
+    "Compression of adjacent structures (lungs, pleura, pericardium, chest wall)",
+    "Invasion of adjacent structures (lungs, pleura, pericardium, chest wall)",
+    "Large tumor size",
+    "Minimal symptomatology with large tumors (seminomas)"
+  ],
+  "diagnosis": [
+    "CT of the chest and abdomen",
+    "Determination of serum levels of HCG",
+    "Determination of serum levels of alpha-fetoprotein",
+    "Physical examination",
+    "Routine laboratory studies",
+    "Biopsy (examination of tissue, cells, or fluids)"
+  ],
+  "treatments": [
+    "Radiation therapy (for pure mediastinal seminomas)",
+    "Combination chemotherapy (for pure mediastinal seminomas)",
+    "Chemotherapy using bleomycin, etoposide and cisplatin (for pure mediastinal seminomas)",
+    "Surgical resection (for small, resectable tumors)",
+    "Chemotherapy following surgical resection (for nonseminomatous germ cell tumors)",
+    "Surgery"
+  ],
+  "related_genes": [
+    "Chromosome 12 inversions",
+    "Trisomy 8",
+    "Extra X chromosome"
+  ],
+  "subtypes": [
+    "Seminomas",
+    "Nonseminomatous germ cell tumors"
+  ]
+}

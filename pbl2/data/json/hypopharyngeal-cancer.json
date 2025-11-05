@@ -1,0 +1,59 @@
+{
+  "disease_name": "Hypopharyngeal cancer",
+  "synonyms": [
+    "Throat cancer",
+    "Laryngopharyngeal cancer"
+  ],
+  "summary": "Hypopharyngeal cancer is a rare type of head and neck cancer that originates in the hypopharynx, the area where the larynx and esophagus meet. It forms in the outer layer (epithelium) of the hypopharynx and can spread into deeper tissues. Due to its location and often late diagnosis, it has a high mortality rate.",
+  "causes": [
+    "Smoking",
+    "Chewing tobacco",
+    "Heavy alcohol use",
+    "Bile reflux",
+    "Plummer–Vinson syndrome",
+    "Deficiency in certain vitamins",
+    "Carcinogens in tobacco altering DNA/RNA",
+    "Bile acids causing inflammation and DNA damage"
+  ],
+  "risk_factors": [
+    "Smoking",
+    "Heavy alcohol use",
+    "Poor diet",
+    "Laryngopharyngeal reflux",
+    "Iron deficiency (associated with Plummer-Vinson syndrome)"
+  ],
+  "symptoms": [
+    "Swollen lymph nodes in the neck",
+    "Sore throat in one location that persists",
+    "Pain radiating from the throat to the ears",
+    "Difficult or painful swallowing",
+    "Malnutrition",
+    "Weight loss",
+    "Voice changes (late stage)",
+    "Lump in the neck",
+    "Ear pain"
+  ],
+  "diagnosis": [
+    "Physical examination (checking lymph nodes, throat inspection)",
+    "Endoscopy",
+    "Biopsy",
+    "CT scan",
+    "MRI",
+    "Staging (TNM system)"
+  ],
+  "treatments": [
+    "Surgery",
+    "Radiation therapy",
+    "Chemotherapy (neoadjuvant chemotherapy for advanced stages)",
+    "Targeted therapy"
+  ],
+  "related_genes": [
+    "Oncogenes",
+    "Tumor suppressor genes",
+    "NF-kB",
+    "PARP1"
+  ],
+  "subtypes": [
+    "Squamous cell carcinoma"
+  ]
+}

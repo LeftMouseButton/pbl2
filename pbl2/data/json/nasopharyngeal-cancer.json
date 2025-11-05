@@ -1,0 +1,43 @@
+{
+  "disease_name": "Throat Cancer",
+  "synonyms": [
+    "Head and neck cancer"
+  ],
+  "summary": "Throat cancer is a type of head and neck cancer that can affect different parts of the throat, including the oropharynx, hypopharynx, nasopharynx, and larynx (voice box).",
+  "causes": [
+    "Tobacco use",
+    "Heavy drinking",
+    "Human papillomavirus (HPV) infection (for oropharyngeal cancer)"
+  ],
+  "risk_factors": [
+    "Tobacco use",
+    "Heavy drinking",
+    "Human papillomavirus (HPV) infection"
+  ],
+  "symptoms": [
+    "Sore throat that does not go away",
+    "Lump in the neck",
+    "Pain or ringing in the ears",
+    "Trouble swallowing",
+    "Ear pain"
+  ],
+  "diagnosis": [
+    "Physical exam and history",
+    "Imaging tests",
+    "Biopsy",
+    "Other tests (depending on cancer type)"
+  ],
+  "treatments": [
+    "Surgery",
+    "Radiation therapy",
+    "Chemotherapy",
+    "Targeted therapy"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Oropharyngeal cancer",
+    "Hypopharyngeal cancer",
+    "Nasopharyngeal cancer",
+    "Laryngeal cancer"
+  ]
+}

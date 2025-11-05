@@ -1,0 +1,34 @@
+{
+  "disease_name": "Small Intestine Cancer",
+  "synonyms": [
+    "Duodenal Neoplasms",
+    "Gastrointestinal Stromal Tumors",
+    "Intestinal Cancer"
+  ],
+  "summary": "Small intestine cancer is a rare form of cancer that occurs in the small intestine. Gastrointestinal stromal tumors (GISTs) are a type of sarcoma that can occur anywhere in the gastrointestinal tract, including the small intestine.",
+  "causes": [],
+  "risk_factors": [],
+  "symptoms": [],
+  "diagnosis": [
+    "Endoscopic forceps biopsy",
+    "Resection specimens",
+    "Enteroscopy"
+  ],
+  "treatments": [
+    "Laparoscopic surgery",
+    "Endoscopic cooperative surgery",
+    "Small bowel resection",
+    "Chemotherapy",
+    "Radiation therapy",
+    "Childhood Gastrointestinal Neuroendocrine Tumors Treatment",
+    "Childhood Gastrointestinal Stromal Tumors Treatment"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Duodenal Neoplasms",
+    "Gastrointestinal Stromal Tumors",
+    "Duodenal adenocarcinoma",
+    "Childhood Gastrointestinal Neuroendocrine Tumors",
+    "Childhood Gastrointestinal Stromal Tumors"
+  ]
+}

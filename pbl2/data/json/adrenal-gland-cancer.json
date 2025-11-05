@@ -1,0 +1,30 @@
+{
+  "disease_name": "Adrenal Cancer",
+  "synonyms": [
+    "Adrenocortical carcinoma",
+    "Adrenal Gland Neoplasms"
+  ],
+  "summary": "Adrenal cancer is a rare cancer that begins in the adrenal glands, which are located on top of the kidneys.",
+  "causes": [],
+  "risk_factors": [],
+  "symptoms": [],
+  "diagnosis": [
+    "Abdominal and Pelvic CT",
+    "Adrenocorticotropic Hormone (ACTH) test",
+    "Aldosterone Test",
+    "Body MRI",
+    "Cortisol Test",
+    "DHEA Sulfate Test",
+    "Tests for Adrenal Cancer"
+  ],
+  "treatments": [
+    "Adrenal Gland Removal (Adrenalectomy)",
+    "Chemotherapy"
+  ],
+  "related_genes": [
+    "Carney Complex (CNC)"
+  ],
+  "subtypes": [
+    "Adrenocortical carcinoma"
+  ]
+}

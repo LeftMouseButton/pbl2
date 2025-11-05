@@ -1,0 +1,59 @@
+{
+  "disease_name": "Bile Duct Cancer",
+  "synonyms": [
+    "Cholangiocarcinoma"
+  ],
+  "summary": "Bile duct cancer, also known as cholangiocarcinoma, is a type of cancer that forms in the bile ducts. The bile ducts are small tubes that carry bile from the liver and gallbladder to the small intestine.",
+  "causes": [
+    "Primary sclerosing cholangitis",
+    "Hepatitis B infection",
+    "Hepatitis C infection",
+    "Liver fluke infections (e.g., Clonorchis sinensis)",
+    "Cirrhosis",
+    "Diabetes",
+    "Obesity",
+    "Exposure to certain toxins"
+  ],
+  "risk_factors": [
+    "Primary sclerosing cholangitis",
+    "Hepatitis B infection",
+    "Hepatitis C infection",
+    "Liver fluke infections",
+    "Cirrhosis",
+    "Diabetes",
+    "Obesity",
+    "Age",
+    "Family history of bile duct cancer"
+  ],
+  "symptoms": [
+    "Jaundice (yellowing of the skin and eyes)",
+    "Abdominal pain",
+    "Itchy skin",
+    "Unexplained weight loss",
+    "Loss of appetite",
+    "Fever",
+    "Fatigue",
+    "Dark urine",
+    "Pale stools"
+  ],
+  "diagnosis": [
+    "Alkaline Phosphatase blood test",
+    "Bilirubin blood test",
+    "Endoscopic Retrograde Cholangiopancreatography (ERCP)",
+    "Imaging tests (e.g., CT scan, MRI, ultrasound)",
+    "Biopsy"
+  ],
+  "treatments": [
+    "Surgery",
+    "Radiation Therapy",
+    "Chemotherapy",
+    "Endobiliary radiofrequency ablation",
+    "Sunitinib (second-line treatment)"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Intrahepatic bile duct cancer",
+    "Perihilar cholangiocarcinoma",
+    "Distal bile duct cancer"
+  ]
+}

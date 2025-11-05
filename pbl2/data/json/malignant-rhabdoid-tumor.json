@@ -1,0 +1,40 @@
+{
+  "disease_name": "Malignant Rhabdoid Tumor",
+  "synonyms": [],
+  "summary": "Malignant Rhabdoid Tumor (MRT) is a rare and aggressive type of cancer that primarily affects infants and young children. It is characterized by the presence of rhabdoid cells, which are large cells with abundant cytoplasm and eccentric nuclei. MRT can occur in various parts of the body, including the kidney, brain, liver, and soft tissues. The prognosis for MRT is generally poor due to its aggressive nature and tendency to metastasize early.",
+  "causes": [
+    "Genetic mutations in the SMARCB1 gene (also known as INI1 or BAF47)"
+  ],
+  "risk_factors": [
+    "Inherited mutations in the SMARCB1 gene"
+  ],
+  "symptoms": [
+    "Abdominal mass or swelling (if in the kidney)",
+    "Lethargy",
+    "Vomiting",
+    "Fever",
+    "Neurological symptoms (e.g., seizures, irritability, developmental delay) if in the brain",
+    "Jaundice (if in the liver)",
+    "Pain or swelling in affected areas"
+  ],
+  "diagnosis": [
+    "Imaging studies (ultrasound, CT scan, MRI) to detect tumors",
+    "Biopsy of the tumor for histological examination",
+    "Immunohistochemistry to identify rhabdoid cells",
+    "Genetic testing to detect SMARCB1 mutations"
+  ],
+  "treatments": [
+    "Surgery to remove the tumor",
+    "Chemotherapy",
+    "Radiation therapy",
+    "Stem cell transplantation"
+  ],
+  "related_genes": [
+    "SMARCB1"
+  ],
+  "subtypes": [
+    "Malignant Rhabdoid Tumor of the Kidney (RTK)",
+    "Atypical Teratoid/Rhabdoid Tumor (AT/RT) of the central nervous system",
+    "Extrarenal Malignant Rhabdoid Tumor"
+  ]
+}

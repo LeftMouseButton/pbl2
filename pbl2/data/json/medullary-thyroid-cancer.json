@@ -1,0 +1,63 @@
+{
+  "disease_name": "Medullary thyroid cancer",
+  "synonyms": [
+    "MTC",
+    "Medullary carcinoma of the thyroid"
+  ],
+  "summary": "Medullary thyroid cancer is a form of thyroid carcinoma originating from the parafollicular cells (C cells) of the thyroid gland, which produce the hormone calcitonin. It is the third most common type of thyroid cancer, accounting for about 3% of all cases. Approximately 25% of MTC cases are genetic, caused by mutations in the RET proto-oncogene, and can be associated with multiple endocrine neoplasia type 2 (MEN2). Sporadic MTC accounts for the remaining 75% of cases.",
+  "causes": [
+    "Mutation in the RET proto-oncogene (genetic)",
+    "Somatic mutation of the RET proto-oncogene (sporadic)"
+  ],
+  "risk_factors": [
+    "Genetic conditions, including multiple endocrine neoplasia",
+    "Family history of thyroid cancer or thyroid disease",
+    "Exposure to certain types of radiation",
+    "Being a woman",
+    "Being Asian",
+    "Age between 25 and 65"
+  ],
+  "symptoms": [
+    "Diarrhea",
+    "Flushing episodes",
+    "Itching (pruritus)",
+    "Thyroid nodule",
+    "Enlarged cervical lymph nodes",
+    "Trouble breathing",
+    "Trouble swallowing",
+    "Pain when swallowing",
+    "Hoarseness or other changes to voice"
+  ],
+  "diagnosis": [
+    "Fine needle aspiration of thyroid lesion",
+    "Microscopic examination of amyloid stroma with hyperplasia of parafollicular cells",
+    "Basal and stimulated calcitonin testing",
+    "Carcinoembryonic antigen (CEA) testing",
+    "Physical exam of the neck",
+    "Medical history",
+    "Thyroid tests",
+    "Other blood or imaging tests",
+    "Biopsy"
+  ],
+  "treatments": [
+    "Total thyroidectomy with bilateral neck dissection",
+    "External beam radiotherapy",
+    "Protein kinase inhibitors",
+    "Vandetanib",
+    "Cabozantinib",
+    "Radioactive iodine therapy (not for medullary type)",
+    "Chemotherapy",
+    "Thyroid hormone therapy",
+    "Targeted therapy",
+    "Watchful waiting"
+  ],
+  "related_genes": [
+    "RET proto-oncogene"
+  ],
+  "subtypes": [
+    "Sporadic medullary thyroid cancer",
+    "Familial medullary thyroid cancer",
+    "Medullary thyroid cancer associated with multiple endocrine neoplasia type 2A",
+    "Medullary thyroid cancer associated with multiple endocrine neoplasia type 2B"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "disease_name": "Chronic lymphocytic leukemia",
+  "synonyms": [
+    "CLL",
+    "Chronic leukemia"
+  ],
+  "summary": "Chronic lymphocytic leukemia (CLL) is a type of chronic leukemia where the bone marrow makes abnormal lymphocytes (a type of white blood cell). These abnormal cells crowd out healthy cells, leading to infection, anemia, and easy bleeding. The abnormal cells can also spread outside the blood to other parts of the body. CLL usually gets worse slowly and is one of the most common types of leukemia in adults, often occurring during or after middle age.",
+  "causes": [
+    "Changes in the genetic material (DNA) in bone marrow cells"
+  ],
+  "risk_factors": [
+    "Older age",
+    "Family history of CLL and other blood and bone marrow diseases",
+    "White racial/ethnic group",
+    "Exposure to certain chemicals, including Agent Orange"
+  ],
+  "symptoms": [
+    "Swollen lymph nodes",
+    "Weakness",
+    "Feeling tired",
+    "Pain or fullness below the ribs",
+    "Fever",
+    "Infection",
+    "Easy bruising",
+    "Easy bleeding",
+    "Petechiae",
+    "Weight loss",
+    "Drenching night sweats"
+  ],
+  "diagnosis": [
+    "Physical exam",
+    "Medical history",
+    "Blood tests (complete blood count with differential, blood chemistry tests)",
+    "Flow cytometry tests",
+    "Genetic tests",
+    "Imaging tests",
+    "Bone marrow tests"
+  ],
+  "treatments": [
+    "Watchful waiting",
+    "Targeted therapy",
+    "Chemotherapy",
+    "Radiation therapy",
+    "Immunotherapy",
+    "Chemotherapy with bone marrow or stem cell transplant"
+  ],
+  "related_genes": [],
+  "subtypes": []
+}
