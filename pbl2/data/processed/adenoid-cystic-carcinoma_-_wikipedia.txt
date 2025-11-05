@@ -1,0 +1,43 @@
+Adenoid cystic carcinoma is a rare type of cancer that can exist in many different body sites. This tumor most often occurs in the salivary glands, but it can also be found in many anatomic sites, including the breast, lacrimal gland, lung, brain, Bartholin gland, trachea, and the paranasal sinuses.
+
+It is the third-most common malignant salivary gland tumor overall (after mucoepidermoid carcinoma and polymorphous adenocarcinoma). It represents 28% of malignant submandibular gland tumors, making it the single most common malignant salivary gland tumor in this region. Patients may survive for years with metastases because this tumor is generally well-differentiated and slow growing. In a 1999 study of a cohort of 160 ACC patients, disease-specific survival was 89% at 5 years, but only 40% at 15 years, reflecting deaths from late-occurring metastatic disease.
+
+== Cause ==
+
+Activation of the oncogenic transcription factor gene MYB is the key genomic event of ACC and seen in the vast majority of cases.
+
+Most commonly, MYB is activated through gene fusion with the transcription factor encoding NFIB gene as a result of a t(6;9) translocation. Alternatively, MYB is activated by copy number gain or by juxtaposition of enhancer elements in the vicinity of the MYB gene.
+
+In a subset of ACCs, the closely related MYBL1 gene is fused to NFIB or to other fusion partners.
+
+MYB drives proliferation of ACC cells and regulates genes involved in cell cycle control, DNA replication and repair, and RNA processing. Thus, the MYB oncogene is a potential diagnostic and therapeutic target in ACC.
+
+ACC has a relatively quiet genome with few recurrent copy number alterations or point mutations, consistent with the view that MYB and MYBL1 are the main oncogenic drivers of the disease.
+
+== Treatment ==
+
+Primary treatment for this cancer, regardless of body site, is surgical removal with clean margins. This surgery can prove challenging in the head and neck region due to this tumor's tendency to show a perineural discontinuous growth, meaning that it follows nerves and different "nests" of the tumor can exist without a connection to the original tumor. Therefore, MRI-images should be analysed following nerve tracts up to the brainstem. Adjuvant or palliative radiotherapy is commonly given following surgery. For advanced major and minor salivary gland tumors that are inoperable, recurrent, or exhibit gross residual disease after surgery, fast neutron therapy is widely regarded as the most effective form of treatment.
+
+Chemotherapy is used for metastatic disease. Chemotherapy is considered on a case-by-case basis, as data on the positive effects of chemotherapy are limited. Clinical studies are ongoing, however.
+
+== Images ==
+
+== See also ==
+
+Primary cutaneous adenoid cystic carcinoma
+
+Collagenous spherulosis
+
+== References ==
+
+== Further reading ==
+
+Neville, Damm, Allen, Bouquot. Oral and Maxillofacial Pathology. 2nd edition.
+
+== External links ==
+
+[1] Search for clinical trials at ClinicalTrials.gov
+
+[2] Search for research literature at PubMed.gov
+
+[3] Search for consumer health information at Medlineplus.gov

@@ -1,0 +1,71 @@
+Astrocytoma is a type of brain tumor. Astrocytomas (also astrocytomata) originate from a specific kind of star-shaped glial cell in the cerebrum called an astrocyte. This type of tumor does not usually spread outside the brain and spinal cord, and it does not usually affect other organs. After glioblastomas, astrocytomas are the second most common glioma and can occur in most parts of the brain and occasionally in the spinal cord.
+
+Within the astrocytomas, two broad classes are recognized in literature, those with:
+
+Narrow zones of infiltration (mostly noninvasive tumors; e.g., pilocytic astrocytoma, subependymal giant cell astrocytoma, pleomorphic xanthoastrocytoma), that often are clearly outlined on diagnostic images
+
+Diffuse zones of infiltration (e.g., high-grade astrocytoma), that share various features, including the ability to arise at any location in the central nervous system, but with a preference for the cerebral hemispheres; they occur usually in adults, and have an intrinsic tendency to progress to more advanced grades.
+
+People can develop astrocytomas at any age. The low-grade type is more often found in children or young adults, while the high-grade type is more prevalent in adults. Astrocytomas in the base of the brain are more common in young people and account for roughly 75% of neuroepithelial tumors.
+
+== Pathophysiology ==
+
+Astrocytoma causes regional effects by compression, invasion, and destruction of brain parenchyma, arterial and venous hypoxia, competition for nutrients, release of metabolic end products (e.g., free radicals, altered electrolytes, neurotransmitters), and release and recruitment of cellular mediators (e.g., cytokines) that disrupt normal parenchymal function. Secondary clinical sequelae may be caused by elevated intracranial pressure attributable to direct mass effect, increased blood volume, or increased cerebrospinal fluid volume.
+
+=== Genetic and Molecular alterations ===
+
+Homozygous deletion of CDKN2A/B is the main feature of high grade astrocytoma. In addition, a genome-wide pattern of DNA copy-number alterations (CNAs) has been uncovered, which is correlated with a patient's survival and response to treatment. This pattern identifies among lower-grade astrocytoma patients a subtype, where the CNA genotype is correlated with an approximately one-year survival phenotype.
+
+== Diagnosis ==
+
+An X-ray computed tomography (CT) or magnetic resonance imaging (MRI) scan is necessary to characterize the extent of these tumors (size, location, consistency). CT will usually show distortion of third and lateral ventricles with displacement of anterior and middle cerebral arteries. Until 2021, histologic analysis was used as the primary method for grading astrocytomas. The current diagnostic grading criteria recommended by the World Health Organization (WHO), now utilizes both histopathological and molecular findings for a more comprehensive diagnosis.
+
+In the first stage of diagnosis the doctor will take a history of symptoms and perform a basic neurological exam, including an eye exam and tests of vision, balance, coordination, and mental status. The doctor will then require a CT scan and an MRI of the patient's brain. During a CT scan, X-rays of the patient's brain are taken from many different directions. These are then combined by a computer, producing a cross-sectional image of the brain. For an MRI, the patient relaxes in a tunnel-like instrument while the brain is subjected to changes of magnetic field. An image is produced based on the behavior of the brain's water molecules in response to the magnetic fields. A special dye may be injected into a vein before these scans to provide contrast and make tumors easier to identify.
+
+If a tumor is found, a neurosurgeon must perform a biopsy on it. This simply involves the removal of a small amount of tumor tissue, which is then sent to a neuropathologist for examination and grading. The biopsy may take place before surgical removal of the tumor or the sample may be taken during surgery. Grading of the tumor sample is a method of classification that helps the doctor to determine the severity of the astrocytoma and to decide on the best treatment options. The neuropathologist grades the tumor by looking for atypical cells, the growth of new blood vessels, and for indicators of cell division called mitotic figures.
+
+=== Grading ===
+
+Of numerous grading systems in use for the classification of tumor of the central nervous system, the World Health Organization (WHO) grading system is commonly used for astrocytoma. Established in 1993 in an effort to eliminate confusion regarding diagnoses, the WHO system established a four-tiered histologic grading guideline for astrocytomas that assigns a grade from 1 to 4, with 1 being the least aggressive and 4 being the most aggressive.
+
+The WHO grading scheme is based on the appearance of certain characteristics: atypia, mitosis, endothelial proliferation, and necrosis. These features reflect the malignant potential of the tumor in terms of invasion and growth rate.
+
+Various types of astrocytomas are given these WHO grades:
+
+According to the WHO data, the lowest grade astrocytomas (grade I) make up only 2% of recorded astrocytomas, grade II 8%, and the higher grade anaplastic astrocytomas (grade III) 20%. The highest graded astrocytoma (grade IV GBM) is the most common primary nervous system cancer and second most frequent brain tumor after brain metastasis. Despite the low incidence of astrocytomas compared to other human cancers, mortality is significant, as the higher grades (III & IV) present high mortality rates (mainly due to late detection of the neoplasm).
+
+== Prevention ==
+
+There are no precise guidelines because the exact cause of astrocytoma is not known.
+
+== Treatment ==
+
+For low-grade astrocytomas, removal of the tumor generally allows functional survival for many years. In some reports, the 5-year survival has been over 90% with well-resected tumors. Indeed, broad intervention of low-grade conditions is a contested matter. In particular, pilocytic astrocytomas are commonly indolent bodies that may permit normal neurologic function. However, left unattended, these tumors may eventually undergo neoplastic transformation. To date, complete resection of high-grade astrocytomas is impossible because of the diffuse infiltration of tumor cells into normal parenchyma. Thus, high-grade astrocytomas inevitably recur after initial surgery or therapy and are usually treated similarly to the initial tumor. Despite decades of therapeutic research, curative intervention is still nonexistent for high-grade astrocytomas; patient care ultimately focuses on palliative management.
+
+== Society and culture ==
+
+=== Notable cases ===
+
+In March 1990, United States Republican Party political strategist Lee Atwater was diagnosed with astrocytoma after a tumor was found in his right parietal lobe. After undergoing radiation therapy (including the then-new implant radiation treatment), Atwater died the following year at the age of 40.
+
+Long-time U.S. Senator Ted Kennedy (D-MA) died of malignant glioma.
+
+University of Texas sniper Charles Whitman, who killed multiple people during a mass murder event in 1966, was diagnosed with astrocytoma post-mortem. The Connally Commission investigating the shooting disagreed, and identified it as a glioblastoma, and concluded the tumor "conceivably could have contributed to his inability to control his emotions and actions".
+
+Major League pitcher Dan Quisenberry was diagnosed with grade IV astrocytoma in January 1998. He died at the age of 45 in 1998 in Leawood, Kansas.
+
+Richard Burns, winner of the 2001 World Rally Championship, was diagnosed with astrocytoma in 2003. Four years to the day after winning the World Rally Championship, on 25 November 2005, Burns died in Westminster, London, aged 34, after having been in a coma for some days as a result of his brain tumour.
+
+Professional wrestler Matt Cappotelli was diagnosed with a grade 2/3 astrocytoma in December 2005, scuttling plans to promote Cappottelli to the main WWE roster. Cappotelli, who won a contract with WWE through the third season of their reality program Tough Enough, was the Ohio Valley Wrestling Heavyweight Champion at the time of his diagnosis and vacated the title in February 2006 after confirming the tumor was cancerous. Cappotelli underwent successful surgery and chemotherapy, but was unable to return to active wrestling work. He did return to OVW as a trainer in 2013. He died on June 29, 2018.
+
+Kelley Mack was an American actress. She played Addy in season 9 of the series The Walking Dead (2018–2019). She also had roles in the films Profile (2018) and Broadcast Signal Intrusion (2021). In January 2025, Mack announced she had been diagnosed with astrocytoma. By April 2025, she had completed proton radiation treatment. Mack died in Cincinnati on August 2, 2025, at the age of 33.
+
+== References ==
+
+Bibliography
+
+== External links ==
+
+Cancer.Net: Astrocytoma, Childhood
+
+Imaging Astrocytoma MR, CT, Pathology

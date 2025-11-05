@@ -1,0 +1,239 @@
+An atypical teratoid rhabdoid tumor (AT/RT) is a rare tumor usually diagnosed in childhood. Although usually a brain tumor, AT/RT can occur anywhere in the central nervous system (CNS), including the spinal cord. About 60% will be in the posterior cranial fossa (particularly the cerebellum). One review estimated 52% in the posterior fossa, 39% are supratentorial primitive neuroectodermal tumors (sPNET), 5% are in the pineal, 2% are spinal, and 2% are multifocal.
+
+In the United States, three children per 1,000,000 or around 30 new AT/RT cases are diagnosed each year. AT/RT represents around 3% of pediatric cancers of the CNS.
+
+Around 17% of all pediatric cancers involve the CNS, making these cancers the most common childhood solid tumor. The survival rate for CNS tumors is around 60%. Pediatric brain cancer is the second-leading cause of childhood cancer death, just after leukemia. Recent trends suggest that the rate of overall CNS tumor diagnosis is increasing by about 2.7% per year. As diagnostic techniques using genetic markers improve and are used more often, the proportion of AT/RT diagnoses is expected to increase.
+
+AT/RT was only recognized as an entity in 1996 and added to the World Health Organization Brain Tumor Classification in 2000 (Grade IV). The relatively recent classification and rarity has contributed to initial misdiagnosis and nonoptimal therapy. This has led to a historically poor prognosis.
+
+Current research is focusing on using chemotherapy protocols that are effective against rhabdomyosarcoma in combination with surgery and radiation therapy.
+
+Recent studies using multimodal therapy have shown significantly improved survival data. In 2008,
+
+the Dana-Farber Cancer Institute in Boston reported two-year overall survival of 53% and event-free survival of 70% (median age at diagnosis of 26 months).
+
+In 2013, the Medical University of Vienna reported five-year overall survival of 100%, and event-free survival of 89% (median age at diagnosis of 24 months).
+
+Survival rates can be significantly improved when the correct genetic diagnosis is made at the outset, followed with specific multimodal treatment.
+
+== Signs and symptoms ==
+
+Clinical signs and symptoms depend on the location of the tumor.
+
+Since many of the tumors occur in the posterior fossa, they present like other posterior fossa tumors, often with headache, vomiting, lethargy, and ataxia (unsteady gait). A case of a seven-month-old child with a primarily spinal tumor that presented with progressive paraplegia and abnormal feeling in the legs was reported.
+
+== Genetics ==
+
+Genetic similarities have been found within rhabdoid tumors. In particular, the chromosomal 22 deletion is very common in AT/RTs. The chromosome 22 area contains the hSNF5/INI1 (human sucrose-non-fermentable 5/Intergrase interactor 1) gene that appears to function as a classic tumor suppressor gene. Most rhabdoid tumors, regardless of location, have INI1 deletions or mutations. This mutation is viewed as the "first hit" which predisposes children to malignancies. INI1/hSNF5, a component of the chromatin remodeling SWI/SNF complex, is a critical tumor suppressor biallelically inactivated in rhabdoid tumors. Identification of INI1 as a tumor suppressor has facilitated accurate diagnosis of rhabdoid tumors.
+
+The rate of transcription for SWI/SNF and HDAC complexes seem to be regulated by the INI1 gene. AT/RT was the first pediatric brain tumor for which a candidate tumor suppressor gene had been identified. A mutation or deletion in the INI1/hSNF5 gene occurs in the majority of AT/RT tumors, with up to 98% of AT/RT cases involve chromosome 22 deletion or mutation. This is mainly point mutations in the hSNF5/INI1 gene (i.e., one can diagnosis AT/RT without a chromosome 22 deletion elsewhere). In addition, the OPN gene has a higher expression in AT/RT tumors. All of the AT/RT cancers are believed to be not associated with the hSNF5/INI1 gene, as 14 additional proteins in the chromatin structure are controlled by other genes. There are also some emerging mouse models of the AT/RT cancer as well as experimental cell lines derived from tumors. Despite these advances, the function of the gene is not yet understood. There is not enough known about the function of INI1, either as an independent modulator of gene expression or through its association with the SWI/SNF complex, to be able to use specific targeted biological agents for treatment. Prospective clinical and biologic trials are greatly needed to understand the efficacy of therapeutic interventions, as well as the role of the gene.
+
+=== Risk for siblings and other members of the family ===
+
+Atypical teratoid/rhabdoid tumors are very rare, and absolute risk to siblings is not reported in the literature. However, some reports exist of AT/RTs presenting in two members of the same family, or one family member with an AT/RT and another with a renal rhabdoid tumor or other CNS tumor. These are suspected to arise from germline genetic mutations in a parent shared by affected siblings.
+
+A three-generation family is known in which two half-brothers were diagnosed with CNS atypical teratoid/rhabdoid tumors (AT/RT). The two boys, diagnosed at 2 months and 17 months of age, had a germline insertion mutation in exon 4 of the INI1 gene that was inherited from their healthy mother. A maternal uncle died in childhood from a brain tumor and a malignant rhabdoid tumor of the kidney. The identification of two unaffected carriers in a family segregating a germline mutation and rhabdoid tumor supports the hypothesis that variable risks of development of rhabdoid tumor in the context of a germline mutation may exist. Most rhabdoid tumors may occur in a developmental window. This family highlights the importance of mutation analysis in all patients with a suspected rhabdoid tumor.
+
+In the first case report of monozygotic twins, both with brain tumors having similar genetic alterations, authors suggest a common genetic pathway.
+
+A case was reported of an infant who developed both AT/RT and renal rhabdoid tumors that were identical in gross and immunologic histology.
+
+A family has had multiple generations of posterior fossa tumors including rhabdoid tumors and choroid plexus carcinoma. A germline mutation (SMARCB1) was found in both affected and some unaffected family members.
+
+Two sisters were diagnosed with AT/RTs 15 days apart. A case report stated no karyotypic anomalies were noted.
+
+Three siblings had a mutation of the SMARCB1 gene and one had a choroid plexus carcinoma and two had an AT/RT. Although the mother had a normal somatic DNA, the mutation apparently was inherited from the mother's germline due to a mutation during oogenesis.
+
+Izycka-Swieszewska et al. describe a five-month-old child with an AT/RT, whose father was diagnosed with a primitive neuroectodermal tumor (PNET) of the spinal canal. Fluorescent in situ hybridization analysis showed significant genetic differences in the specimens which suggest that the occurrence of these virulent CNS malignancies within a single family was coincidental.
+
+== Pathology ==
+
+AT/RT and rhabdoid tumor share the term "rhabdoid" because under a microscope, both tumors resemble rhabdomyosarcoma.
+
+=== Histology ===
+
+The tumor histopathology is jumbled small and large cells. The tissue of this tumor contains many different types of cells including the rhabdoid cells, large spindled cells, epithelial and mesenchymal cells, and areas resembling primitive neuroectodermal tumor (PNET). As much as 70% of the tumor may be made up of PNET-like cells. Ultrastructure characteristic whorls of intermediate filaments are seen in the rhabdoid tumors (as with rhabdoid tumors in any area of the body). Ho and associates found sickle-shaped embracing cells, previously unreported, in all of 11 cases of AT/RT.
+
+=== Immunohistochemistry ===
+
+Immunohistochemical staining is widely used in the diagnosis and treatment of cancer. Specific molecular markers are characteristic of particular cancer types. Immunohistochemistry is also widely used in basic research to understand the distribution and localization of biomarkers in different parts of a tissue. Proteins found in an ATeratoid/RT are:
+
+Vimentin-positive
+
+Cytokeratin-positive
+
+Neuron specific enolase-positive
+
+Epitelial membrane antigen-positive
+
+Glial fibrillary acidic protein- positive
+
+Synaptophysin
+
+Chromogranin
+
+Smooth muscle actin
+
+Desmin
+
+Carcinoembrionary antigen
+
+CD99 antigen;
+
+S-100
+
+neurofilaments
+
+AFP – not found
+
+HCG – negative
+
+==== Cytogenetic studies ====
+
+Cytogenetics is the study of a tumor's genetic make-up. Fluorescent in situ hybridization may be able to help locate a mutation or abnormality that may be allowing tumor growth. This technique has been shown to be useful in identifying some tumors and distinguishing two histologically similar tumors from each other (such as AT/RTs and PNETs). In particular, medulloblastmas/PNETs may possibly be differentiated cytogenetically from AT/RTs, as chromosomal deletions of 17p are relatively common with medulloblastoma and abnormalities of 22q11.2 are not seen. However, chromosomal 22 deletions are very common in AT/RTs.
+
+In importance of the hSNF5/INI1 gene located on chromosomal band 22q11.2 is highlighted, as the mutation's presence is sufficient to change the diagnosis from a medulloblastoma or PNET to the more aggressive AT/RT classification. However, this mutation is not present in 100% of cases. Therefore, if the mutation is not present in an otherwise classic AT/RT immunohistochemical and morphologic pattern then the diagnosis remains an AT/RT.
+
+== Diagnosis ==
+
+The standard work-up for AT/RT includes:
+
+Magnetic resonance imaging (MRI) of the brain and spine
+
+Lumbar puncture to look for M1 disease
+
+Computed tomography (CT) of chest and abdomen to check for a tumor
+
+Bone marrow aspiration to check for bone tumors. Sometimes the physician will perform a stem cell transplant
+
+Bone marrow biopsy
+
+Bone scan
+
+The initial diagnosis of a tumor is made with a radiographic study (MRI or CT-). If CT was performed first, an MRI is usually performed as the images are often more detailed and may reveal previously undetected metastatic tumors in other locations of the brain. In addition, an MRI of the spine is usually performed. The AT/RT tumor often spreads to the spine. AT/RT is difficult to diagnose only from radiographic study; usually, a pathologist must perform a cytological or genetic analysis.
+
+Examination of the cerebrospinal fluid is important (CSF), as one-third of patients will have intracranial dissemination with involvement of the CSF. Large tumor cells, eccentricity of the nuclei, and prominent nucleoli are consistent findings. Usually only a minority of AT/RT biopsies have rhabdoid cells, making diagnosis more difficult. Increasingly it is recommended that a genetic analysis be performed on the brain tumor, especially to find if a deletion in the INI1/hSNF5 gene is involved (appears to account for over 80% of the cases). The correct diagnosis of the tumor is critical to any protocol. Studies have shown that 8% to over 50% of AT/RT tumors are diagnosed incorrectly.
+
+=== Classification ===
+
+AT/RT may be related to malignant rhabdoid tumor (MRT), which occurs outside the CNS, usually in the kidney. The finding that AT/RT and MRT both have deletions of the INI1 gene indicates that rhabdoid tumors of the kidney and brain are at least closely related. AT/RT and MRT also have similar histology and similar clinical and demographic features. Moreover, 10–15% of MRT patients have simultaneous or subsequent brain tumors, many of which are secondary or primary MRT.
+
+=== Differential diagnosis ===
+
+The critical step in treatment planning is to determine the correct histology of the tumor. Misidentification of the tumor histology can lead to errors in treatment and prognosis.
+
+Atypical teratoid/rhaboid tumor closely resembles medulloblastoma, primitive neuroectodermal tumor, choroid plexus carcinoma, and some kinds of germ cell tumor. Because rhabdoid characteristics are not the only component of AT/RT, some sections of an AT/RT may resemble other tumors. These characteristics may be present only in focal areas or may be less pronounced.
+
+Consideration of AT/RT when a medulloblastoma or PNET is suspected is important, particularly in a child under the age of one. Cytogenetic studies can assist in differentiating MB/PNETs from AT/RTs. Some kinds of germ cell tumors secrete tumor markers AFP or bHCG; AT/RTs do not.
+
+=== Appearance on radiologic exam ===
+
+AT/RTs can occur at any sites within the CNS; however, about 60% are located in the posterior fossa or cerebellar area. The ASCO study showed 52% posterior fossa; 39% sPNET; 5% pineal; 2% spinal, and 2% multifocal.
+
+The tumors' appearance on CT and MRI are not specific, tending towards large size, calcifications, necrosis (tissue death), and hemorrhage (bleeding). Radiological studies alone cannot identify AT/RT; a pathologist almost always has to evaluate a brain tissue sample.
+
+The increased cellularity of the tumor may make the appearance on an uncontrasted CT to have increased attenuation. Solid parts of the tumor often enhance with contrast MRI finding on T1 and T2 weighted images are variable. Precontrast T2 weighted images may show an isosignal or slightly hypersignal. Solid components of the tumor may enhance with contrast, but not always. MRI studies appear to be more able to pick up metastatic foci in other intracranial locations, as well as intraspinal locations.
+
+Preoperative and follow-up studies are needed to detect metastatic disease.
+
+== Treatment ==
+
+=== Surgery ===
+
+Surgery plays a critical role in obtaining tissue to make an accurate diagnosis. Surgery alone is not curative. In addition, 30% of the AT/RTs are located supratentorially and a predilection exists for the cerebellopontine angle, which makes surgical resection difficult. One-third or more children will have disseminated disease at the time of diagnosis. Total or near-total resections are often not possible.
+
+=== Chemotherapy ===
+
+Around 50% of the AT/RTs will transiently respond, but chemotherapy by itself is rarely curative. No standard treatment for AT/RT is known. Various chemotherapeutic agents have been used against AT/RTs, which are also used against other CNS tumors including cisplatinum, carboplatinum, cyclophosphamide, vincristine, and etoposide. Some chemotherapy regimens are listed below:
+
+CCG clinical trial CCG-9921 was activated in 1993 and published its results in 2005. The proposed treatments did not have different outcomes and were not an improvement on prior treatments. Geyer published a review of chemotherapy on 299 infants with CNS tumors that evaluated response rate, event-free survival (EFS), and toxicity of two chemotherapeutic regimens for treatment of children younger than 36 months with malignant brain tumors. Patients were randomly assigned to one of two regimens of induction chemotherapy (vincristine, cisplatin, cyclophosphamide, and etoposide v vincristine, carboplatin, ifosfamide, and etoposide). Intensified induction chemotherapy resulted in a high response rate of malignant brain tumors in infants. Survival was comparable to that of previous studies, and most patients who survived did not receive radiation therapy.
+
+Sarcoma protocols. There has been at least one report in the literature of malignant rhabdoid tumors of the CNS being treated as a high-grade intracranial sarcoma. These three cases were treated with surgery, chemotherapy, radiotherapy and triple intrathecal chemotherapy similar to the Intergroup Rhabdomyosarcoma Study III guidelines.
+
+Intrathecal protocols. One of the difficulties with brain and spinal tumors is that the blood brain barrier needs to be crossed so that the drug can get to the tumor. One mechanism to deliver the drug is through a device called an Ommaya reservoir. This is a device which shares some characteristics with a shunt in which a tube a surgically placed in the fluid surrounding the brain and a bulb shaped reservoir attached to the tubing is placed under the skin of the scalp. When the child is to receive intrathecal chemotherapy, the drug is administered into this bulb reservoir. At other times intrathecal chemotherapeutic agents are delivered through a lumbar puncture (spinal tap). A current Pediatric Brain Tumor Consortium Protocol uses intrathecal mafosfamide, a pre-activated cyclophosphamide derivative, in addition to other modalities to try to effect this tumor.
+
+High dose chemotherapy with stem cell rescue. This therapy uses chemotherapy at doses high enough to completely suppress the bone marrow. Prior to instituting this therapy, the child has a central line placed and stem cells are gathered. After therapy these cells are given back to the child to regrow the bone marrow. Stem cell rescue or autologous bone marrow transplantation, was initially thought to be of benefit to a wide group of patients, but has declined over the history of chemotherapy protocols.
+
+=== Radiation therapy ===
+
+The traditional practice for childhood brain tumors has been to use chemotherapy and to defer radiation therapy until a child is older than three years. This strategy is based upon observations that children under three have significant long-term complications as a result of brain irradiation. However, the long-term outcomes of AT/RT are so poor that some protocols call for upfront radiation therapy, often in spite of young age.
+
+The dose and volume of radiation had not been standardized, but radiation does appear to improve survival. The use of radiation has been limited in children younger than three because of the risk of severe neurocognitive deficits. Protocols using conformal, local radiation in the young child are used to try to cure this tumor.
+
+External beam (conformal) radiation uses several beams that intersect at the tumor location; the normal brain tissue receives less radiation and cognitive function is thereby less affected.
+
+Proton beam radiation was only offered at Massachusetts General Hospital in Boston and at Loma Linda, California, as of 2002. Since 2003, three or four more proton therapy centers have opened in the United States. St. Jude Children's Research Hospital is in the process of building one at their Memphis, Tennessee, location. Some centers have since opened in Europe. (Germany, Switzerland, and France).
+
+=== Chromatin remodeling agents ===
+
+This protocol is still in preclinical evaluation. Histone deacetylase inhibitors are a new class of anticancer agents targeted directly at chromatin remodeling. These agents have been used in acute promyelocytic leukemia and have been found to affect the HDAC-mediated transcriptional repression. Understanding of the INI1 deficiency is insufficient to predict whether HDAC inhibitors will be effective against AT/RTs. Some laboratory results indicate it is effective against certain AT/RT cell lines.
+
+== Prognosis ==
+
+The prognosis for AT/RT has been very poor, although some indications exist that an IRSIII-based therapy can produce long-term survival (60 to 72 months). Two-year survival is less than 20%, average survival postoperatively is 11 months, and doctors often recommend palliative care, especially with younger children because of the poor outcomes. Recently, a protocol used by a multicenter trial reported in the Journal of Clinical Oncology resulted in a 70% survival rate at 2–3 years, with most relapses occurring within months, leading to hope that a point exists beyond which patients can be considered cured.
+
+Patients with metastasis (disseminated tumor), larger tumors, tumors that could not be fully removed, or tumor recurrence, and who were younger than 36 months had the worst outcomes (i.e., shorter survival times).
+
+A retrospective survey from 36 AT/RT cases at St. Jude Children's Hospital from 1984 to 2003 showed that the two-year event-free survival (EFS) for children under three was 11%, and the overall survival (OS) rate was 17%. For children aged 3 years or older, the EFS was 78% and the OS 89%. A retrospective register at the Cleveland Children's hospital on 42 AT/RT patients found median survival time is 16.25 months and a survival rate around 33%. One-quarter of these cases did not show the mutation in the INI1/hSNF5 gene.
+
+The longest-term survivals reported in the literature are:
+
+(a) Hilden and associates reported a child who was still free from disease at 46 months from diagnosis.
+
+(b) Olson and associates reported a child who was disease free at five years from diagnosis based on the IRS III protocol.
+
+(c) In 2003, Hirth reported a patient who had been disease-free over six years.
+
+(d) Zimmerman in 2005 reported 50-to-72 month survival rates on four patients using an IRS III-based protocol. Two of these long-term survivors had been treated after an AT/RT recurrence.
+
+(e) A NYU study (Gardner 2004) has four of 12 longer-term AT/RT survivors; the oldest was alive at 46 months after diagnosis.
+
+(f) Medical University of Vienna, 2013, reported a 16-year survivor, among other long-term survivors
+
+Cancer treatments in long-term survivors who are children usually cause a series of negative effects on physical well-being, fertility, cognition, and learning.
+
+=== Metastasis ===
+
+Metastatic spread is noted in roughly one-third of the AT/RT cases at the time of diagnosis, and tumors can occur anywhere throughout the CNS. The ASCO study of the 188 documented AT/RT cases prior to 2004 found 30% of the cases had metastasis at diagnosis. Metastatic spread to the meninges (leptomenigeal spread sometimes referred to as sugar coating) is common both initially and with relapse. Average survival times decline with the presence of metastasis. Primary CNS tumors generally metastasize only within the CNS.
+
+One case of metastatic disease to the abdomen via ventriculoperitoneal shunt has been reported with AT/RT . Metastatic dissemination via this mechanism has been reported with other brain tumors, including germinomas, medulloblastomas, astrocytomas, glioblastomas, ependymomas, and endodermal sinus tumors. Guler and Sugita separately reported cases of lung metastasis without a shunt.
+
+== Epidemiology ==
+
+An estimated 3% of pediatric brain tumors are AT/RTs, although this percentage may increase with better differentiation between PNET/medulloblastoma tumors and AT/RTs.
+
+As with other CNS tumors, more males are affected than females (ratio 1.6:1). The ASCO study showed a 1.4:1 male to female ratio.
+
+== History ==
+
+Atypical teratoid/rhabdoid tumor was first described as a distinct entity in 1987. Before 1978, when rhabdoid tumor was described, AT/RT likely was misdiagnosed as medulloblastoma. In some early reports the tumor was known also as malignant rhabdoid tumor (MRT) of the CNS. Between 1978 and 1987, AT/RT was usually misdiagnosed as rhabdoid tumor. However, both AT/RT and non-CNS MRT have a worse prognosis than medulloblastoma and are resistant to the standard treatment protocols for medulloblastoma.
+
+By 1995, AT/RT had become regarded as a newly defined aggressive, biologically unique class of primarily brain and spinal tumors, usually affecting infants and young children. In January 2001, the U.S. National Cancer Institute and Office of Rare Diseases hosted a Workshop on Childhood Atypical Teratoid/Rhabdoid Tumors of the Central Nervous System. Twenty-two participants from 14 institutions came together to discuss the biology, treatments, and new strategies for these tumors. The consensus paper on the biology of the tumor was published in Clinical Research.
+
+The workshop's recognition that CNS atypical teratoid/rhabdoid tumors (AT/RT) have deletions of the INI1 gene indicates that rhabdoid tumors of the kidney and brain are identical or closely related entities. This observation is not surprising because rhabdoid tumors at both locations possess similar histologic, clinical, and demographic features.
+
+== Research directions ==
+
+Atypical teratoid rhabdoid tumor is rare, and no therapy has been proven to deliver long-term survival, nor a set of protocols made standard. Thus, most children with AT/RT are enrolled in clinical trials to attempt to find an effective cure. A clinical trial is not a treatment standard; it is research. Some clinical trials compare an experimental treatment to a standard treatment, but only if such a standard treatment exists.
+
+Research into stem cell transplant surgeries is ongoing.
+
+== Society and culture ==
+
+In 2011, The New Yorker published an article by Aleksandar Hemon, about the author's daughter's battle with AT/RT.
+
+In August 2011, a 6-year-old named Avalanna Routh who was battling AT/RT at Dana–Farber Cancer Institute was given a pretend wedding with her idol Justin Bieber, with doctors and nurses providing a cardboard life-sized cutout of Bieber, a guitarist, flowers, and a T-shirt emblazoned with the words "Future Mrs. Bieber". In February 2012, she spent the day in person with Justin Bieber, her pretend husband, after a Facebook campaign to meet her idol. On September 26, 2012, she died after battling AT/RT for five and a half years.
+
+The video game That Dragon, Cancer is based on the experiences of Ryan and Amy Green raising their son Joel after he was diagnosed with an atypical teratoid rhabdoid tumor at 12 months and given only about four months to live. Joel continued to survive for four more years after developing seven additional tumors and eventually dying from cancer on March 13, 2014. Ryan Green wanted to provide the experiences of raising Joel in the form of a video game to help the player to understand the difficulties and realities with which they had to deal during this time. After Joel's death, the game was reworked to instead act as a tribute to Ryan and Amy's five short years with their third child. The Green family's experiences are also documented in the film Thank You For Playing.
+
+== See also ==
+
+Ben Bowen
+
+Epithelioid sarcoma
+
+== References ==
+
+== Further reading ==
+
+== External links ==

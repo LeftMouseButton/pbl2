@@ -1,0 +1,129 @@
+Anal cancer is a cancer which arises from the anus, the distal opening of the gastrointestinal tract. Symptoms may include bleeding from the anus or a lump near the anus. Other symptoms may include pain, itchiness, or discharge from the anus. A change in bowel movements may also occur.
+
+Risk factors include human papillomavirus (HPV), HIV/AIDS, receptive anal sex, smoking, and many sexual partners. Anal cancer is typically a squamous cell carcinoma. Other types include adenocarcinoma, small cell carcinoma, and melanoma. Diagnosis is suspected based on physical examination and confirmed by tissue biopsy.
+
+Prevention includes avoiding risk factors and HPV vaccination. Standard treatment may include radiation therapy, chemotherapy, and surgery. About 8,300 people are diagnosed a year in the United States, representing about 0.5% of new cancers. Onset is typically after the age of 45. Women are affected more often than men. The number of cases has increased since the 1990s. The five-year survival rate in the United States is 68%.
+
+== Signs and symptoms ==
+
+Symptoms of anal cancer can include pain or pressure in the anus or rectum, a change in bowel habits, a lump near the anus, rectal bleeding, itching or discharge. Bleeding may be severe.
+
+== Risk factors ==
+
+Human papillomavirus: Examination of squamous cell carcinoma tumor tissues from patients in Denmark and Sweden showed a high proportion of anal cancers to be positive for the types of HPV that are also associated with a high risk of cervical cancer. In another study done, high-risk types of HPV, notably HPV-16, were detected in 84 percent of anal cancer specimens examined. Based on the study in Denmark and Sweden, Parkin estimated that 90% of anal cancers are attributable to HPV.
+
+Sexual activity: Due to increased risk of exposure to HPV, having multiple sex partners and receptive anal intercourse greatly increases the likelihood of developing anal cancer, for men and women.
+
+Smoking: Current smokers are several times more likely to develop anal cancer compared with nonsmokers. Epidemiologist Janet Daling, Ph.D., a member of Fred Hutchinson's Public Health Sciences Division, and her team found that smoking appears to play a significant role in anal-cancer development that is independent of other behavioral risk factors, such as sexual activity. More than half of the anal-cancer patients studied were current smokers at the time of diagnosis, as compared to a smoking rate of about 23 percent among the controls. "Current smoking is a very important promoter of the disease," said Daling. "There's a fourfold increase in risk if you're a current smoker, regardless of whether you're male or female." They explained that the mechanism behind smoking and anal-cancer development is unknown, but researchers speculate that smoking interferes with a process called apoptosis, or programmed cell death, which helps rid the body of abnormal cells that could turn cancerous. Another possibility is that smoking suppresses the immune system, which can decrease the body's ability to clear persistent infection or abnormal cells.
+
+Immunosuppression, which is often associated with HIV infection.
+
+A history of cervical, vaginal or vulval cancers
+
+Cloacogenic. Cloacogenic carcinoma is a rare tumor of the anorectal region originating from a persistent remnant of the cloacal membrane of the embryo. The tumor accounts for 2–3% of anorectal carcinomas and occurs more than twice as often in women.
+
+== Pathology ==
+
+Most anal cancers are squamous cell carcinomas (epidermoid carcinomas), that arise near the squamocolumnar junction. It may be keratinizing (basaloid) or non-keratinizing (cloacogenic).
+
+Other types of anal cancer are adenocarcinoma, lymphoma, sarcoma or melanoma.
+
+=== Staging ===
+
+Pathologic TNM staging of anal carcinomas:
+
+Primary tumor (pT)
+
+"TX: Primary tumor not assessed"
+
+"T0: No evidence of primary tumor"
+
+"Tis: High grade squamous intraepithelial lesion"
+
+"T1: Tumor ≤ 2 cm"
+
+"T2: Tumor > 2 cm but ≤ 5 cm"
+
+"T3: Tumor > 5 cm"
+
+"T4: Tumor of any size invading adjacent organ(s), such as the vagina, urethra or bladder"
+
+Regional lymph nodes (pN)
+
+"NX: Regional lymph nodes cannot be assessed"
+
+"N0: No regional lymph node metastasis"
+
+"N1: Metastasis in inguinal, mesorectal, internal iliac or external iliac nodes"
+
+"N1a: Metastasis in inguinal, mesorectal or internal iliac nodes"
+
+"N1b: Metastasis in external iliac lymph nodes"
+
+"N1c: Metastasis in external iliac with any N1a nodes"
+
+Distant metastasis (pM)
+
+"M0: No distant metastasis"
+
+"M1: Distant metastasis"
+
+== Prevention ==
+
+Since many, if not most, anal cancers derive from HPV infections, and since the HPV vaccine before exposure to HPV prevents infection by some strains of the virus and has been shown to reduce the incidence of potentially precancerous lesions, scientists surmise that HPV vaccination may reduce the incidence of anal cancer.
+
+The efficacy of the vaccine against HPV types 16 and 18 in naive women ≤26 years old is between 91 and 100% but is lower when individuals are vaccinated irrespective of baseline HPV infection at 76%.
+
+In 2010, Gardasil was approved in the US to prevent anal cancer and pre-cancerous lesions in males and females aged 9 to 26 years. The vaccine has been used before to help prevent cervical, vulvar, and vaginal cancer, and associated lesions caused by HPV types 6, 11, 16, and 18 in women.
+
+== Screening ==
+
+As the incidence of anal cancer has increased in recent years, screening and early detection of anal intraepithelial neoplasia (AIN) has become a necessity in patients at risk. This screening detects premalignant lesions, which are highly prevalents, and improves the staging of lesions after treatment.
+
+Anal Pap smears similar to those used in cervical cancer screening have been studied for early detection of anal cancer in high-risk individuals. In 2011, an HIV clinic implemented a program to enhance access to anal cancer screening for HIV-positive men. Nurse practitioners perform anal Papanicolaou screening, and men with abnormal results receive further evaluation with high-resolution anoscopy. The program has helped identify many precancerous growths, allowing them to be safely removed. A similar study was performed in women with a history of cervical cancer or high-grade cervical intraepithelial neoplasia. More than 30% had abnormal anal Pap smears, and one-third of those already had anal intraepithelial neoplasia.
+
+== Treatment ==
+
+=== Localised disease ===
+
+Localised disease (carcinoma-in-situ) and the precursor condition, anal intraepithelial neoplasia (anal dysplasia or AIN) can be ablated with minimally invasive methods such as infrared photocoagulation.
+
+Previously, anal cancer was treated with surgery, and in early-stage disease (i.e., localised cancer of the anus without metastasis to the inguinal lymph nodes), surgery is often curative. The difficulty with surgery has been the necessity of removing the internal and external anal sphincter, with concomitant fecal incontinence. For this reason, many patients with anal cancer have required permanent colostomies.
+
+Current gold-standard therapy is the combination of chemotherapy and radiation treatment to reduce the necessity of debilitating surgery. This "combined modality" approach has led to the increased preservation of an intact anal sphincter, and therefore improved quality of life after definitive treatment. Survival and cure rates are excellent, and many patients are left with a functional sphincter. Some patients have fecal incontinence after combined chemotherapy and radiation. Biopsies to document disease regression after chemotherapy and radiation were commonly advised, but are not as frequent any longer. Current chemotherapy consists of continuous infusion of 5-FU over four days with bolus mitomycin given concurrently with radiation. 5-FU and cisplatin are recommended for metastatic anal cancer. For stages I to III anal squamous cell carcinoma, using cisplatin instead of mitomycin C (MMC) in chemoradiation therapy doesn't improve overall survival or slow down the cancer compared to the standard treatment of 5-FU plus MMC. Although cisplatin might cause fewer blood-related side effects, 5-FU combined with MMC is still the preferred treatment for nonmetastatic anal cancer. A 2024 systematic review found that chemoradiation therapy (CRT) with 5-FU and Mitomycin C improves locoregional control and colostomy-free survival compared to radiation alone, though with increased acute hematologic toxicity. This same systematic review did not find comparisons for patient-reported outcomes (i.e., bowel function and pain, quality of life) for CRT with 5-FU and Mitomycin C versus radiation alone.
+
+The recommended surveillance after treatment for recurrence of squamous cell carcinoma is regular follow-ups for at least two years as it has been noted 89% of recurrences occur in this timeframe.
+
+=== Metastatic or recurrent disease ===
+
+10 to 20% of patients treated for anal cancer will develop distant metastatic disease following treatment. Metastatic or recurrent anal cancer is difficult to treat, and usually requires chemotherapy. Radiation is also employed to palliate specific locations of disease that may be causing symptoms. Chemotherapy commonly used is similar to other squamous cell epithelial neoplasms, such as platinum analogues, anthracyclines such as doxorubicin, and antimetabolites such as 5-FU and capecitabine. JD Hainsworth developed a protocol that includes Taxol and Carboplatinum along with 5-FU.
+
+== Prognosis ==
+
+Median survival rates for people with distant metastases range from 8 to 34 months. Surgical resection with permanent colostomies was the standard treatment until the 1970s, yielding a 5-year overall survival of approximately 50%. The best overall survival rates are seen after combined radiation therapy combined with chemotherapy (5-FU + Mitomycin) in people with T2N0 and T3N0 categories of disease (5-y overall survival: 82%). The 5-year overall survival rates of patients with T4 with no involved lymph nodes, T3 with involved lymph nodes, and T4 with involved lymph nodes disease after the combined treatment are 57%, 57%, and 42%, respectively.
+
+Radiation therapy side effects (and occurrence rates) include acute (27%) and late (17%) dermatological toxicities, acute (14%) and late (27%) gastrointestinal toxicities, and chronic pelvic radiation disease (1-10%), e.g., irreversible lumbosacral plexopathy.
+
+== Epidemiology ==
+
+Worldwide, in 2002, there were an estimated 30,400 new cases of anal cancer. With approximately equal fractions in the developing (15,900) and developed (14,500) countries. An estimated 90% (27,400) were attributable to human papillomavirus (HPV).
+
+=== United States ===
+
+In 2014, about 7,060 new cases of anal cancer were diagnosed in the United States (4,430 in women and 2,630 in men). It is typically found in adults, average age early 60s. In 2019, an estimated 8,300 adults will be diagnosed with anal cancer.
+
+In the United States, an estimated 800 to 900 people die of anal cancer annually.
+
+=== United Kingdom ===
+
+Anal cancer accounts for less than 1% of all cancer cases and deaths in the United Kingdom. Around 1,200 people were diagnosed with the disease in 2011, and around 310 people died in 2012.
+
+== References ==
+
+== External links ==
+
+American Cancer Society: Anal Cancer
+
+Anal cancer information from Cancer Research UK
+
+National Cancer Institute: Anal cancer
