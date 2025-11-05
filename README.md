@@ -22,6 +22,10 @@ export GOOGLE_API_KEY="YOUR_API_KEY"
 
 ## Usage
 ```
+1) python main.py
+
+OR
+
 1) python -m src.kg.module1_crawler.crawler
 2) python -m src.kg.module2_clean.clean
 3) python -m src.kg.module3_extraction_entity_relationship.extraction_entity_relationship.py --all
