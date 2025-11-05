@@ -29,12 +29,7 @@ OR
 1) python -m src.kg.module1_crawler.crawler
 2) python -m src.kg.module2_clean.clean
 3) python -m src.kg.module3_extraction_entity_relationship.extraction_entity_relationship.py --all
-4) 
-    Validate a single file:
-      python -m src.kg.module4_validate_json.validate_json data/json/leukemia.json
-    
-    Validate all extracted JSONs:
-      python -m src.kg.module4_validate_json.validate_json data/json/
+4) python -m src.kg.module4_validate_json.validate_json data/json/
 5) python src/kg/module5_prepare_for_analysis/combine_json_files.py
 
 ```
