@@ -1,0 +1,42 @@
+{
+  "disease_name": "Thymoma",
+  "synonyms": [
+    "Thymus Cancer"
+  ],
+  "summary": "A thymoma is a rare tumor originating from the epithelial cells of the thymus. It is frequently associated with neuromuscular and autoimmune disorders.",
+  "causes": [],
+  "risk_factors": [],
+  "symptoms": [
+    "Superior vena cava syndrome",
+    "Dysphagia",
+    "Cough",
+    "Chest pain",
+    "Asymptomatic (discovered incidentally on imaging)"
+  ],
+  "diagnosis": [
+    "CT/CAT scan",
+    "CT-guided needle biopsy",
+    "Histologic examination of tissue sample",
+    "Full blood count",
+    "Protein electrophoresis",
+    "Antibodies to the acetylcholine receptor",
+    "Electrolytes",
+    "Liver enzymes",
+    "Renal function"
+  ],
+  "treatments": [
+    "Surgical removal",
+    "Radiation therapy",
+    "Neoadjuvant chemotherapy",
+    "Chemotherapy (cyclophosphamide, doxorubicin, cisplatin)",
+    "Hyperthermic intrathoracic perfusion chemotherapy"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Type A",
+    "Type B1",
+    "Type B2",
+    "Type B3",
+    "Type AB"
+  ]
+}

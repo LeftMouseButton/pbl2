@@ -1,0 +1,38 @@
+{
+  "disease_name": "Soft Tissue Sarcoma",
+  "synonyms": [
+    "Sarcoma"
+  ],
+  "summary": "Soft tissue sarcomas are a group of cancers that arise from cells in the soft tissues of the body, such as muscle, fat, nerves, blood vessels, and deep skin tissues. Rhabdomyosarcoma is a specific type of soft tissue sarcoma that arises from muscle cells.",
+  "causes": [
+    "Agent Orange exposure"
+  ],
+  "risk_factors": [
+    "Exposure to Agent Orange"
+  ],
+  "symptoms": [],
+  "diagnosis": [
+    "Biopsy",
+    "Imaging (MRI, CT, ultrasound)",
+    "Genetic testing (e.g., TP53 genetic test)"
+  ],
+  "treatments": [
+    "Chemotherapy",
+    "Radiation therapy",
+    "Surgery",
+    "Oncolytic virotherapy",
+    "Pegylated liposomal doxorubicin",
+    "Ifosfamide"
+  ],
+  "related_genes": [
+    "TP53",
+    "Genes involved in Li-Fraumeni syndrome",
+    "Genes involved in Dermatofibrosarcoma protuberans",
+    "Genes involved in Ewing sarcoma"
+  ],
+  "subtypes": [
+    "Rhabdomyosarcoma",
+    "Dermatofibrosarcoma protuberans",
+    "Ewing sarcoma"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "disease_name": "Pituitary Tumors",
+  "synonyms": [
+    "Pituitary Neoplasms"
+  ],
+  "summary": "Pituitary tumors are abnormal growths that develop in the pituitary gland, a small gland located at the base of the brain. These tumors can be benign (non-cancerous) or malignant (cancerous). They can affect hormone production, leading to various health problems.",
+  "causes": [],
+  "risk_factors": [
+    "Familial isolated pituitary adenoma"
+  ],
+  "symptoms": [],
+  "diagnosis": [
+    "MRI (Magnetic Resonance Imaging)",
+    "Growth hormone test",
+    "Prolactin blood test"
+  ],
+  "treatments": [
+    "Proton therapy",
+    "Photon therapy",
+    "Immunotherapy",
+    "Surgery (implied by treatment options for subtypes)"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Prolactinoma",
+    "Craniopharyngioma",
+    "Pituitary Microadenomas"
+  ]
+}

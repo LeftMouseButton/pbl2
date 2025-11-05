@@ -1,0 +1,55 @@
+{
+  "disease_name": "Ovarian Cancer",
+  "synonyms": [
+    "Ovarian Neoplasm"
+  ],
+  "summary": "Ovarian cancer is a cancerous tumor that forms in the tissues of an ovary. The ovaries are a pair of female reproductive glands that make eggs and female hormones. Cancer is a disease in which abnormal cells in the body grow out of control and form a tumor.",
+  "causes": [
+    "Changes (mutations) in genetic material (DNA)",
+    "Inherited genetic changes (hereditary ovarian cancer)"
+  ],
+  "risk_factors": [
+    "Family history of ovarian cancer",
+    "Inherited changes in BRCA1 or BRCA2 genes",
+    "Certain other genetic conditions (e.g., Lynch syndrome)",
+    "Endometriosis",
+    "Hormone replacement therapy",
+    "Overweight or obesity",
+    "Tall stature",
+    "Older age (post-menopause)",
+    "Never been pregnant"
+  ],
+  "symptoms": [
+    "Pain, swelling, or pressure in the abdomen or pelvis",
+    "Sudden or frequent urge to urinate",
+    "Trouble eating or feeling full",
+    "Lump in the pelvic area",
+    "Gastrointestinal problems (gas, bloating, constipation)"
+  ],
+  "diagnosis": [
+    "Medical history",
+    "Family health history",
+    "Physical exam (including pelvic exam)",
+    "Imaging tests",
+    "Blood tests (e.g., CA-125)",
+    "Biopsy of tissue (often during surgery)"
+  ],
+  "treatments": [
+    "Surgery to remove cancer",
+    "Chemotherapy",
+    "Targeted therapy",
+    "Genetic testing to guide treatment"
+  ],
+  "related_genes": [
+    "BRCA1",
+    "BRCA2",
+    "Lynch syndrome"
+  ],
+  "subtypes": [
+    "Epithelial cancer",
+    "Fallopian tube cancer",
+    "Primary peritoneal cancer",
+    "Malignant germ cell tumors",
+    "Stromal tumors"
+  ]
+}

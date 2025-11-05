@@ -1,0 +1,81 @@
+{
+  "disease_name": "Osteosarcoma",
+  "synonyms": [
+    "OS"
+  ],
+  "summary": "Osteosarcoma is a type of bone cancer that originates from bone-forming cells. It is the most common primary bone cancer in children and young adults, and also occurs in the elderly, often associated with underlying bone pathology like Paget's disease. It can also arise from soft tissues (extraskeletal osteosarcoma).",
+  "causes": [
+    "Genetic mutations",
+    "Infestation with the parasite Spirocerca lupi (esophageal osteosarcoma)"
+  ],
+  "risk_factors": [
+    "Paget's disease of bone",
+    "Hereditary predisposition (e.g., in St. Bernard dogs)",
+    "Spayed/neutered status (in dogs)",
+    "Exposure to ionizing radiation (implicit from leukemia causes, though not explicitly stated for osteosarcoma)",
+    "Prior chemotherapy (implicit from leukemia causes, though not explicitly stated for osteosarcoma)"
+  ],
+  "symptoms": [
+    "Pain in the affected bone",
+    "Swelling or a lump near the affected bone",
+    "Fracture of the affected bone",
+    "Fatigue (general cancer symptom)",
+    "Fever (general cancer symptom)",
+    "Easy bruising or bleeding (general cancer symptom)",
+    "Pale skin (general cancer symptom)",
+    "Swollen lymph nodes or spleen (general cancer symptom)"
+  ],
+  "diagnosis": [
+    "X-rays (initial imaging of choice)",
+    "CT scan (for bony anatomy, cortex integrity, fracture, ossification, calcification)",
+    "MRI scan (for soft tissue and medullary cavity)",
+    "Bone biopsy (definitive method)",
+    "Dental check-ups (for jaw osteosarcoma)",
+    "Symmetrical widening of the periodontal ligament space (in jaw osteosarcoma)",
+    "Chest X-ray (for lung metastases)",
+    "Genetic and chromosomal testing (implicit from related genes)",
+    "Histopathology"
+  ],
+  "treatments": [
+    "Surgical resection (en bloc resection)",
+    "Limb-salvage surgery",
+    "Amputation",
+    "Chemotherapy (neoadjuvant and adjuvant)",
+    "High-dose methotrexate with leucovorin rescue",
+    "Intra-arterial cisplatin",
+    "Adriamycin",
+    "Ifosfamide with mesna",
+    "BCD (bleomycin, cyclophosphamide, dactinomycin)",
+    "Etoposide",
+    "Muramyl tripeptide",
+    "Mifamurtide (after surgery, with chemotherapy)",
+    "Rotationplasty",
+    "Targeted therapy (proteomic and genetic targets)",
+    "Osteoclast inhibitors (e.g., alendronate, pamidronate) for pain and fracture risk reduction",
+    "Filgrastim or pegfilgrastim (for white blood cell and neutrophil counts)",
+    "Blood transfusions",
+    "Epoetin alfa (for anemia)",
+    "Radiation therapy (mentioned in clinical trials context)"
+  ],
+  "related_genes": [
+    "TP53",
+    "RB1",
+    "PTEN",
+    "MYC",
+    "PIK3CA",
+    "SETD2 (in canine osteosarcoma)",
+    "CXCR4 (associated with distant metastases)",
+    "Her2 (associated with distant metastases)"
+  ],
+  "subtypes": [
+    "Conventional osteosarcoma (osteoblastic, chondroblastic, fibroblastic)",
+    "Telangiectatic OS",
+    "Small cell OS",
+    "Low-grade central OS",
+    "Periosteal OS",
+    "Paraosteal OS",
+    "Secondary OS",
+    "High-grade surface OS",
+    "Extraskeletal OS"
+  ]
+}

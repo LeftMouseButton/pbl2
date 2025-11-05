@@ -1,0 +1,66 @@
+{
+  "disease_name": "Urethral cancer",
+  "synonyms": [
+    "Cancer of the urethra"
+  ],
+  "summary": "Urethral cancer is a rare cancer originating from the urethra. It is more common in men than women and its incidence rises after the age of 75. Around half of affected people have locally advanced disease when they first present.",
+  "causes": [
+    "Urothelial cell cancers",
+    "Squamous cell carcinomas",
+    "Adenocarcinomas"
+  ],
+  "risk_factors": [
+    "Prolonged irritations of the urethra due to urinary catheterization",
+    "Chronic inflammation due to infection",
+    "Radiation",
+    "Diverticula of the urethra",
+    "Urethral strictures",
+    "Squamous cell carcinoma (SCC)",
+    "Genital lichen sclerosus"
+  ],
+  "symptoms": [
+    "Blood visible in urine",
+    "Bloody urethral discharge",
+    "Weak or interrupted flow of urine",
+    "Urination occurs often",
+    "Painful urination",
+    "Inability to pass urine",
+    "Lump or thickness in the perineum or penis",
+    "Enlarged lymph nodes or pain in the groin or vaginal area",
+    "Anemia",
+    "Fatigue",
+    "Weakness",
+    "Nausea",
+    "Vomiting",
+    "Loss of appetite",
+    "Hair loss",
+    "Mouth sores",
+    "Increased risk for infection",
+    "Shortness of breath",
+    "Excessive bleeding and bruising"
+  ],
+  "diagnosis": [
+    "Transurethral biopsy",
+    "Histological findings",
+    "Bladder cystoscopy",
+    "TNM staging system",
+    "World Health Organization classification"
+  ],
+  "treatments": [
+    "Surgery",
+    "Open excision",
+    "Electro-resection with flash",
+    "Laser surgery",
+    "Cystourethrectomy",
+    "Cystoprostatectomy",
+    "Anterior body cavity surgery",
+    "Incomplete or basic penectomy surgery",
+    "Radiation therapy",
+    "Chemotherapy"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Papillary urothelial carcinoma",
+    "Anterior urethral cancer"
+  ]
+}

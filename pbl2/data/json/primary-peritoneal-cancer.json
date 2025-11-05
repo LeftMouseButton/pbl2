@@ -1,0 +1,65 @@
+{
+  "disease_name": "Ovarian cancer",
+  "synonyms": [
+    "Ovarian carcinoma"
+  ],
+  "summary": "Ovarian cancer is a cancerous tumor that forms in the tissues of an ovary. It is a group of blood cancers that start in the bone marrow and produce large numbers of abnormal white blood cells.",
+  "causes": [
+    "Genetic mutations (DNA changes)",
+    "Inherited genetic changes (hereditary ovarian cancer)",
+    "BRCA1 gene changes",
+    "BRCA2 gene changes",
+    "Lynch syndrome",
+    "Endometriosis"
+  ],
+  "risk_factors": [
+    "Family history of ovarian cancer",
+    "Inherited BRCA1 or BRCA2 gene changes",
+    "Lynch syndrome",
+    "Endometriosis",
+    "Hormone replacement therapy",
+    "Overweight or obesity",
+    "Tall stature",
+    "Older age (post-menopause)",
+    "Never been pregnant"
+  ],
+  "symptoms": [
+    "Pain in the abdomen or pelvis",
+    "Swelling in the abdomen or pelvis",
+    "Feeling of pressure in the abdomen or pelvis",
+    "Sudden urge to urinate",
+    "Frequent urge to urinate",
+    "Trouble eating",
+    "Feeling full quickly",
+    "Lump in the pelvic area",
+    "Gas",
+    "Bloating",
+    "Constipation"
+  ],
+  "diagnosis": [
+    "Medical history",
+    "Family health history",
+    "Physical exam",
+    "Pelvic exam",
+    "Imaging tests",
+    "CA-125 blood test",
+    "Biopsy of tissue (during surgery)"
+  ],
+  "treatments": [
+    "Surgery to remove cancer",
+    "Chemotherapy",
+    "Targeted therapy",
+    "Genetic testing (to guide treatment)"
+  ],
+  "related_genes": [
+    "BRCA1",
+    "BRCA2"
+  ],
+  "subtypes": [
+    "Epithelial cancer",
+    "Fallopian tube cancer",
+    "Primary peritoneal cancer",
+    "Malignant germ cell tumors",
+    "Stromal tumors"
+  ]
+}

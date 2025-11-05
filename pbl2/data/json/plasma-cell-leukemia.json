@@ -1,0 +1,48 @@
+{
+  "disease_name": "Plasma cell leukemia",
+  "synonyms": [
+    "PCL",
+    "Primary plasma cell leukemia",
+    "pPCL",
+    "Secondary plasma cell leukemia",
+    "sPCL"
+  ],
+  "summary": "Plasma cell leukemia (PCL) is a plasma cell dyscrasia, a malignant degeneration of plasma cells. It is the most aggressive form of plasma cell malignancies, occurring either primarily or secondary to multiple myeloma. PCL is a serious, life-threatening, and therapeutically challenging disease.",
+  "causes": [
+    "Development of excessively high number of genetic abnormalities in plasma cells or their precursor B cells and plasmablasts",
+    "Acquired genetic abnormalities including gene mutations, single nucleotide polymorphisms, deletions and duplications of gene parts or chromosomes, translocations, and changes in gene expression",
+    "Abnormalities affecting Wnt signaling pathway, cell cycle regulation, RNA metabolism, protein folding, and cell adherence"
+  ],
+  "risk_factors": [],
+  "symptoms": [
+    "Splenomegaly",
+    "Lymphadenopathy",
+    "Hepatomegaly",
+    "Kidney failure",
+    "Bone marrow failure (thrombocytopenia, anemia, leukopenia)",
+    "Central nervous system defects",
+    "Peripheral neuropathies",
+    "Hypercalcemic crisis",
+    "High levels of serum lactate dehydrogenase",
+    "High levels of Beta-2 microglobulin",
+    "Soft tissue plasma cell tumors (plasmacytomas)"
+  ],
+  "diagnosis": [
+    "Presence of >2 billion plasma cells per liter of blood",
+    "Presence of >20% of nucleated blood cells being plasma cells",
+    "Flow cytometry immunophenotyping of blood cells to detect clonal phenotypes of plasma cells (e.g., CD138+, CD38+, CD19−, CD45+/- phenotype)"
+  ],
+  "treatments": [
+    "VAD regimen (vincristine, doxorubicin, dexamethasone)",
+    "VCMP regimen (vincristine, carmustine, melphalan, prednisone alternating with vincristine, carmustine, doxorubicin, prednisone)",
+    "Proteasome inhibitor drugs (bortezomib, ixazomib, carfilzomib)",
+    "Autologous stem-cell transplantation",
+    "Immunomodulator agents (thalidomide, lenalidomide, pomalidomide)",
+    "Dexamethasone (corticosteroid)"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Primary plasma cell leukemia (pPCL)",
+    "Secondary plasma cell leukemia (sPCL)"
+  ]
+}

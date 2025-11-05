@@ -1,0 +1,80 @@
+{
+  "disease_name": "Paraganglioma",
+  "synonyms": [
+    "Pheochromocytoma (when in adrenal gland)",
+    "Neuroendocrine neoplasm",
+    "Carotid body tumor",
+    "Glomus tympanicum",
+    "Glomus jugulare",
+    "Jugulotympanic paraganglioma",
+    "Red drum"
+  ],
+  "summary": "A rare neuroendocrine neoplasm that can develop at various body sites. When found in the adrenal gland, they are called pheochromocytomas. They are rare tumors with an incidence of about 1 in 300,000. Long-term follow-up is recommended for all individuals with paraganglioma as there is no test to distinguish benign from malignant tumors.",
+  "causes": [
+    "Mutations of the genes for succinate dehydrogenase (SDHD, SDHA, SDHC, SDHB)",
+    "Mutations of SDHB gene (familial adrenal pheochromocytoma and extra-adrenal paraganglioma)",
+    "MEN type 2A and 2B",
+    "Mutations of SDHAF2, VHL, NF1, TMEM127, MAX and SLC25A11 genes",
+    "Chromaffin-negative glomus cells derived from embryonic neural crest"
+  ],
+  "risk_factors": [
+    "Hereditary predisposition (25% of cases)"
+  ],
+  "symptoms": [
+    "Hypertension",
+    "Tachycardia",
+    "Headache",
+    "Palpitations",
+    "Painless mass",
+    "Tinnitus (in 80% of glomus tympanicum/jugulare)",
+    "Hearing loss (in 60% of glomus tympanicum/jugulare)",
+    "Swallowing difficulty",
+    "Ipsilateral weakness of upper trapezius and sternocleiodomastoid muscles",
+    "Dysphagia",
+    "Hoarseness",
+    "Coughing"
+  ],
+  "diagnosis": [
+    "Gallium-68 DOTATATE PET/CT imaging",
+    "Blood tests",
+    "Urine tests",
+    "Saliva tests",
+    "X-rays",
+    "CT scans",
+    "MRI scans"
+  ],
+  "treatments": [
+    "Surgery",
+    "Embolization",
+    "Radiotherapy"
+  ],
+  "related_genes": [
+    "SDHD",
+    "SDHA",
+    "SDHC",
+    "SDHB",
+    "SDHAF2",
+    "VHL",
+    "NF1",
+    "TMEM127",
+    "MAX",
+    "SLC25A11"
+  ],
+  "subtypes": [
+    "Pheochromocytoma",
+    "Head and neck paraganglioma (HNPGL)",
+    "Carotid paraganglioma",
+    "Glomus tympanicum",
+    "Glomus jugulare",
+    "Jugulotympanic paraganglioma",
+    "Organ of Zuckerkandl paraganglioma",
+    "Vagal paraganglioma",
+    "Pulmonary paraganglioma",
+    "Laryngeal paraganglioma",
+    "Nasal cavity paraganglioma",
+    "Paranasal sinus paraganglioma",
+    "Thyroid gland paraganglioma",
+    "Thoracic inlet paraganglioma",
+    "Bladder paraganglioma"
+  ]
+}

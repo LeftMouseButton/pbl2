@@ -1,0 +1,48 @@
+{
+  "disease_name": "Pheochromocytoma",
+  "synonyms": [
+    "Paraganglioma"
+  ],
+  "summary": "Pheochromocytoma is a rare tumor of the adrenal gland that produces excess catecholamines, leading to symptoms such as hypertension, headaches, and palpitations. It can also occur outside the adrenal glands as a paraganglioma. While often benign, a small percentage can be malignant. Diagnosis relies on biochemical tests and imaging, and treatment typically involves surgical removal of the tumor.",
+  "causes": [
+    "Genetic mutations",
+    "RET proto-oncogene (p.C634W) associated with Multiple endocrine neoplasia type 2"
+  ],
+  "risk_factors": [
+    "Hereditary disease",
+    "Von Hippel-Lindau (VHL) mutation"
+  ],
+  "symptoms": [
+    "Hypertension",
+    "Headaches",
+    "Palpitations",
+    "Episodic fits of pain concentrated in the abdomen",
+    "Hectic flush distinctly marked on each cheek",
+    "Constant profuse and universal perspiration",
+    "Episodic rage and aggression"
+  ],
+  "diagnosis": [
+    "Incidental imaging (computed tomography or magnetic resonance imaging)",
+    "Biochemical tests (catecholamine blood test, catecholamines - urine)",
+    "MIBG scintiscan",
+    "Adrenal nodule detection",
+    "Autopsy (historical)"
+  ],
+  "treatments": [
+    "Surgical removal of the tumor",
+    "Alpha and beta-adrenoceptor antagonist blockade (pre-operative)",
+    "Modern anesthesia practices",
+    "Treatment for progressive metastatic pheochromocytomas and paragangliomas (e.g., (177)Lu-DOTATATE)"
+  ],
+  "related_genes": [
+    "RET proto-oncogene",
+    "VHL gene"
+  ],
+  "subtypes": [
+    "Malignant pheochromocytoma",
+    "Bilateral pheochromocytoma",
+    "Extra-adrenal pheochromocytoma (paraganglioma)",
+    "Inherited (familial) pheochromocytoma",
+    "Childhood Pheochromocytoma and Paraganglioma"
+  ]
+}

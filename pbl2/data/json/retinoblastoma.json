@@ -1,0 +1,63 @@
+{
+  "disease_name": "Retinoblastoma",
+  "synonyms": [
+    "Rb",
+    "Eye cancer"
+  ],
+  "summary": "Retinoblastoma is a rare, rapidly developing cancer of the immature cells of the retina, the light-detecting tissue of the eye. It is the most common primary malignant intraocular cancer in children, with most cases detected in those under 3 years old. While survival rates are high in developed countries, vision loss or eye removal can occur.",
+  "causes": [
+    "Hereditary genetic defect",
+    "Congenital mutation in the RB1 gene on chromosome 13 (13q14)",
+    "Somatic amplification of the MYCN oncogene"
+  ],
+  "risk_factors": [
+    "Hereditary genetic defect",
+    "Family history of retinoblastoma",
+    "Low socioeconomic status (in developing countries)",
+    "Presence of human papilloma virus sequences (in developing countries)"
+  ],
+  "symptoms": [
+    "Leukocoria (amaurotic cat's eye reflex, \"white eye\", \"cat's eye\")",
+    "Abnormal red reflex",
+    "Whitish, translucent mass in the eye",
+    "Deterioration of vision",
+    "Red and irritated eye with glaucoma",
+    "Faltering growth or delayed development",
+    "Squint (strabismus, \"cross-eyed\", \"wall-eyed\")",
+    "Eye enlargement (in developing countries)"
+  ],
+  "diagnosis": [
+    "Red reflex test",
+    "Annual vision tests for infants",
+    "Examination under anesthetic (EUA)",
+    "Imaging studies (CT, MRI, ultrasound)",
+    "Bone marrow examination",
+    "Lumbar puncture",
+    "Genetic testing for RB1 gene mutations",
+    "Reese Ellsworth Classification System",
+    "International Classification for Intraocular Retinoblastoma"
+  ],
+  "treatments": [
+    "Enucleation of the eye",
+    "External beam radiotherapy (EBRT)",
+    "Brachytherapy",
+    "Thermotherapy",
+    "Laser photocoagulation",
+    "Cryotherapy",
+    "Systemic chemotherapy",
+    "Intra-arterial chemotherapy",
+    "Nanoparticulate chemotherapy",
+    "Chemoreduction (chemotherapy combined with focal treatments)"
+  ],
+  "related_genes": [
+    "RB1",
+    "MYCN"
+  ],
+  "subtypes": [
+    "Heritable form",
+    "Nonheritable form (sporadic)",
+    "Unilateral retinoblastoma",
+    "Bilateral retinoblastoma",
+    "Trilateral retinoblastoma (retinoblastoma concurrent with pineoblastoma or other midline supratentorial PNETs)"
+  ]
+}

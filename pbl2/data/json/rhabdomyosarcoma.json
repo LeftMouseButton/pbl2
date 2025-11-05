@@ -1,0 +1,94 @@
+{
+  "disease_name": "Rhabdomyosarcoma",
+  "synonyms": [
+    "RMS"
+  ],
+  "summary": "Rhabdomyosarcoma (RMS) is a highly aggressive form of cancer that develops from mesenchymal cells that have failed to fully differentiate into myocytes of skeletal muscle. Cells of the tumor are identified as rhabdomyoblasts. It is generally considered to be a disease of childhood, as the vast majority of cases occur in those below the age of 18. It is commonly described as one of the small-blue-round-cell tumors of childhood due to its appearance on an H&E stain. Despite being relatively rare, it accounts for approximately 40% of all recorded soft-tissue sarcomas.",
+  "causes": [
+    "Genetic mutations",
+    "Congenital abnormalities",
+    "Familial cancer syndromes",
+    "Parental use of cocaine",
+    "Parental use of marijuana"
+  ],
+  "risk_factors": [
+    "Li-Fraumeni syndrome",
+    "Neurofibromatosis type 1",
+    "Beckwith-Wiedemann syndrome",
+    "Costello syndrome",
+    "Noonan syndrome",
+    "DICER1 syndrome",
+    "Cardio-facio-cutaneous syndrome"
+  ],
+  "symptoms": [
+    "Mass",
+    "Hematuria",
+    "Urinary tract obstruction",
+    "Scrotal mass",
+    "Vaginal mass",
+    "Cranial nerve dysfunction",
+    "Sinusitis symptoms",
+    "Ear discharge",
+    "Headaches",
+    "Facial pain",
+    "Orbital swelling",
+    "Proptosis",
+    "Rapidly enlarging, firm mass in the extremity"
+  ],
+  "diagnosis": [
+    "H&E stain",
+    "Immunohistochemical staining for muscle-specific proteins (myogenin, muscle-specific actin, desmin, D-myosin, myoD1)",
+    "Electron microscopy",
+    "Genetic sequencing of tumor cells",
+    "Open biopsy",
+    "MRI",
+    "Ultrasound",
+    "Bone scan",
+    "Lumbar puncture",
+    "Abdominal CT",
+    "Modified TNM staging system"
+  ],
+  "treatments": [
+    "Surgery",
+    "Chemotherapy",
+    "Radiation therapy",
+    "Immunotherapy",
+    "VAC regimen (vincristine, actinomycin D, cyclophosphamide)",
+    "IVA regimen (ifosfamide, vincristine, actinomycin D)",
+    "Doxorubicin",
+    "Cisplatin",
+    "Brachytherapy",
+    "Conditionally replicating adenoviruses",
+    "Deacetylase inhibitor (entinostat)",
+    "MEK inhibitor"
+  ],
+  "related_genes": [
+    "PAX3",
+    "PAX7",
+    "FOXO1",
+    "FKHR",
+    "MYC",
+    "MYCN",
+    "MYOD1",
+    "BRD4",
+    "IGF-2",
+    "TP53",
+    "P53",
+    "NMYC",
+    "NRAS",
+    "KRAS",
+    "P16",
+    "c-Met",
+    "FGFR3"
+  ],
+  "subtypes": [
+    "Embryonal rhabdomyosarcoma (ERMS)",
+    "Alveolar rhabdomyosarcoma (ARMS)",
+    "Pleomorphic rhabdomyosarcoma",
+    "Spindle-cell/sclerosing rhabdomyosarcoma",
+    "Botryoid rhabdomyosarcoma",
+    "Anaplastic rhabdomyosarcoma",
+    "Fusion Positive rhabdomyosarcoma (FP-RMS)",
+    "Fusion-negative RMS"
+  ]
+}
