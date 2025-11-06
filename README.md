@@ -98,7 +98,7 @@ Output:
 
 ### 4) Module 4 - Validator with Auto-Repair for LLM Step-1 JSON Outputs
 -------------------------------------------------
-Checks and fixes structural issues in extracted JSONs before DB ingestion.
+Checks and fixes structural issues in extracted JSONs.
 No backup files are produced — JSONs are overwritten in place.
 ```
 Input:
