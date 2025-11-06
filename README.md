@@ -138,9 +138,8 @@ Output:
         centrality.csv                    # Degree, betweenness, eigenvector (top-k and full)
         communities.csv                   # Node → community mapping
         link_predictions.csv              # Top predicted links (ensemble-ranked)
-'''
+```
 
-...
 
 ### Utilities
 ### TokenCount Predictor
