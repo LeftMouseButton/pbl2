@@ -38,7 +38,7 @@ OR
 2) python -m src.kg.module2_clean.clean
 3) python -m src.kg.module3_extraction_entity_relationship.extraction_entity_relationship.py --all
 4) python -m src.kg.module4_validate_json.validate_json data/json/
-5) python src/kg/module5_prepare_for_analysis/combine_json_files.py
+5) python -m src.kg.module5_prepare_for_analysis.combine_json_files.py
 6) python -m src.kg.module6_analysis.analyse     --input data/combined/all_diseases.json     --outdir data/analysis     --viz-html graph.html      --graphml graph.graphml     --topk 30     --seed "Breast cancer"     --seed "Lung cancer"      --betweenness-sample 200      --random-state 42
 
 ```
