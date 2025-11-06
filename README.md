@@ -109,13 +109,13 @@ Output:
 
 ### 5) Module 5 - Analysis Preparation
 -----------------------------------
-Dealing with token limits constitutes a major challenge for graph analysis.
+Dealing with token limits constitutes a major challenge for LLM-based graph analysis.
 We need to employ RAG, Summarization, Chunking, Compression/Encoding, etc.
-Running the "TokenCount Predictor" (Utilities) suggests we should be able to store information for approximately 180 diseases before this step becomes essential, assuming the LLM provider = ChatGPT Plus.
+Running the "TokenCount Predictor" (Utilities) suggests we should be able to store information for approximately 300 diseases before this step becomes essential, assuming the LLM provider = ChatGPT Plus.
 
 Also, we should try to remove duplicates/etc (caused by slightly different names/descriptions produced by the LLM in Module 3) from the .json files.
 
-For now, we'll just combine all the .json's into a single file for manually uploading to chatgpt.
+For now, we'll just combine all the .json's into a single file, for either manually uploading to chatgpt or just using with NetworkX (non-LLM) in Module 6.
 ```
 Input:
     data/json/*.json
@@ -123,9 +123,9 @@ Output:
     data/combined/all_diseases.json
 ```
 
-### 6) Module 6 - Analysis
+### 6) Module 6 - NetworkX Analysis
 -----------------------------------
-Produces the graph, performs analysis, exports results.
+Using NetworkX, produces the graph, performs analysis, exports results.
 
 ```
 Input:
