@@ -8,6 +8,8 @@ Runs sequentially:
 3. Module 3 – Entity & Relationship Extraction
 4. Module 4 – JSON Validation
 5. Module 5 – Combine JSON Files for Analysis
+6. Utilities: Predict Token Count – Ensure token count is within LLM limits
+7. Module 6 – Read combined JSON file, analyse, export results.
 """
 
 import subprocess
@@ -71,6 +73,33 @@ def main():
             "Utilities: Predict Token Count",
             ["python", "-m", "src.kg.utils.tokencount_predictor", "--input_path", "data/combined/all_diseases.json"],
         ),
+        (
+            "Module 6: Graph Construction & Analysis",
+            [
+                "python",
+                "-m",
+                "src.kg.module6_analysis.analyse",
+                "--input",
+                "data/combined/all_diseases.json",
+                "--outdir",
+                "data/analysis",
+                "--viz-html",
+                "graph.html",
+                "--graphml",
+                "graph.graphml",
+                "--topk",
+                "30",
+                "--seed",
+                "Breast cancer",
+                "--seed",
+                "Lung cancer",
+                "--betweenness-sample",
+                "200",
+                "--random-state",
+                "42",
+            ],
+        ),
+
     ]
 
     print("\n" + "#" * 80)
