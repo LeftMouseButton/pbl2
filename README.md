@@ -28,6 +28,8 @@ export GOOGLE_API_KEY="YOUR_API_KEY"
 
 ## Usage
 ```
+Edit disease_names.txt, populate with desired diseasese.
+
 1) python main.py
 
 OR
