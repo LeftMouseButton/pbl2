@@ -16,6 +16,12 @@ conda install pydantic -c conda-forge
 pip install google-generativeai
     (package not available in conda)
 
+conda install networkx
+
+conda install -c conda-forge pyvis
+
+conda install pandas
+
 Set your API key, in a given terminal window:
 export GOOGLE_API_KEY="YOUR_API_KEY"
 
@@ -31,6 +37,7 @@ OR
 3) python -m src.kg.module3_extraction_entity_relationship.extraction_entity_relationship.py --all
 4) python -m src.kg.module4_validate_json.validate_json data/json/
 5) python src/kg/module5_prepare_for_analysis/combine_json_files.py
+6) python -m src.kg.module6_analysis.analyse     --input data/combined/all_diseases.json     --outdir data/analysis     --viz-html graph.html      --graphml graph.graphml     --topk 30     --seed "Breast cancer"     --seed "Lung cancer"      --betweenness-sample 200      --random-state 42
 
 ```
 ## Modules/Steps:
@@ -113,6 +120,25 @@ Input:
 Output:
     data/combined/all_diseases.json
 ```
+
+### 6) Module 6 - Analysis
+-----------------------------------
+Produces the graph, performs analysis, exports results.
+
+```
+Input:
+    data/combined/all_diseases.json
+        OR
+    data/json/*.json
+Output:
+    data/analysis/
+        report_module6.md                 # Human-readable analysis report (paste-able into paper)
+        graph.graphml                     # Full graph (labels & types as node/edge attributes)
+        graph.html                        # Interactive PyVis visualization
+        centrality.csv                    # Degree, betweenness, eigenvector (top-k and full)
+        communities.csv                   # Node → community mapping
+        link_predictions.csv              # Top predicted links (ensemble-ranked)
+'''
 
 ...
 
