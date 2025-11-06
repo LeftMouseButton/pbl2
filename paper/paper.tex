@@ -11,6 +11,7 @@
 \usepackage{caption}
 \usepackage{subcaption}
 \usepackage{tabularx}
+\usepackage{svg}
 
 \begin{document}
 
@@ -27,7 +28,7 @@ Ritsumeikan University, Japan}
 \maketitle
 
 \begin{abstract}
-This study presents the design and analysis of a comprehensive \textbf{knowledge graph (KG)} that integrates information regarding cancer diseases, symptoms, treatments, and genes. 
+This study presents the design and analysis of a comprehensive \textbf{knowledge graph (KG)} integrating information regarding cancer diseases, symptoms, treatments, and genes. 
 Data were collected automatically from \textbf{Wikipedia} and \textbf{MedlinePlus} via API-based crawling and processed through a structured \textbf{LLM-driven entity-relationship extraction pipeline}. 
 The resulting graph contains over \textbf{1,300 nodes} and \textbf{1,600 relationships}, representing a unified view of oncological knowledge. 
 Analyses including connectivity, community detection, centrality, link prediction, and graph traversal reveal highly connected biological patterns: \textit{TP53}, \textit{BRCA1/2}, and \textit{chemotherapy} emerge as central hubs. 
@@ -40,7 +41,7 @@ Knowledge Graph, Cancer, Graph Analysis, Community Detection, Biomedical Informa
 
 \section{Introduction}
 \subsection{Problem Description and Motivation}
-Biomedical data are fragmented across thousands of web resources, each describing diseases, genes, and therapies in distinct textual formats.
+Biomedical data are fragmented across thousands of web resources, each describing diseases, genes, and therapies in diverse textual formats.
 Researchers and clinicians face challenges integrating this information into unified computational models for inference, prediction, and discovery.
 A \textbf{knowledge graph (KG)} can bridge this gap by representing heterogeneous biomedical concepts as nodes and their relationships as edges, enabling multi-layer network analyses that reveal hidden connections among diseases, molecular mechanisms, and clinical outcomes.
 
@@ -61,6 +62,10 @@ Two authoritative biomedical repositories were used:
 \end{enumerate}
 
 \section{Methodology}
+
+
+
+
 
 \subsection{Data Source Description}
 The KG pipeline ingests semi-structured textual data;
@@ -104,6 +109,16 @@ Interactive visualization is provided using \textbf{PyVis}.
 Python 3.12, NetworkX, PyVis, Pandas, and Leiden/Louvain community-detection algorithms were employed.
 Adamic–Adar, Jaccard, and Preferential Attachment were used for link prediction, while ChatGPT-5 supported interpretive analysis.
 
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.47\textwidth]{figs/cancer_kg_full.png}
+    \caption{Full cancer knowledge graph visualization.}
+    \label{fig:fullgraph}
+\end{figure}
+
+
+
 \section{Graph Analysis and Experiments}
 
 \subsection{Connectivity}
@@ -111,12 +126,6 @@ The final graph comprises 1,340 nodes and 1,685 edges.
 A single \textbf{giant component} connects over 90\% of nodes, showing strong biological integration.
 Diseases act as bridges between molecular (genes) and clinical (symptoms/treatments) layers.
 
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=0.47\textwidth]{figs/cancer_kg_full.png}
-    \caption{Full cancer knowledge graph visualization (interactive PyVis export).}
-    \label{fig:fullgraph}
-\end{figure}
 
 \subsection{Community Detection}
 Using Leiden and Louvain algorithms, twelve communities were identified, each corresponding to major biomedical themes (TABLE I).
@@ -143,13 +152,6 @@ Using Leiden and Louvain algorithms, twelve communities were identified, each co
 \end{table*}
 
 
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=0.47\textwidth]{figs/cancer_kg_full.png}
-    \caption{Community detection output showing modular clusters (Louvain method).}
-    \label{fig:communities}
-\end{figure}
-
 \subsection{Centrality Analysis}
 \begin{itemize}
     \item \textbf{Degree}: High-degree nodes include Breast, Lung, and Leukemia.
@@ -159,8 +161,8 @@ Using Leiden and Louvain algorithms, twelve communities were identified, each co
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.47\textwidth]{figs/cancer_kg_full.png}
-    \caption{Centrality metrics (degree, betweenness, eigenvector) highlighting major hubs.}
+    \includegraphics[width=0.47\textwidth]{figs/centrality_metrics_top300.png}
+    \caption{Centrality metrics highlighting major hubs.}
     \label{fig:centrality}
 \end{figure}
 
@@ -198,9 +200,12 @@ Neighbor-majority voting achieved approximately 93\% accuracy in recovering node
 
 \subsection{Traversal and Search}
 BFS from \textit{Breast cancer}:
-\[
-Breast~cancer \rightarrow BRCA1 \rightarrow DNA~repair \rightarrow Chemotherapy~response
-\]
+\begin{align*}
+&\textit{Breast cancer} \rightarrow \textbf{BRCA1} \rightarrow \\[3pt]
+&\textit{DNA repair} \rightarrow \textit{Chemotherapy response}
+\end{align*}
+
+
 DFS from \textit{Colorectal cancer} reveals longer disease–gene–therapy chains, illustrating multi-hop reasoning.
 
 \section{Discussion}
