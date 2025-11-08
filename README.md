@@ -72,7 +72,7 @@ Output:
 -----------------------------------
 Uses the Google AI Studio API (Gemini 2.5 Flash Live) to perform structured entity and relationship extraction for knowledge-graph population.
 
-This step also combines all input text from multiple sources into one file.
+This step also combines all input text from multiple sources into one file per disease.
 If we have a lot of sources in the future, this is a weak point and will need to be changed (will run into a token limit otherwise).
 
 ```
