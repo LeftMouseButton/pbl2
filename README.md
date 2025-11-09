@@ -25,6 +25,17 @@ conda install pandas
 Set your API key, in a given terminal window:
 export GOOGLE_API_KEY="YOUR_API_KEY"
 
+## Limitations
+```
+Module 1 -- More sources are required beyond Wikipedia/MedlinePlus.
+Module 3 -- Major issues
+                1) Reproducibility: LLMs generate different information with each run.
+                2) Hallucinations/etc: LLMs may fabricate facts or utilize external information.
+                3) Naming issues:
+                        1) Some entries do not share the same naming scheme (eg: "Tobacco smoking", "Smoking tobacco", "Smoking (active and passive)", "Smoking", and "Smoking cigarettes").
+                        2) Excessive verbosity: "Being overweight (possibly due to smoking-related lower body weight)"
+...
+```
 
 ## Usage
 ```
