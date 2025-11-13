@@ -109,6 +109,9 @@ Interactive visualization is provided using \textbf{PyVis}.
 Python 3.12, NetworkX, PyVis, Pandas, and Leiden/Louvain community-detection algorithms were employed.
 Adamic–Adar, Jaccard, and Preferential Attachment were used for link prediction, while ChatGPT-5 supported interpretive analysis.
 
+\subsection{Data Definition}
+The cancer knowledge graph represents entities across multiple biomedical layers, including \textit{diseases, genes, treatments, symptoms, risk factors, biomarkers, and biological pathways}. Each entity type corresponds to a node label, while their interactions (e.g., \textit{associated\_gene}, \textit{treated\_by}, \textit{has\_symptom}) form typed edges. This schema allows both molecular and clinical aspects of oncological data to coexist within a unified graph, enabling cross-domain reasoning and multi-scale analysis.
+
 
 \begin{figure}[H]
     \centering
@@ -120,6 +123,10 @@ Adamic–Adar, Jaccard, and Preferential Attachment were used for link predictio
 
 
 \section{Graph Analysis and Experiments}
+
+\subsection{Data Justification}
+The chosen entity and relationship schema follows design principles from established biomedical knowledge graphs such as \textit{Hetionet}~\cite{hetionet2017} and \textit{DisGeNET}~\cite{disgenet2020}, where disease--gene--drug triplets form the foundation for mechanistic and therapeutic inference. Integrating additional layers---such as \textit{symptoms, biomarkers,} and \textit{risk factors}---follows recommendations from Kaur \textit{et al.}~\cite{kaur2021}, emphasizing multi-level data integration to improve explainability in oncology AI systems. This structure ensures semantic alignment with biomedical ontologies like the National Cancer Institute Thesaurus (NCIt) and compliance with FAIR data principles, supporting interoperability and reusability for future biomedical graph research.
+
 
 \subsection{Connectivity}
 The final graph comprises 1,340 nodes and 1,685 edges. 
