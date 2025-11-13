@@ -2,32 +2,21 @@
 
 Builds and analyses a knowledge graph.
 
-Modular design.
+Modular design; each step is independently executable and may be reused for other tasks.
 
 ## Dependencies
-conda install beautifulsoup4
-
-conda install -c conda-forge python-slugify
-
-conda install lxml
-
-conda install pydantic -c conda-forge
-
+```
+conda install beautifulsoup4 lxml networkx pandas -c conda-forge python-slugify pydantic pyvis
 pip install google-generativeai
-    (package not available in conda)
-
-conda install networkx
-
-conda install -c conda-forge pyvis
-
-conda install pandas
-
-Set your API key, in a given terminal window:
+```
+Set your API key (required for Module 3):
+```
 export GOOGLE_API_KEY="YOUR_API_KEY"
+```
 
 ## Limitations
 ```
-Module 1 -- More sources are required beyond Wikipedia/MedlinePlus.
+Module 1 -- More sources are required beyond Wikipedia/MedlinePlus. Code is structured such that additional sources can be added in the future.
 Module 3 -- Major issues
                 1) Reproducibility: LLMs generate different information with each run.
                 2) Hallucinations/etc: LLMs may fabricate facts or utilize external information.
@@ -38,9 +27,9 @@ Module 3 -- Major issues
 ```
 
 ## Usage
-```
-Edit disease_names.txt as desired, then:
 
+Edit disease_names.txt as desired, then:
+```
 1) python main.py
 
 OR
@@ -58,14 +47,17 @@ OR
 -----------------------------------
 Collects raw natural-language content (HTML or plain text) for diseases.
 
-Current Targets: Wikipedia (API) and MedlinePlus (HTML).
+Current Targets: 
+
+- Wikipedia (REST API)
+- MedlinePlus (HTML via XML search API).
 
 Saves results under data/raw/ with provenance metadata (for Module 2 cleaning).
 
 ```
 Output:
     data/raw/{slug}_{source}.{ext}
-    data/raw/metadata.jsonl  (records url, timestamp, checksum)
+    data/raw/metadata.jsonl    # one JSON record per fetched resource
 ```
 
 ### 2) Module 2 – Cleaning / Preprocessing
@@ -74,17 +66,19 @@ Converts raw HTML or plain-text files (from Module 1) into normalized,
 clean text suitable for LLM-based entity extraction (Module 3).
 ```
 Input:
-    data/raw/*.html or .txt   (from module1_crawler)
+    data/raw/*.html or .txt   (from Module 1 - Web Crawler)
 Output:
-    data/processed/*.txt      (normalized text)
-    data/processed/metadata.jsonl (checksum + provenance)
+    data/processed/{disease}_-_{source}.txt
+    data/processed/metadata.jsonl    # metadata record includes source filename, processed filename, checksums, and timestamp.
 ```
 ### 3) Module 3 – LLM-based Entity and Relationship Extraction
 -----------------------------------
-Uses the Google AI Studio API (Gemini 2.5 Flash Live) to perform structured entity and relationship extraction for knowledge-graph population.
+Uses the Google AI Studio API (Gemini 2.5 Flash Lite) to perform structured entity and relationship extraction for knowledge-graph population.
 
 This step also combines all input text from multiple sources into one file per disease.
-If we have a lot of sources in the future, this is a weak point and will need to be changed (will run into a token limit otherwise).
+If we have a lot of sources for each disease in the future, this is a weak point and will need to be changed (will run into a token limit otherwise).
+
+Note: this is also the weakest point in the entire project for scientific reproducibility. Would be ideal to avoid use of an LLM here.
 
 ```
 Parameters:
@@ -94,6 +88,7 @@ Parameters:
       python extraction_entity_relationship.py --all
   • Force (existing .json files are skipped unless --force):
       python extraction_entity_relationship.py --all --force
+- Retries failed extractions up to a configurable limit.
 ```
 
 ```
@@ -115,7 +110,7 @@ No backup files are produced — JSONs are overwritten in place.
 Input:
     data/json/{disease-name}.json
 Output:
-    data/json/{disease-name}.json
+    data/json/{disease-name}.json    # validated, schema-consistent
 ```
 
 ### 5) Module 5 - Analysis Preparation
@@ -156,6 +151,8 @@ Output:
 
 ### Utilities
 ### TokenCount Predictor
+-----------------------------------
+Estimates token counts for JSON files (useful for planning LLM-based analysis or RAG setups).
 ```
 Usage: 
         # For a directory
@@ -163,8 +160,8 @@ Usage:
         # For a single file
             python src/kg/utils/tokencount_predictor.py --input_path data/example.json
 Input:
-    .json file(s) from --input_path parameter
+    .json file(s) from --input_path
 Output:
-    Command Line <- integer: Predicted Token Count
+    Token count printed to the command line.
 ```
 
