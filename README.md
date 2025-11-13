@@ -6,7 +6,7 @@ Modular design; each step is independently executable and may be reused for othe
 
 ## Dependencies
 ```
-conda install -c conda-forge beautifulsoup4 lxml networkx pandas python-slugify pydantic pyvis pronto rapidfuzz owlready2
+conda install beautifulsoup4 lxml networkx pandas scikit-learn psutil -c bioconda pronto -c conda-forge python-slugify pydantic pyvis rapidfuzz
 pip install google-generativeai
 ```
 Set your API key (required for Module 3):
@@ -124,16 +124,9 @@ Output:
 
 ### 5) Module 5 - Analysis Preparation: Ontology Normalization & JSON Combination
 -----------------------------------
-Dealing with token limits constitutes a major challenge for LLM-based graph analysis.
-We need to employ RAG, Summarization, Chunking, Compression/Encoding, etc.
-Running the "TokenCount Predictor" (Utilities) suggests we should be able to store information for approximately 300 diseases before this step becomes essential, assuming the LLM provider = ChatGPT Plus.
-
 - Standardizes names: ontology-based normalization with fuzzy matching.
 - Combines all JSON files (from Module 4) into a single file.
 - Produces an additional matched-only JSON file containing only verified entities, for building a high-quality graph.
-
-Extra Notes:
-
 
 ```
 Input:
@@ -160,6 +153,14 @@ Notes:
       (e.g., NetworkX or PyVis workflows in Module 6)
 ```
 
+```
+Future Improvements Required for Module 5:
+    • Match rate is low with fuzzy matching. Could use an LLM here too, but then that introduces more problems with reproducibility, and added(financial) cost.
+    • Dealing with token limits constitutes a major challenge for LLM-based graph analysis.
+    We need to employ RAG, Summarization, Chunking, Compression/Encoding, etc.
+    Running the "TokenCount Predictor" (Utilities) suggests we should be able to store information for approximately 300 diseases before this step becomes essential, assuming the LLM provider = ChatGPT Plus.
+```
+
 ### 6) Module 6 - NetworkX Analysis
 -----------------------------------
 Using NetworkX, produces the graph, performs analysis, exports results.
@@ -178,6 +179,10 @@ Output:
         communities.csv                   # Node → community mapping
         link_predictions.csv              # Top predicted links (ensemble-ranked)
 ```
+
+### 7) Module 7 - GNN Training (PyTorch Geometric)
+-----------------------------------
+(todo)
 
 
 ### Utilities
