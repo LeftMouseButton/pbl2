@@ -6,7 +6,7 @@ Modular design; each step is independently executable and may be reused for othe
 
 ## Dependencies
 ```
-conda install beautifulsoup4 lxml networkx pandas -c conda-forge python-slugify pydantic pyvis
+conda install -c conda-forge beautifulsoup4 lxml networkx pandas python-slugify pydantic pyvis pronto rapidfuzz owlready2
 pip install google-generativeai
 ```
 Set your API key (required for Module 3):
@@ -20,10 +20,19 @@ Module 1 -- More sources are required beyond Wikipedia/MedlinePlus. Code is stru
 Module 3 -- Major issues
                 1) Reproducibility: LLMs generate different information with each run.
                 2) Hallucinations/etc: LLMs may fabricate facts or utilize external information.
-                3) Naming issues:
+                3) Naming issues: (mitigated by Module 5)
                         1) Some entries do not share the same naming scheme (eg: "Tobacco smoking", "Smoking tobacco", "Smoking (active and passive)", "Smoking", and "Smoking cigarettes").
                         2) Excessive verbosity: "Being overweight (possibly due to smoking-related lower body weight)"
 ...
+```
+
+## Ontology Sources:
+```
+
+    https://raw.githubusercontent.com/DiseaseOntology/HumanDiseaseOntology/main/src/ontology/doid.obo
+    https://bioportal.bioontology.org/ontologies/NCIT
+    https://storage.googleapis.com/public-download-files/hgnc/owl/owl/hgnc.owl
+
 ```
 
 ## Usage
@@ -36,9 +45,9 @@ OR
 
 1) python -m src.kg.module1_crawler.crawler
 2) python -m src.kg.module2_clean.clean
-3) python -m src.kg.module3_extraction_entity_relationship.extraction_entity_relationship.py --all
+3) python -m src.kg.module3_extraction_entity_relationship.extraction_entity_relationship --all
 4) python -m src.kg.module4_validate_json.validate_json data/json/
-5) python -m src.kg.module5_prepare_for_analysis.combine_json_files.py
+5) python -m src.kg.module5_prepare_for_analysis.combine_json_files
 6) python -m src.kg.module6_analysis.analyse     --input data/combined/all_diseases.json     --outdir data/analysis     --viz-html graph.html      --graphml graph.graphml     --topk 30     --seed "Breast cancer"     --seed "Lung cancer"      --betweenness-sample 200      --random-state 42
 
 ```
@@ -113,20 +122,42 @@ Output:
     data/json/{disease-name}.json    # validated, schema-consistent
 ```
 
-### 5) Module 5 - Analysis Preparation
+### 5) Module 5 - Analysis Preparation: Ontology Normalization & JSON Combination
 -----------------------------------
 Dealing with token limits constitutes a major challenge for LLM-based graph analysis.
 We need to employ RAG, Summarization, Chunking, Compression/Encoding, etc.
 Running the "TokenCount Predictor" (Utilities) suggests we should be able to store information for approximately 300 diseases before this step becomes essential, assuming the LLM provider = ChatGPT Plus.
 
-Also, we should try to remove duplicates/etc (caused by slightly different names/descriptions produced by the LLM in Module 3) from the .json files.
+- Standardizes names: ontology-based normalization with fuzzy matching.
+- Combines all JSON files (from Module 4) into a single file.
+- Produces an additional matched-only JSON file containing only verified entities, for building a high-quality graph.
 
-For now, we'll just combine all the .json's into a single file, for either manually uploading to chatgpt or just using with NetworkX (non-LLM) in Module 6.
+Extra Notes:
+
+
 ```
 Input:
-    data/json/*.json
+    data/json/*.json                (from Module 4)
+    ontologies/*.obo / *.owl        (local ontology references, e.g. DOID, NCIT)
+
 Output:
-    data/combined/all_diseases.json
+    data/combined/all_diseases.json         # merged dataset with all normalized terms
+    data/combined/all_diseases_matched.json # subset containing only ontology-matched entities
+    data/combined/ontology_mapping.json     # grouped ontology match metadata (by file/key)
+    data/combined/normalization_stats.json  # summary: total terms, match rate, avg. score, etc.
+    data/combined/unmatched_terms.txt       # list of entities not found in any ontology
+
+
+Notes:
+    • Distinguishes between disease-related and gene-related ontologies to prevent cross-category errors (e.g., prevents "NF2" gene from matching "Vestibular schwannomatosis").
+    • Automatically detects all ontology files in the ontologies/ directory  
+      – Classifies gene-related files (e.g., HGNC, Ensembl, NCBI) separately from disease ontologies (e.g., DOID, NCIT, EFO). 
+    • If no gene ontology is detected, `related_genes` normalization is automatically skipped to prevent false matches.  
+    • Supports optional flags:
+        --no-normalize     → combine files only (skip ontology normalization)  
+        --no-lowercase     → preserve original capitalization  
+    • Outputs are suitable for both manual LLM upload and non-LLM graph analysis  
+      (e.g., NetworkX or PyVis workflows in Module 6)
 ```
 
 ### 6) Module 6 - NetworkX Analysis
