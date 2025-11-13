@@ -1,20 +1,41 @@
 """
-Module 2 – Cleaning / Preprocessing
------------------------------------
+Module 2 – Cleaning / Preprocessing (Revised)
+--------------------------------------------
 Converts raw HTML or plain-text files (from Module 1) into normalized,
-clean text suitable for LLM-based entity extraction (LLM Step 1).
+clean text suitable for LLM-based entity extraction (Module 3).
 
-Input:
-    data/raw/*.html or .txt   (from module1_crawler)
-Output:
-    data/processed/*.txt      (normalized text)
+Strict trimming rules (per specification):
+
+  - Always remove everything BEFORE the line containing "- Patient Handouts"
+    (inclusive of that line).
+  - Always remove everything AFTER AND INCLUDING the first occurrence of
+    "## Start Here".
+
+These rules are applied on the cleaned text representation. For sources that
+do not contain these markers, the cleaner behaves conservatively.
+
+Outputs:
+    data/processed/*.txt          (normalized text)
     data/processed/metadata.jsonl (checksum + provenance)
 """
 
-from bs4 import BeautifulSoup
+from __future__ import annotations
+
 from pathlib import Path
-import hashlib, json, html, os, re, time
+from typing import Dict, Any
+
+import hashlib
+import html as html_lib
+import json
+import re
+import time
+
+from bs4 import BeautifulSoup
 from slugify import slugify
+
+# ---------------------------------------------------------------------------
+# Paths
+# ---------------------------------------------------------------------------
 
 RAW_DIR = Path("data/raw")
 OUT_DIR = Path("data/processed")
@@ -26,24 +47,38 @@ META_PATH = OUT_DIR / "metadata.jsonl"
 # ---------------------------------------------------------------------------
 
 MOJIBAKE_MAP = {
-    "â": "’", "â": "‘", "â": "“", "â": "”",
-    "â": "–", "â": "—", "â¢": "•", "â¦": "…", "Â": "",
+    "â": "’",
+    "â": "-",
+    "â": "-",
+    "â": "‘",
+    "â": "“",
+    "â": "”",
+    "â": "–",
+    "â": "—",
+    "â¢": "•",
+    "â¦": "…",
+    "Â": "",
 }
 
 BOILERPLATE_PATTERNS = [
     r"^An official website of the United States government$",
-    r"^Here’s how you know$", r"^Official websites use .gov",
+    r"^Here’s how you know$",
+    r"^Official websites use .gov",
     r"^Secure .gov websites use HTTPS",
     r"^A lock \( \) or https:// means",
     r"^Share sensitive information only",
-    r"^Basics$", r"^Summary$", r"^Start Here$", r"^Diagnosis and Tests$",
-    r"^Prevention and Risk Factors$", r"^Treatments and Therapies$",
-    r"^Learn More$", r"^Living With$", r"^Related Issues$",
-    r"^Specifics$", r"^Genetics$", r"^See, Play and Learn$",
-    r"^Videos and Tutorials$", r"^Research$", r"^Resources$",
-    r"^Reference Desk$", r"^Find an Expert$", r"^For You$",
-    r"^Children$", r"^Teenagers$", r"^Men$", r"^Patient Handouts$",
+    r"^See also$",
+    r"^External links$",
+    r"^References$",
+    r"^Navigation menu$",
+    r"^Search$",
+    r"^Skip to main content$",
 ]
+
+
+def log(msg: str) -> None:
+    ts = time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime())
+    print(f"[{ts}] {msg}")
 
 
 def checksum(s: str) -> str:
@@ -57,141 +92,264 @@ def fix_mojibake(text: str) -> str:
 
 
 def normalize_text(text: str) -> str:
-    text = html.unescape(text)
+    text = html_lib.unescape(text)
     text = fix_mojibake(text)
-    text = re.sub(r"\u00A0", " ", text)
+    text = text.replace("\u00A0", " ")
+    text = text.replace("\r\n", "\n").replace("\r", "\n")
     text = re.sub(r"[ \t]+", " ", text)
     text = re.sub(r"\n{3,}", "\n\n", text)
     return text.strip()
 
 
 def strip_boilerplate_lines(text: str) -> str:
-    lines = [ln.strip() for ln in text.split("\n") if ln.strip()]
+    """Remove lines matching known boilerplate patterns (conservative)."""
+    lines = [ln.rstrip() for ln in text.split("\n")]
     cleaned = []
     for ln in lines:
-        if any(re.match(p, ln, re.IGNORECASE) for p in BOILERPLATE_PATTERNS):
+        stripped = ln.strip()
+        if not stripped:
+            cleaned.append("")
+            continue
+        if any(re.match(p, stripped, re.IGNORECASE) for p in BOILERPLATE_PATTERNS):
             continue
         cleaned.append(ln)
-    return "\n\n".join(cleaned)
-
-
-def skip_to_main_content(text: str) -> str:
-    lower = text.lower()
-    start_idx = None
-    match = re.search(r"what is ", lower)
-    if match:
-        start_idx = match.start()
-    elif "overview" in lower:
-        start_idx = lower.find("overview")
-    if start_idx is not None:
-        text = text[start_idx:]
-    return text
-
-
-def remove_after_start_here(text: str) -> str:
-    """Remove everything from '## Start Here' onward."""
-    pattern = re.compile(r"^## Start Here", flags=re.MULTILINE | re.IGNORECASE)
-    match = pattern.search(text)
-    if match:
-        text = text[:match.start()].strip()
-    return text
+    return "\n".join(cleaned)
 
 
 # ---------------------------------------------------------------------------
-# Cleaning logic
+# Source-aware helpers
 # ---------------------------------------------------------------------------
 
-def clean_html_to_text(html_content: str) -> str:
-    soup = BeautifulSoup(html_content, "lxml")
+def is_medlineplus_html(soup: BeautifulSoup) -> bool:
+    """Heuristic to detect MedlinePlus pages."""
+    if soup.find("meta", attrs={"name": "DCTERMS.source", "content": "MedlinePlus"}):
+        return True
+    if soup.find("div", attrs={"id": "medlineplus"}):
+        return True
+    if soup.find("title") and "MedlinePlus" in soup.find("title").get_text():
+        return True
+    return False
 
-    # Remove non-content tags
-    for tag in soup(["script", "style", "aside", "nav", "footer", "header", "form", "noscript", "svg"]):
-        tag.decompose()
 
-    main = soup.find(attrs={"role": "main"}) or soup.find("main") or soup
+def html_block_to_text(root) -> str:
+    """
+    Convert a subtree of HTML into structured plain text:
+      - h1/h2/h3 -> markdown-style headings
+      - p/li    -> paragraphs / simple bullet lines
+    """
     blocks = []
 
-    for tag in main.find_all(["h1", "h2", "h3", "p", "li"]):
+    for tag in root.find_all(["h1", "h2", "h3", "p", "li"], recursive=True):
         txt = tag.get_text(" ", strip=True)
         if not txt:
             continue
-        if tag.name == "h1":
-            blocks.append(f"# {txt}\n")
-        elif tag.name == "h2":
-            blocks.append(f"## {txt}\n")
-        elif tag.name == "h3":
-            blocks.append(f"### {txt}\n")
+        name = tag.name.lower()
+        if name == "h1":
+            blocks.append(f"# {txt}")
+        elif name == "h2":
+            blocks.append(f"## {txt}")
+        elif name == "h3":
+            blocks.append(f"### {txt}")
+        elif name == "li":
+            blocks.append(f"- {txt}")
         else:
             blocks.append(txt)
 
     text = "\n\n".join(blocks)
     text = normalize_text(text)
     text = strip_boilerplate_lines(text)
-    text = skip_to_main_content(text)
-    text = remove_after_start_here(text)
+    return text.strip()
+
+
+def clean_html_to_text(html_content: str) -> str:
+    """
+    Main HTML cleaning entrypoint.
+
+    - Parses HTML with lxml.
+    - Removes non-content tags.
+    - Uses generic extraction for all sources (including MedlinePlus),
+      followed by the global trimming rules.
+    """
+    soup = BeautifulSoup(html_content, "lxml")
+
+    for tag in soup(
+        [
+            "script",
+            "style",
+            "aside",
+            "nav",
+            "footer",
+            "header",
+            "form",
+            "noscript",
+            "svg",
+        ]
+    ):
+        tag.decompose()
+
+    main = soup.find(attrs={"role": "main"}) or soup.find("main") or soup.body or soup
+    text = html_block_to_text(main)
+    text = apply_global_trimming_rules(text)
     return text
 
 
 def clean_plain_text(content: str) -> str:
-    text = content.replace("\r", "\n")
-    text = normalize_text(text)
+    """
+    Cleaner for plain text inputs.
+
+    Applies normalization, boilerplate stripping, then the same
+    trimming rules used for HTML-derived text.
+    """
+    text = normalize_text(content)
     text = strip_boilerplate_lines(text)
-    text = skip_to_main_content(text)
-    text = remove_after_start_here(text)
-    return text
+    text = apply_global_trimming_rules(text)
+    return text.strip()
 
 
-def process_file(raw_path: Path) -> dict:
-    content = raw_path.read_text(encoding="utf-8", errors="replace")
+# ---------------------------------------------------------------------------
+# Global trimming rules (per user request)
+# ---------------------------------------------------------------------------
+
+def apply_global_trimming_rules(text: str) -> str:
+    """
+    Apply strict trimming rules in order:
+
+      1) Remove everything BEFORE the line containing "- Patient Handouts"
+         (including that line). If not found, no change from this rule.
+
+      2) On the remaining text, remove everything AFTER AND INCLUDING
+         the first occurrence of "## Start Here".
+         If not found, no change from this rule.
+
+    Final result is normalized again.
+    """
+    # Rule 1: drop everything up to and including "- Patient Handouts"
+    lines = text.split("\n")
+    cut_index = None
+    for i, line in enumerate(lines):
+        if re.search(r"^\s*-\s*patient handouts\s*$", line, flags=re.IGNORECASE):
+            cut_index = i
+            break
+
+    if cut_index is not None:
+        # Keep only content AFTER this marker line
+        lines = lines[cut_index + 1 :]
+
+    trimmed = "\n".join(lines)
+
+    # Rule 2: cut after AND including first "## Start Here"
+    match = re.search(
+        r"^##\s*Start Here\s*$", trimmed, flags=re.IGNORECASE | re.MULTILINE
+    )
+    if match:
+        # Remove from start_here line to end (inclusive)
+        start_pos = match.start()
+        trimmed = trimmed[:start_pos]
+
+    trimmed = normalize_text(trimmed)
+    return trimmed
+
+
+# ---------------------------------------------------------------------------
+# File-level processing
+# ---------------------------------------------------------------------------
+
+def derive_disease_and_source(stem: str) -> (str, str):
+    """
+    Derive disease prefix and source suffix from filename stem.
+
+    Expected pattern from Module 1:
+        {slug}_{source}
+    """
+    s = stem.lower()
+    if "_" in s:
+        disease_part, source_part = s.rsplit("_", 1)
+    elif "-" in s:
+        disease_part, source_part = s.rsplit("-", 1)
+    else:
+        disease_part, source_part = s, "unknown"
+
+    disease = slugify(disease_part) or "unknown"
+    source = slugify(source_part) or "unknown"
+    return disease, source
+
+
+def process_file(raw_path: Path) -> Dict[str, Any]:
+    """
+    Process a single raw file into cleaned text and write metadata.
+    """
+    try:
+        raw_content = raw_path.read_text(encoding="utf-8", errors="replace")
+    except Exception as e:
+        log(f"[ERROR] Failed to read {raw_path}: {e}")
+        return {
+            "source_filename": raw_path.name,
+            "error": f"read_failed: {e}",
+        }
+
     if raw_path.suffix.lower() == ".html":
-        cleaned = clean_html_to_text(content)
+        cleaned = clean_html_to_text(raw_content)
     else:
-        cleaned = clean_plain_text(content)
+        cleaned = clean_plain_text(raw_content)
 
-    # Derive disease prefix and source suffix from the RIGHT side
-    stem = raw_path.stem.lower()
-
-    if "_" in stem:
-        disease_part, source_part = stem.rsplit("_", 1)
-    elif "-" in stem:
-        disease_part, source_part = stem.rsplit("-", 1)
-    else:
-        disease_part, source_part = stem, "unknown"
-
-    disease = slugify(disease_part)
-    source = slugify(source_part)
-
+    disease, source = derive_disease_and_source(raw_path.stem)
     out_name = f"{disease}_-_{source}.txt"
     out_path = OUT_DIR / out_name
-    out_path.write_text(cleaned, encoding="utf-8")
 
-    record = {
+    try:
+        out_path.write_text(cleaned, encoding="utf-8")
+    except Exception as e:
+        log(f"[ERROR] Failed to write cleaned file for {raw_path.name}: {e}")
+        return {
+            "source_filename": raw_path.name,
+            "processed_filename": out_name,
+            "error": f"write_failed: {e}",
+        }
+
+    record: Dict[str, Any] = {
         "source_filename": raw_path.name,
         "processed_filename": out_name,
-        "checksum": checksum(content),
-        "length": len(cleaned),
+        "disease_slug": disease,
+        "source_slug": source,
+        "raw_checksum": checksum(raw_content),
+        "clean_checksum": checksum(cleaned),
+        "clean_length": len(cleaned),
         "timestamp": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
     }
 
-    with open(META_PATH, "a", encoding="utf-8") as f:
-        f.write(json.dumps(record, ensure_ascii=False) + "\n")
+    try:
+        with META_PATH.open("a", encoding="utf-8") as f:
+            f.write(json.dumps(record, ensure_ascii=False) + "\n")
+    except Exception as e:
+        log(f"[WARN] Failed to append metadata for {raw_path.name}: {e}")
 
-    print(f"[OK] {raw_path.name} → {out_name}")
+    log(f"[OK] {raw_path.name} → {out_name}")
     return record
 
 
-
-
-def process_all(raw_dir: Path = RAW_DIR):
+def process_all(raw_dir: Path = RAW_DIR) -> None:
     """Iterate through all files in raw_dir and clean them."""
-    print("[INFO] Starting cleaning process...")
-    for path in raw_dir.glob("*"):
+    if not raw_dir.exists():
+        log(f"[ERROR] Raw directory not found: {raw_dir}")
+        return
+
+    log("[INFO] Starting cleaning process...")
+    n_total = 0
+    n_processed = 0
+
+    for path in sorted(raw_dir.glob("*")):
+        if not path.is_file():
+            continue
         if path.suffix.lower() not in (".html", ".txt"):
             continue
-        process_file(path)
-    print("[INFO] Cleaning complete.")
+
+        n_total += 1
+        rec = process_file(path)
+        if "error" not in rec:
+            n_processed += 1
+
+    log(f"[INFO] Cleaning complete. Processed {n_processed}/{n_total} files.")
 
 
 if __name__ == "__main__":
     process_all()
-
