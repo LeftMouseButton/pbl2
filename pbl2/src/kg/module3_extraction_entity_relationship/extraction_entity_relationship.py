@@ -12,14 +12,6 @@ Modes:
       python extraction_entity_relationship.py --all
   • Re-run cached results:
       python extraction_entity_relationship.py --all --force
-
-Features:
-  - Groups .txt files by prefix before "_-"
-  - Uploads + prompts Gemini 2.5 Flash Live
-  - Saves results as data/json/<disease>.json
-  - Retries failed jobs (up to 3 attempts)
-  - Skips existing JSON outputs unless --force
-  - Summarises successes / failures / skips
 """
 
 import argparse
@@ -38,29 +30,38 @@ from google.generativeai.types import HarmCategory, HarmBlockThreshold
 MODEL_NAME = "gemini-2.5-flash-lite"
 DATA_PROCESSED_DIR = Path("data/processed")
 EXAMPLE_JSON_PATH = Path("src/kg/module3_extraction_entity_relationship/example_entity_extraction.json")
+SCHEMA_PATH = Path("schema/schema_keys.json")
 OUTPUT_DIR = Path("data/json")
-MAX_RETRIES = 3  # total attempts per disease
+MAX_RETRIES = 3
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-# "Testing api, respond with API Test is ok"
-PROMPT_CONTENT = '''Task: Perform structured entity and relationship extraction for knowledge-graph population.
+
+# ────────────────────────────────────────────────────────────────────────────── #
+# LOAD SCHEMA
+# ────────────────────────────────────────────────────────────────────────────── #
+
+def load_schema():
+    if not SCHEMA_PATH.exists():
+        sys.exit(f"❌ Schema file not found at {SCHEMA_PATH}")
+    try:
+        schema_json = json.loads(SCHEMA_PATH.read_text(encoding="utf-8"))
+    except json.JSONDecodeError as e:
+        sys.exit(f"❌ Failed to parse schema JSON: {e}")
+    return json.dumps(schema_json, indent=2, ensure_ascii=False)
+
+# ────────────────────────────────────────────────────────────────────────────── #
+# PROMPT CONTENT
+# ────────────────────────────────────────────────────────────────────────────── #
+
+SCHEMA_CONTENT = load_schema()
+
+PROMPT_CONTENT = f'''Task: Perform structured entity and relationship extraction for knowledge-graph population.
 
 Input: The uploaded file(s) contain cleaned natural-language text describing a single disease.
 
 Goal: Identify and organize all relevant biomedical entities and their relationships, and output as valid JSON following the schema below.
 
 Schema:
-{
-  "disease_name": "",
-  "synonyms": [],
-  "summary": "",
-  "causes": [],
-  "risk_factors": [],
-  "symptoms": [],
-  "diagnosis": [],
-  "treatments": [],
-  "related_genes": [],
-  "subtypes": []
-}
+{SCHEMA_CONTENT}
 
 Instructions:
 Use concise entity names (no full sentences in lists).
@@ -104,7 +105,6 @@ def process_once(disease, model):
         print(f"❌ Example JSON missing: {EXAMPLE_JSON_PATH}")
         return False
 
-    # ✅ Read raw text instead of uploading files
     combined_text = ""
     for path in disease_files:
         print(f"📖 Reading {path.name} ...")
@@ -125,41 +125,28 @@ def process_once(disease, model):
         print(f"❌ API error for {disease}: {e}")
         return False
 
-
     text = (response.text or "").strip()
     if not text:
         print(f"❌ Empty response for {disease}.")
         return False
 
-    # ────────────────────────────────────────────────────────────── #
-    # Parse JSON safely (strip code block markers)
-    # ────────────────────────────────────────────────────────────── #
     try:
-        # Handle common Google GenAI wrapping: ```json ... ```
         if text.startswith("```"):
-            # Remove ```json or ``` at start
             text = text.lstrip("`").removeprefix("json").strip()
-        # Also handle trailing ```
         if text.endswith("```"):
             text = text.rstrip("`").strip()
-
         data = json.loads(text)
     except json.JSONDecodeError:
         print(f"❌ Invalid JSON for {disease}. Output preview:\n{text[:400]}...\n")
         return False
 
-
     out_path = OUTPUT_DIR / f"{disease}.json"
-
     out_path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
-    # out_path.write_text(text)
-
     print(f"✅ Saved extraction: {out_path}")
     return True
 
 
 def process_with_retry(disease, model):
-    """Run extraction with up to MAX_RETRIES attempts."""
     for attempt in range(1, MAX_RETRIES + 1):
         print(f"\n🔄 Attempt {attempt}/{MAX_RETRIES} for {disease}")
         ok = process_once(disease, model)
@@ -170,7 +157,6 @@ def process_with_retry(disease, model):
             print(f"⏳ Retrying in {wait}s...")
             time.sleep(wait)
     return False, MAX_RETRIES
-
 
 # ────────────────────────────────────────────────────────────────────────────── #
 # MAIN
@@ -211,9 +197,6 @@ def main():
         success, attempts = process_with_retry(disease, model)
         results[disease] = ("SUCCESS" if success else "FAILED", attempts)
 
-    # ────────────────────────────────────────────────────────────────────── #
-    # SUMMARY
-    # ────────────────────────────────────────────────────────────────────── #
     print("\n" + "#" * 80)
     print("📊 SUMMARY")
     print("#" * 80)
@@ -232,4 +215,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
