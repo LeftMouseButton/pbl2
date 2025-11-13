@@ -80,7 +80,7 @@ def main():
                 "-m",
                 "src.kg.module6_analysis.analyse",
                 "--input",
-                "data/combined/all_diseases.json",
+                "data/combined/all_diseases_matched.json",
                 "--outdir",
                 "data/analysis",
                 "--viz-html",
