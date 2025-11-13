@@ -5,8 +5,8 @@ Checks and fixes structural issues in extracted JSONs before DB ingestion.
 No backup files are produced — JSONs are overwritten in place.
 
 Usage:
-    python -m src.kg.tests.validate_extracted_json data/json/leukemia.json
-    python -m src.kg.tests.validate_extracted_json data/json/
+    python validate_json.py data/json/leukemia.json
+    python validate_json.py data/json/
 """
 
 from __future__ import annotations
@@ -14,45 +14,51 @@ from pathlib import Path
 from typing import List
 import sys, json, datetime, pydantic
 
+# ---------------------------------------------------------------------
+# Load Schema from schema/schema_keys.json
+# ---------------------------------------------------------------------
+SCHEMA_PATH = Path("schema/schema_keys.json")
+
+def load_schema() -> dict:
+    """Load and return the JSON schema for validation."""
+    if not SCHEMA_PATH.exists():
+        sys.exit(f"❌ Schema file not found at {SCHEMA_PATH}")
+    try:
+        schema_json = json.loads(SCHEMA_PATH.read_text(encoding="utf-8"))
+        if not isinstance(schema_json, dict):
+            sys.exit("❌ Schema file must contain a JSON object at the root level.")
+        return schema_json
+    except json.JSONDecodeError as e:
+        sys.exit(f"❌ Failed to parse schema JSON: {e}")
+
+SCHEMA_DEFAULTS = load_schema()
 
 # ---------------------------------------------------------------------
-# Schema Definition
+# Dynamic Pydantic Model Creation
 # ---------------------------------------------------------------------
-class ExtractDoc(pydantic.BaseModel):
-    disease_name: str
-    synonyms: List[str] = []
-    summary: str = ""
-    causes: List[str] = []
-    risk_factors: List[str] = []
-    symptoms: List[str] = []
-    diagnosis: List[str] = []
-    treatments: List[str] = []
-    related_genes: List[str] = []
-    subtypes: List[str] = []
+def create_model_from_schema(schema: dict):
+    """Dynamically create a Pydantic model from the schema dictionary."""
+    fields = {}
+    for key, val in schema.items():
+        if isinstance(val, list):
+            fields[key] = (List[str], [])
+        elif isinstance(val, str):
+            fields[key] = (str, "")
+        else:
+            fields[key] = (str, "")
+    return pydantic.create_model("ExtractDoc", **fields)
 
+ExtractDoc = create_model_from_schema(SCHEMA_DEFAULTS)
 
 # ---------------------------------------------------------------------
 # Validation + Auto-repair
 # ---------------------------------------------------------------------
 def repair_missing_keys(data: dict) -> dict:
-    """Ensure all keys exist with proper types."""
-    defaults = {
-        "disease_name": "Unknown Disease",
-        "synonyms": [],
-        "summary": "",
-        "causes": [],
-        "risk_factors": [],
-        "symptoms": [],
-        "diagnosis": [],
-        "treatments": [],
-        "related_genes": [],
-        "subtypes": [],
-    }
-
-    for key, default in defaults.items():
+    """Ensure all keys exist with proper types, using schema defaults."""
+    for key, default in SCHEMA_DEFAULTS.items():
         if key not in data or data[key] is None:
             data[key] = default
-        # Convert non-lists to single-element lists when needed
+        # Convert to list if default is a list
         if isinstance(default, list) and not isinstance(data[key], list):
             data[key] = [data[key]] if data[key] else []
     return data
@@ -60,12 +66,9 @@ def repair_missing_keys(data: dict) -> dict:
 
 def dump_json_compatible(model: pydantic.BaseModel) -> str:
     """Serialize BaseModel safely for both Pydantic v1 and v2."""
-    # Pydantic v2.x
     if hasattr(model, "model_dump_json"):
         return model.model_dump_json(indent=2)
-    # Pydantic v1.x
     return model.json(indent=2, ensure_ascii=False)
-
 
 
 def validate_file(path: Path):
@@ -90,7 +93,8 @@ def validate_file(path: Path):
             print(f"❌ {path.name}: Could not repair: {e2}")
             return False
 
-    if not doc.disease_name.strip():
+    # Ensure disease_name is not empty
+    if "disease_name" in data and not str(data["disease_name"]).strip():
         doc.disease_name = "Unknown Disease"
 
     path.write_text(dump_json_compatible(doc), encoding="utf-8")
