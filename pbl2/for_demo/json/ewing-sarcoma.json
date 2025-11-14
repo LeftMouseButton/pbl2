@@ -1,0 +1,65 @@
+{
+  "disease_name": "Ewing Sarcoma",
+  "synonyms": [
+    "Ewing's sarcoma"
+  ],
+  "summary": "Ewing sarcoma is a rare pediatric cancer that forms in bone or soft tissue, most commonly in the legs, pelvis, and chest wall. It primarily affects children, teenagers, and young adults, with a peak incidence between 10 and 20 years of age. It is the second most common bone cancer in children and adolescents. The disease is often characterized by a genetic translocation, most frequently between chromosomes 11 and 22, leading to an EWS-FLI1 fusion protein. At diagnosis, about 25% of cases have already spread to other parts of the body. Treatment typically involves a multidisciplinary approach including chemotherapy, radiation therapy, and surgery, with a 5-year survival rate of over 70% for localized disease.",
+  "causes": [
+    "Reciprocal translocation between chromosomes 11 and 22, t(11;22)",
+    "Fusion of EWSR1 gene and FLI1 gene",
+    "EWS-FLI1 fusion protein",
+    "Genetic exchange between chromosomes",
+    "Germline mutation",
+    "Translocations at t(21;22) and t(7;22)"
+  ],
+  "risk_factors": [
+    "Male sex",
+    "Age between 10 and 20 years",
+    "Caucasian ethnicity",
+    "Rapid growth spurts during puberty",
+    "Inherited genetic component"
+  ],
+  "symptoms": [
+    "Pain at the site of the tumor",
+    "Swelling at the site of the tumor",
+    "Fever (intermittent)",
+    "Bone fracture (pathologic fracture)",
+    "Extreme bone pain",
+    "Anemia",
+    "Leukocytosis",
+    "Increased sedimentation rate",
+    "Symptoms of inflammatory systemic illness",
+    "Pleural effusion (complication)",
+    "Paraplegia (complication)"
+  ],
+  "diagnosis": [
+    "Biopsy of the tumor",
+    "Histomorphologic findings",
+    "Immunohistochemistry (e.g., CD99 positive, MIC2 positive, CD45 negative)",
+    "Molecular pathology (identifying chromosomal translocations, e.g., t(11;22))",
+    "Conventional radiographs (showing 'moth eaten' pattern, Codman triangle, onion peel appearance)",
+    "Magnetic resonance imaging (MRI)",
+    "Computed axial tomography (CT)",
+    "Bone scintigraphy"
+  ],
+  "treatments": [
+    "Chemotherapy (multidrug, e.g., vincristine, doxorubicin, cyclophosphamide, ifosfamide, etoposide)",
+    "Radiation therapy",
+    "Surgery (limb salvage or amputation)",
+    "Stem cell transplant",
+    "Targeted therapy (being studied)",
+    "Immunotherapy (being studied)",
+    "Antisense oligodeoxynucleotides",
+    "Fenretinide (4-hydroxy(phenyl)retinamide)",
+    "Proton beam radiation (proton therapy)"
+  ],
+  "related_genes": [
+    "EWSR1",
+    "FLI1",
+    "EGR2",
+    "NKX2-2",
+    "CD99",
+    "MIC2"
+  ],
+  "subtypes": []
+}

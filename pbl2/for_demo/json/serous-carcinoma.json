@@ -1,0 +1,44 @@
+{
+  "disease_name": "Serous Carcinoma",
+  "synonyms": [
+    "Serous tumour",
+    "Serous carcinoma"
+  ],
+  "summary": "Serous tumors are neoplasms that typically have papillary to solid formations of tumor cells with crowded nuclei. They commonly arise on the modified Müllerian-derived serous membranes that surround the ovaries in females, accounting for approximately a quarter of all ovarian tumors. Rarely, serous tumors can arise from within the uterus (uterine serous carcinoma), other parts of the peritoneum, or even in locations like the lungs.",
+  "causes": [
+    "Unknown for uterine serous carcinoma, but it is classified as a type II endometrial cancer and does not develop from endometrial hyperplasia or is hormone-sensitive.",
+    "Originating from the fimbriated end of the fallopian tube has emerged as an origin for many high-grade serous carcinomas."
+  ],
+  "risk_factors": [
+    "Family history",
+    "Nulliparity",
+    "Postmenopausal status (for uterine serous carcinoma)"
+  ],
+  "symptoms": [
+    "Post-menopausal bleeding (for uterine serous carcinoma)"
+  ],
+  "diagnosis": [
+    "Endometrial biopsy (for uterine serous carcinoma)",
+    "Pathology dissection protocols such as the SEE-FIM Protocol (for identifying early serous cancers and precancers in the fallopian tube)"
+  ],
+  "treatments": [
+    "Surgery (curative for benign tumors, likely curative for other low grade tumors)",
+    "Treatment for low grade serous tumors",
+    "Treatment for high grade serous tumors"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Ovarian serous tumours",
+    "Uterine serous carcinoma",
+    "Low grade serous tumors",
+    "Benign serous tumors",
+    "Borderline serous tumors",
+    "Low grade malignant tumors",
+    "Serous cystadenomas",
+    "Cystadenofibromas",
+    "Adenofibromas",
+    "Serous psammocarcinoma",
+    "High grade serous tumors",
+    "Serous primary peritoneal carcinomas"
+  ]
+}

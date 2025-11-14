@@ -1,0 +1,63 @@
+{
+  "disease_name": "Astrocytoma",
+  "synonyms": [
+    "Astrocytomata"
+  ],
+  "summary": "Astrocytoma is a type of brain tumor originating from star-shaped glial cells called astrocytes, primarily in the cerebrum, and occasionally in the spinal cord. It is the second most common glioma and typically does not spread outside the central nervous system. Astrocytomas are graded from I to IV based on malignancy, with low-grade types often found in children and young adults, and high-grade types more prevalent in adults.",
+  "causes": [
+    "Homozygous deletion of CDKN2A/B (main feature of high-grade astrocytoma)",
+    "Genome-wide pattern of DNA copy-number alterations (CNAs)"
+  ],
+  "risk_factors": [
+    "Childhood or young adulthood (for low-grade types)",
+    "Adulthood (for high-grade types)",
+    "Young people (for astrocytomas in the base of the brain)"
+  ],
+  "symptoms": [
+    "Morning headache",
+    "Headache that goes away after vomiting",
+    "Frequent nausea",
+    "Frequent vomiting",
+    "Vision problems",
+    "Hearing problems",
+    "Speech problems",
+    "Loss of balance",
+    "Trouble walking",
+    "Unusual sleepiness",
+    "Personality changes",
+    "Seizures",
+    "Increased head size (in infants)"
+  ],
+  "diagnosis": [
+    "Physical exam",
+    "Neurological exam",
+    "Lab tests",
+    "Imaging (CT scan, MRI scan)",
+    "History of symptoms",
+    "Eye exam",
+    "Tests of vision, balance, coordination, and mental status",
+    "Biopsy (tumor tissue removal)",
+    "Histologic analysis",
+    "Molecular findings",
+    "WHO diagnostic grading criteria",
+    "Neuropathologist examination (for atypical cells, new blood vessel growth, mitotic figures)"
+  ],
+  "treatments": [
+    "Surgery (tumor removal/resection)",
+    "Radiation therapy",
+    "Chemotherapy",
+    "Palliative management (for high-grade astrocytomas)",
+    "Proton radiation treatment"
+  ],
+  "related_genes": [
+    "CDKN2A/B"
+  ],
+  "subtypes": [
+    "Pilocytic astrocytoma (WHO Grade I)",
+    "Subependymal giant cell astrocytoma (WHO Grade I)",
+    "Pleomorphic xanthoastrocytoma (WHO Grade I)",
+    "High-grade astrocytoma (Diffuse zones of infiltration)",
+    "Anaplastic astrocytoma (WHO Grade III)",
+    "Glioblastoma (WHO Grade IV GBM)"
+  ]
+}

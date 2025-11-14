@@ -1,0 +1,78 @@
+{
+  "disease_name": "Ependymoma",
+  "synonyms": [],
+  "summary": "Ependymoma is a tumor originating from the ependyma, a tissue of the central nervous system that lines the brain's ventricles and the spinal cord's central canal. It is a common type of childhood brain and spinal cord tumor, accounting for up to 10% of pediatric CNS tumors and 5% of adult intracranial gliomas. While typically intracranial in children and spinal in adults, it can rarely occur in the pelvic cavity. Ependymomas can be benign or malignant, with incidence peaking around age 5 and again at age 35.",
+  "causes": [],
+  "risk_factors": [
+    "Neurofibromatosis type II",
+    "Age (peaks at 5 years and 35 years)",
+    "Male sex (for subependymoma subtype)"
+  ],
+  "symptoms": [
+    "Headache (severe, morning, or relieved after vomiting)",
+    "Nausea",
+    "Vomiting",
+    "Vision problems (e.g., visual loss, inability to distinguish colors, seeing lines)",
+    "Hearing problems",
+    "Speech problems",
+    "Loss of balance",
+    "Trouble walking (gait change, rotation of feet)",
+    "Unusual sleepiness",
+    "Personality changes",
+    "Seizures",
+    "Increased head size (in infants)",
+    "Vertigo",
+    "Hydrocephalus",
+    "Loss of appetite",
+    "Difficulty sleeping",
+    "Uncontrollable twitching",
+    "Temporary memory loss",
+    "Bilateral Babinski sign",
+    "Impaction",
+    "Constipation",
+    "Reduced back flexibility",
+    "Dizziness",
+    "Back pain",
+    "Numbness in limbs",
+    "Weakness in limbs",
+    "Urinary problems",
+    "Bowel problems"
+  ],
+  "diagnosis": [
+    "Physical exam",
+    "Neurological exam",
+    "Lab tests",
+    "Imaging",
+    "Surgery (for diagnosis and removal)"
+  ],
+  "treatments": [
+    "Maximum surgical resection",
+    "Radiation therapy",
+    "Prophylactic craniospinal irradiation",
+    "Chemotherapy (limited use, for special cases)",
+    "Palliative care (for recurrence)"
+  ],
+  "related_genes": [
+    "ZFTA",
+    "YAP1",
+    "MYC"
+  ],
+  "subtypes": [
+    "Myxopapillary ependymoma (MPE)",
+    "Anaplastic ependymoma",
+    "Malignant ependymoma",
+    "Ependymoblastoma",
+    "Subependymoma (SE)",
+    "Extraspinal ependymoma (EEP)",
+    "Extradural ependymoma",
+    "Conventional ependymoma (EPN)",
+    "WHO Grade I Ependymoma",
+    "WHO Grade II Ependymoma",
+    "WHO Grade III Ependymoma",
+    "Supratentorial ependymoma",
+    "Posterior fossa ependymoma (Infratentorial ependymoma)",
+    "Spinal ependymoma",
+    "Posterior Fossa Group A Ependymoma (molecular subtype)",
+    "Posterior Fossa Group B Ependymoma (molecular subtype)"
+  ]
+}

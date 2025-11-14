@@ -1,0 +1,60 @@
+{
+  "disease_name": "Soft tissue sarcoma",
+  "synonyms": [
+    "STS",
+    "Cancer of soft tissues"
+  ],
+  "summary": "Soft tissue sarcoma (STS) is a malignant tumor that develops in soft tissues such as muscles, tendons, fat, and blood vessels. There are many subtypes, often characterized by a slow-growing, painless mass. As tumors grow, they can press on nerves and organs, causing pain or breathing difficulties. Diagnosis is typically made via biopsy, and treatment options include surgery, radiation therapy, chemotherapy, and targeted drug therapy.",
+  "causes": [
+    "Exposure to certain chemicals (e.g., chlorophenols, phenoxy herbicides, vinyl chloride)",
+    "Radiation therapy",
+    "Genetic alteration of the TP53 gene (Li-Fraumeni syndrome)",
+    "Inherited diseases (e.g., neurofibromatosis type I, inherited retinoblastoma)",
+    "Human herpesvirus 8 (in Kaposi sarcoma, though distinct from typical STS)"
+  ],
+  "risk_factors": [
+    "Exposure to certain chemicals",
+    "Prior radiation therapy",
+    "Certain genetic diseases",
+    "Older age (>50 years old)",
+    "Exposure to vinyl chloride",
+    "Exposure to high doses of radiation"
+  ],
+  "symptoms": [
+    "Painless lump or swelling",
+    "Pain or soreness (as tumor presses against nerves and muscles)",
+    "Abdominal pains (if in the abdomen)",
+    "Constipation (if in the abdomen)",
+    "Uneven posture",
+    "Pain in the trapezius muscle",
+    "Cervical inflexibility"
+  ],
+  "diagnosis": [
+    "Biopsy (needle aspiration or surgical)",
+    "Pathological examination of tissue under a microscope",
+    "Histological grading systems (National Cancer Institute system, French Federation of Cancer Centers Sarcoma Group system)"
+  ],
+  "treatments": [
+    "Surgery to remove the tumor",
+    "Radiation therapy",
+    "Chemotherapy",
+    "Targeted drug therapy",
+    "Immunotherapy (e.g., atezolizumab for alveolar soft part sarcoma)"
+  ],
+  "related_genes": [
+    "TP53",
+    "NF1",
+    "RB1"
+  ],
+  "subtypes": [
+    "Angiosarcoma of the liver",
+    "Kaposi sarcoma",
+    "Malignant peripheral nerve-sheath tumors",
+    "Rhabdomyosarcoma",
+    "Synovial sarcoma",
+    "Clear-cell sarcoma",
+    "Desmoplastic small-round-cell tumor",
+    "Alveolar soft part sarcoma",
+    "Pleomorphic undifferentiated sarcoma"
+  ]
+}

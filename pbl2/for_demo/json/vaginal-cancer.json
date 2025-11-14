@@ -1,0 +1,67 @@
+{
+  "disease_name": "Vaginal cancer",
+  "synonyms": [
+    "Cancer of the vagina"
+  ],
+  "summary": "Vaginal cancer is a rare form of cancer that develops in the tissue of the vagina. Primary vaginal cancer originates from the vaginal tissue, most frequently squamous cell carcinoma, but primary vaginal adenocarcinoma, sarcoma, and melanoma have also been reported. Secondary vaginal cancer involves the metastasis of a cancer that originated in a different part of the body and is more common. It often can be cured if found and treated in early stages.",
+  "causes": [
+    "Human papillomavirus (HPV) infection",
+    "Prenatal exposure to diethylstilbestrol (DES)"
+  ],
+  "risk_factors": [
+    "Age 60 or older",
+    "Age over 50",
+    "Human papillomavirus (HPV) type 16 infection",
+    "Human immunodeficiency virus (HIV) type 1 infection",
+    "Previous history of cervical cancer",
+    "Smoking",
+    "Chronic vulvar itching or burning",
+    "Abnormal cells in the vagina, cervix, or uterus"
+  ],
+  "symptoms": [
+    "Vaginal bleeding that is not your period",
+    "Vaginal discharge",
+    "Unusually heavy flow of blood",
+    "Bleeding after menopause",
+    "Bleeding between periods",
+    "Bleeding that is longer than normal",
+    "Vaginal lump",
+    "Pelvic pain",
+    "Pain during sex",
+    "Pain while urinating",
+    "Constipation",
+    "Blood in stool",
+    "Blood in urine",
+    "Frequent or urgent need to urinate",
+    "Feeling constipated",
+    "Enlarged pelvic lymph nodes"
+  ],
+  "diagnosis": [
+    "Pelvic exam",
+    "Pap test",
+    "HPV test",
+    "Colposcopy",
+    "Biopsy",
+    "MRI",
+    "Physical exam and history",
+    "Imaging (ultrasound or MRI) for surveillance (not recommended without symptoms)"
+  ],
+  "treatments": [
+    "Surgery",
+    "Radiation therapy",
+    "Chemotherapy",
+    "External-beam radiation therapy (EBRT)",
+    "Pelvic radiation",
+    "High-dose-rate interstitial brachytherapy (HDR-ISBT)",
+    "Concurrent carboplatin plus paclitaxel"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Squamous cell carcinoma",
+    "Vaginal adenocarcinoma",
+    "Clear cell adenocarcinoma",
+    "Vaginal germ cell tumors (teratoma, endodermal sinus tumor)",
+    "Sarcoma botryoides (rhabdomyosarcoma)",
+    "Vaginal melanoma"
+  ]
+}

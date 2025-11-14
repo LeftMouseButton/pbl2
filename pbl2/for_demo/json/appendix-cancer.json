@@ -1,0 +1,41 @@
+{
+  "disease_name": "Appendix cancer",
+  "synonyms": [
+    "Appendiceal cancer"
+  ],
+  "summary": "Appendix cancer is a very rare malignant tumor that forms in the vermiform appendix. It encompasses various tumor types, including carcinoids and adenocarcinomas, and can lead to conditions like Pseudomyxoma peritonei.",
+  "causes": [
+    "Metastasis from breast cancer",
+    "Metastasis from colon cancer",
+    "Metastasis from tumors of the female genital tract"
+  ],
+  "risk_factors": [
+    "Older age (4th to 5th decades for carcinoids)",
+    "Female sex (minor prevalence for neuroendocrine tumors)",
+    "Caucasian ethnicity (minor prevalence for neuroendocrine tumors)"
+  ],
+  "symptoms": [
+    "Pseudomyxoma peritonei"
+  ],
+  "diagnosis": [
+    "Computed tomography (CT) imaging",
+    "Pathological examination of biopsy or resected tissue"
+  ],
+  "treatments": [
+    "Appendectomy",
+    "Right hemicolectomy",
+    "Cytoreductive surgery",
+    "Hyperthermic intraperitoneal chemotherapy (HIPEC)",
+    "Intravenous chemotherapy"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Gastrointestinal stromal tumors (GISTs)",
+    "Primary lymphomas of the appendix",
+    "Carcinoid tumors (Neuroendocrine tumors)",
+    "Mucinous adenocarcinomas",
+    "Adenocarcinoma not otherwise specified (NOS)",
+    "Signet ring cell adenocarcinoma",
+    "Appendiceal mucinous neoplasm"
+  ]
+}

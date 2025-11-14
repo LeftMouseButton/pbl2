@@ -1,0 +1,1422 @@
+node,label,type,community
+acoustic neuroma,acoustic neuroma,disease,17
+radiation therapy,radiation therapy,treatment,2
+nf2,nf2,gene,17
+scan,scan,diagnosis,17
+tonsillitis,tonsillitis,disease,0
+crest,crest,treatment,0
+fluid,fluid,treatment,0
+humidifier,humidifier,treatment,0
+tonsillectomy,tonsillectomy,treatment,0
+viral infection,viral infection,cause,0
+bacterial infection,bacterial infection,cause,0
+obsolete streptococcal pharyngitis,obsolete streptococcal pharyngitis,cause,0
+adenoid cystic carcinoma,adenoid cystic carcinoma,disease,1
+adjuvant radiotherapy,adjuvant radiotherapy,treatment,1
+palliative radiation therapy,palliative radiation therapy,treatment,1
+myb,myb,gene,1
+nfib,nfib,gene,1
+mybl1,mybl1,gene,1
+adrenal gland cancer,adrenal gland cancer,disease,2
+surgery,surgery,treatment,2
+chemotherapy,chemotherapy,treatment,2
+adrenocortical carcinoma,adrenocortical carcinoma,subtype,1
+neuroblastoma,neuroblastoma,subtype,2
+pheochromocytoma,pheochromocytoma,subtype,3
+genetic counseling,genetic counseling,treatment,1
+tp53,tp53,gene,5
+ctnnb1,ctnnb1,gene,4
+men1,men1,gene,1
+prkar1a,prkar1a,gene,1
+rpl22,rpl22,gene,1
+daxx,daxx,gene,1
+tert,tert,gene,2
+znrf3,znrf3,gene,1
+cdkn2a,cdkn2a,gene,1
+h19,h19,gene,8
+magnetic resonance imaging of bone,magnetic resonance imaging of bone,diagnosis,1
+positron emission tomography,positron emission tomography,diagnosis,1
+ctnnb1 gene mutation,ctnnb1 gene mutation,cause,4
+men1 gene mutation,men1 gene mutation,cause,1
+prkar1a gene mutation,prkar1a gene mutation,cause,1
+daxx gene mutation,daxx gene mutation,cause,1
+ret gene amplification,ret gene amplification,cause,1
+homozygous cdkn2a gene deletion,homozygous cdkn2a gene deletion,cause,1
+family history of marfan syndrome,family history of marfan syndrome,risk_factor,1
+tp53 gene mutation,tp53 gene mutation,risk_factor,5
+adrenal cortical oncocytic carcinoma,adrenal cortical oncocytic carcinoma,subtype,1
+adrenal cortical myxoid carcinoma,adrenal cortical myxoid carcinoma,subtype,1
+carcinosarcoma,carcinosarcoma,subtype,9
+primary pigmented nodular adrenocortical disease 1,primary pigmented nodular adrenocortical disease 1,subtype,1
+anal cancer,anal cancer,disease,4
+cisplatin,cisplatin,treatment,15
+carboplatin,carboplatin,treatment,4
+doxorubicin,doxorubicin,treatment,9
+capecitabine,capecitabine,treatment,4
+physical examination,physical examination,diagnosis,22
+digital rectal examination,digital rectal examination,diagnosis,4
+proctoscopy,proctoscopy,diagnosis,4
+cigarette smoking,cigarette smoking,risk_factor,4
+adenocarcinoma,adenocarcinoma,subtype,4
+small cell carcinoma,small cell carcinoma,subtype,4
+melanoma,melanoma,subtype,18
+cloacogenic carcinoma,cloacogenic carcinoma,subtype,4
+anaplastic thyroid cancer,anaplastic thyroid cancer,disease,2
+targeted therapy,targeted therapy,treatment,13
+pax8,pax8,gene,2
+braf,braf,gene,2
+biopsy,biopsy,diagnosis,2
+fine-needle aspiration,fine-needle aspiration,diagnosis,13
+angiosarcoma,angiosarcoma,disease,14
+von willebrand factor human,von willebrand factor human,diagnosis,14
+vascular endothelial growth factor receptor,vascular endothelial growth factor receptor,diagnosis,14
+arsenic exposure,arsenic exposure,risk_factor,14
+thorotrast exposure,thorotrast exposure,risk_factor,14
+breast implant,breast implant,risk_factor,14
+ultraviolet radiation,ultraviolet radiation,risk_factor,14
+neurofibromatosis,neurofibromatosis,risk_factor,14
+maffucci syndrome,maffucci syndrome,risk_factor,14
+klippel-trenaunay syndrome,klippel-trenaunay syndrome,risk_factor,14
+primary breast angiosarcoma,primary breast angiosarcoma,subtype,14
+soft tissue angiosarcoma,soft tissue angiosarcoma,subtype,14
+appendix cancer,appendix cancer,disease,9
+appendectomy,appendectomy,treatment,9
+right colectomy,right colectomy,treatment,9
+cytoreductive surgery,cytoreductive surgery,treatment,9
+hyperthermic intraperitoneal chemotherapy,hyperthermic intraperitoneal chemotherapy,treatment,9
+gastric gastrointestinal stromal tumor,gastric gastrointestinal stromal tumor,subtype,9
+mucinous adenocarcinoma,mucinous adenocarcinoma,subtype,9
+signet ring cell adenocarcinoma,signet ring cell adenocarcinoma,subtype,9
+appendix mucinous neoplasm,appendix mucinous neoplasm,subtype,9
+astroblastoma,astroblastoma,disease,15
+craniotomy,craniotomy,treatment,15
+etoposide,etoposide,treatment,15
+vincristine,vincristine,treatment,15
+ifosfamide,ifosfamide,treatment,9
+temozolomide,temozolomide,treatment,15
+stem cell therapy,stem cell therapy,treatment,15
+gfap,gfap,gene,15
+cd33,cd33,gene,15
+histology,histology,diagnosis,15
+comparative genomic hybridization,comparative genomic hybridization,diagnosis,15
+anaplastic astrocytoma,anaplastic astrocytoma,subtype,15
+astrocytoma,astrocytoma,disease,2
+atypical teratoid rhabdoid tumor,atypical teratoid rhabdoid tumor,disease,20
+intrathecal chemotherapy,intrathecal chemotherapy,treatment,20
+smarcb1,smarcb1,gene,20
+opn3,opn3,gene,20
+bone marrow aspiration,bone marrow aspiration,diagnosis,20
+bone marrow biopsy,bone marrow biopsy,diagnosis,20
+bone scan,bone scan,diagnosis,3
+germline samd9 gene mutation,germline samd9 gene mutation,cause,20
+chromosomal deletion,chromosomal deletion,cause,20
+smarcb1 gene mutation,smarcb1 gene mutation,cause,20
+posterior cranial fossa,posterior cranial fossa,subtype,20
+basal-cell carcinoma,basal-cell carcinoma,disease,8
+mohs surgery,mohs surgery,treatment,8
+electrodessication and curettage,electrodessication and curettage,treatment,8
+cryosurgery,cryosurgery,treatment,8
+photodynamic therapy,photodynamic therapy,treatment,8
+laser surgery,laser surgery,treatment,8
+external beam radiation therapy,external beam radiation therapy,treatment,8
+brachytherapy,brachytherapy,treatment,8
+systemic chemotherapy,systemic chemotherapy,treatment,8
+vismodegib,vismodegib,treatment,8
+sonidegib,sonidegib,treatment,8
+itraconazole,itraconazole,treatment,8
+biological therapy,biological therapy,treatment,8
+ptch1,ptch1,gene,8
+smo,smo,gene,5
+skin examination,skin examination,diagnosis,8
+shave biopsy,shave biopsy,diagnosis,8
+gene mutation,gene mutation,cause,20
+ptch1 gene mutation,ptch1 gene mutation,cause,8
+smo gene mutation,smo gene mutation,cause,8
+fair skin,fair skin,risk_factor,8
+family history of ovarian cancer,family history of ovarian cancer,risk_factor,9
+prior radiation therapy,prior radiation therapy,risk_factor,8
+cholangiocarcinoma,cholangiocarcinoma,disease,14
+liver transplantation,liver transplantation,treatment,14
+adjuvant therapy,adjuvant therapy,treatment,14
+fgfr2,fgfr2,gene,14
+idh1,idh1,gene,5
+percutaneous transhepatic cholangiography,percutaneous transhepatic cholangiography,diagnosis,14
+histopathologic examination,histopathologic examination,diagnosis,5
+immunocytochemistry,immunocytochemistry,diagnosis,17
+primary sclerosing cholangitis,primary sclerosing cholangitis,risk_factor,10
+ulcerative colitis,ulcerative colitis,risk_factor,14
+cirrhosis,cirrhosis,risk_factor,14
+hepatitis c,hepatitis c,risk_factor,14
+hepatitis b,hepatitis b,risk_factor,14
+hiv infection,hiv infection,risk_factor,10
+lynch syndrome 1,lynch syndrome 1,risk_factor,14
+biliary papillomatosis,biliary papillomatosis,risk_factor,14
+intrahepatic cholangiocarcinoma,intrahepatic cholangiocarcinoma,subtype,14
+hilar cholangiocarcinoma,hilar cholangiocarcinoma,subtype,14
+whipple procedure,whipple procedure,treatment,14
+partial hepatectomy,partial hepatectomy,treatment,14
+gemcitabine,gemcitabine,treatment,9
+irinotecan,irinotecan,treatment,14
+erlotinib,erlotinib,treatment,14
+transarterial chemoembolization,transarterial chemoembolization,treatment,14
+transarterial radioembolization,transarterial radioembolization,treatment,14
+ablation therapy,ablation therapy,treatment,14
+magnetic resonance cholangiopancreatography,magnetic resonance cholangiopancreatography,diagnosis,14
+liver function test,liver function test,diagnosis,2
+endoscopic ultrasound biopsy,endoscopic ultrasound biopsy,diagnosis,14
+cholestasis,cholestasis,cause,14
+hepatitis c infection,hepatitis c infection,risk_factor,15
+hepatitis b infection,hepatitis b infection,risk_factor,14
+alcoholic liver disease,alcoholic liver disease,risk_factor,14
+klatskin's tumor,klatskin's tumor,subtype,14
+bladder cancer,bladder cancer,disease,16
+transurethral resection of bladder tumor,transurethral resection of bladder tumor,treatment,16
+radical cystectomy,radical cystectomy,treatment,16
+partial cystectomy,partial cystectomy,treatment,16
+clinical trial,clinical trial,treatment,16
+rb1,rb1,gene,8
+pten,pten,gene,16
+mlh1,mlh1,gene,16
+msh2,msh2,gene,16
+msh6,msh6,gene,16
+pms2,pms2,gene,16
+nat2,nat2,gene,16
+gstm1,gstm1,gene,16
+ugt1a6,ugt1a6,gene,16
+tp63,tp63,gene,16
+ccne1,ccne1,gene,16
+myc,myc,gene,16
+fgfr3,fgfr3,gene,8
+nbn,nbn,gene,16
+xrcc1,xrcc1,gene,16
+xrcc3,xrcc3,gene,16
+ercc2,ercc2,gene,16
+ercc4,ercc4,gene,16
+ercc5,ercc5,gene,16
+pik3ca,pik3ca,gene,16
+erbb2,erbb2,gene,16
+erbb3,erbb3,gene,16
+tsc1,tsc1,gene,16
+cdh1,cdh1,gene,10
+cystoscopy,cystoscopy,diagnosis,2
+urine cytology,urine cytology,diagnosis,16
+tnm staging system,tnm staging system,diagnosis,16
+smoking tobacco,smoking tobacco,cause,13
+smoking,smoking,risk_factor,2
+family history of breast cancer,family history of breast cancer,risk_factor,16
+schistosomiasis,schistosomiasis,risk_factor,16
+urothelial carcinoma,urothelial carcinoma,subtype,16
+transitional cell carcinoma,transitional cell carcinoma,subtype,9
+squamous cell carcinoma,squamous cell carcinoma,subtype,13
+sarcoma,sarcoma,subtype,2
+in situ carcinoma,in situ carcinoma,subtype,2
+bone cancer,bone cancer,disease,2
+x-ray,x-ray,diagnosis,3
+gel electrophoresis,gel electrophoresis,diagnosis,2
+osteosarcoma,osteosarcoma,subtype,16
+chondrosarcoma,chondrosarcoma,subtype,2
+ewing sarcoma,ewing sarcoma,subtype,21
+fibrosarcoma,fibrosarcoma,subtype,2
+multiple myeloma,multiple myeloma,subtype,7
+chronic lymphocytic leukemia,chronic lymphocytic leukemia,disease,20
+immunotherapy,immunotherapy,treatment,20
+bone marrow transplantation,bone marrow transplantation,treatment,20
+stem cell transplant source,stem cell transplant source,treatment,20
+lymph node biopsy,lymph node biopsy,diagnosis,20
+brain tumor,brain tumor,disease,5
+monitoring,monitoring,treatment,5
+idh2,idh2,gene,5
+atrx,atrx,gene,5
+egfr,egfr,gene,16
+medical examination,medical examination,diagnosis,5
+clinical investigation,clinical investigation,diagnosis,5
+diffusion weighted imaging,diffusion weighted imaging,diagnosis,5
+epstein-barr virus,epstein-barr virus,risk_factor,10
+ionizing radiation,ionizing radiation,risk_factor,16
+cancer,cancer,subtype,5
+glioma,glioma,subtype,5
+meningioma,meningioma,subtype,5
+pituitary adenoma,pituitary adenoma,subtype,9
+peripheral nerve sheath neoplasm,peripheral nerve sheath neoplasm,subtype,5
+glioblastoma,glioblastoma,subtype,5
+medulloblastoma,medulloblastoma,subtype,15
+oligodendroglioma,oligodendroglioma,subtype,5
+anaplastic oligodendroglioma,anaplastic oligodendroglioma,subtype,5
+central neurocytoma,central neurocytoma,subtype,5
+choroid plexus carcinoma,choroid plexus carcinoma,subtype,5
+choroid plexus papilloma,choroid plexus papilloma,subtype,5
+choroid plexus cancer,choroid plexus cancer,subtype,5
+dysembryoplastic neuroepithelial tumor,dysembryoplastic neuroepithelial tumor,subtype,5
+ependymal tumor,ependymal tumor,subtype,5
+fibrillary astrocytoma,fibrillary astrocytoma,subtype,5
+gliomatosis cerebri,gliomatosis cerebri,subtype,5
+gliosarcoma,gliosarcoma,subtype,5
+hemangiopericytoma,hemangiopericytoma,subtype,5
+medulloepithelioma,medulloepithelioma,subtype,5
+meningeal carcinomatosis,meningeal carcinomatosis,subtype,5
+pulmonary sclerosing hemangioma,pulmonary sclerosing hemangioma,subtype,5
+oligoastrocytoma,oligoastrocytoma,subtype,5
+optic nerve sheath meningioma,optic nerve sheath meningioma,subtype,5
+pilocytic astrocytoma,pilocytic astrocytoma,subtype,5
+pineoblastoma,pineoblastoma,subtype,5
+pineocytoma,pineocytoma,subtype,5
+pleomorphic xanthoastrocytoma,pleomorphic xanthoastrocytoma,subtype,5
+refractory central nervous system lymphoma,refractory central nervous system lymphoma,subtype,5
+subependymal giant cell astrocytoma,subependymal giant cell astrocytoma,subtype,5
+subependymoma,subependymoma,subtype,5
+trilateral retinoblastoma,trilateral retinoblastoma,subtype,8
+breast cancer,breast cancer,disease,16
+brca1,brca1,gene,9
+brca2,brca2,gene,9
+herc2,herc2,gene,16
+palb2,palb2,gene,16
+plb1,plb1,gene,16
+gata3,gata3,gene,3
+sentinel lymph node biopsy,sentinel lymph node biopsy,diagnosis,8
+g-protein coupled estrogen receptor 1,g-protein coupled estrogen receptor 1,cause,16
+obesity,obesity,risk_factor,16
+diabetes mellitus,diabetes mellitus,risk_factor,16
+klinefelter syndrome,klinefelter syndrome,risk_factor,22
+breast ductal carcinoma,breast ductal carcinoma,subtype,16
+invasive lobular carcinoma,invasive lobular carcinoma,subtype,16
+mammary paget's disease,mammary paget's disease,subtype,16
+ductal carcinoma in situ,ductal carcinoma in situ,subtype,16
+lobular neoplasia,lobular neoplasia,subtype,16
+tubular adenocarcinoma,tubular adenocarcinoma,subtype,16
+obsolete medullary carcinoma,obsolete medullary carcinoma,subtype,16
+papillary carcinoma,papillary carcinoma,subtype,16
+triple-negative breast cancer finding,triple-negative breast cancer finding,subtype,16
+carcinoid syndrome,carcinoid syndrome,disease,6
+carcinoid tumor,carcinoid tumor,disease,2
+history and physical exam,history and physical exam,diagnosis,2
+achlorhydria,achlorhydria,risk_factor,2
+autoimmune thyroiditis,autoimmune thyroiditis,risk_factor,2
+pernicious anemia,pernicious anemia,risk_factor,2
+gastrointestinal carcinoma,gastrointestinal carcinoma,subtype,2
+lung carcinoma,lung carcinoma,subtype,2
+neuroendocrine cell,neuroendocrine cell,subtype,2
+kras,kras,gene,9
+adenosarcoma,adenosarcoma,subtype,9
+uterine angiosarcoma,uterine angiosarcoma,subtype,9
+castleman disease,castleman disease,disease,10
+unicentric castleman disease,unicentric castleman disease,subtype,10
+multicentric castleman disease,multicentric castleman disease,subtype,10
+cervical cancer,cervical cancer,disease,4
+adenosquamous carcinoma,adenosquamous carcinoma,subtype,4
+neuroendocrine tumor,neuroendocrine tumor,subtype,4
+glassy cell carcinoma,glassy cell carcinoma,subtype,4
+cervical villoglandular adenocarcinoma,cervical villoglandular adenocarcinoma,subtype,4
+gastric mucinous adenocarcinoma,gastric mucinous adenocarcinoma,subtype,4
+chordoma,chordoma,disease,16
+amputation,amputation,treatment,16
+carbon ion radiotherapy,carbon ion radiotherapy,treatment,16
+pemetrexed,pemetrexed,treatment,16
+pembrolizumab,pembrolizumab,treatment,13
+afatinib,afatinib,treatment,16
+lapatinib,lapatinib,treatment,16
+imatinib,imatinib,treatment,16
+tsc2,tsc2,gene,16
+akt1,akt1,gene,16
+eif4ebp1,eif4ebp1,gene,16
+pdgfrb,pdgfrb,gene,17
+age between 80 and 85 years,age between 80 and 85 years,risk_factor,21
+conventional chordoma,conventional chordoma,subtype,16
+chondroid chordoma,chondroid chordoma,subtype,16
+dedifferentiated chordoma,dedifferentiated chordoma,subtype,16
+choriocarcinoma,choriocarcinoma,disease,11
+methotrexate,methotrexate,treatment,11
+dactinomycin,dactinomycin,treatment,11
+hysterectomy,hysterectomy,treatment,11
+hydatidiform mole,hydatidiform mole,cause,11
+spontaneous abortion,spontaneous abortion,cause,11
+ectopic pregnancy,ectopic pregnancy,cause,11
+normal pregnancy,normal pregnancy,cause,11
+hyperemesis gravidarum,hyperemesis gravidarum,cause,11
+gestational choriocarcinoma,gestational choriocarcinoma,subtype,11
+testicular choriocarcinoma,testicular choriocarcinoma,subtype,11
+ovarian choriocarcinoma,ovarian choriocarcinoma,subtype,11
+chronic myeloid leukemia,chronic myeloid leukemia,disease,20
+tyrosine kinase inhibitor,tyrosine kinase inhibitor,treatment,15
+imatinib mesylate,imatinib mesylate,treatment,20
+dasatinib,dasatinib,treatment,20
+nilotinib,nilotinib,treatment,20
+radotinib,radotinib,treatment,20
+bosutinib,bosutinib,treatment,20
+asciminib,asciminib,treatment,20
+ponatinib,ponatinib,treatment,20
+high-dose chemotherapy with stem cell support,high-dose chemotherapy with stem cell support,treatment,20
+allogeneic stem cell transplantation,allogeneic stem cell transplantation,treatment,20
+donor lymphocyte infusion,donor lymphocyte infusion,treatment,20
+hydroxyurea,hydroxyurea,treatment,5
+omacetaxine,omacetaxine,treatment,20
+interferon alfa-2c,interferon alfa-2c,treatment,20
+bcr,bcr,gene,20
+abl1,abl1,gene,20
+bcr/abl1 fusion gene,bcr/abl1 fusion gene,cause,20
+chronic phase,chronic phase,subtype,20
+clear cell sarcoma,clear cell sarcoma,disease,3
+ewsr1/atf1 fusion gene,ewsr1/atf1 fusion gene,cause,3
+ewsr1/creb1 fusion gene,ewsr1/creb1 fusion gene,cause,3
+ewsr1/ddit3 fusion gene,ewsr1/ddit3 fusion gene,cause,3
+colorectal cancer,colorectal cancer,disease,4
+apc,apc,gene,4
+axin1,axin1,gene,14
+axin2,axin2,gene,4
+tcf7l2,tcf7l2,gene,4
+nkd1,nkd1,gene,4
+bax,bax,gene,4
+dcc,dcc,gene,4
+smad1,smad1,gene,4
+pi3,pi3,gene,4
+fam13b,fam13b,gene,4
+sox9,sox9,gene,4
+atm,atm,gene,7
+arid1a,arid1a,gene,14
+acvr2a,acvr2a,gene,4
+tgfbr2,tgfbr2,gene,4
+msh3,msh3,gene,4
+slc9a9,slc9a9,gene,4
+pole,pole,gene,4
+pold1,pold1,gene,4
+macc1,macc1,gene,4
+hspa1a,hspa1a,gene,4
+rbm3,rbm3,gene,4
+screening test,screening test,diagnosis,4
+colonoscopy,colonoscopy,diagnosis,4
+apc gene mutation,apc gene mutation,cause,4
+mismatch repair deficiency,mismatch repair deficiency,cause,4
+personal history of colorectal cancer,personal history of colorectal cancer,risk_factor,4
+colon cancer,colon cancer,subtype,4
+rectum cancer,rectum cancer,subtype,4
+lymphoma,lymphoma,subtype,10
+hypermutated colorectal carcinoma,hypermutated colorectal carcinoma,subtype,4
+cutaneous t-cell lymphoma,cutaneous t-cell lymphoma,disease,10
+histone deacetylase inhibitor,histone deacetylase inhibitor,treatment,10
+htlv-1 infection,htlv-1 infection,risk_factor,10
+epstein-barr virus infectious disease,epstein-barr virus infectious disease,risk_factor,13
+obsolete cytomegalovirus infectious disease,obsolete cytomegalovirus infectious disease,risk_factor,10
+hhv6 infection,hhv6 infection,risk_factor,10
+staphylococcus aureus infection,staphylococcus aureus infection,risk_factor,10
+mycosis fungoides,mycosis fungoides,subtype,10
+adult t-cell leukemia/lymphoma,adult t-cell leukemia/lymphoma,subtype,10
+dermatofibrosarcoma protuberans (dfsp),dermatofibrosarcoma protuberans (dfsp),disease,2
+wide local excision,wide local excision,treatment,2
+col1a1,col1a1,gene,2
+pdgfd,pdgfd,gene,2
+cd34,cd34,gene,2
+ovarian granulosa cell,ovarian granulosa cell,subtype,2
+desmoid tumor,desmoid tumor,disease,4
+nirogacestat,nirogacestat,treatment,4
+nonsteroidal antiinflammatory drug,nonsteroidal antiinflammatory drug,treatment,4
+familial adenomatous polyposis 1,familial adenomatous polyposis 1,cause,14
+gardner syndrome,gardner syndrome,cause,4
+pregnancy,pregnancy,cause,4
+periosteal desmoid tumor,periosteal desmoid tumor,subtype,4
+embryonal carcinoma,embryonal carcinoma,disease,22
+thymus cancer,thymus cancer,disease,2
+hormone therapy,hormone therapy,treatment,9
+myasthenia gravis,myasthenia gravis,risk_factor,2
+lupus erythematosus,lupus erythematosus,risk_factor,2
+rheumatoid arthritis,rheumatoid arthritis,risk_factor,2
+endometrial cancer,endometrial cancer,disease,9
+progestin,progestin,treatment,9
+hydroxyprogesterone caproate,hydroxyprogesterone caproate,treatment,9
+letrozole,letrozole,treatment,9
+megestrol acetate,megestrol acetate,treatment,9
+medroxyprogesterone,medroxyprogesterone,treatment,9
+paclitaxel,paclitaxel,treatment,9
+docetaxel,docetaxel,treatment,9
+spop,spop,gene,16
+endometrial biopsy,endometrial biopsy,diagnosis,9
+dilation and curettage,dilation and curettage,diagnosis,9
+transvaginal ultrasound,transvaginal ultrasound,diagnosis,9
+chromosomal instability,chromosomal instability,cause,9
+kras gene mutation,kras gene mutation,cause,1
+microsatellite instability,microsatellite instability,cause,9
+endometrial hyperplasia,endometrial hyperplasia,cause,9
+metabolic syndrome,metabolic syndrome,risk_factor,9
+type 2 diabetes mellitus,type 2 diabetes mellitus,risk_factor,9
+insulin resistance,insulin resistance,risk_factor,9
+polycystic ovary syndrome,polycystic ovary syndrome,risk_factor,9
+lynch syndrome,lynch syndrome,risk_factor,9
+ovarian granulosa cell tumor,ovarian granulosa cell tumor,risk_factor,9
+thecoma,thecoma,risk_factor,9
+cowden syndrome,cowden syndrome,risk_factor,9
+endometrial carcinoma,endometrial carcinoma,subtype,9
+villoglandular endometrial endometrioid adenocarcinoma,villoglandular endometrial endometrioid adenocarcinoma,subtype,9
+recurrent endometrioid adenocarcinoma,recurrent endometrioid adenocarcinoma,subtype,9
+ovarian endometrioid adenocarcinoma with squamous differentiation,ovarian endometrioid adenocarcinoma with squamous differentiation,subtype,9
+endometrial mucinous adenocarcinoma,endometrial mucinous adenocarcinoma,subtype,9
+serous cystadenocarcinoma,serous cystadenocarcinoma,subtype,9
+large cell carcinoma,large cell carcinoma,subtype,11
+mixed carcinoma,mixed carcinoma,subtype,9
+undifferentiated carcinoma,undifferentiated carcinoma,subtype,1
+metastatic squamous cell carcinoma,metastatic squamous cell carcinoma,subtype,9
+endometrial stromal sarcoma,endometrial stromal sarcoma,subtype,9
+rat endometrial stromal sarcoma,rat endometrial stromal sarcoma,subtype,9
+type i endometrial adenocarcinoma,type i endometrial adenocarcinoma,subtype,9
+type ii endometrial adenocarcinoma,type ii endometrial adenocarcinoma,subtype,9
+primitive neuroectodermal tumor,primitive neuroectodermal tumor,disease,20
+adjuvant chemotherapy,adjuvant chemotherapy,treatment,1
+ependymoma,ependymoma,disease,16
+prophylactic cranial irradiation,prophylactic cranial irradiation,treatment,16
+zfta,zfta,gene,16
+yap1,yap1,gene,16
+vestibular schwannomatosis,vestibular schwannomatosis,risk_factor,16
+myxopapillary ependymoma,myxopapillary ependymoma,subtype,16
+anaplastic ependymoma,anaplastic ependymoma,subtype,16
+high grade ependymoma,high grade ependymoma,subtype,16
+"embryonal tumor with multilayered rosettes, c19mc-altered","embryonal tumor with multilayered rosettes, c19mc-altered",subtype,16
+mouse subependymoma,mouse subependymoma,subtype,16
+supratentorial ependymoma,supratentorial ependymoma,subtype,16
+spinal cord ependymoma,spinal cord ependymoma,subtype,16
+epithelioid hemangioendothelioma,epithelioid hemangioendothelioma,disease,15
+sorafenib,sorafenib,treatment,16
+sunitinib,sunitinib,treatment,15
+pazopanib,pazopanib,treatment,15
+interferon,interferon,treatment,15
+combination chemotherapy,combination chemotherapy,treatment,15
+thalidomide,thalidomide,treatment,15
+wwtr1,wwtr1,gene,15
+camta1,camta1,gene,15
+fos transcription factor family,fos transcription factor family,gene,15
+cytogenetic analysis,cytogenetic analysis,diagnosis,15
+esophageal cancer,esophageal cancer,disease,2
+endoscopic mucosal resection,endoscopic mucosal resection,treatment,2
+gastrostomy,gastrostomy,treatment,2
+laser therapy,laser therapy,treatment,2
+rhbdf2,rhbdf2,gene,2
+hoxa13,hoxa13,gene,2
+rai staging system,rai staging system,diagnosis,2
+alcohol consumption,alcohol consumption,cause,13
+nutritional deficiency,nutritional deficiency,cause,2
+barrett's esophagus,barrett's esophagus,cause,2
+achalasia,achalasia,cause,2
+plummer-vinson syndrome,plummer-vinson syndrome,cause,2
+dietary nitrosamine,dietary nitrosamine,risk_factor,2
+gastroesophageal reflux disease,gastroesophageal reflux disease,risk_factor,2
+bile reflux,bile reflux,risk_factor,2
+human papillomavirus infection,human papillomavirus infection,risk_factor,2
+head and neck cancer,head and neck cancer,risk_factor,13
+palmoplantar keratoderma-esophageal carcinoma syndrome,palmoplantar keratoderma-esophageal carcinoma syndrome,risk_factor,2
+esophageal adenocarcinoma,esophageal adenocarcinoma,subtype,2
+leiomyosarcoma,leiomyosarcoma,subtype,2
+rhabdomyosarcoma,rhabdomyosarcoma,subtype,8
+nutritional support,nutritional support,treatment,2
+antisense oligonucleotides,antisense oligonucleotides,treatment,21
+proton beam radiation therapy,proton beam radiation therapy,treatment,21
+ewsr1,ewsr1,gene,21
+fli1,fli1,gene,21
+egr2,egr2,gene,21
+nkx2-2,nkx2-2,gene,21
+cd99,cd99,gene,21
+micu2,micu2,gene,21
+morphologic finding,morphologic finding,diagnosis,21
+magnetic resonance imaging,magnetic resonance imaging,diagnosis,21
+ewsr1/fli1 fusion protein,ewsr1/fli1 fusion protein,cause,21
+eye cancer,eye cancer,disease,2
+general surgery,general surgery,treatment,2
+retinoblastoma,retinoblastoma,subtype,8
+malignant conjunctival melanoma,malignant conjunctival melanoma,subtype,2
+orbit lymphoma,orbit lymphoma,subtype,2
+fallopian tube cancer,fallopian tube cancer,disease,9
+brca1 gene mutation,brca1 gene mutation,cause,9
+brca2 gene mutation,brca2 gene mutation,cause,9
+endometriosis,endometriosis,risk_factor,9
+hormone replacement therapy,hormone replacement therapy,risk_factor,9
+tall stature,tall stature,risk_factor,9
+adult fibrosarcoma,adult fibrosarcoma,subtype,2
+infantile fibrosarcoma,infantile fibrosarcoma,subtype,2
+gallbladder cancer,gallbladder cancer,disease,10
+percutaneous transhepatic biliary drainage,percutaneous transhepatic biliary drainage,treatment,10
+transabdominal ultrasound,transabdominal ultrasound,diagnosis,10
+endoscopic ultrasound,endoscopic ultrasound,diagnosis,10
+gallbladder pain,gallbladder pain,cause,10
+chronic cholecystitis,chronic cholecystitis,cause,10
+female gender,female gender,risk_factor,10
+gallbladder polyp,gallbladder polyp,risk_factor,10
+gastric cancer,gastric cancer,disease,10
+gene therapy,gene therapy,treatment,10
+itgav,itgav,gene,10
+dusp1,dusp1,gene,10
+p2rx7,p2rx7,gene,10
+breath test,breath test,diagnosis,10
+optical coherence tomography,optical coherence tomography,diagnosis,10
+fecal occult blood test,fecal occult blood test,diagnosis,10
+helicobacter pylori infection,helicobacter pylori infection,cause,10
+hereditary diffuse gastric cancer,hereditary diffuse gastric cancer,cause,10
+iodine deficiency,iodine deficiency,risk_factor,10
+acquired immunodeficiency syndrome,acquired immunodeficiency syndrome,risk_factor,10
+gastric adenocarcinoma,gastric adenocarcinoma,subtype,10
+mesenchymal cell neoplasm,mesenchymal cell neoplasm,subtype,10
+intestinal-type adenocarcinoma,intestinal-type adenocarcinoma,subtype,10
+diffuse type adenocarcinoma,diffuse type adenocarcinoma,subtype,10
+signet ring cell carcinoma,signet ring cell carcinoma,subtype,10
+diffuse large b-cell lymphoma,diffuse large b-cell lymphoma,subtype,10
+obsolete stromal neoplasm,obsolete stromal neoplasm,subtype,10
+stomach cancer,stomach cancer,disease,10
+panendoscopy,panendoscopy,diagnosis,13
+family history of stomach cancer,family history of stomach cancer,risk_factor,10
+red meat consumption,red meat consumption,risk_factor,10
+gastric carcinoma,gastric carcinoma,subtype,10
+gestational trophoblastic disease,gestational trophoblastic disease,disease,11
+ultrasound,ultrasound,diagnosis,11
+histologic confirmation date,histologic confirmation date,diagnosis,11
+complete hydatidiform mole,complete hydatidiform mole,subtype,11
+partial hydatidiform mole,partial hydatidiform mole,subtype,11
+placental site trophoblastic tumor,placental site trophoblastic tumor,subtype,11
+epithelioid trophoblastic tumor,epithelioid trophoblastic tumor,subtype,11
+gestational trophoblastic neoplasm,gestational trophoblastic neoplasm,subtype,11
+supportive care,supportive care,treatment,20
+cognitive behavior therapy,cognitive behavior therapy,treatment,5
+yoga,yoga,treatment,5
+medication,medication,treatment,5
+nf1,nf1,gene,3
+mgmt,mgmt,gene,5
+pdgfra,pdgfra,gene,5
+stat3,stat3,gene,5
+cyp1b1-as1,cyp1b1-as1,gene,5
+egfr gene amplification,egfr gene amplification,cause,5
+mgmt gene promoter methylation,mgmt gene promoter methylation,cause,5
+pesticide exposure,pesticide exposure,risk_factor,5
+mesenchymal,mesenchymal,subtype,5
+idh-wildtype glioblastoma,idh-wildtype glioblastoma,subtype,5
+glomus tumor,glomus tumor,disease,12
+solid glomus tumor,solid glomus tumor,subtype,12
+glomangioma,glomangioma,subtype,12
+glomangiomyoma,glomangiomyoma,subtype,12
+malignant glomus tumor,malignant glomus tumor,subtype,12
+granulosa cell tumour,granulosa cell tumour,disease,16
+foxl2,foxl2,gene,16
+adult granulosa cell tumor,adult granulosa cell tumor,subtype,16
+juvenile type testicular granulosa cell tumor,juvenile type testicular granulosa cell tumor,subtype,16
+hairy cell leukemia,hairy cell leukemia,disease,5
+cancer immunotherapy,cancer immunotherapy,treatment,13
+rehabilitation,rehabilitation,treatment,13
+physical therapy,physical therapy,treatment,13
+speech therapist,speech therapist,treatment,13
+maxillectomy,maxillectomy,treatment,13
+mandibulectomy,mandibulectomy,treatment,13
+glossectomy,glossectomy,treatment,13
+radical neck dissection,radical neck dissection,treatment,13
+partial laryngectomy,partial laryngectomy,treatment,13
+total laryngectomy,total laryngectomy,treatment,13
+esophageal speech,esophageal speech,treatment,13
+tracheoesophageal puncture,tracheoesophageal puncture,treatment,13
+electrolarynx,electrolarynx,treatment,13
+intensity-modulated radiation therapy,intensity-modulated radiation therapy,treatment,13
+cetuximab,cetuximab,treatment,4
+fluorouracil,fluorouracil,treatment,4
+amifostine,amifostine,treatment,13
+bevacizumab,bevacizumab,treatment,4
+checkpoint blockade immunotherapy,checkpoint blockade immunotherapy,treatment,13
+nivolumab,nivolumab,treatment,13
+transoral robotic surgery,transoral robotic surgery,treatment,13
+transoral laser microsurgery,transoral laser microsurgery,treatment,13
+prb1,prb1,gene,13
+alcohol dehydrogenases,alcohol dehydrogenases,gene,13
+chest computed tomography,chest computed tomography,diagnosis,14
+tobacco use,tobacco use,cause,13
+wood dust exposure,wood dust exposure,cause,13
+hpv16 infection,hpv16 infection,risk_factor,13
+age greater than 85 years,age greater than 85 years,risk_factor,13
+socioeconomic factors,socioeconomic factors,risk_factor,13
+leukoplakia,leukoplakia,risk_factor,13
+allogeneic hematopoietic stem cell transplantation,allogeneic hematopoietic stem cell transplantation,risk_factor,13
+orbital cancer,orbital cancer,subtype,13
+pharynx cancer,pharynx cancer,subtype,13
+oropharynx cancer,oropharynx cancer,subtype,13
+hypopharynx cancer,hypopharynx cancer,subtype,13
+salivary gland cancer,salivary gland cancer,subtype,11
+glottis cancer,glottis cancer,subtype,13
+supraglottis cancer,supraglottis cancer,subtype,13
+subglottis cancer,subglottis cancer,subtype,13
+hepatoblastoma,hepatoblastoma,disease,14
+beckwith-wiedemann syndrome,beckwith-wiedemann syndrome,risk_factor,14
+trisomy 18,trisomy 18,risk_factor,14
+trisomy 21,trisomy 21,risk_factor,14
+aicardi syndrome,aicardi syndrome,risk_factor,14
+li-fraumeni syndrome,li-fraumeni syndrome,risk_factor,14
+goldenhar syndrome,goldenhar syndrome,risk_factor,14
+glycogen storage disease i,glycogen storage disease i,risk_factor,14
+hepatocellular carcinoma,hepatocellular carcinoma,disease,14
+radiofrequency ablation,radiofrequency ablation,treatment,14
+selective internal radiation therapy,selective internal radiation therapy,treatment,3
+systemic therapy,systemic therapy,treatment,14
+arid2,arid2,gene,14
+abcb11,abcb11,gene,14
+des-gamma carboxyprothrombin,des-gamma carboxyprothrombin,diagnosis,14
+mri without contrast,mri without contrast,diagnosis,14
+pet scan without contrast,pet scan without contrast,diagnosis,14
+chronic liver disease,chronic liver disease,cause,14
+fibrosis,fibrosis,cause,14
+inflammation,inflammation,cause,14
+nonalcoholic steatohepatitis,nonalcoholic steatohepatitis,cause,14
+hemochromatosis,hemochromatosis,cause,14
+alpha 1-antitrypsin deficiency,alpha 1-antitrypsin deficiency,cause,14
+biliary atresia,biliary atresia,cause,14
+glycogen storage disease,glycogen storage disease,cause,14
+nonalcoholic fatty liver disease,nonalcoholic fatty liver disease,risk_factor,14
+congenital lens disorder,congenital lens disorder,risk_factor,14
+fibrolamellar carcinoma,fibrolamellar carcinoma,risk_factor,14
+alcohol use disorder,alcohol use disorder,risk_factor,14
+clear cell,clear cell,subtype,17
+hodgkin lymphoma,hodgkin lymphoma,disease,13
+brentuximab vedotin,brentuximab vedotin,treatment,13
+unknown,unknown,cause,13
+classic hodgkin lymphoma,classic hodgkin lymphoma,subtype,13
+multiple sclerosis,multiple sclerosis,subtype,13
+hypopharyngeal cancer,hypopharyngeal cancer,disease,2
+parp1,parp1,gene,2
+chewing tobacco,chewing tobacco,cause,2
+inflammatory breast cancer,inflammatory breast cancer,disease,16
+vegfa,vegfa,gene,16
+mammogram,mammogram,diagnosis,16
+biopsy of breast,biopsy of breast,diagnosis,16
+endoscopic submucosal dissection,endoscopic submucosal dissection,treatment,4
+partial colectomy,partial colectomy,treatment,4
+proctocolectomy,proctocolectomy,treatment,4
+colostomy,colostomy,treatment,4
+oxaliplatin,oxaliplatin,treatment,4
+panitumumab,panitumumab,treatment,4
+chemoradiotherapy,chemoradiotherapy,treatment,11
+dostarlimab,dostarlimab,treatment,4
+aspirin,aspirin,treatment,4
+celecoxib,celecoxib,treatment,4
+sigmoidoscopy,sigmoidoscopy,diagnosis,4
+fecal immunochemical test,fecal immunochemical test,diagnosis,4
+axin1 gene mutation,axin1 gene mutation,cause,4
+axin2 gene mutation,axin2 gene mutation,cause,4
+tcf7l2 gene mutation,tcf7l2 gene mutation,cause,4
+pten gene mutation,pten gene mutation,cause,4
+sox9 gene mutation,sox9 gene mutation,cause,4
+arid1a gene mutation,arid1a gene mutation,cause,4
+msh3 gene mutation,msh3 gene mutation,cause,4
+msh6 gene mutation,msh6 gene mutation,cause,4
+braf gene mutation,braf gene mutation,cause,4
+mismatch repair protein deficiency,mismatch repair protein deficiency,cause,4
+pole gene mutation,pole gene mutation,cause,4
+pold1 gene mutation,pold1 gene mutation,cause,4
+clostridium,clostridium,cause,4
+escherichia coli,escherichia coli,cause,4
+fusobacterium nucleatum,fusobacterium nucleatum,cause,4
+crohn's disease,crohn's disease,risk_factor,4
+celiac disease,celiac disease,risk_factor,4
+inflammatory bowel disease,inflammatory bowel disease,risk_factor,4
+prolonged standing,prolonged standing,risk_factor,9
+vitamin d deficiency,vitamin d deficiency,risk_factor,4
+bile duct cancer,bile duct cancer,disease,2
+invasive ductal carcinoma,invasive ductal carcinoma,disease,16
+neoadjuvant therapy,neoadjuvant therapy,treatment,16
+prophylactic mastectomy,prophylactic mastectomy,treatment,16
+pleomorphic carcinoma,pleomorphic carcinoma,subtype,16
+breast carcinoma with osteoclast-like stromal giant cells,breast carcinoma with osteoclast-like stromal giant cells,subtype,16
+breast carcinoma with choriocarcinomatous features,breast carcinoma with choriocarcinomatous features,subtype,16
+breast carcinoma with melanotic features,breast carcinoma with melanotic features,subtype,16
+cribriform carcinoma,cribriform carcinoma,subtype,16
+kaposi sarcoma,kaposi sarcoma,disease,8
+interferon alpha,interferon alpha,treatment,8
+organ transplantation,organ transplantation,risk_factor,8
+blood transfusion,blood transfusion,risk_factor,8
+classic kaposi sarcoma,classic kaposi sarcoma,subtype,8
+obsolete aids-related kaposi's sarcoma,obsolete aids-related kaposi's sarcoma,subtype,8
+kaposi's sarcoma,kaposi's sarcoma,subtype,8
+kidney cancer,kidney cancer,disease,15
+everolimus,everolimus,treatment,15
+axitinib,axitinib,treatment,15
+cabozantinib,cabozantinib,treatment,15
+comprehensive metabolic panel,comprehensive metabolic panel,diagnosis,15
+urinalysis,urinalysis,diagnosis,15
+aging,aging,risk_factor,15
+family history of kidney cancer,family history of kidney cancer,risk_factor,15
+nephroblastoma,nephroblastoma,subtype,15
+collecting duct carcinoma,collecting duct carcinoma,subtype,15
+renal cell carcinoma associated with neuroblastoma,renal cell carcinoma associated with neuroblastoma,subtype,15
+mucinous tubular and spindle renal cell carcinoma,mucinous tubular and spindle renal cell carcinoma,subtype,15
+mixed epithelial stromal tumour,mixed epithelial stromal tumour,subtype,15
+laryngeal cancer,laryngeal cancer,disease,13
+occupational therapy,occupational therapy,treatment,13
+psychosocial care,psychosocial care,treatment,13
+dental care,dental care,treatment,13
+genomic instability,genomic instability,cause,2
+uterus leiomyosarcoma,uterus leiomyosarcoma,subtype,2
+cutaneous leiomyosarcoma,cutaneous leiomyosarcoma,subtype,2
+retroperitoneal leiomyosarcoma,retroperitoneal leiomyosarcoma,subtype,2
+rectal leiomyosarcoma,rectal leiomyosarcoma,subtype,2
+leukemia,leukemia,disease,20
+chlorambucil,chlorambucil,treatment,20
+cyclophosphamide,cyclophosphamide,treatment,15
+splenectomy,splenectomy,treatment,20
+spred1,spred1,gene,20
+formaldehyde exposure,formaldehyde exposure,cause,20
+maternal transmission,maternal transmission,cause,20
+prior chemotherapy,prior chemotherapy,risk_factor,20
+down syndrome,down syndrome,risk_factor,20
+fanconi anemia,fanconi anemia,risk_factor,20
+family history of leukemia,family history of leukemia,risk_factor,20
+acute lymphoblastic leukemia,acute lymphoblastic leukemia,subtype,10
+acute myeloid leukemia,acute myeloid leukemia,subtype,10
+t-cell prolymphocytic leukemia,t-cell prolymphocytic leukemia,subtype,20
+t-cell large granular lymphocyte leukemia,t-cell large granular lymphocyte leukemia,subtype,20
+juvenile myelomonocytic leukemia,juvenile myelomonocytic leukemia,subtype,20
+acute promyelocytic leukemia,acute promyelocytic leukemia,subtype,20
+acute megakaryoblastic leukemia,acute megakaryoblastic leukemia,subtype,20
+b-cell prolymphocytic leukemia,b-cell prolymphocytic leukemia,subtype,20
+chronic myelomonocytic leukemia,chronic myelomonocytic leukemia,subtype,20
+burkitt leukemia,burkitt leukemia,subtype,20
+acute biphenotypic leukemia,acute biphenotypic leukemia,subtype,20
+recurrent b acute lymphoblastic leukemia,recurrent b acute lymphoblastic leukemia,subtype,20
+t-cell adult acute lymphocytic leukemia,t-cell adult acute lymphocytic leukemia,subtype,20
+liposarcoma,liposarcoma,disease,21
+mdm2,mdm2,gene,1
+cdk4,cdk4,gene,21
+tspan31,tspan31,gene,21
+hmga2,hmga2,gene,21
+jun,jun,gene,21
+ptk2b,ptk2b,gene,21
+epha5,epha5,gene,21
+erbb4,erbb4,gene,21
+rp1,rp1,gene,21
+rcbtb2,rcbtb2,gene,21
+dleu1,dleu1,gene,21
+itm2b,itm2b,gene,21
+mtor,mtor,gene,21
+dedifferentiated liposarcoma,dedifferentiated liposarcoma,subtype,21
+myxoid liposarcoma,myxoid liposarcoma,subtype,21
+pleomorphic liposarcoma,pleomorphic liposarcoma,subtype,21
+myxoid pleomorphic liposarcoma,myxoid pleomorphic liposarcoma,subtype,21
+liver cancer,liver cancer,disease,14
+chimeric antigen receptor t-cell therapy,chimeric antigen receptor t-cell therapy,treatment,14
+liver biopsy,liver biopsy,diagnosis,14
+endoscopic retrograde cholangiopancreatography,endoscopic retrograde cholangiopancreatography,diagnosis,14
+fascioliasis,fascioliasis,cause,14
+hereditary hemochromatosis,hereditary hemochromatosis,cause,14
+primary biliary cirrhosis,primary biliary cirrhosis,cause,14
+opisthorchis viverrini infection,opisthorchis viverrini infection,cause,14
+sclerosing cholangitis,sclerosing cholangitis,cause,14
+choledochal cyst,choledochal cyst,cause,14
+caroli disease,caroli disease,cause,14
+congenital hepatic fibrosis,congenital hepatic fibrosis,cause,14
+alpha-1 antitrypsin deficiency,alpha-1 antitrypsin deficiency,cause,14
+porphyria cutanea tarda,porphyria cutanea tarda,cause,14
+wilson disease,wilson disease,cause,14
+tyrosinemia,tyrosinemia,cause,14
+radiation exposure,radiation exposure,cause,7
+familial adenomatous polyposis,familial adenomatous polyposis,risk_factor,14
+low birth weight,low birth weight,risk_factor,14
+progressive familial intrahepatic cholestasis,progressive familial intrahepatic cholestasis,risk_factor,14
+liver embryonal sarcoma,liver embryonal sarcoma,subtype,14
+bladder rhabdomyosarcoma,bladder rhabdomyosarcoma,subtype,14
+lung cancer,lung cancer,disease,18
+topotecan,topotecan,treatment,18
+lurbinectedin,lurbinectedin,treatment,18
+vinorelbine,vinorelbine,treatment,18
+osimertinib,osimertinib,treatment,18
+gefitinib,gefitinib,treatment,18
+dacomitinib,dacomitinib,treatment,18
+crizotinib,crizotinib,treatment,18
+alectinib,alectinib,treatment,18
+brigatinib,brigatinib,treatment,18
+ceritinib,ceritinib,treatment,18
+lorlatinib,lorlatinib,treatment,18
+capmatinib,capmatinib,treatment,18
+tepotinib,tepotinib,treatment,18
+dabrafenib,dabrafenib,treatment,18
+trametinib,trametinib,treatment,18
+entrectinib,entrectinib,treatment,18
+larotrectinib,larotrectinib,treatment,18
+selpercatinib,selpercatinib,treatment,18
+atezolizumab,atezolizumab,treatment,18
+ipilimumab,ipilimumab,treatment,18
+ramucirumab,ramucirumab,treatment,18
+bronchoscopy,bronchoscopy,treatment,18
+antibiotic,antibiotic,treatment,18
+diuretic,diuretic,treatment,18
+benzodiazepine,benzodiazepine,treatment,18
+acetaminophen,acetaminophen,treatment,18
+tricyclic antidepressant,tricyclic antidepressant,treatment,18
+segmentectomy,segmentectomy,treatment,18
+pneumonectomy,pneumonectomy,treatment,18
+stereotactic body radiation therapy,stereotactic body radiation therapy,treatment,18
+video-assisted thoracic surgery,video-assisted thoracic surgery,treatment,18
+alk,alk,gene,18
+met,met,gene,18
+ros1,ros1,gene,18
+ntrk1,ntrk1,gene,18
+ret,ret,gene,1
+liquid biopsy,liquid biopsy,diagnosis,18
+asbestos exposure,asbestos exposure,cause,2
+chromium exposure,chromium exposure,cause,18
+scleroderma,scleroderma,cause,18
+tuberculosis,tuberculosis,cause,18
+human papillomavirus,human papillomavirus,cause,18
+bk virus,bk virus,cause,18
+jc virus,jc virus,cause,18
+cytomegalovirus mrna,cytomegalovirus mrna,cause,18
+sv40,sv40,cause,18
+egfr gene mutation,egfr gene mutation,cause,18
+alk gene mutation,alk gene mutation,cause,18
+met gene mutation,met gene mutation,cause,18
+pik3ca gene mutation,pik3ca gene mutation,cause,18
+ros1 gene mutation,ros1 gene mutation,cause,18
+ntrk1 gene mutation,ntrk1 gene mutation,cause,18
+ret gene mutation,ret gene mutation,cause,18
+occupational exposure,occupational exposure,risk_factor,18
+vaping,vaping,risk_factor,18
+unit of exposure to ionizing radiation,unit of exposure to ionizing radiation,risk_factor,5
+diesel exhaust exposure,diesel exhaust exposure,risk_factor,18
+lung non-small cell carcinoma,lung non-small cell carcinoma,subtype,18
+sarcomatoid carcinoma,sarcomatoid carcinoma,subtype,18
+lepidic adenocarcinoma,lepidic adenocarcinoma,subtype,18
+lung acinar adenocarcinoma,lung acinar adenocarcinoma,subtype,18
+papillary adenocarcinoma,papillary adenocarcinoma,subtype,18
+lung micropapillary adenocarcinoma,lung micropapillary adenocarcinoma,subtype,18
+extensive stage,extensive stage,subtype,18
+pancoast tumor,pancoast tumor,subtype,18
+lymphangiosarcoma,lymphangiosarcoma,disease,9
+primary lymphedema,primary lymphedema,risk_factor,9
+secondary lymphedema,secondary lymphedema,risk_factor,9
+platelet transfusion,platelet transfusion,treatment,10
+immunophenotype,immunophenotype,diagnosis,10
+flow cytometry,flow cytometry,diagnosis,10
+fluorescence in situ hybridization,fluorescence in situ hybridization,diagnosis,5
+autoimmune disease,autoimmune disease,risk_factor,10
+hodgkin's lymphoma,hodgkin's lymphoma,subtype,10
+non-hodgkin lymphoma,non-hodgkin lymphoma,subtype,10
+burkitt lymphoma,burkitt lymphoma,subtype,10
+"diffuse large b-cell lymphoma, not otherwise specified","diffuse large b-cell lymphoma, not otherwise specified",subtype,10
+diffuse large b-cell lymphoma associated with chronic inflammation,diffuse large b-cell lymphoma associated with chronic inflammation,subtype,10
+fibrin-associated diffuse large b-cell lymphoma,fibrin-associated diffuse large b-cell lymphoma,subtype,10
+primary effusion lymphoma,primary effusion lymphoma,subtype,10
+plasmablastic lymphoma,plasmablastic lymphoma,subtype,10
+nasal type extranodal nk/t-cell lymphoma,nasal type extranodal nk/t-cell lymphoma,subtype,10
+"peripheral t-cell lymphoma, not otherwise specified","peripheral t-cell lymphoma, not otherwise specified",subtype,10
+angioimmunoblastic t-cell lymphoma,angioimmunoblastic t-cell lymphoma,subtype,10
+small lymphocytic lymphoma,small lymphocytic lymphoma,subtype,10
+follicular lymphoma,follicular lymphoma,subtype,10
+mantle cell lymphoma,mantle cell lymphoma,subtype,10
+enteropathy-associated t-cell lymphoma,enteropathy-associated t-cell lymphoma,subtype,10
+male breast cancer,male breast cancer,disease,16
+aromatase inhibitor,aromatase inhibitor,treatment,16
+chek2,chek2,gene,16
+rad51d,rad51d,gene,16
+epcam,epcam,gene,16
+mammography,mammography,diagnosis,16
+ultrasonogram,ultrasonogram,diagnosis,16
+scintimammography,scintimammography,diagnosis,16
+incisional biopsy,incisional biopsy,diagnosis,16
+excisional biopsy,excisional biopsy,diagnosis,16
+progesterone receptor test,progesterone receptor test,diagnosis,16
+liver cirrhosis,liver cirrhosis,risk_factor,16
+ventricular dysfunction,ventricular dysfunction,risk_factor,16
+physical activity level,physical activity level,risk_factor,16
+breast medullary carcinoma,breast medullary carcinoma,subtype,16
+inflammatory breast carcinoma,inflammatory breast carcinoma,subtype,16
+phyllodes tumor,phyllodes tumor,subtype,16
+breast leiomyosarcoma,breast leiomyosarcoma,subtype,16
+mammary analogue secretory carcinoma,mammary analogue secretory carcinoma,subtype,16
+invasive breast cribriform carcinoma,invasive breast cribriform carcinoma,subtype,16
+breast tubular carcinoma,breast tubular carcinoma,subtype,16
+malignant melanoma of the eye,malignant melanoma of the eye,disease,2
+art therapy,art therapy,treatment,2
+malignant mesothelioma,malignant mesothelioma,disease,17
+bap1,bap1,gene,17
+axl,axl,gene,17
+thoracoscopy,thoracoscopy,diagnosis,17
+thoracotomy,thoracotomy,diagnosis,17
+laparoscopy,laparoscopy,diagnosis,17
+genetics,genetics,risk_factor,20
+epithelioid mesothelioma,epithelioid mesothelioma,subtype,17
+sarcomatoid mesothelioma,sarcomatoid mesothelioma,subtype,17
+biphasic mesothelioma,biphasic mesothelioma,subtype,17
+desmoplastic,desmoplastic,subtype,17
+benign pleural mesothelioma,benign pleural mesothelioma,subtype,17
+peritoneal mesothelioma,peritoneal mesothelioma,subtype,17
+pericardial mesothelioma,pericardial mesothelioma,subtype,17
+malignant mixed müllerian tumor,malignant mixed müllerian tumor,disease,16
+endometrioid adenocarcinoma,endometrioid adenocarcinoma,subtype,16
+serous adenocarcinoma,serous adenocarcinoma,subtype,16
+clear cell adenocarcinoma,clear cell adenocarcinoma,subtype,16
+malignant peripheral nerve sheath tumor,malignant peripheral nerve sheath tumor,disease,3
+chromosome 11 loss of heterozygosity,chromosome 11 loss of heterozygosity,cause,3
+neurofibromatosis type 1,neurofibromatosis type 1,risk_factor,3
+malignant rhabdoid tumor,malignant rhabdoid tumor,disease,2
+mediastinal germ cell tumor,mediastinal germ cell tumor,disease,22
+seminoma,seminoma,subtype,22
+nongerminomatous germ cell tumor,nongerminomatous germ cell tumor,subtype,22
+medullary thyroid cancer,medullary thyroid cancer,disease,2
+familial medullary thyroid carcinoma,familial medullary thyroid carcinoma,subtype,2
+lomustine,lomustine,treatment,15
+smarca4,smarca4,gene,15
+ddx3x,ddx3x,gene,15
+ctdnep1,ctdnep1,gene,15
+kdm6a,kdm6a,gene,15
+tbr1,tbr1,gene,15
+mycn,mycn,gene,8
+gli2,gli2,gene,15
+sufu,sufu,gene,15
+cxcl3,cxcl3,gene,15
+evans staging system,evans staging system,diagnosis,15
+smarca4 gene mutation,smarca4 gene mutation,cause,15
+ddx3x gene mutation,ddx3x gene mutation,cause,15
+kdm6a gene mutation,kdm6a gene mutation,cause,15
+nevoid basal cell carcinoma syndrome,nevoid basal cell carcinoma syndrome,risk_factor,15
+turcot syndrome,turcot syndrome,risk_factor,15
+obsolete group b streptococcal pneumonia,obsolete group b streptococcal pneumonia,subtype,15
+talimogene laherparepvec,talimogene laherparepvec,treatment,18
+mc1r,mc1r,gene,18
+raf1,raf1,gene,18
+ntrk3,ntrk3,gene,18
+igf1r,igf1r,gene,18
+mcm6,mcm6,gene,18
+timeless,timeless,gene,18
+wipi1,wipi1,gene,18
+dermoscopy,dermoscopy,diagnosis,18
+reflectance confocal microscopy,reflectance confocal microscopy,diagnosis,18
+xeroderma pigmentosum,xeroderma pigmentosum,risk_factor,18
+large congenital melanocytic nevus,large congenital melanocytic nevus,risk_factor,18
+nodular malignant melanoma,nodular malignant melanoma,subtype,18
+amelanotic melanoma,amelanotic melanoma,subtype,8
+anal melanoma,anal melanoma,subtype,18
+mucosal melanoma,mucosal melanoma,subtype,18
+desmoplastic melanoma,desmoplastic melanoma,subtype,18
+uveal melanoma,uveal melanoma,subtype,18
+vaginal melanoma,vaginal melanoma,subtype,18
+lentigo maligna melanoma,lentigo maligna melanoma,subtype,18
+acral lentiginous melanoma,acral lentiginous melanoma,subtype,18
+radiosurgery,radiosurgery,treatment,5
+traf7,traf7,gene,5
+klf4,klf4,gene,5
+arteriography,arteriography,diagnosis,5
+medical image,medical image,diagnosis,5
+brain injury,brain injury,cause,5
+neurofibromatosis type 2,neurofibromatosis type 2,cause,5
+transition,transition,subtype,5
+angioblast,angioblast,subtype,5
+choroid,choroid,subtype,5
+papillary,papillary,subtype,5
+merkel cell carcinoma,merkel cell carcinoma,disease,8
+piezo2,piezo2,gene,8
+atoh1,atoh1,gene,8
+merkel cell polyomavirus,merkel cell polyomavirus,cause,8
+mesothelioma,mesothelioma,disease,17
+thoracentesis,thoracentesis,diagnosis,17
+tube thoracostomy,tube thoracostomy,diagnosis,17
+paracentesis,paracentesis,diagnosis,17
+pericardiocentesis,pericardiocentesis,diagnosis,17
+mucinous carcinoma,mucinous carcinoma,disease,19
+ovarian mucinous tumor,ovarian mucinous tumor,subtype,19
+colorectal mucinous adenocarcinoma,colorectal mucinous adenocarcinoma,subtype,19
+mucinous ovarian tumor,mucinous ovarian tumor,disease,9
+mucinous cystadenocarcinoma,mucinous cystadenocarcinoma,subtype,9
+multiple endocrine neoplasia,multiple endocrine neoplasia,disease,1
+autosomal dominant inheritance,autosomal dominant inheritance,risk_factor,1
+multiple endocrine neoplasia type 1,multiple endocrine neoplasia type 1,subtype,1
+multiple endocrine neoplasia type 2a,multiple endocrine neoplasia type 2a,subtype,1
+multiple endocrine neoplasia type 2b,multiple endocrine neoplasia type 2b,subtype,1
+biphosphonate,biphosphonate,treatment,7
+ccnd1,ccnd1,gene,1
+dis3,dis3,gene,7
+fam246c,fam246c,gene,7
+nras,nras,gene,7
+ezh2,ezh2,gene,7
+cytogenetics,cytogenetics,diagnosis,7
+monoclonal gammopathy of undetermined significance,monoclonal gammopathy of undetermined significance,risk_factor,7
+smoldering multiple myeloma,smoldering multiple myeloma,risk_factor,7
+solitary plasmacytoma,solitary plasmacytoma,subtype,7
+plasma cell leukemia,plasma cell leukemia,subtype,7
+non-secretory myeloma,non-secretory myeloma,subtype,7
+myelodysplastic syndromes,myelodysplastic syndromes,disease,20
+lenalidomide,lenalidomide,treatment,20
+anti-thymocyte globulin,anti-thymocyte globulin,treatment,20
+luspatercept,luspatercept,treatment,20
+gata2,gata2,gene,20
+samd9,samd9,gene,20
+samd9l,samd9l,gene,20
+flt3,flt3,gene,20
+sf3b1,sf3b1,gene,20
+cebpa,cebpa,gene,20
+ddx41,ddx41,gene,20
+runx1,runx1,gene,20
+gata2 deficiency,gata2 deficiency,cause,20
+dna damage,dna damage,cause,20
+clonal cytopenia of undetermined significance,clonal cytopenia of undetermined significance,subtype,20
+chromosome 18q deletion syndrome,chromosome 18q deletion syndrome,subtype,20
+refractory anemia,refractory anemia,subtype,20
+myelofibrosis,myelofibrosis,disease,20
+folic acid,folic acid,treatment,20
+allopurinol,allopurinol,treatment,20
+dexamethasone,dexamethasone,treatment,20
+interferon alpha-2,interferon alpha-2,treatment,20
+jak2,jak2,gene,20
+calr,calr,gene,20
+mpl,mpl,gene,20
+reticulocyte count,reticulocyte count,diagnosis,20
+environmental risk factor,environmental risk factor,cause,9
+overt primary myelofibrosis,overt primary myelofibrosis,subtype,20
+myxofibrosarcoma,myxofibrosarcoma,disease,1
+angiogenesis inhibitor,angiogenesis inhibitor,treatment,1
+cdkn2b,cdkn2b,gene,1
+cdk6,cdk6,gene,1
+epithelioid myxofibrosarcoma,epithelioid myxofibrosarcoma,subtype,1
+nasal cavity and paranasal sinus cancer,nasal cavity and paranasal sinus cancer,disease,2
+nasal cavity cancer,nasal cavity cancer,disease,2
+tradition,tradition,treatment,7
+nasopharyngeal carcinoma,nasopharyngeal carcinoma,disease,13
+genetic susceptibility,genetic susceptibility,cause,13
+keratinizing squamous cell carcinoma,keratinizing squamous cell carcinoma,subtype,13
+basaloid squamous cell carcinoma,basaloid squamous cell carcinoma,subtype,13
+wilms tumor,wilms tumor,disease,8
+actinomycin f1,actinomycin f1,treatment,8
+wt1,wt1,gene,9
+wnt2,wnt2,gene,8
+congenital abnormality,congenital abnormality,cause,8
+wt1 gene mutation,wt1 gene mutation,cause,8
+aniridia,aniridia,risk_factor,8
+denys-drash syndrome,denys-drash syndrome,risk_factor,8
+hemihypertrophy,hemihypertrophy,risk_factor,8
+perlman syndrome,perlman syndrome,risk_factor,8
+obsolete anaplastic renal wilms' tumor,obsolete anaplastic renal wilms' tumor,subtype,8
+naxitamab,naxitamab,treatment,2
+granulocyte-macrophage colony-stimulating factor,granulocyte-macrophage colony-stimulating factor,treatment,2
+phox2b,phox2b,gene,2
+kif1b,kif1b,gene,2
+lmo1,lmo1,gene,2
+ahcy,ahcy,gene,2
+dpysl3,dpysl3,gene,2
+nme1,nme1,gene,2
+nbpf1,nbpf1,gene,2
+bone marrow aspiration and biopsy,bone marrow aspiration and biopsy,diagnosis,2
+surgical pathology,surgical pathology,diagnosis,2
+immunohistochemical test,immunohistochemical test,diagnosis,2
+international neuroblastoma staging system,international neuroblastoma staging system,diagnosis,2
+international neuroblastoma risk group staging system,international neuroblastoma risk group staging system,diagnosis,2
+atopy,atopy,risk_factor,2
+ganglioneuroma,ganglioneuroma,subtype,2
+ganglioneuroblastoma,ganglioneuroblastoma,subtype,2
+neuroendocrine tumors,neuroendocrine tumors,disease,3
+cholecystectomy,cholecystectomy,treatment,3
+peptide receptor radionuclide therapy,peptide receptor radionuclide therapy,treatment,3
+hepatic artery embolization,hepatic artery embolization,treatment,3
+en2,en2,gene,3
+vhl,vhl,gene,3
+cdx2,cdx2,gene,3
+neuroendocrine secretory protein 55,neuroendocrine secretory protein 55,diagnosis,3
+mrs,mrs,diagnosis,3
+pancreatic neuroendocrine tumor,pancreatic neuroendocrine tumor,subtype,3
+paraganglioma,paraganglioma,subtype,3
+merkel cell carcinoma of anal skin,merkel cell carcinoma of anal skin,subtype,3
+medullary thyroid carcinoma,medullary thyroid carcinoma,subtype,3
+thymic neuroendocrine tumor,thymic neuroendocrine tumor,subtype,3
+pulmonary neuroendocrine tumor,pulmonary neuroendocrine tumor,subtype,3
+breast neuroendocrine neoplasm,breast neuroendocrine neoplasm,subtype,3
+peripheral nervous system,peripheral nervous system,subtype,3
+schwannoma,schwannoma,subtype,3
+plasmapheresis,plasmapheresis,treatment,10
+mesenchymal stromal cell,mesenchymal stromal cell,treatment,10
+follicular dendritic cell sarcoma,follicular dendritic cell sarcoma,subtype,10
+gastric lymphoma,gastric lymphoma,subtype,10
+splenic marginal zone lymphoma,splenic marginal zone lymphoma,subtype,10
+lymphoplasmacytic lymphoma,lymphoplasmacytic lymphoma,subtype,10
+skin cancer,skin cancer,disease,8
+cryotherapy,cryotherapy,treatment,8
+vaccine therapy,vaccine therapy,treatment,8
+reconstructive surgery,reconstructive surgery,treatment,8
+skin graft,skin graft,treatment,8
+photography,photography,diagnosis,8
+dermatoscope,dermatoscope,diagnosis,8
+sonographer,sonographer,diagnosis,8
+confocal microscopy,confocal microscopy,diagnosis,8
+raman spectroscopy,raman spectroscopy,diagnosis,8
+fluorescence spectroscopy,fluorescence spectroscopy,diagnosis,8
+multispectral imaging,multispectral imaging,diagnosis,8
+thermography,thermography,diagnosis,8
+environmental carcinogen,environmental carcinogen,cause,8
+atypical fibroxanthoma,atypical fibroxanthoma,subtype,8
+porocarcinoma,porocarcinoma,subtype,8
+sebaceous carcinoma,sebaceous carcinoma,subtype,8
+microcystic adnexal carcinoma,microcystic adnexal carcinoma,subtype,8
+keratoacanthoma,keratoacanthoma,subtype,8
+skin sarcoma,skin sarcoma,subtype,8
+dermatofibrosarcoma protuberans,dermatofibrosarcoma protuberans,subtype,8
+olig2,olig2,gene,5
+biopsy of brain,biopsy of brain,diagnosis,5
+molecular diagnosis,molecular diagnosis,diagnosis,5
+loss of heterozygosity analysis,loss of heterozygosity analysis,diagnosis,5
+oral cancer,oral cancer,disease,13
+acetaldehyde,acetaldehyde,cause,13
+oral cavity cancer,oral cavity cancer,subtype,13
+tongue cancer,tongue cancer,subtype,13
+lip cancer,lip cancer,subtype,13
+oropharyngeal cancer,oropharyngeal cancer,disease,2
+stage r1,stage r1,subtype,2
+stage r2,stage r2,subtype,2
+stage m3,stage m3,subtype,2
+stage a,stage a,subtype,2
+stage b,stage b,subtype,2
+stage c,stage c,subtype,2
+salvage surgery,salvage surgery,treatment,16
+rotationplasty,rotationplasty,treatment,16
+setd2,setd2,gene,16
+giant rod chromosome,giant rod chromosome,cause,16
+rothmund-thomson syndrome,rothmund-thomson syndrome,cause,16
+secondary,secondary,subtype,16
+extraskeletal,extraskeletal,subtype,16
+ovarian cancer,ovarian cancer,disease,9
+interval debulking surgery,interval debulking surgery,treatment,9
+laparoscopic surgery,laparoscopic surgery,treatment,9
+laparotomy,laparotomy,treatment,9
+bilateral salpingectomy,bilateral salpingectomy,treatment,9
+omentectomy,omentectomy,treatment,9
+posterior pelvic exenteration,posterior pelvic exenteration,treatment,9
+lymphadenectomy,lymphadenectomy,treatment,9
+intraperitoneal chemotherapy,intraperitoneal chemotherapy,treatment,9
+cdk12,cdk12,gene,9
+pms1,pms1,gene,9
+esr2,esr2,gene,9
+brip1,brip1,gene,9
+rad51c,rad51c,gene,9
+rad50,rad50,gene,9
+kit,kit,gene,2
+foxm1,foxm1,gene,9
+retinal examination,retinal examination,diagnosis,9
+body mass index,body mass index,risk_factor,9
+ovary epithelial cancer,ovary epithelial cancer,subtype,9
+malignant germ cell tumor,malignant germ cell tumor,subtype,9
+serous tubal intraepithelial carcinoma,serous tubal intraepithelial carcinoma,subtype,9
+adenocarcinoma cell,adenocarcinoma cell,subtype,9
+pseudomyxoma peritonei,pseudomyxoma peritonei,subtype,9
+esophageal undifferentiated carcinoma,esophageal undifferentiated carcinoma,subtype,9
+sex cord-stromal tumor,sex cord-stromal tumor,subtype,22
+juvenile granulosa cell tumor,juvenile granulosa cell tumor,subtype,9
+fibroma,fibroma,subtype,9
+germ cell tumor,germ cell tumor,subtype,9
+dysgerminoma,dysgerminoma,subtype,9
+mixed cell type cancer,mixed cell type cancer,subtype,9
+ovarian germ cell tumors,ovarian germ cell tumors,disease,9
+pelvic examination,pelvic examination,diagnosis,9
+biopsy of soft tissue,biopsy of soft tissue,diagnosis,9
+hereditary nonpolyposis colorectal cancer syndrome,hereditary nonpolyposis colorectal cancer syndrome,cause,9
+pancreatic cancer,pancreatic cancer,disease,1
+pain management,pain management,treatment,1
+smad4,smad4,gene,1
+stk11,stk11,gene,1
+gnas,gnas,gene,1
+rnf43,rnf43,gene,1
+muc1,muc1,gene,1
+pelp1,pelp1,gene,1
+genetic testing,genetic testing,diagnosis,1
+pancreatic intraepithelial neoplasia,pancreatic intraepithelial neoplasia,cause,1
+pancreatic mucinous cystadenoma,pancreatic mucinous cystadenoma,cause,1
+pancreatic intraductal tubulopapillary neoplasm,pancreatic intraductal tubulopapillary neoplasm,cause,1
+cdkn2a gene mutation,cdkn2a gene mutation,cause,1
+smad4 gene mutation,smad4 gene mutation,cause,1
+chronic pancreatitis,chronic pancreatitis,cause,1
+hereditary pancreatitis,hereditary pancreatitis,cause,1
+peutz-jeghers syndrome,peutz-jeghers syndrome,cause,1
+von hippel-lindau disease,von hippel-lindau disease,cause,1
+family history of prostate cancer,family history of prostate cancer,risk_factor,16
+pancreatic adenocarcinoma,pancreatic adenocarcinoma,subtype,1
+pancreatic ductal adenocarcinoma,pancreatic ductal adenocarcinoma,subtype,1
+acinar cell carcinoma,acinar cell carcinoma,subtype,11
+cystadenocarcinoma,cystadenocarcinoma,subtype,11
+pancreatoblastoma,pancreatoblastoma,subtype,1
+hepatoid adenocarcinoma,hepatoid adenocarcinoma,subtype,1
+colon carcinoma,colon carcinoma,subtype,1
+undifferentiated carcinoma with osteoclast-like giant cells,undifferentiated carcinoma with osteoclast-like giant cells,subtype,1
+obsolete papillary cystic tumor,obsolete papillary cystic tumor,subtype,1
+advanced pancreatic neuroendocrine tumor,advanced pancreatic neuroendocrine tumor,subtype,1
+insulinoma,insulinoma,subtype,1
+gastrinoma,gastrinoma,subtype,1
+clinical history,clinical history,diagnosis,1
+pathology,pathology,diagnosis,1
+long-term follow-up,long-term follow-up,treatment,3
+sdhd,sdhd,gene,3
+sdha,sdha,gene,3
+sdhc,sdhc,gene,3
+sdhb,sdhb,gene,3
+sdhaf2,sdhaf2,gene,3
+tmem127,tmem127,gene,3
+max,max,gene,3
+slc25a11,slc25a11,gene,3
+histochemistry,histochemistry,diagnosis,3
+head and neck paraganglioma,head and neck paraganglioma,subtype,3
+vagal paraganglioma,vagal paraganglioma,subtype,3
+laryngeal paraganglioma,laryngeal paraganglioma,subtype,3
+thyroid gland paraganglioma,thyroid gland paraganglioma,subtype,3
+bladder paraganglioma,bladder paraganglioma,subtype,3
+parathyroid carcinoma,parathyroid carcinoma,disease,1
+hyperparathyroidism-jaw tumor syndrome,hyperparathyroidism-jaw tumor syndrome,risk_factor,1
+penile cancer,penile cancer,disease,2
+condyloma acuminatum,condyloma acuminatum,cause,2
+phimosis,phimosis,risk_factor,2
+anogenital venereal wart,anogenital venereal wart,risk_factor,2
+balanitis,balanitis,risk_factor,2
+paraphimosis,paraphimosis,risk_factor,2
+basal cell carcinoma,basal cell carcinoma,subtype,2
+vasopressor,vasopressor,treatment,3
+epas1,epas1,gene,3
+sox10,sox10,gene,3
+s100b,s100b,gene,3
+th,th,gene,3
+dbh,dbh,gene,3
+chat,chat,gene,3
+mki67,mki67,gene,3
+chromogranin,chromogranin,diagnosis,3
+chromaffin cell,chromaffin cell,cause,3
+neurofibromatosis 1,neurofibromatosis 1,risk_factor,3
+carney triad,carney triad,risk_factor,3
+carney-stratakis syndrome,carney-stratakis syndrome,risk_factor,3
+adrenal gland pheochromocytoma,adrenal gland pheochromocytoma,subtype,3
+extra-adrenal pheochromocytoma,extra-adrenal pheochromocytoma,subtype,3
+malignant pheochromocytoma,malignant pheochromocytoma,subtype,3
+aip,aip,gene,9
+gpr101,gpr101,gene,9
+growth hormone secreting pituitary adenoma,growth hormone secreting pituitary adenoma,cause,9
+prolactinoma,prolactinoma,subtype,9
+acth-secreting pituitary adenoma,acth-secreting pituitary adenoma,subtype,9
+autologous stem cell transplantation,autologous stem cell transplantation,treatment,7
+intensive chemotherapy,intensive chemotherapy,treatment,7
+secondary plasma cell leukemia,secondary plasma cell leukemia,subtype,7
+primary peritoneal cancer,primary peritoneal cancer,disease,9
+serous surface papillary carcinoma,serous surface papillary carcinoma,subtype,9
+ovarian serous carcinoma,ovarian serous carcinoma,subtype,9
+endometrial serous adenocarcinoma,endometrial serous adenocarcinoma,subtype,9
+fallopian tube serous adenocarcinoma,fallopian tube serous adenocarcinoma,subtype,9
+cervical serous adenocarcinoma,cervical serous adenocarcinoma,subtype,9
+prostate cancer,prostate cancer,disease,16
+observation,observation,treatment,16
+prior active surveillance,prior active surveillance,treatment,16
+hoxb13,hoxb13,gene,16
+cyp3a4,cyp3a4,gene,16
+tmprss2,tmprss2,gene,16
+erg,erg,gene,16
+foxa1,foxa1,gene,16
+biopsy of prostate,biopsy of prostate,diagnosis,16
+gleason score 6,gleason score 6,diagnosis,16
+prostate health index,prostate health index,diagnosis,16
+4kscore,4kscore,diagnosis,16
+african american,african american,risk_factor,16
+castration-sensitive prostate carcinoma,castration-sensitive prostate carcinoma,subtype,16
+thermotherapy,thermotherapy,treatment,8
+red reflex test,red reflex test,diagnosis,8
+eye examination,eye examination,diagnosis,8
+lumbar puncture,lumbar puncture,diagnosis,8
+rb1 gene mutation,rb1 gene mutation,cause,8
+mycn gene mutation,mycn gene mutation,cause,8
+short somatic mutation,short somatic mutation,cause,8
+sporadic retinoblastoma,sporadic retinoblastoma,subtype,8
+unilateral retinoblastoma,unilateral retinoblastoma,subtype,8
+bilateral retinoblastoma,bilateral retinoblastoma,subtype,8
+menin inhibitor,menin inhibitor,treatment,8
+pax3,pax3,gene,8
+pax7,pax7,gene,8
+foxo1,foxo1,gene,8
+myod1,myod1,gene,8
+brd4,brd4,gene,8
+igf2,igf2,gene,8
+pi16,pi16,gene,8
+electron microscopy,electron microscopy,diagnosis,8
+abdominal,abdominal,diagnosis,8
+costello syndrome,costello syndrome,risk_factor,8
+noonan syndrome,noonan syndrome,risk_factor,8
+dicer1 syndrome,dicer1 syndrome,risk_factor,8
+embryonal rhabdomyosarcoma,embryonal rhabdomyosarcoma,subtype,8
+alveolar rhabdomyosarcoma,alveolar rhabdomyosarcoma,subtype,8
+pleomorphic rhabdomyosarcoma,pleomorphic rhabdomyosarcoma,subtype,8
+botryoid rhabdomyosarcoma,botryoid rhabdomyosarcoma,subtype,8
+radiograph,radiograph,diagnosis,11
+orthopantomogram,orthopantomogram,diagnosis,11
+chest radiography,chest radiography,diagnosis,11
+epithelial malignant thymoma,epithelial malignant thymoma,subtype,11
+pleomorphic adenoma,pleomorphic adenoma,subtype,11
+warthin tumor,warthin tumor,subtype,11
+myoepithelioma,myoepithelioma,subtype,11
+basal cell adenoma,basal cell adenoma,subtype,11
+oxyphilic adenoma,oxyphilic adenoma,subtype,11
+sebaceous adenoma,sebaceous adenoma,subtype,11
+intraductal papilloma,intraductal papilloma,subtype,11
+cystadenoma,cystadenoma,subtype,11
+mucoepidermoid carcinoma,mucoepidermoid carcinoma,subtype,11
+epithelial-myoepithelial carcinoma,epithelial-myoepithelial carcinoma,subtype,11
+"cervical adenocarcinoma, not otherwise specified","cervical adenocarcinoma, not otherwise specified",subtype,11
+basophilic adenocarcinoma cell,basophilic adenocarcinoma cell,subtype,11
+sebaceous adenocarcinoma,sebaceous adenocarcinoma,subtype,11
+oncocytic adenocarcinoma,oncocytic adenocarcinoma,subtype,11
+salivary duct carcinoma,salivary duct carcinoma,subtype,11
+"salivary gland adenocarcinoma, not otherwise specified","salivary gland adenocarcinoma, not otherwise specified",subtype,11
+"thymic adenocarcinoma, not otherwise specified","thymic adenocarcinoma, not otherwise specified",subtype,11
+myoepithelial carcinoma,myoepithelial carcinoma,subtype,11
+carcinoma ex pleomorphic adenoma,carcinoma ex pleomorphic adenoma,subtype,11
+lymphoepithelioma-like carcinoma,lymphoepithelioma-like carcinoma,subtype,11
+sialoblastoma,sialoblastoma,subtype,11
+hemangioma,hemangioma,subtype,11
+thyroid gland carcinoma,thyroid gland carcinoma,subtype,11
+sialolipoma,sialolipoma,subtype,11
+uterine cancer,uterine cancer,disease,9
+serous carcinoma,serous carcinoma,disease,9
+obsolete ovarian serous tumor,obsolete ovarian serous tumor,subtype,9
+serous cystadenoma,serous cystadenoma,subtype,9
+cystadenofibroma,cystadenofibroma,subtype,9
+adenofibroma,adenofibroma,subtype,9
+primary peritoneal serous adenocarcinoma,primary peritoneal serous adenocarcinoma,subtype,9
+excessive blinking,excessive blinking,risk_factor,8
+soft tissue sarcoma,soft tissue sarcoma,disease,8
+liver angiosarcoma,liver angiosarcoma,subtype,8
+synovial sarcoma,synovial sarcoma,subtype,8
+alveolar soft part sarcoma,alveolar soft part sarcoma,subtype,8
+undifferentiated pleomorphic sarcoma,undifferentiated pleomorphic sarcoma,subtype,8
+testicular cancer,testicular cancer,disease,22
+retroperitoneal lymph node dissection,retroperitoneal lymph node dissection,treatment,22
+surveillance,surveillance,treatment,22
+cryptorchidism,cryptorchidism,risk_factor,22
+family history of testicular cancer,family history of testicular cancer,risk_factor,22
+inguinal hernia,inguinal hernia,risk_factor,22
+sedentary lifestyle,sedentary lifestyle,risk_factor,22
+nonseminomatous,nonseminomatous,subtype,22
+gonadoblastoma,gonadoblastoma,subtype,22
+germinoma,germinoma,subtype,22
+yolk sac tumor,yolk sac tumor,subtype,22
+teratoma,teratoma,subtype,22
+leydig cell tumor,leydig cell tumor,subtype,22
+sertoli cell tumor,sertoli cell tumor,subtype,22
+thymoma,thymoma,disease,9
+serum protein electrophoresis,serum protein electrophoresis,diagnosis,9
+electrolytes,electrolytes,diagnosis,9
+renal function,renal function,diagnosis,9
+thyroid cancer,thyroid cancer,disease,16
+radioactive iodine therapy,radioactive iodine therapy,treatment,16
+lenvatinib,lenvatinib,treatment,16
+vandetanib,vandetanib,treatment,16
+calcitonin measurement,calcitonin measurement,diagnosis,16
+multiple endocrine neoplasia type 2,multiple endocrine neoplasia type 2,cause,16
+thyroiditis,thyroiditis,cause,16
+obsolete oxyphilic adenocarcinoma,obsolete oxyphilic adenocarcinoma,subtype,16
+thyroid lymphoma,thyroid lymphoma,subtype,16
+thymic squamous cell carcinoma,thymic squamous cell carcinoma,subtype,16
+thyroid sarcoma,thyroid sarcoma,subtype,16
+thyroid gland noninvasive follicular neoplasm with papillary-like nuclear features,thyroid gland noninvasive follicular neoplasm with papillary-like nuclear features,subtype,16
+urethral cancer,urethral cancer,disease,7
+medicine,medicine,treatment,7
+urethral stricture,urethral stricture,cause,7
+chronic inflammation,chronic inflammation,risk_factor,7
+bladder urothelial papillary carcinoma,bladder urothelial papillary carcinoma,subtype,7
+anterior urethra cancer,anterior urethra cancer,subtype,7
+uterine sarcoma,uterine sarcoma,disease,9
+hysteroscopy,hysteroscopy,diagnosis,9
+vaginal cancer,vaginal cancer,disease,2
+colposcopy,colposcopy,diagnosis,2
+vaginal adenocarcinoma,vaginal adenocarcinoma,subtype,2
+vulvar cancer,vulvar cancer,disease,2
+intravenous pyelogram,intravenous pyelogram,diagnosis,2
+vulvar intraepithelial neoplasia,vulvar intraepithelial neoplasia,cause,2
+number of female sexual partners,number of female sexual partners,risk_factor,2
+vulvar lichen sclerosus,vulvar lichen sclerosus,risk_factor,2
+immunodeficiency syndrome,immunodeficiency syndrome,risk_factor,2
+bartholin gland carcinoma,bartholin gland carcinoma,subtype,2
+verrucous carcinoma,verrucous carcinoma,subtype,2
+differentiated intraepithelial neoplasia,differentiated intraepithelial neoplasia,subtype,2
+cutaneous paget's disease,cutaneous paget's disease,subtype,2
+computed tomography,computed tomography,diagnosis,8
+tissue sample,tissue sample,diagnosis,8
+nephrogenic rest,nephrogenic rest,cause,8

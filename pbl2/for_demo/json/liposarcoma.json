@@ -1,0 +1,74 @@
+{
+  "disease_name": "Liposarcoma",
+  "synonyms": [
+    "Fatty tumor",
+    "Fleshy tumor"
+  ],
+  "summary": "Liposarcomas are the most common subtype of soft tissue sarcomas, arising from precursor lipoblasts of adipocytes in adipose tissues. They are classified into five forms: atypical lipomatous tumor/well-differentiated liposarcoma, dedifferentiated liposarcoma, myxoid liposarcoma, pleomorphic liposarcoma, and myxoid pleomorphic liposarcoma. While some forms are considered benign or premalignant, all can infiltrate locally, recur after surgery, and metastasize, potentially leading to life-threatening diseases. They are often only marginally responsive to current chemotherapy and radiotherapy regimens.",
+  "causes": [
+    "Genetic mutations (e.g., amplification of MDM2 and CDK4 genes in ALT/WDL and DDL)",
+    "Translocations involving FUS-DDIT3 or EWSR1-DDIT3 fusion genes in myxoid liposarcoma",
+    "Inactivation of RB1 tumor suppressor gene in myxoid pleomorphic liposarcoma"
+  ],
+  "risk_factors": [
+    "Older age",
+    "Male gender (in myxoid liposarcoma)",
+    "Hereditary genetic disorders (Li-Fraumeni syndrome, Muir–Torre syndromes) predisposing to various cancers"
+  ],
+  "symptoms": [
+    "Slowly enlarging masses",
+    "Painlessness (often)",
+    "Edema (swelling)",
+    "Pain (less common, due to organ impingement)",
+    "Abdominal pain (due to intestinal blockage)",
+    "Urinary tract obstruction",
+    "Signs of chronic inflammation",
+    "Paraneoplastic syndromes (endocrine, neurological, mucocutaneous, hematological)"
+  ],
+  "diagnosis": [
+    "Clinical presentation",
+    "Histopathology",
+    "Genetic findings (e.g., MDM2 or CDK4 gene overexpression, sSMC or giant marker chromosome detection)",
+    "Medical ultrasonography",
+    "Magnetic resonance imaging (MRI)",
+    "Detection of DDIT3 gene rearrangements (FUS or EWSR1) by in situ hybridization or immunohistochemistry (for myxoid liposarcoma)",
+    "Absence of FUS-DDIT3 or EWSR1-DDIT3 fusion genes (for myxoid pleomorphic liposarcoma)"
+  ],
+  "treatments": [
+    "Surgical resection (radical)",
+    "Chemotherapy (e.g., doxorubicin, ifosfamide, gemcitabine, docetaxel, eribulin, trabectedin)",
+    "Radiotherapy",
+    "Targeted therapy (e.g., CDK4 or MDM2 gene inhibitors like abemaciclib, ribociclib, milademetan)",
+    "Supportive care"
+  ],
+  "related_genes": [
+    "MDM2",
+    "CDK4",
+    "TSPAN31",
+    "HMGA2",
+    "FUS-DDIT3",
+    "EWSR1-DDIT3",
+    "JUN",
+    "TP53",
+    "RB1",
+    "Neurofibromin 1",
+    "PIK3CA",
+    "Tyrosine-protein kinase SYK",
+    "PTK2B",
+    "EPHA5",
+    "ERBB4",
+    "RP1",
+    "RCBTB2",
+    "DLEU1",
+    "ITM2B",
+    "PPAR-γ",
+    "MTOR"
+  ],
+  "subtypes": [
+    "Atypical lipomatous tumor/well-differentiated liposarcoma (ALT/WDL)",
+    "Dedifferentiated liposarcoma (DD-LPS)",
+    "Myxoid liposarcoma (MLS)",
+    "Pleomorphic liposarcoma (PLS)",
+    "Myxoid pleomorphic liposarcoma (MPL)"
+  ]
+}

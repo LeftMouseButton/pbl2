@@ -1,0 +1,68 @@
+{
+  "disease_name": "Gestational Trophoblastic Disease",
+  "synonyms": [
+    "GTD",
+    "Gestational Trophoblastic Tumour",
+    "GTT",
+    "Molar pregnancy"
+  ],
+  "summary": "Gestational trophoblastic disease (GTD) is a group of pregnancy-related tumors that occur when cells in the womb start to proliferate uncontrollably. These cells, called trophoblasts, normally grow to form the placenta. GTD can be benign or malignant, with hydatidiform mole being the most common type. It can simulate pregnancy and produces chorionic gonadotropin. GTD primarily affects women of child-bearing age but can rarely occur in postmenopausal women.",
+  "causes": [
+    "Abnormal conception with excessive placental development",
+    "Fertilized egg implants into the uterus, but chorionic villi do not develop properly",
+    "Maternal ovum with no functional DNA (complete hydatidiform mole)",
+    "Dispermic fertilization of an empty ovum (complete hydatidiform mole)",
+    "Dispermic fertilization of a normal ovum (partial hydatidiform mole)"
+  ],
+  "risk_factors": [
+    "Maternal age under 20 years",
+    "Maternal age over 35 years",
+    "Previous GTD",
+    "Maternal age under 16 years",
+    "Maternal age over 45 years",
+    "Carotene deficiency"
+  ],
+  "symptoms": [
+    "Vaginal bleeding (not menstrual bleeding)",
+    "Enlarged uterus",
+    "Pelvic pain or discomfort",
+    "Vomiting too much (hyperemesis)",
+    "Elevated serum hCG",
+    "Acute respiratory symptoms (after pregnancy)",
+    "Neurological symptoms (after pregnancy)",
+    "Signs and symptoms of hyperthyroidism"
+  ],
+  "diagnosis": [
+    "Blood tests",
+    "Ultrasound",
+    "Tests done after miscarriage or abortion",
+    "Measurement of serum beta hCG",
+    "Histological confirmation",
+    "hCG testing (for persistent abnormal vaginal bleeding after pregnancy)",
+    "hCG testing (for acute respiratory or neurological symptoms after pregnancy)"
+  ],
+  "treatments": [
+    "Evacuation of pregnancy (for hydatidiform mole)",
+    "Suction curettage",
+    "Hysterectomy",
+    "Systemic (intravenous) methotrexate (for hydatidiform mole)",
+    "Chemotherapy (for invasive mole or choriocarcinoma)",
+    "Methotrexate (chemotherapy drug)",
+    "Dactinomycin (chemotherapy drug)",
+    "Actinomycin D (chemotherapy drug)",
+    "Radiotherapy (for metastatic disease)",
+    "Second curettage (for persistent trophoblastic disease)"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Hydatidiform mole",
+    "Complete hydatidiform mole",
+    "Partial hydatidiform mole",
+    "Invasive mole",
+    "Choriocarcinoma",
+    "Placental site trophoblastic tumour",
+    "Epithelioid trophoblastic tumour",
+    "Gestational trophoblastic neoplasia (GTN)",
+    "Persistent trophoblastic disease (PTD)"
+  ]
+}

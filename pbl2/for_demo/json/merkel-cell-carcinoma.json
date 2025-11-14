@@ -1,0 +1,59 @@
+{
+  "disease_name": "Merkel cell carcinoma",
+  "synonyms": [
+    "MCC",
+    "Cutaneous APUDoma",
+    "Primary neuroendocrine carcinoma of the skin",
+    "Primary small cell carcinoma of the skin",
+    "Trabecular carcinoma of the skin"
+  ],
+  "summary": "Merkel cell carcinoma (MCC) is a rare and aggressive type of skin cancer that typically arises on sun-exposed areas of the body. It is characterized by firm, flesh-colored, red, or blue tumors that can enlarge rapidly. MCC can spread to lymph nodes and other organs. Its development is linked to the Merkel cell polyomavirus (MCPyV), weakened immune systems, and ultraviolet radiation exposure.",
+  "causes": [
+    "Merkel cell polyomavirus (MCPyV)",
+    "Exposure to ultraviolet radiation (UV)",
+    "Weakened immune system"
+  ],
+  "risk_factors": [
+    "Older age (over 60 years old)",
+    "Caucasian ethnicity",
+    "Male sex",
+    "Fair skin",
+    "History of sunburns",
+    "Immunosuppression (e.g., HIV infection, organ transplant recipients, certain malignancies)",
+    "Prior skin cancers (e.g., multiple myeloma, chronic lymphocytic leukemia, malignant melanoma)"
+  ],
+  "symptoms": [
+    "Firm nodule or mass (0.5 cm to >5 cm diameter)",
+    "Rapidly enlarging tumors",
+    "Painless, tender, or itchy lesions",
+    "Papules or plaques",
+    "Tumors on head, neck, extremities, perianal region, or eyelid"
+  ],
+  "diagnosis": [
+    "Clinical examination of skin and lymph nodes",
+    "Biopsy of suspicious tissue",
+    "Light microscopy (basaloid tumor nests with neuroendocrine features)",
+    "Immunohistochemistry (IHC) for neuroendocrine markers (synaptophysin, chromogranin A) and other markers (PAX5, cytokeratin 20)",
+    "Imaging (PET scan, CT scan) for staging",
+    "Sentinel lymph node biopsy"
+  ],
+  "treatments": [
+    "Surgery (wide excision, Mohs surgery)",
+    "Radiation therapy",
+    "Immunotherapy (PD-1/PDL1 inhibitors like avelumab, pembrolizumab, nivolumab, ipilimumab)",
+    "Chemotherapy (for late-stage, highly metastasized cases)",
+    "Reduction of immunosuppressive drugs"
+  ],
+  "related_genes": [
+    "p53",
+    "Rb",
+    "Piezo2",
+    "Atoh1",
+    "c-Myc",
+    "cyclin E"
+  ],
+  "subtypes": [
+    "MCV-positive MCC",
+    "MCV-negative MCC"
+  ]
+}

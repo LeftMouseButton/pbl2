@@ -1,0 +1,103 @@
+{
+  "disease_name": "Multiple Myeloma",
+  "synonyms": [
+    "MM",
+    "Plasma cell myeloma",
+    "Myeloma"
+  ],
+  "summary": "Multiple myeloma is a cancer that begins in plasma cells, a type of white blood cell that normally produces antibodies. These cells are part of the immune system. In time, myeloma cells collect in the bone marrow and in the solid parts of bones. As it progresses, bone pain, anemia, renal insufficiency, and infections may occur. Complications may include hypercalcemia and amyloidosis.",
+  "causes": [
+    "Unknown",
+    "Genetic mutations",
+    "Chromosomal translocations (e.g., between immunoglobulin heavy chain gene and oncogenes)",
+    "Epigenetic modifications (DNA methylation, histone modifications)",
+    "Dysregulation of polycomb repressive complex 2 (PRC2)",
+    "Epstein-Barr virus (rarely, in immunodeficient individuals)"
+  ],
+  "risk_factors": [
+    "Older age",
+    "African American ethnicity",
+    "Obesity",
+    "Radiation exposure",
+    "Family history",
+    "Occupational exposure to aromatic hydrocarbon solvents (e.g., benzene, toluene, xylene)",
+    "Certain occupations (firefighting, hairdressing, agricultural and industrial work)",
+    "Monoclonal gammopathy of undetermined significance (MGUS)",
+    "Smoldering multiple myeloma",
+    "Immunodeficiency (due to HIV/AIDS, organ transplantation, rheumatoid arthritis)"
+  ],
+  "symptoms": [
+    "Bone pain (often in the back or ribs)",
+    "Fractures (broken bones)",
+    "Weakness",
+    "Fatigue",
+    "Weight loss",
+    "Frequent infections",
+    "Fevers",
+    "Feeling very thirsty",
+    "Frequent urination",
+    "Anemia",
+    "Renal insufficiency (impaired kidney function)",
+    "Hypercalcemia (high blood calcium levels)",
+    "Neurological symptoms (weakness, confusion, headache, visual changes, retinopathy, radicular pain, loss of bowel or bladder control, carpal tunnel syndrome, peripheral neuropathy)",
+    "Mouth symptoms (pain, numbness, swelling, jaw expansion, tooth mobility, radiolucency)",
+    "Rouleaux formation of red blood cells"
+  ],
+  "diagnosis": [
+    "Lab tests",
+    "Imaging tests",
+    "Bone marrow biopsy",
+    "Blood tests (e.g., protein electrophoresis, serum free light chain assay)",
+    "Urine tests (e.g., protein electrophoresis for Bence Jones protein)",
+    "Medical imaging (skeletal survey, MRI, CT scan)",
+    "Histopathology (bone marrow biopsy, immunohistochemistry, flow cytometry)",
+    "Cytogenetics",
+    "CRAB criteria (Calcium, Renal insufficiency, Anemia, Bone lesions)",
+    "Myeloma-defining events (MDEs)"
+  ],
+  "treatments": [
+    "Chemotherapy",
+    "Stem cell transplantation (autologous and allogeneic)",
+    "Radiation therapy",
+    "Targeted therapy",
+    "Steroids",
+    "Bisphosphonates",
+    "CAR-T cell therapy",
+    "Bispecific T-cell engagers (BITE)",
+    "Proteasome inhibitors (e.g., bortezomib, carfilzomib, ixazomib)",
+    "Immunomodulatory agents (e.g., lenalidomide, pomalidomide, thalidomide)",
+    "Monoclonal antibodies (e.g., daratumumab, isatuximab, elotuzumab, belantamab mafodotin)",
+    "Histone deacetylase inhibitors (e.g., panobinostat)",
+    "Selective inhibitor of nuclear export (e.g., selinexor)",
+    "Supportive care (e.g., red blood cell transfusions, erythropoietin)",
+    "Palliative care",
+    "Physical exercises",
+    "Oral prophylaxis and hygiene"
+  ],
+  "related_genes": [
+    "ATM",
+    "BRAF",
+    "CCND1",
+    "DIS3",
+    "FAM46C",
+    "KRAS",
+    "NRAS",
+    "TP53",
+    "EZH2"
+  ],
+  "subtypes": [
+    "Solitary plasmacytoma",
+    "Plasma cell leukemia",
+    "Monoclonal gammopathy of undetermined significance (MGUS)",
+    "Smoldering multiple myeloma",
+    "Nonsecretory myeloma",
+    "IgG myeloma",
+    "IgA myeloma",
+    "IgM myeloma",
+    "IgD myeloma",
+    "IgE myeloma",
+    "Light chain myeloma",
+    "Heavy chain myeloma",
+    "EBV-positive multiple myeloma"
+  ]
+}

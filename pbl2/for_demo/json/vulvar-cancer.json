@@ -1,0 +1,86 @@
+{
+  "disease_name": "Vulvar cancer",
+  "synonyms": [
+    "Cancer of the vulva"
+  ],
+  "summary": "Vulvar cancer is a rare type of cancer that forms in a woman's external genitals, called the vulva. It usually grows slowly over several years, often starting as precancerous cells (vulvar intraepithelial neoplasia or VIN).",
+  "causes": [
+    "Human papillomavirus (HPV) infection",
+    "Chronic inflammation or autoimmunity affecting the vulvar area",
+    "Vulvar intraepithelial neoplasia (VIN)"
+  ],
+  "risk_factors": [
+    "History of human papillomavirus (HPV) infection",
+    "History of genital warts",
+    "Increasing age",
+    "History of vulvar or cervical intraepithelial neoplasia",
+    "Increased number of sexual partners",
+    "Prior history of pre-invasive or invasive cervical cancer",
+    "History of cigarette smoking",
+    "Infection with human immunodeficiency virus (HIV)",
+    "Vulvar lichen sclerosus",
+    "Immunodeficiency syndromes",
+    "Northern European ancestry"
+  ],
+  "symptoms": [
+    "Lump in the vulva",
+    "Vulvar itching or tenderness",
+    "Bleeding that is not your period",
+    "Changes in the vulvar skin (color changes, growths, ulcer)",
+    "Itching, burn, or bleeding on the vulva that does not go away",
+    "Changes in the color of the skin of the vulva (redder or whiter)",
+    "Skin changes in the vulva (rash or warts)",
+    "Sores, lumps, or ulcers on the vulva that do not go away",
+    "Pain in the pelvis",
+    "Pain during urination",
+    "Pain during sex"
+  ],
+  "diagnosis": [
+    "Physical exam",
+    "Biopsy",
+    "Tissue biopsy",
+    "Examination of the vulva",
+    "Inspection of the perineum",
+    "Palpation of the Bartholin's glands",
+    "Chest X-ray",
+    "Intravenous pyelogram",
+    "Cystoscopy",
+    "Proctoscopy",
+    "Blood counts",
+    "Metabolic assessment"
+  ],
+  "treatments": [
+    "Surgery",
+    "Radiation therapy",
+    "Chemotherapy",
+    "Biologic therapy",
+    "Wide local excision",
+    "Radical partial vulvectomy",
+    "Radical complete vulvectomy",
+    "Sentinel lymph node (SLN) dissection",
+    "Checkpoint inhibitors",
+    "Electrochemotherapy with intravenous bleomycin",
+    "Chemoradiation"
+  ],
+  "related_genes": [
+    "HPV 16",
+    "HPV 33",
+    "HPV 18",
+    "BRAF",
+    "KIT",
+    "PD-L1"
+  ],
+  "subtypes": [
+    "Squamous cell carcinoma",
+    "Adenocarcinoma",
+    "Melanoma",
+    "Sarcoma",
+    "Basal cell carcinoma",
+    "Bartholin gland carcinoma",
+    "Verrucous carcinoma",
+    "Carcinoma in situ",
+    "Usual-type vulvar intraepithelial neoplasia (uVIN)",
+    "Differentiated vulvar intraepithelial neoplasia (dVIN)",
+    "Extramammary Paget's disease"
+  ]
+}

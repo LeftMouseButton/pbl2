@@ -1,0 +1,64 @@
+{
+  "disease_name": "Dermatofibrosarcoma protuberans (DFSP)",
+  "synonyms": [
+    "DFSP",
+    "Dermatofibrosarcoma, often protuberant",
+    "Keloid sarcoma",
+    "Progressive recurrent dermatofibroma",
+    "Bednar tumor",
+    "Pigmented DFSP",
+    "Myxoid DFSP",
+    "Giant cell fibroblastoma",
+    "Juvenile DFSP",
+    "Atrophic DFSP",
+    "Sclerosing DFSP",
+    "Granular cell variant",
+    "Fibrosarcomatous DFSP (DFSP-FS)"
+  ],
+  "summary": "Dermatofibrosarcoma protuberans (DFSP) is a rare, locally aggressive malignant soft-tissue sarcoma originating in the dermis. It typically presents as a slow-growing, firm skin lesion resembling a bruise or pimple, often on the torso. While metastasis is rare, local recurrence is common if not completely excised.",
+  "causes": [
+    "Chromosomal translocation t(17;22) fusing COL1A1 and PDGF genes, leading to a self-stimulatory growth signal"
+  ],
+  "risk_factors": [
+    "Exposure to certain chemicals (general for soft tissue sarcomas)",
+    "Prior radiation therapy (general for soft tissue sarcomas)",
+    "Certain genetic diseases (general for soft tissue sarcomas)",
+    "Pregnancy (may accelerate tumor growth due to progesterone receptor expression)"
+  ],
+  "symptoms": [
+    "Minor firm area of skin (1-5 cm in diameter)",
+    "Lump or swelling in soft tissue",
+    "Resembles a bruise, birthmark, or pimple",
+    "Slow-growing tumor",
+    "Protuberance (bump) (often delayed)",
+    "Pain (if spread and pressing on nerves/organs)",
+    "Trouble breathing (if spread and pressing on organs)"
+  ],
+  "diagnosis": [
+    "Biopsy (core needle or surgical incision)",
+    "Magnetic resonance imaging (MRI) (for assessing depth of invasion)",
+    "Immunohistochemical staining (e.g., for CD34, S-100 protein, hormone receptors)"
+  ],
+  "treatments": [
+    "Surgery",
+    "Mohs micrographic surgery (MMS)",
+    "Wide local excision (WLE)",
+    "Radiation therapy (RT) (if clear resection margins not achieved or for advanced disease)",
+    "Chemotherapy (if clear resection margins not achieved or for advanced disease)",
+    "Imatinib mesylate (tyrosine kinase inhibitor, for unresectable, recurrent, or metastatic DFSP)"
+  ],
+  "related_genes": [
+    "COL1A1",
+    "PDGF",
+    "CD34"
+  ],
+  "subtypes": [
+    "Fibrosarcomatous DFSP (DFSP-FS)",
+    "Bednar tumor (Pigmented DFSP)",
+    "Myxoid DFSP",
+    "Giant cell fibroblastoma (Juvenile DFSP)",
+    "Atrophic DFSP",
+    "Sclerosing DFSP",
+    "Granular cell variant"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "disease_name": "Esophageal cancer",
+  "synonyms": [
+    "Oesophageal cancer"
+  ],
+  "summary": "Esophageal cancer is a type of cancer that arises from the esophagus, the tube connecting the throat to the stomach. Early stages are often asymptomatic, but advanced disease typically presents with difficulty swallowing and weight loss.",
+  "causes": [
+    "Tobacco use (smoking or chewing)",
+    "Alcohol consumption",
+    "Very hot drinks (over 65 °C or 149 °F)",
+    "Poor diet (e.g., high in processed/barbecued meats, pickled vegetables; low in fresh foods)",
+    "Chewing betel nut",
+    "Exposure to nitrosamines",
+    "Nutritional deficiencies",
+    "Low socioeconomic status",
+    "Poor oral hygiene",
+    "Ingestion of caustic substances",
+    "Gastroesophageal reflux disease (GERD)",
+    "Barrett's esophagus",
+    "Obesity (especially abdominal obesity)",
+    "Bile reflux (unconjugated bile acids inducing oxidative stress and DNA damage)",
+    "Changes in HOXA13 expressing compartment"
+  ],
+  "risk_factors": [
+    "Smoking",
+    "Heavy alcohol consumption",
+    "Acid reflux",
+    "Older age (over 60 years)",
+    "Male sex",
+    "Obesity",
+    "Barrett's esophagus",
+    "Tylosis with esophageal cancer",
+    "Achalasia",
+    "Plummer–Vinson syndrome",
+    "History of head and neck cancer",
+    "History of radiation therapy to the chest",
+    "Human papillomavirus (HPV) infection (possible association)",
+    "Untreated celiac disease"
+  ],
+  "symptoms": [
+    "Difficulty swallowing (dysphagia)",
+    "Painful swallowing (odynophagia)",
+    "Weight loss",
+    "Hoarse voice",
+    "Persistent cough",
+    "Enlarged lymph nodes (around collarbone)",
+    "Dry cough",
+    "Coughing up blood",
+    "Vomiting blood",
+    "Pain behind the breastbone",
+    "Stomach region pain (heartburn-like)",
+    "Nausea",
+    "Vomiting",
+    "Regurgitation of food",
+    "Increased risk of aspiration pneumonia",
+    "Upper airway obstruction",
+    "Superior vena cava syndrome",
+    "Hypercalcemia",
+    "Jaundice (due to liver metastasis)",
+    "Abdominal swelling (ascites due to liver metastasis)",
+    "Impaired breathing (due to pleural effusion from lung metastasis)",
+    "Dyspnea"
+  ],
+  "diagnosis": [
+    "Imaging tests",
+    "Biopsy",
+    "Endoscopy (esophagogastroduodenoscopy)",
+    "Barium swallow or barium meal",
+    "Computed tomography (CT) scan",
+    "Positron emission tomography (PET) scan",
+    "PET/MR",
+    "Esophageal endoscopic ultrasound",
+    "Histological examination of biopsies",
+    "TNM staging system (AJCC staging system)"
+  ],
+  "treatments": [
+    "Surgery (e.g., esophagectomy, endoscopic mucosal resection)",
+    "Radiation therapy",
+    "Chemotherapy (e.g., cisplatin, carboplatin, oxaliplatin, fluorouracil, capecitabine, epirubicin)",
+    "Nutritional support",
+    "Palliative care",
+    "Esophageal stent insertion",
+    "Nasogastric tube feeding",
+    "Gastrostomy",
+    "Immunotherapy (e.g., nivolumab, pembrolizumab)",
+    "Radical radiotherapy",
+    "Mucosal ablation (e.g., radiofrequency ablation, photodynamic therapy, Nd-YAG laser, argon plasma coagulation)",
+    "Laser therapy"
+  ],
+  "related_genes": [
+    "RHBDF2",
+    "HOXA13"
+  ],
+  "subtypes": [
+    "Esophageal squamous-cell carcinoma (ESCC)",
+    "Esophageal adenocarcinoma (EAC)",
+    "Leiomyosarcoma",
+    "Malignant melanoma",
+    "Rhabdomyosarcoma",
+    "Lymphoma"
+  ]
+}

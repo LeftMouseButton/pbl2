@@ -1,0 +1,72 @@
+{
+  "disease_name": "Atypical Teratoid Rhabdoid Tumor",
+  "synonyms": [
+    "AT/RT",
+    "Malignant Rhabdoid Tumor of the CNS"
+  ],
+  "summary": "Atypical Teratoid Rhabdoid Tumor (AT/RT) is a rare, aggressive, Grade IV cancerous tumor primarily affecting the central nervous system (CNS) in infants and young children. It commonly occurs in the brain, especially the posterior cranial fossa, but can also be found in the spinal cord. AT/RT is characterized by specific genetic mutations, particularly deletions or mutations in the INI1/hSNF5 gene, and has a historically poor prognosis, though multimodal therapy has shown improved survival rates.",
+  "causes": [
+    "Germline genetic mutations",
+    "Chromosomal 22 deletion",
+    "INI1/hSNF5 gene deletions or mutations",
+    "SMARCB1 gene mutation"
+  ],
+  "risk_factors": [
+    "Young age (infants and young children)",
+    "Family history of AT/RT or other rhabdoid tumors",
+    "Inherited germline mutations (e.g., INI1, SMARCB1)"
+  ],
+  "symptoms": [
+    "Headache (especially morning headache or headache that resolves after vomiting)",
+    "Nausea",
+    "Vomiting",
+    "Vision problems",
+    "Hearing problems",
+    "Speech problems",
+    "Loss of balance",
+    "Trouble walking (ataxia)",
+    "Unusual sleepiness (lethargy)",
+    "Personality changes",
+    "Seizures",
+    "Increased head size (in infants)",
+    "Progressive paraplegia (spinal tumor)",
+    "Abnormal feeling in the legs (spinal tumor)"
+  ],
+  "diagnosis": [
+    "Physical exam",
+    "Neurological exam",
+    "Lab tests",
+    "Imaging (MRI of brain and spine, CT of chest and abdomen)",
+    "Lumbar puncture (to check for M1 disease)",
+    "Bone marrow aspiration",
+    "Bone marrow biopsy",
+    "Bone scan",
+    "Pathological examination (cytological or genetic analysis of tumor tissue)",
+    "Cerebrospinal fluid (CSF) examination",
+    "Genetic analysis (for INI1/hSNF5 gene deletion/mutation)",
+    "Immunohistochemical staining",
+    "Cytogenetic studies (e.g., Fluorescent in situ hybridization)"
+  ],
+  "treatments": [
+    "Surgery (tumor removal/resection)",
+    "Chemotherapy (e.g., cisplatinum, carboplatinum, cyclophosphamide, vincristine, etoposide, ifosfamide, mafosfamide)",
+    "Intrathecal chemotherapy",
+    "High dose chemotherapy with stem cell rescue",
+    "Radiation therapy (e.g., upfront radiation, conformal local radiation, external beam radiation, proton beam radiation)",
+    "Multimodal therapy (combination of surgery, chemotherapy, radiation)",
+    "Palliative care",
+    "Chromatin remodeling agents (Histone deacetylase inhibitors - preclinical)"
+  ],
+  "related_genes": [
+    "INI1 (hSNF5/INI1)",
+    "SMARCB1",
+    "OPN gene"
+  ],
+  "subtypes": [
+    "Posterior cranial fossa AT/RT",
+    "Supratentorial AT/RT",
+    "Pineal AT/RT",
+    "Spinal AT/RT",
+    "Multifocal AT/RT"
+  ]
+}

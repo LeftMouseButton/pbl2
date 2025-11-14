@@ -1,0 +1,31 @@
+{
+  "disease_name": "Embryonal Carcinoma",
+  "synonyms": [],
+  "summary": "Embryonal carcinoma is a relatively uncommon type of nonseminomatous germ cell tumour that occurs in the ovaries and testes. It can present as a palpable mass or widespread metastases, and can be pure or a component of mixed germ cell tumors.",
+  "causes": [],
+  "risk_factors": [],
+  "symptoms": [
+    "Palpable testicular mass",
+    "Asymmetric testicular enlargement",
+    "Low back pain",
+    "Dyspnoea",
+    "Cough",
+    "Haemoptysis",
+    "Haematemesis",
+    "Neurologic abnormalities",
+    "Sexual precocity (ovarian)",
+    "Abnormal uterine bleeding (ovarian)",
+    "Testicular lump"
+  ],
+  "diagnosis": [
+    "Gross examination showing pale grey, poorly defined tumour with haemorrhage and necrosis",
+    "Microscopic features including indistinct cell borders, mitoses, variable architecture (tubulopapillary, glandular, solid, embryoid bodies), nuclear overlap, and necrosis",
+    "Identification of blue cells attempting to form primitive tubules (in testicle)",
+    "Differential diagnosis from seminoma, teratocarcinoma, yolk sac tumor, and Sertoli–Leydig cell tumor"
+  ],
+  "treatments": [
+    "Chemotherapy"
+  ],
+  "related_genes": [],
+  "subtypes": []
+}

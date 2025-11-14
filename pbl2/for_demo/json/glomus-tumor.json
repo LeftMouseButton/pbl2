@@ -1,0 +1,60 @@
+{
+  "disease_name": "Glomus tumor",
+  "synonyms": [
+    "Solitary glomus tumor",
+    "Glomangioma",
+    "Glomangiomyoma",
+    "Glomangiosarcoma"
+  ],
+  "summary": "A rare neoplasm arising from the glomus body, mainly found under the nail, on the fingertip, or in the foot. The majority are benign but can show malignant features. They are modified smooth muscle cells that control the thermoregulatory function of dermal glomus bodies.",
+  "causes": [
+    "Deletions in the GLMN (glomulin) gene (familial glomangiomas)"
+  ],
+  "risk_factors": [
+    "Being female (solitary glomus tumors, especially subungual lesions)",
+    "Being male (multiple lesions)",
+    "Younger age (multiple glomus tumors develop earlier)"
+  ],
+  "symptoms": [
+    "Pain (often reproduced by cold water)",
+    "Sensitivity to cold weather",
+    "Bluish discoloration",
+    "Whitish appearance",
+    "Elevation of the nail bed",
+    "Lump in the neck (head and neck cancer, not glomus tumor)",
+    "Sore in the mouth or throat (head and neck cancer, not glomus tumor)",
+    "Sore throat that does not go away (head and neck cancer, not glomus tumor)",
+    "Trouble swallowing (head and neck cancer, not glomus tumor)",
+    "Change or hoarseness in the voice (head and neck cancer, not glomus tumor)"
+  ],
+  "diagnosis": [
+    "Histopathology (solid glomus tumor, glomangioma, glomangiomyoma)",
+    "Criteria for malignancy: tumor size > 2 cm and subfascial or visceral location, atypical mitotic figures, marked nuclear atypia, any level of mitotic activity",
+    "Physical exam of the area (head and neck cancer)",
+    "Blood and/or urine tests (head and neck cancer)",
+    "Endoscopy (head and neck cancer)",
+    "Biopsy or cell collection for microscopic examination (head and neck cancer)",
+    "Imaging tests (head and neck cancer)"
+  ],
+  "treatments": [
+    "Surgical excision (benign glomus tumors)",
+    "Surgery (head and neck cancer)",
+    "Radiation therapy (head and neck cancer)",
+    "Chemotherapy (head and neck cancer)",
+    "Cancer immunotherapy (head and neck cancer)",
+    "Targeted therapy (head and neck cancer)",
+    "Rehabilitation (physical therapy, dietary counseling, speech therapy for head and neck cancer)"
+  ],
+  "related_genes": [
+    "GLMN (glomulin)"
+  ],
+  "subtypes": [
+    "Solid glomus tumor",
+    "Glomangioma",
+    "Glomangiomyoma",
+    "Malignant glomus tumors",
+    "Locally infiltrative glomus tumors (LIGT)",
+    "Glomangiosarcomas arising in benign glomus tumors (GABG)",
+    "Glomangiosarcomas arising de novo (GADN)"
+  ]
+}

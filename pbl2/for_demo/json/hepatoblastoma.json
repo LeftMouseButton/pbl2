@@ -1,0 +1,45 @@
+{
+  "disease_name": "Hepatoblastoma",
+  "synonyms": [
+    "Malignant liver cancer occurring in infants and children"
+  ],
+  "summary": "Hepatoblastoma is a malignant liver cancer occurring in infants and children, composed of tissue resembling fetal liver cells, mature liver cells, or bile duct cells. It is typically unifocal, affects the right lobe of the liver more often than the left lobe, and can metastasize. It is most commonly diagnosed during a child's first three years of life.",
+  "causes": [
+    "Immature liver precursor cells",
+    "Beta-catenin mutations",
+    "Constitutive activation of the Wnt signaling pathway"
+  ],
+  "risk_factors": [
+    "Familial adenomatous polyposis (FAP)",
+    "Beckwith–Wiedemann syndrome",
+    "Trisomy 18",
+    "Trisomy 21",
+    "Aicardi syndrome",
+    "Li–Fraumeni syndrome",
+    "Goldenhar syndrome",
+    "Von Gierke disease"
+  ],
+  "symptoms": [
+    "Abdominal mass",
+    "Lump or pain on the right side of the abdomen",
+    "Yellowing of the skin",
+    "Asymptomatic at diagnosis (often advanced at diagnosis)"
+  ],
+  "diagnosis": [
+    "Blood test checking alpha-fetoprotein (AFP) level",
+    "AFP level greater than 500 ng/ml"
+  ],
+  "treatments": [
+    "Surgical removal of the tumor",
+    "Neoadjuvant chemotherapy",
+    "Liver transplantation",
+    "Adjuvant chemotherapy"
+  ],
+  "related_genes": [
+    "CTNNB1 (beta-catenin)"
+  ],
+  "subtypes": [
+    "Epithelial Type",
+    "Mixed Epithelial / Mesenchymal Type"
+  ]
+}

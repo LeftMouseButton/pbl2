@@ -1,0 +1,104 @@
+Dermatofibrosarcoma protuberans (DFSP) is a rare locally aggressive malignant cutaneous soft-tissue sarcoma. DFSP develops in the connective tissue cells in the middle layer of the skin (dermis). Estimates of the overall occurrence of DFSP in the United States are 0.8 to 4.5 cases per million persons per year. In the United States, DFSP accounts for between 1 and 6 percent of all soft-tissue sarcomas and 18 percent of all cutaneous soft-tissue sarcomas. In the Surveillance, Epidemiology and End Results (SEER) tumor registry from 1992 through 2004, DFSP was second only to Kaposi sarcoma.
+
+== Presentation ==
+Dermatofibrosarcoma protuberans begins as a minor firm area of skin most commonly about to 1 to 5 cm in diameter. It can resemble a bruise, birthmark, or pimple. It is a slow-growing tumor and is usually found on the torso but can occur anywhere on the body. About 90% of DFSPs are low-grade sarcomas. About 10% are mixed, containing a high-grade sarcomatous component (DFSP-FS); therefore, they are considered to be intermediate-grade sarcomas. DFSPs rarely lead to a metastasis (fewer than 5% metastasize), but DFSPs can recur locally. DFSPs most often arise in patients who are in their thirties but this may be due to diagnostic delay.
+
+=== Location ===
+Commonly located on the chest and shoulders, the following is the site distribution of DFPS as was observed in Surveillance, Epidemiology, and End Results (SEER) database between 2000 and 2010.
+
+Trunk/torso – 42%
+Lower extremity – 21%
+Upper extremity – 21%
+Head and neck – 13%
+Genitals – 1%
+
+== Variants ==
+The World Health Organization in 2020 classified the fibro sarcomatous DFSP (DFSP-FS) variant (also termed dermatofibrosarcoma protuberans, fibro sarcomatous) of the dermatofibrosarcoma protuberans as a specific form of the intermediate (rarely metastasizing) fibroblastic and myofibroblastic tumors and other variants of this disorder as a specific form of the intermediate (locally aggressive) fibroblastic and myofibroblastic tumors.
+
+=== Bednar tumors ===
+Bednar, or pigmented DFSP, is distinguished by the dispersal of melanin-rich dendritic cells of the skin. It represents 1–5 percent of all DFSP occurring in people rich in melanin pigments. Bednar is characterized by a dermal spindle cell proliferation like DFSP but distinguished by the additional presence of melanocytic dendritic cells. It occurs at the same rate as DFSP on fairer skin and should be considered to have the same chances of metastasis.
+
+=== Myxoid DFSP ===
+Myxoid DFSP has areas of myxoid degeneration in the stroma.
+
+=== Giant cell fibroblastoma ===
+
+Giant cell fibroblastoma contains giant cells, and is also known as juvenile DFSP. Giant cell fibroblastomas are skin and soft-tissue tumors that usually arise in childhood. They are sometimes seen in association with dermatofibrosarcoma protuberans (DFSP, hybrid lesions) or may transform or recur as DFSP.
+
+=== Atrophic DFSP ===
+Atrophic DFSP resemble other benign lesions such as morphea, idiopathic atrophoderma, atrophic scar, anetoderma or lipoatrophy. It behaves like classic DFSP. It commonly favours young to middle-aged adults. It has a slow infiltrative growth and a high rate of local recurrence if not completely excised.
+
+=== Sclerosing DFSP ===
+Sclerosing DFSP is a variant in which the cellularity is low, and the tumor consists of uniform bundles of collagen interspersed with more typical DFSP cells.
+Granular cell variant is a rare type in which spindle cells are mingled with richly granular cells, the granules being lysosomal, with prominent nucleoli.
+
+=== Fibrosarcomatous DFSP (DFSP-FS) ===
+
+Fibrosarcomatous DFSP is a rare variant of DFSP involving greater aggression, high rates of local occurrences, and higher metastatic potential. DFSP-FS are considered to be intermediate-grade sarcomas, although they rarely metastasize (fewer than 5 percent of cases).
+
+== Pathophysiology ==
+More than 90% of DFSP tumors have the chromosomal translocation t(17;22). The translocation fuses the collagen gene (COL1A1) with the platelet-derived growth factor (PDGF) gene. The fibroblast, the cell of origin of this tumor, expresses the fusion gene in the belief that it codes for collagen. However, the resulting fusion protein is processed into a mature platelet-derived growth factor which is a potent growth factor. Fibroblasts contain the receptor for this growth factor. Thus the cell "thinks" it is producing a structural protein, but it creates a self-stimulatory growth signal. The cell divides rapidly and tumor forms.
+The tissue is often positive for CD34.
+
+== Diagnosis ==
+
+DFSP is a malignant tumor diagnosed with a biopsy, when a portion of the tumor is removed for examination. In order to ensure that enough tissue is removed to make an accurate diagnosis, the initial biopsy of a suspected DFSP is usually done with a core needle or a surgical incision.
+Clinical palpation is not entirely reliable for ascertaining the depth of a DFSP infiltration. Magnetic resonance imaging (MRI) is more sensitive addressing the depth of the invasion on some types of DFSP, particularly large or recurring tumors, though MRI is less accurate for identifying infiltration to head and neck tumors.
+
+== Diagnostic delay and misdiagnosis ==
+Due to the rarity, initial presentation of flat plaque (skin hardening) and the slow-growing nature of DFSP, it may be months to years without a protuberance (bump). The dissonance between the name of the neoplasm and its clinical presentations may cause a majority of patients to experience a diagnostic delay. A 2019 research study found out of 214 patients a range between less than a year to 42 years before diagnosis (median, four years) from patients noticing a symptom to diagnosis.
+Currently, a majority of patients (53%) receive a misdiagnosis by health care providers. The most frequent prebiopsy clinical suspicion included cyst (101 [47.2%]), lipoma (30 [14.0%]), and scar (17 [7.9%]).
+It has been suggested an alternative term for DFSP should be dermatofibrosarcoma, often protuberant.
+
+== Pregnancy ==
+It is suggested that DFSPs may enlarge more rapidly during pregnancy. Immunohistochemical stains for CD34, S-100 protein, factor XIIIa, and estrogen and progesterone receptors were performed on biopsy specimens. The tumors showed the expression of the progesterone receptor. As with many other stromal neoplasms, DFSPs appear to express low levels of hormone receptors, which may be one factor that accounts for their accelerated growth during pregnancy.
+
+== Treatment ==
+
+Treatment is primarily surgical, with chemotherapy and radiation therapy used if clear resection margins are not acquired.
+
+=== Surgical treatment ===
+The type of surgical treatment chosen is dependent on the location of the DFSP occurrence and possible size.
+
+==== Mohs surgery ====
+Mohs micrographic surgery (MMS) has a high cure rate and lowers the recurrence reduction of DFSP if negative resection margins are achieved.
+
+==== Wide local excision ====
+Wide local excision (WLE) was the gold standard for treating DFSP but is currently under reevaluation. Presently in the United States, WLE may be suggested after the recurrence of MMS. Larger resection margins are suggested for WLE than MMS. Recurrence rate with WLE is about 8.5% with a lower recurrence rate related to wider excision.
+
+=== Resection margin ===
+DFSP characteristic features are its capacity to invade surrounding tissues, to a considerable distance from the central focus of the tumor in a "tentacle-like" fashion. This fact, coupled with diagnostic delay, may lead to inadequate initial resection. Inadequate initial treatment results in larger, deeper recurrent lesions, but these can be managed by appropriate wide excision.
+
+=== Radiation therapy ===
+DFSP is a radioresponsive tumor; radiation therapy (RT) is not used as the first choice for treatment. Conservative resection through MMS or WLE is attempted first. If clear margins are not achieved RT, or chemotherapy is recommended.
+
+=== Chemotherapy ===
+DFSP was previously regarded and nonresponsive to standard chemotherapy. In 2006 the US FDA approved (imatinib mesylate) for the treatment of DFSP. As is true for all medicinal drugs with name ending in "ib," imatinib is a small molecular pathway inhibitor; imatinib inhibits tyrosine kinase. It may be able to induce tumor regression in patients with recurrent DFSP, unresectable DFSP, or metastatic DFSP. There is clinical evidence that imatinib, which inhibits PDGF-receptors, may be effective for tumors positive for the t(17;22) translocation. It is suggested that imatinib may be a treatment for challenging, locally advanced disease and in the rare metastatic cases. It was approved for use by adult patients with unresectable, recurrent and/or metastatic dermatofibrosarcoma protuberans (DFSP).
+
+== Metastatic disease ==
+Distant hematogenous metastases are extremely rare. Metastases to regional lymph nodes are rarer and are most likely in patients who have had multiple local recurrences after inadequate surgical resection. Repeatedly recurring tumors have an increased risk for transformation into a more malignant form (DFSP-FS). The lungs are most frequently affected, but metastases to the brain, bone, and other soft tissues are reported.
+
+== Studies ==
+DFSP is not extensively studied due to its rarity and low mortality. The majority of studies are small size case studies or meta-analysis.
+The most extensive research study to date was Perspectives of Patients With Dermatofibrosarcoma Protuberans on Diagnostic Delays, Surgical Outcomes, and Nonprotuberance. The lead researcher, Jerad Gardner, spoke at a TED Talk in February 2020 on the topic.
+
+== History ==
+R. W. Taylor, in 1890, first identified DFSP as a keloid sarcoma. Later in 1924, Ferdinand-Jean Darier and Ferrand identified it as a progressive recurrent dermatofibroma. In 1925, E. Hoffmann coined the term dermatofibrosarcoma protuberans. Bednar tumor was first described by Bednar in 1957.
+
+== ICD coding ==
+The following are the ICD-10 medical codes:
+
+ICD-0: 8832/3 – dermatofibrosarcoma protuberans, NOS
+ICD-0: 8833/3 – pigmented dermatofibrosarcoma protuberans
+ICD-0: 8834/1 – giant cell fibroblastoma
+Fibrosarcomatous dermatofibrosarcoma protuberans: no distinct coding identified
+
+== Additional images ==
+
+== See also ==
+List of cutaneous conditions
+
+== References ==
+
+== External links ==
+Dermatofibrosarcoma protuberans in NIH Genetic and Rare Diseases Information Center

@@ -1,0 +1,66 @@
+{
+  "disease_name": "Fallopian tube cancer",
+  "synonyms": [
+    "Tubal cancer",
+    "Primary fallopian tube cancer (PFTC)",
+    "Epithelial ovarian cancers"
+  ],
+  "summary": "Fallopian tube cancer is a malignant neoplasm that originates from the fallopian tube. It is grouped under epithelial ovarian cancers and shares similarities and treatments with ovarian and primary peritoneal cancers. It occurs when there are genetic mutations in the DNA, often of unknown cause, but can also be inherited. The cancer forms in the tissues lining a fallopian tube, which are part of the female reproductive system.",
+  "causes": [
+    "Genetic mutations (DNA changes)",
+    "Inherited genetic changes (hereditary ovarian cancer)",
+    "BRCA1 gene mutations",
+    "BRCA2 gene mutations",
+    "Lynch syndrome"
+  ],
+  "risk_factors": [
+    "Family history of ovarian cancer",
+    "Inherited BRCA1 or BRCA2 gene mutations",
+    "Endometriosis",
+    "Hormone replacement therapy",
+    "Overweight or obesity",
+    "Tall stature",
+    "Older age (post-menopause)",
+    "Never been pregnant"
+  ],
+  "symptoms": [
+    "Pain in the abdomen or pelvis",
+    "Swelling in the abdomen or pelvis",
+    "Feeling of pressure in the abdomen or pelvis",
+    "Sudden or frequent urge to urinate",
+    "Trouble eating",
+    "Feeling full",
+    "Lump in the pelvic area",
+    "Gastrointestinal problems (gas, bloating, constipation)",
+    "Abnormal vaginal bleeding",
+    "Blood-stained watery vaginal discharge",
+    "Abdominal distension",
+    "Weight loss"
+  ],
+  "diagnosis": [
+    "Medical history",
+    "Family health history",
+    "Physical exam",
+    "Pelvic exam",
+    "Imaging tests (transvaginal ultrasound, abdominal ultrasound, CT scan, MRI)",
+    "Blood tests (CA-125, CBC)",
+    "Biopsy of fallopian tissue",
+    "Pathologic assessment (SEE-FIM Protocol)",
+    "Detection of a pelvic mass on routine gynecologic examination"
+  ],
+  "treatments": [
+    "Surgery (total abdominal hysterectomy, removal of ovaries, tubes, uterus, cervix, omentum removal, lymph node sampling)",
+    "Cytoreductive surgery",
+    "Adjuvant chemotherapy (platinum-based)",
+    "Radiation therapy"
+  ],
+  "related_genes": [
+    "BRCA1",
+    "BRCA2"
+  ],
+  "subtypes": [
+    "Adenocarcinoma",
+    "Leiomyosarcoma",
+    "Transitional cell carcinoma"
+  ]
+}

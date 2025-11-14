@@ -1,0 +1,53 @@
+{
+  "disease_name": "Malignant Peripheral Nerve Sheath Tumor",
+  "synonyms": [
+    "MPNST",
+    "Neurofibrosarcoma"
+  ],
+  "summary": "A malignant peripheral nerve sheath tumor (MPNST) is a rare and aggressive form of cancer that arises from the connective tissue surrounding peripheral nerves. It is classified as a sarcoma and can occur anywhere in the body where peripheral nerves are present. MPNSTs can be life-threatening, especially if they grow large or metastasize.",
+  "causes": [
+    "Genetic mutations",
+    "Loss of heterozygosity on the 17p chromosome",
+    "Mutation of the p53 tumor suppressor gene"
+  ],
+  "risk_factors": [
+    "Neurofibromatosis type 1 (NF-1)"
+  ],
+  "symptoms": [
+    "Swelling around the tumor",
+    "Difficulty in moving the extremity with the tumor",
+    "Limp",
+    "Soreness localized to the area of the tumor or extremity",
+    "Neurological symptoms",
+    "Pain or discomfort (numbness, burning, pins and needles)",
+    "Dizziness",
+    "Loss of balance",
+    "Loss of hearing on one side",
+    "Ringing in ears",
+    "Numbness or paralysis of the face"
+  ],
+  "diagnosis": [
+    "Tumor biopsy",
+    "MRI",
+    "X-rays",
+    "CT scans",
+    "Bone scans",
+    "Ear exams",
+    "Hearing tests"
+  ],
+  "treatments": [
+    "Surgical resection with wide margins",
+    "Chemotherapy",
+    "Radiation therapy",
+    "Amputation of the extremity",
+    "Limb-saving surgery",
+    "Regular monitoring (for small tumors)"
+  ],
+  "related_genes": [
+    "p53",
+    "NF-1"
+  ],
+  "subtypes": [
+    "Malignant triton tumors (MPNST with rhabdomyoblastomatous component)"
+  ]
+}

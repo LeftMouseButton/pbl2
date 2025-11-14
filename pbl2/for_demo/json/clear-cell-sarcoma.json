@@ -1,0 +1,46 @@
+{
+  "disease_name": "Clear cell sarcoma",
+  "synonyms": [],
+  "summary": "Clear cell sarcoma is a rare subtype of cancer, specifically a sarcoma, primarily affecting soft tissues and the dermis. It is characterized by the expression of specific fusion genes, most commonly EWSR1-ATF1. Recurrence is common, and metastasis occurs in over 50% of cases, often to bone, lymph nodes, and lungs.",
+  "causes": [
+    "EWSR1-ATF1 fusion gene",
+    "EWSR1-CREB1 fusion gene",
+    "EWSR1-CREM fusion gene",
+    "EWSR1-DDIT3 fusion gene"
+  ],
+  "risk_factors": [],
+  "symptoms": [
+    "Slow growing mass",
+    "Affects tendons and aponeuroses",
+    "Deeply situated mass",
+    "Lump",
+    "Hard mass",
+    "Pain (when large enough)",
+    "Tenderness (when large enough)",
+    "Commonly found in extremities (knee, feet, ankle)"
+  ],
+  "diagnosis": [
+    "Physical exam",
+    "Biopsy",
+    "X-rays",
+    "Computed tomography (CT) scans",
+    "MRI",
+    "Chest CT (for metastasis evaluation)",
+    "Bone scan (for metastasis evaluation)",
+    "Positron emission tomography (PET) (for metastasis evaluation)"
+  ],
+  "treatments": [
+    "Surgery (to remove tumor)",
+    "Radiation therapy",
+    "Chemotherapy (few cases respond)",
+    "Targeted therapy (under investigation)"
+  ],
+  "related_genes": [
+    "EWSR1-ATF1",
+    "EWSR1-CREB1",
+    "EWSR1-CREM",
+    "EWSR1-DDIT3",
+    "FET gene family"
+  ],
+  "subtypes": []
+}

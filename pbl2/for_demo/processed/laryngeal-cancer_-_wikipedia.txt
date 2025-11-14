@@ -1,0 +1,133 @@
+Laryngeal cancer is a kind of cancer that can develop in any part of the larynx (voice box). It is typically a squamous-cell carcinoma, reflecting its origin from the epithelium of the larynx.
+The prognosis is affected by the location of the tumour. For the purposes of staging, the larynx is divided into three anatomical regions: the glottis (true vocal cords, anterior and posterior commissures); the supraglottis (epiglottis, arytenoids and aryepiglottic folds, and false cords); and the subglottis. Most laryngeal cancers originate in the glottis, with supraglottic and subglottic tumours being less frequent.
+Laryngeal cancer may spread by: direct extension to adjacent structures, metastasis to regional cervical lymph nodes, or via the blood stream. The most common site of distant metastases is the lung. Laryngeal cancer occurred in 177,000 people in 2018, and resulted in 94,800 deaths (an increase from 76,000 deaths in 1990). Five-year survival rates in the United States are 60.3%.
+
+== Signs and symptoms ==
+The symptoms of laryngeal cancer depend on the size and location of the tumour. Symptoms may include the following:
+
+Hoarseness or other voice changes
+A lump in the neck
+A sore throat or feeling that something is stuck in the throat
+Persistent cough
+Stridor - a high-pitched wheezing sound indicative of a narrowed or obstructed airway
+Bad breath
+Earache (due to referred pain)
+Difficulty swallowing
+Adverse effects of treatment can include changes in appearance, difficulty eating, dry mouth, or loss of voice that may require learning alternate methods of speaking.
+
+== Risk factors ==
+The most important risk factor for laryngeal cancer is tobacco smoking. Death from laryngeal cancer is 20 times more likely for the heaviest smokers than for their non-smoking peers. Regular and heavy consumption of alcohol, particularly alcoholic spirits, is also a significant risk factor. Using alcohol and tobacco together is an especially strong risk factor and causes 89% of laryngeal cancer cases.
+Occupational exposure to environmental factors such as wood dust, paint fumes, and certain chemicals used in the metalworking, petroleum, plastics, and textile industries is also believed to be a risk factor for laryngeal cancers. Infections by some forms of HPV carry some risk of laryngeal carcinoma.
+People with a history of head and neck cancer are known to be at higher risk (about 25%) of developing a second, separate cancer of the head, neck, or lung. This is likely due to chronic exposure to the carcinogenic effects of alcohol and tobacco. In this situation, a field change effect may occur, where the epithelial tissues start to become diffusely dysplastic with a reduced threshold for malignant change. This risk may be reduced by quitting alcohol and tobacco.
+
+== Diagnosis ==
+
+Diagnosis is made by the doctor based on a medical history, physical examination, and special investigations which may include a chest x-ray, CT or MRI scans, and tissue biopsy. The examination of the larynx requires some expertise, which may require specialist referral.
+The physical exam includes a systematic examination of the whole patient to assess general health and to look for signs of associated conditions and metastatic disease. The neck and supraclavicular fossa are palpated to feel for cervical adenopathy, other masses, and laryngeal crepitus. The oral cavity and oropharynx are examined under direct vision. The larynx may be examined by indirect laryngoscopy using a small angled mirror with a long handle (akin to a dentist's mirror) and a strong light. Indirect laryngoscopy can be highly effective, but requires skill and practice for consistent results. For this reason, many specialist clinics now use fibre-optic nasal endoscopy where a thin and flexible endoscope, inserted through the nostril, is used to clearly visualise the entire pharynx and larynx. Nasal endoscopy is a quick and easy procedure performed in a clinic. Local anaesthetic spray may be used.
+If there is a suspicion of cancer, biopsy is performed, usually under general anaesthetic. This provides histological proof of cancer type and grade. If the lesion appears to be small and well localised, the surgeon may undertake excision biopsy, where an attempt is made to completely remove the tumour at the time of first biopsy. In this situation, the pathologist will not only be able to confirm the diagnosis, but can also comment on the completeness of excision, i.e., whether the tumour has been completely removed. A full endoscopic examination of the larynx, trachea, and esophagus is often performed at the time of biopsy.
+For small glottic tumours, further imaging may be unnecessary. In most cases, tumour staging is completed by scanning the head and neck region to assess the local extent of the tumour and any pathologically enlarged cervical lymph nodes.
+The final management plan will depend on the site, stage (tumour size, nodal spread, distant metastasis), and histological type. The overall health and wishes of the patient must also be taken into account. A prognostic multigene classifier is potentially useful for the distinction of laryngeal cancer of low or high risk of recurrence and might influence the treatment choice in future.
+
+== Staging ==
+Laryngeal tumours are classified according to the guidelines set by academic organisations such as the National Comprehensive Cancer Network (NCCN) . Overall classification, also known as "staging", can help predict treatment options for patients. Staging consists of three separate evaluations. The first is of the tumour/cancer itself ("T"). The second is the extent to which adjacent lymph nodes are involved in the tumour/cancer's spread ("N"). The third is the presence or absence of any distant metastases ("M). The specific “staging” criteria for laryngeal cancer, as utilised in the NCCN’s 2019 Guidelines for Head and Neck Cancers, are:
+
+=== T ===
+TX: Unable to assess
+Tis: Carcinoma in situ
+
+==== Supraglottis ====
+T1: Tumour present in only one subsite of the supraglottis. Vocal cords have normal mobility.
+T2: Tumour invades mucosa. There is no fixation of the larynx.
+T3: Tumour causes fixation of the vocal cords, with or without invasion of neighbouring areas.
+T4:
+
+T4A – Tumour invades at least one of the following: the outer cortex of the thyroid cartilage, extra-laryngeal tissue
+T4B – Tumour invades at least one of the following: the pre-vertebral space, any structures of the mediastinum, the carotid sheath, or the structures within the carotid sheath.
+
+==== Glottis ====
+T1: Tumour only involves the vocal cords. Vocal cords have normal mobility.
+
+T1A – One vocal cord
+T1B – Both vocal cords
+T2: Tumour meets at least one of the following criteria:
+
+extends to supra- or sub-glottis
+impairs vocal cord mobility
+T3: Tumour meets at least one of the following criteria:
+
+causes fixation of the vocal cords
+invades the paraglottic space
+involves the thyroid cartilage’s inner cortex
+T4: Same as “Supraglottis”
+
+==== Subglottis ====
+T1: Tumour is only in the subglottis
+T2: Tumour involves both subglottis and vocal cords (regardless of cord mobility)
+T3: Same as “Glottis”
+T4: Same as “Supraglottis”
+
+=== N ===
+If Using Clinical (Non-Pathological) Diagnosis
+NX: Unable to assess
+N0: No involvement of neighbouring lymph nodes
+N1: Tumour meets ALL of the following criteria:
+
+involves a single lymph node
+involved lymph node on the same side of the body as the tumour
+involved lymph node less than 3 cm in “greatest dimension”
+lacks extension beyond the lymph node
+N2: Tumour meets ANY of the following criteria
+
+N2A – Same as N1, except size can be between 3–6 cm
+N2B – Same as N2A, except lymph nodes can be multiple, and there is no minimum size
+N2C – Same as N2B, except lymph nodes can be on any side of the body
+N3: Tumour meets ANY of the following criteria:
+
+N3A – Same as N1, except size is greater than 6 cm
+N3B – Tumour obviously extends beyond the lymph node border (regardless of number, size, or location of lymph nodes)
+If Using Pathological Diagnosis
+NX: Same as “Clinical Diagnosis – NX”
+N0: Same as “Clinical Diagnosis – N0”
+N1: Same as “Clinical Diagnosis – N1”
+N2: Tumour meets ANY of the following criteria
+
+N2A – Same as “Clinical Diagnosis – N2A”, except the tumour can extend beyond the involved lymph node
+N2B – Same as “Clinical Diagnosis – N2B”
+N2C – Same as “Clinical Diagnosis – N2C”
+N3: Tumour meets ANY of the following criteria:
+
+N3A – Same as “Clinical Diagnosis – N3A”
+N3B – Any provable presence of tumour extension beyond the lymph node
+
+=== M ===
+M0: No evidence of distant metastasis
+M1: Evidence of distant metastasis
+
+== Treatment ==
+
+Specific treatment depends on the location, type, and stage of the tumour. Treatment may involve surgery, radiotherapy, or chemotherapy, alone or in combination.
+Surgical Treatment
+Surgical treatment may involve partial or full removal of the tumour. Neighbouring tissues and structures may or may not be removed, depending on their involvement in the tumour’s structure and spread. Full removal of the larynx may be necessary in some cases.
+Adjunct Treatment
+Adjunct treatment, most commonly the administration of chemotherapy or radiotherapy, may be necessary. Chemotherapy or radiotherapy may be necessary singly, in combination with each other, or in combination with surgery. Adjunct treatment may be necessary prior to surgical treatment, alongside surgical treatment, or after surgical treatment. Clinical decision-making can be difficult in circumstances where the patient is unable to access necessary adjunctive treatment.
+Multi-Disciplinary Treatment
+Often, successful treatment of and recovery from laryngeal cancer will involve expertise outside of the realms of surgery or oncology. Physical therapists, occupational therapists, speech therapists, psychiatrists, psychologists, oral/maxillofacial surgeons, dentists, neurologists, neurosurgeons, and endocrinologists may all become involved in the care of patients with laryngeal cancer.
+
+== Epidemiology ==
+Incidence is five in 100,000 (12,500 new cases per year) in the US. The American Cancer Society estimated that 9,510 men and women (7,700 men and 1,810 women) would be diagnosed with and 3,740 men and women would die of laryngeal cancer in 2006.
+According to the GLOBOCAN 2018 estimates of cancer incidence and mortality produced by the International Agency for Research on Cancer, there were 177,422 new cases of laryngeal cancer worldwide in 2018 (1.0% of the global total.) Among worldwide cancer deaths, 94,771 (1.0%) were due to laryngeal cancer.
+
+In 2019, it is estimated that there will be 12,410 new laryngeal cancer cases in the United States, (3.0 per 100,000). The number of new cases decreases every year at a rate of 2.4%, and this is believed to be related to decreased cigarette smoking in the general population.
+Laryngeal cancer is listed as a "rare disease" by the Office of Rare Diseases (ORD) of the National Institutes of Health (NIH). This means that laryngeal cancer affects fewer than 200,000 people in the US.
+
+== See also ==
+Voice prosthesis
+
+== References ==
+
+== External links ==
+
+Staging cancer of the larynx
+Cancer Management Handbook: Head and Neck Cancers Archived 2013-10-04 at the Wayback Machine
+Clinically reviewed laryngeal cancer information for patients, from Cancer Research UK
+UK laryngeal cancer statistics from Cancer Research UK

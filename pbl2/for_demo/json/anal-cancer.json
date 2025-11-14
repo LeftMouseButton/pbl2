@@ -1,0 +1,64 @@
+{
+  "disease_name": "Anal Cancer",
+  "synonyms": [],
+  "summary": "Anal cancer is a type of cancer that forms in the tissues of the anus, the distal opening of the gastrointestinal tract. It is most commonly a squamous cell carcinoma and is strongly associated with human papillomavirus (HPV) infection. Symptoms often include bleeding, lumps, pain, itching, discharge, and changes in bowel habits. Diagnosis typically involves physical exams, DRE, anoscopy, and biopsy, while treatment usually combines chemotherapy and radiation therapy, sometimes with surgery.",
+  "causes": [
+    "Human papillomavirus (HPV) infection (especially high-risk types like HPV-16)"
+  ],
+  "risk_factors": [
+    "Weakened immune system (e.g., due to HIV/AIDS or organ transplant medicines)",
+    "History of vulvar cancer",
+    "History of vaginal cancer",
+    "History of cervical cancer",
+    "Many sexual partners",
+    "Receptive anal sex",
+    "Smoking cigarettes",
+    "Older age (typically after 45, average early 60s)",
+    "Female sex"
+  ],
+  "symptoms": [
+    "Bleeding from the anus or rectum",
+    "Lump near the anus",
+    "Pain in the area around the anus",
+    "Pressure in the area around the anus",
+    "Itching from the anus",
+    "Discharge from the anus",
+    "Change in bowel habits (e.g., narrower stools, increased frequency, bowel incontinence)"
+  ],
+  "diagnosis": [
+    "Medical history (including symptoms and family health history)",
+    "Physical examination",
+    "Digital rectal examination (DRE)",
+    "Anoscopy (using an anoscope)",
+    "High-resolution anoscopy (using a colposcope)",
+    "Proctoscopy",
+    "Endo-anal ultrasound",
+    "Endorectal ultrasound",
+    "Tissue biopsy",
+    "Anal Pap smears (for screening high-risk individuals)",
+    "Screening for precancer cells"
+  ],
+  "treatments": [
+    "Radiation therapy",
+    "Chemotherapy",
+    "Surgery",
+    "Combined modality approach (chemotherapy and radiation)",
+    "Infrared photocoagulation (for localized disease/precursor lesions)",
+    "5-FU (Fluorouracil)",
+    "Mitomycin C (MMC)",
+    "Cisplatin",
+    "Taxol (Paclitaxel)",
+    "Carboplatinum",
+    "Doxorubicin",
+    "Capecitabine",
+    "Surgical resection with permanent colostomies (historically)"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Squamous cell carcinoma (epidermoid carcinoma)",
+    "Adenocarcinoma",
+    "Small cell carcinoma",
+    "Melanoma",
+    "Cloacogenic carcinoma"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "disease_name": "Gastric cancer",
+  "synonyms": [
+    "Stomach cancer"
+  ],
+  "summary": "Gastric cancer is a malignant tumor of the stomach that develops in the lining of the stomach due to abnormal cell growth. Most cases are gastric carcinomas, with subtypes including gastric adenocarcinomas. Lymphomas and mesenchymal tumors can also occur in the stomach. The cancer can spread to other parts of the body, including the liver, lungs, bones, lining of the abdomen, and lymph nodes. It is the fifth-leading type of cancer globally and the third-leading cause of cancer death.",
+  "causes": [
+    "Helicobacter pylori infection",
+    "Certain strains of H. pylori",
+    "Genetic syndromes",
+    "Hereditary diffuse gastric cancer",
+    "Epstein–Barr virus",
+    "Bile reflux"
+  ],
+  "risk_factors": [
+    "Smoking",
+    "Dietary factors (pickled vegetables, fried foods, smoked foods, salt-rich foods, meat, processed meat, red meat)",
+    "Obesity",
+    "Alcohol consumption",
+    "Iodine deficiency",
+    "Male sex",
+    "Older age",
+    "AIDS"
+  ],
+  "symptoms": [
+    "Heartburn",
+    "Upper abdominal pain",
+    "Nausea",
+    "Loss of appetite",
+    "Weight loss",
+    "Yellowing of the skin and whites of the eyes",
+    "Vomiting",
+    "Difficulty swallowing",
+    "Blood in the stool (melena)",
+    "Fatigue",
+    "Bloating of the stomach after meals",
+    "Vomiting blood",
+    "Anemia",
+    "Indigestion",
+    "Abdominal discomfort",
+    "Diarrhea",
+    "Constipation",
+    "Unexplained nausea",
+    "Unexplained weight loss",
+    "Weakness"
+  ],
+  "diagnosis": [
+    "Gastroscopic exam",
+    "Upper GI series (barium roentgenogram)",
+    "Computed tomography (CT) scanning of the abdomen",
+    "Breath test",
+    "Biopsy (histological examination)",
+    "Endocytoscopy",
+    "Optical coherence tomography",
+    "Complete blood count (CBC)",
+    "Fecal occult blood test",
+    "Medical imaging (to determine spread)",
+    "Blood tests for tumor markers (carcinoembryonic antigen, carbohydrate antigen)",
+    "Endoscopic ultrasound exam",
+    "PET scan"
+  ],
+  "treatments": [
+    "Surgery (gastrectomy, endoscopic mucosal resection, endoscopic submucosal dissection)",
+    "Chemotherapy (e.g., 5-fluorouracil, cisplatin, epirubicin, etoposide, docetaxel, oxaliplatin, capecitabine, irinotecan)",
+    "Radiation therapy",
+    "Targeted therapy (e.g., trastuzumab for HER2-overexpressing tumors)",
+    "Immunotherapy (e.g., nivolumab)",
+    "Palliative care",
+    "Treatment of H. pylori infection",
+    "Gene therapy"
+  ],
+  "related_genes": [
+    "CDH1",
+    "HER2/neu",
+    "ITGAV",
+    "DUSP1",
+    "P2RX7",
+    "Homologous-recombination genes"
+  ],
+  "subtypes": [
+    "Gastric adenocarcinomas",
+    "Lymphomas",
+    "Mesenchymal tumors",
+    "Intestinal type adenocarcinoma",
+    "Diffuse type adenocarcinoma",
+    "Signet ring cell carcinomas",
+    "Extranodal marginal zone B-cell lymphomas (MALT type)",
+    "Diffuse large B-cell lymphomas",
+    "Carcinoid tumors",
+    "Stromal tumors"
+  ]
+}

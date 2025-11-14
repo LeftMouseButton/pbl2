@@ -1,0 +1,66 @@
+{
+  "disease_name": "Wilms tumor",
+  "synonyms": [
+    "Wilms' tumor",
+    "Nephroblastoma"
+  ],
+  "summary": "Wilms tumor is a rare type of kidney cancer that typically occurs in children, causing a tumor on one or both kidneys. It is the most common malignant renal tumor in children. While the majority of cases occur in children without associated genetic syndromes, a minority have congenital abnormalities. The tumor is highly responsive to treatment, with a high cure rate.",
+  "causes": [
+    "Alterations to WT1 gene",
+    "Alterations to WT2 gene",
+    "Nephrogenic rests",
+    "Denys-Drash syndrome",
+    "Genetic mutations",
+    "Congenital abnormality"
+  ],
+  "risk_factors": [
+    "Certain genetic conditions",
+    "Birth defects",
+    "Aniridia",
+    "Hemihypertrophy",
+    "Perlman syndrome"
+  ],
+  "symptoms": [
+    "Lump in the abdomen",
+    "Blood in the urine",
+    "Fever",
+    "Painless, palpable abdominal mass",
+    "Loss of appetite",
+    "Abdominal pain",
+    "Nausea and vomiting",
+    "High blood pressure",
+    "Varicocele"
+  ],
+  "diagnosis": [
+    "Kidney examination",
+    "Blood tests",
+    "Urine tests",
+    "Ultrasound scan",
+    "Computed tomography scan",
+    "MRI scan",
+    "Tissue sample",
+    "Biopsy (risk of spreading)",
+    "Pathological examination of nephrectomy specimen",
+    "Virtual karyotyping"
+  ],
+  "treatments": [
+    "Surgery (nephrectomy)",
+    "Chemotherapy",
+    "Radiation therapy",
+    "Biologic therapies",
+    "Actinomycin D"
+  ],
+  "related_genes": [
+    "WT1",
+    "WT2",
+    "CTNNB1",
+    "H19"
+  ],
+  "subtypes": [
+    "Syndromic Wilms' tumor",
+    "Non-syndromic Wilms' tumor",
+    "Bilateral Wilms' tumor",
+    "Favorable Wilms' tumor",
+    "Anaplastic Wilms' tumor"
+  ]
+}

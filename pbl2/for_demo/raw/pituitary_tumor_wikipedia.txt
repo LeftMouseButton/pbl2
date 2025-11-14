@@ -1,0 +1,117 @@
+A pituitary adenoma is a tumor that occurs in the pituitary gland. Most pituitary tumors are benign, approximately 35% are invasive and just 0.1% to 0.2% are carcinomas. Pituitary adenomas represent from 10% to 25% of all intracranial neoplasms, with an estimated prevalence rate in the general population of approximately 17%.
+Non-invasive and non-secreting pituitary adenomas are considered to be benign in the literal as well as the clinical sense, though a 2011 meta-analysis of available research showed that research to either support or refute this assumption was scant and of questionable quality.
+Adenomas exceeding 10 mm (0.39 in) in size are defined as macroadenomas, while those smaller than 10 mm (0.39 in) are referred to as microadenomas. Most pituitary adenomas are microadenomas and have an estimated prevalence of 16.7% (14.4% in autopsy studies and 22.5% in radiologic studies). The majority of pituitary microadenomas remain undiagnosed, and those that are diagnosed are often found as an incidental finding and are referred to as incidentalomas.
+Pituitary macroadenomas are the most common cause of hypopituitarism.
+While pituitary adenomas are common, affecting approximately 1 in 6 members of the general population, clinically active pituitary adenomas that require surgical treatment are more rare, affecting approximately 1 in 1,000.
+
+
+== Signs and symptoms ==
+
+
+=== Physical ===
+Hormone secreting pituitary adenomas cause one of several forms of hyperpituitarism. The specifics depend on the type of hormone. Some tumors secrete more than one hormone, the most common combination being GH and prolactin, which present as gigantism or acromegaly and unexpected lactation (in both men and women).
+A patient with pituitary adenoma may present with visual field defects, classically on the left and right in bitemporal hemianopsia. It arises from the compression of the optic nerve by the tumor. The specific area of the visual pathway at which compression by these tumours occurs is at the optic chiasm. If originating superior to the optic chiasm, more commonly in a craniopharyngioma of the pituitary stalk, the visual field defect will first appear as bitemporal inferior quadrantanopia. If originating inferior to the optic chiasm the visual field defect will first appear as bitemporal superior quadrantanopia. Lateral expansion of a pituitary adenoma can also compress the abducens nerve, causing a lateral rectus palsy.
+Also, a pituitary adenoma can cause symptoms of increased intracranial pressure. Prolactinomas often start to give symptoms especially during pregnancy, when the increased hormone level estrogen can increase the tumor's growth rate.
+Various types of headaches are common in patients with pituitary adenomas. The adenoma may be the prime causative factor behind the headache or may serve to exacerbate a headache caused by other factors. Amongst the types of headaches experienced are both chronic and episodic migraine, and more uncommonly various unilateral headaches; primary stabbing headache, short-lasting unilateral neuralgiform headache attacks with conjunctival injection and tearing (SUNCT) – another type of stabbing headache characterized by short stabs of pain – cluster headache, and hemicrania continua (HS).
+Compressive symptoms of pituitary adenomas (visual field deficits, decreased visual acuity, headaches) are more commonly seen with macroadenomas (which are greater than 10 mm in diameter) than with microadenomas (which are less than 10 mm in diameter).
+Non-secreting adenomas can go undetected for an extended time because no obvious abnormalities are seen; the gradual reduction in normal activities due to decreased production of hormones is rather less evident. For example, insufficient adrenocorticotropic hormone means that the adrenal glands will not produce sufficient cortisol, resulting in slow recovery from illness, inflammation, and chronic fatigue; insufficient growth hormone in children and adolescents leads to diminished stature but which can have many other explanations.
+
+
+=== Psychiatric ===
+Various psychiatric manifestations have been associated with pituitary disorders including pituitary adenomas. Psychiatric symptoms such as depression, anxiety apathy, emotional instability, easy irritability and hostility have been noted.
+
+
+=== Complications ===
+
+Acromegaly is a syndrome that results when the anterior pituitary gland produces excess growth hormone (GH). Approximately 90–95% of acromegaly cases are caused by a pituitary adenoma and it most commonly affects middle aged adults, Acromegly can result in severe disfigurement, serious complicating conditions, and premature death if unchecked. The disease which is often also associated with gigantism, is difficult to diagnose in the early stages and is frequently missed for many years, until changes in external features, especially of the face, become noticeable with the median time from the development of initial symptoms to diagnosis being twelve years.
+Cushing's syndrome is a hormonal disorder that causes hypercortisolism, which is elevated levels of cortisol in the blood. Cushing's disease (CD) is the most frequent cause of Cushing's syndrome, responsible for approximately 70% of cases. CD results when a pituitary adenoma causes excessive secretion of adrenocorticotropic hormone (ACTH) that stimulates the adrenal glands to produce excessive amounts of cortisol.
+Cushing's disease may cause fatigue, weight gain, fatty deposits around the abdomen and lower back (truncal obesity) and face ("moon face"), stretch marks (striae) on the skin of the abdomen, thighs, breasts, and arms, hypertension, glucose intolerance, and various infections. In women, it may cause excessive growth of facial hair (hirsutism) and in men erectile dysfunction. Psychiatric manifestations may include depression, anxiety, easy irritability, and emotional instability. It may also result in various cognitive difficulties.
+Hyperpituitarism is a disease of the anterior lobe of the pituitary gland which is usually caused by a functional pituitary adenoma and results in hypersecretion of adenohypophyseal hormones such as growth hormone; prolactin; thyrotropin; luteinizing hormone; follicle-stimulating hormone; and adrenocorticotropic hormone.
+Pituitary apoplexy is a condition that occurs when pituitary adenomas suddenly hemorrhage internally, causing a rapid increase in size or when the tumor outgrows its blood supply which causes tissue necrosis and subsequent swelling of the dead tissue. Pituitary apoplexy often presents with visual loss and sudden onset headache and requires timely treatment often with corticosteroids and if necessary surgical intervention.
+Central diabetes insipidus is caused by diminished production of the antidiuretic hormone vasopressin that causes severe thirst and excessive production of very dilute urine (polyuria) which can lead to dehydration. Vasopressin is produced in the hypothalamus and is then transported down the pituitary stalk and stored in the posterior lobe of the pituitary gland which then secretes it into the bloodstream.
+As the pituitary gland is in close proximity to the brain, invasive adenomas may invade the dura mater, cranial bone, or sphenoid bone.
+
+
+== Risk factors ==
+
+
+=== Multiple endocrine neoplasia ===
+Adenomas of the anterior pituitary gland are a major clinical feature of multiple endocrine neoplasia type 1 (MEN1), a rare inherited endocrine syndrome that affects 1 person in every 30,000. MEN causes various combinations of benign or malignant tumors in various glands in the endocrine system or may cause the glands to become enlarged without forming tumors. It often affects the parathyroid glands, pancreatic islet cells, and anterior lobe of the pituitary gland. MEN1 may also cause non-endocrine tumors such as facial angiofibromas, collagenomas, lipomas, meningiomas, ependymomas, and leiomyomas. Approximately 25 percent of patients with MEN1 develop pituitary adenomas.
+
+
+=== Carney complex ===
+Carney complex (CNC), also known as LAMB syndrome and NAME syndrome is an autosomal dominant condition comprising myxomas of the heart and skin, hyperpigmentation of the skin (lentiginosis), and endocrine overactivity and is distinct from Carney's triad. Approximately 7% of all cardiac myxomas are associated with Carney complex. Patients with CNC develop growth hormone (GH)-producing pituitary tumors and in some instances these same tumors also secrete prolactin. There are however no isolated prolactinomas or any other type of pituitary tumor. In some patients with CNC, the pituitary gland is characterized by hyperplastic areas with the hyperplasia most likely preceding the formation of GH-producing adenomas.
+
+
+=== Familial isolated pituitary adenoma ===
+Familial isolated pituitary adenoma (FIPA) is a term that is used to identify a condition that displays an autosomal dominant inheritance and is characterised by the presence of two or more related patients affected by adenomas of the pituitary gland only, with no other associated symptoms that occur in multiple endocrine neoplasia type 1 (MEN-1), Carney complex and with mutations in the aryl hydrocarbon receptor-interacting protein (AIP) gene. FIPA was first described in a limited cohort of families by Albert Beckers group in Liège, Belgium; later FIPA was fully characterized in a multicenter international study of 64 families.  FIPA families are divided into those that are homogenous and have the same type of pituitary adenoma in all the affected family members (e.g. only acromegaly, only prolactinoma, etc.), while heterogeneous FIPA families can have different pituitary adenomas in affected family members.
+
+
+==== Genetics of FIPA ====
+FIPA has two known genetic causes, mutations in the AH receptor-interacting protein (AIP) gene and duplications in chromosome Xq26.3 that include the GPR101 gene that also causes X-linked acrogigantism (X-LAG) syndrome.  About 15–20% of FIPA families carry a germline AIP gene mutation or deletion, and the disease occurs as autosomal dominant with incomplete penetrance, meaning that about 20% of AIP mutation carriers will develop a pituitary adenoma.  AIP mutation associated pituitary adenomas (either presenting as FIPA or as individual, non familial cases) are usually growth hormone-secreting (acromegaly) or prolactin-secreting (prolactinoma) adenomas that are large (macroadenomas) and often occur in children, adolescents and young adults.  Daly and colleagues showed that acromegaly cases with AIP mutations occurred about 20 years before acromegaly cases without AIP mutations and these tumors are large and relatively treatment-resistant.  Due to their young age at onset, AIP mutations are the most frequent genetic cause of pituitary gigantism (29% of cases).
+X-LAG is a rare syndrome of very early childhood onset pituitary tumors/hyperplasia that leads to growth hormone excess and severe overgrowth and pituitary gigantism.  Three FIPA families with X-LAG have been reported to date all of which had transmission of a chromosome Xq26.3 duplication from affected mother to affected son.  The disease characteristics of very young onset pituitary gigantism leads to severe overgrowth if not treated adequately; many of the tallest humans in history (e.g. Robert Pershing Wadlow; Sandy Allen, André Rousimoff (Andre the Giant), Zeng Jinlian) had a similar clinical history to patients with X-LAG syndrome.   The tallest historical individual with a known genetic cause was Julius Koch (Geant Constantin) who was found to have X-LAG on genetic study of his skeleton.   X-LAG has 100% penetrance so far (all affected with the Xq26.3 duplication have the disease and it affects predominantly females.  Isolated non familial cases of X-LAG can either have a constitutional duplication of a chromosome Xq26.3 including GPR101, or mosaicism for the duplication (present in a minority of cells) in the case of isolated male patients.  X-LAG causes about 10% of cases of pituitary gigantism.
+
+
+== Mechanism ==
+
+The pituitary gland or hypophysis is often referred to as the "master gland" of the human body. Part of the hypothalamic-pituitary axis, it controls most of the body's endocrine functions via the secretion of various hormones into the circulatory system. The pituitary gland is located below the brain in a depression (fossa) of the sphenoid bone known as the sella turcica. Although anatomically and functionally connected to the brain, the pituitary gland sits outside the blood–brain barrier. It is separated from the subarachnoid space by the diaphragma sella, therefore the arachnoid mater and thus cerebral spinal fluid cannot enter the sella turcica.
+The pituitary gland is divided into two lobes, the anterior lobe (which accounts for two thirds of the volume of the gland), and the posterior lobe (one third of the volume) separated by the pars intermedia.
+The posterior lobe (the neural lobe or neurohypophysis) of the pituitary gland is not, despite its name, a true gland. The posterior lobe contains axons of neurons that extend from the hypothalamus to which it is connected via the pituitary stalk. The hormones vasopressin and oxytocin, produced by the neurons of the supraoptic and paraventricular nuclei of the hypothalamus, are stored in the posterior lobe and released from axon endings (dendrites) within the lobe.
+The pituitary gland's anterior lobe (adenohypophysis) is a true gland which produces and secretes six different hormones: thyroid-stimulating hormone (TSH), adrenocorticotropic hormone (ACTH), follicle-stimulating hormone (FSH), luteinizing hormone (LH), growth hormone (GH), and prolactin (PRL).
+
+
+== Diagnosis ==
+Diagnosis of pituitary adenoma can be made, or at least suspected, by a constellation of related symptoms presented above.
+The differential diagnosis includes pituitary tuberculoma, especially in developing countries and in immumocompromised patients. The diagnosis is confirmed by testing hormone levels, and by radiographic imaging of the pituitary (for example, by CT scan or MRI).
+
+
+=== Classification ===
+Pituitary adenomas are classified as endocrine tumors and also as brain tumors, though some patient groups prefer not to refer to them as brain tumors. Pituitary adenomas are classified based upon anatomical, histological and functional criteria.
+
+Anatomically pituitary tumors are classified by their size based on radiological findings; either microadenomas (less than <10 mm) or macroadenomas (equal or greater than ≥10 mm).
+Classification based on radioanatomical findings places adenomas into 1 of 4 grades (I–IV):
+Stage I: microadenomas (<1 cm) without sella expansion.
+Stage II:  macroadenomas (≥1 cm) and may extend above the sella.
+Stage III:  macroadenomas with enlargement and invasion of the floor or suprasellar extension.
+Stage IV: destruction of the sella.
+Histological classification utilizes an immunohistological characterization of the tumors in terms of their hormone production.  Historically they were classed as either basophilic, acidophilic, or chromophobic on the basis of whether or not they took up the tinctorial stains hematoxylin and eosin. This classification has fallen into disuse, in favor of a classification based on what type of hormone is secreted by the tumor. Approximately 20–25% of adenomas do not secrete any readily identifiable active hormones ('non-functioning tumors') yet they are still sometimes referred to as 'chromophobic'.
+Functional classification is based upon the tumors endocrine activity as determined by serum hormone levels and pituitary tissue cellular hormone secretion detected via immunohistochemical staining. The "Percentage of hormone production cases" values are the fractions of adenomas producing each related hormone of each tumor type as compared to all cases of pituitary tumors, and does not directly correlate to the percentages of each tumor type because of lower or greater incidence of absence of secretion of the expected hormone. Thus, non secretive adenomas may be either null cell adenomas or a more specific adenoma that, however, remains non-secretive.
+Any type of pituitary adenocarcinoma listed in the table below may cause compressive symptoms due to local expansion in addition to the systemic effects of secreted hormones listed in the pathology column.
+Null cell adenomas by definition do not secrete hormones, but they commonly cause compressive effects on the pituitary stalk (stalk effect). This leads to decreased levels of dopamine from the hypothalamus reaching the anterior pituitary gland. Dopamine exerts an inhibitory effect on prolactin secretion. With the absence of this inhibitory effect, prolactin levels increase and are often increased in null cell adenomas. This leads to symptoms of hypogonadism.
+
+
+==== Pituitary incidentalomas ====
+Pituitary incidentalomas are pituitary tumors that are characterized as an incidental finding. They are often discovered by computed tomography (CT) or magnetic resonance imaging (MRI), performed in the evaluation of unrelated medical conditions such as suspected head trauma, in cancer staging or in the evaluation of nonspecific symptoms such as dizziness and headache. It is not uncommon for them to be discovered at autopsy. In a meta-analysis, adenomas were found in an average of 16.7% in postmortem studies, with most being  microadenomas (<10mm); macrodenomas accounted for only 0.16% to 0.2% of the decedents. While non-secreting, noninvasive pituitary microadenomas are generally considered to be literally as well as clinically benign, a 2011 meta-analysis of available research showed there were, to that time, scant studies of low quality to support this assertion.
+The Clinical Practice Guidelines, as published in April 2011 in The Journal of Clinical Endocrinology and Metabolism by the Endocrine Society (a professional, international medical organization), recommend that all patients with pituitary incidentalomas undergo a complete medical history and physical examination, laboratory evaluations to screen for hormone hypersecretion and for hypopituitarism. If the lesion is in close proximity to the optic nerves or optic chiasm, a visual field examination should be performed. For those with incidentalomas which do not require surgical removal, follow up clinical assessments and neuroimaging should be performed as well follow-up visual field examinations for incidentalomas that abut or compress the optic nerve and chiasm and follow-up endocrine testing for macroincidentalomas.
+
+
+==== Ectopic pituitary adenoma ====
+An ectopic (occurring in an abnormal place) pituitary adenoma is a rare type of tumor which occurs outside of the sella turcica, most often in the sphenoid sinus, suprasellar region, nasopharynx and the cavernous sinuses.
+
+
+==== Metastases to the pituitary gland ====
+Carcinomas that metastasize into the pituitary gland are uncommon and typically seen in the elderly, with lung and breast cancers being the most prevalent, In breast cancer patients, metastases to the pituitary gland occur in approximately 6–8% of cases.
+Symptomatic pituitary metastases account for only 7% of reported cases. In those who are symptomatic diabetes insipidus often occurs, with rates approximately 29–71%. Other commonly reported symptoms include anterior pituitary dysfunction, visual field defects, headache/pain, and ophthalmoplegia.
+
+
+== Treatment ==
+Treatment options depend on the type of tumor and on its size:
+
+Prolactinomas (microadenomas and macroadenomas) are most often treated with cabergoline or bromocriptine (both dopamine agonists) as the first line of treatment. Medical treatment usually effectively decreases tumor size as well as alleviates symptoms.  Pituitary adenomas are also followed by serial imaging (usually MRI) to detect any increase in size or mass effect on nearby structures. If medical therapy fails, the second option is usually transphenoidal pituitary surgery. A third line therapy is radiation therapy, proton therapy to shrink the tumor.
+Thyrotropinomas are treated with transsphenoidal pituitary surgery as the first line treatment option. Medical therapy is a second line treatment, and thyrotropinomas respond to treatment with somatostatin receptor ligands such as octreotide or lanreotide. In people with thyrotropinomas, treatment with somatostatin receptor ligands normalized thyroid hormone levels in 80-90% of people, and 42% of people had a decreased tumor size.
+Somatotrophic adenomas are primarily treated with transsphenoidal pituitary surgery, especially if symptoms of acromegaly are present. A second line treatment strategy (which can be used if there is a persistent or recurrent mass or symptoms after surgery) utilizes medical therapy, including octreotide or lanreotide, which are long-acting somatostatin analogs. These somatostatin receptor analogs inhibit secretion of growth hormone. They were found to be about 50–55% effective in reducing tumor mass and reducing growth hormone and insulin like growth factor 1 (IGF-1) levels in studies. The growth hormone receptor antagonist pegvisomant is also used in the treatment of somatotrophic adenomas. Pegvisomant blocks the action of growth hormone. It can either be used as monotherapy or combined with a somatostatin analog.
+Corticotropinomas are primarily treated with transsphenoidal pituitary surgery, especially if signs and symptoms of Cushing syndrome are present. Medication therapy is second line, and includes steroidogenesis inhibitors (ketoconazole, metyrapone, osilodrostat, etomidate or mitotane) which decrease production of cortisol, pituitary blockers such as somatostatin receptor ligand pasireotide or the dopamine agonist cabergoline, or the glucocorticoid receptor antagonist mifepristone. These medications can be combined for a synergistic effect. Medication therapy is often used in conjunction with radiation therapy for corticotropinomas.
+Surgery is a common treatment for pituitary tumors. The normal approach is trans-sphenoidal adenectomy, which usually can remove the tumor without affecting the brain or optic nerves.
+Radiation is also used to treat pituitary adenomas. Examples include external beam or proton beam radiation therapy or stereotactic radiosurgery. External radiation of pituitary adenomas can arrest tumor growth for several years but pituitary failure develops within 10 years in most patients necessitating lifelong hormone replacement. Radiation therapy for pituitary adenomas is associated with a four-fold increase in mortality due to cerebrovascular disease. Lifelong monitoring of pituitary hormones is recommended after radiation therapy as hypopituitarism developed in 17% of those undergoing radiation therapy.
+
+
+== See also ==
+Pituitary disease
+
+
+== References ==
+
+
+== External links ==
+
+Cancer.gov: pituitary tumors

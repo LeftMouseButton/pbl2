@@ -1,0 +1,36 @@
+{
+  "disease_name": "Lymphangiosarcoma",
+  "synonyms": [
+    "Stewart–Treves syndrome"
+  ],
+  "summary": "Lymphangiosarcoma is a rare cancer that occurs in long-standing cases of primary or secondary lymphedema, typically affecting the extremities. It is believed to arise from endothelial cells and may be more accurately referred to as angiosarcoma. It metastasizes quickly.",
+  "causes": [
+    "Lymphedema (swelling due to lymphatic system obstruction)",
+    "Radical mastectomy (historical cause)"
+  ],
+  "risk_factors": [
+    "Primary lymphedema",
+    "Secondary lymphedema",
+    "Post-mastectomy status",
+    "Severe lymphedema",
+    "Survival of five or more years post-mastectomy"
+  ],
+  "symptoms": [
+    "Purple discoloration of the extremity",
+    "Tender skin nodule in the extremity",
+    "Ulcer with crusting",
+    "Extensive necrotic focus involving skin and subcutaneous tissue",
+    "Metastasis"
+  ],
+  "diagnosis": [],
+  "treatments": [
+    "Amputation of the affected limb",
+    "Chemotherapy",
+    "Paclitaxel",
+    "Doxorubicin",
+    "Ifosfamide",
+    "Gemcitabine"
+  ],
+  "related_genes": [],
+  "subtypes": []
+}

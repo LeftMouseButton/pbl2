@@ -1,0 +1,28 @@
+Hepatoblastoma is a malignant liver cancer occurring in infants and children and composed of tissue resembling fetal liver cells, mature liver cells, or bile duct cells. They usually present with an abdominal mass.  The disease is most commonly diagnosed during a child's first three years of life. Alpha-fetoprotein (AFP) levels are commonly elevated, but when AFP is not elevated at diagnosis the prognosis is poor.
+
+
+== Signs and symptoms ==
+Patients are usually asymptomatic at diagnosis. As a result, disease is often advanced at diagnosis.
+
+
+== Pathophysiology ==
+
+Hepatoblastomas originate from immature liver precursor cells, are typically unifocal, affect the right lobe of the liver more often than the left lobe, and can metastasize. They are categorized into two types: "Epithelial Type" and "Mixed Epithelial / Mesenchymal Type."
+Individuals with familial adenomatous polyposis (FAP), a syndrome of early-onset colonic polyps and adenocarcinoma, frequently develop hepatoblastomas. Also, beta-catenin mutations have been shown to be common in sporadic hepatoblastomas, occurring in as many as 67% of patients.
+Recently, other components of the Wnt signaling pathway have also demonstrated a likely role in constitutive activation of this pathway in the causation of hepatoblastoma. Accumulating evidence suggests that hepatoblastoma is derived from a pluripotent stem cell.
+Syndromes with an increased incidence of hepatoblastoma include Beckwith–Wiedemann syndrome, trisomy 18, trisomy 21, Aicardi syndrome, Li–Fraumeni syndrome, Goldenhar syndrome, von Gierke disease, and familial adenomatous polyposis.
+
+
+== Diagnosis ==
+The most common method of testing for hepatoblastoma is a blood test checking the alpha-fetoprotein level. Alpha-fetoprotein (AFP) is used as a biomarker to help determine the presence of liver cancer in children. At birth, infants have relatively high levels of AFP, which fall to normal adult levels by the second year of life. The normal level for AFP in children has been reported as lower than 50 nanograms per milliliter (ng/ml) and 10 ng/ml in adults. An AFP level greater than 500 ng/ml is a significant indicator of hepatoblastoma. AFP is also used as an indicator of treatment success. If treatments are successful in removing the cancer, the AFP level is expected to return to normal.
+
+
+== Treatment ==
+Surgical removal of the tumor, neoadjuvant chemotherapy prior to tumor removal, and liver transplantation have been used to treat these cancers. Primary liver transplantation provides high, long term, disease-free survival rate in the range of 80%, in cases of complete tumor removal and adjuvant chemotherapy survival rates approach 100%. The presence of metastases is the strongest predictor of a poor prognosis.
+
+
+== References ==
+
+
+== External links ==
+humpath #2775 Archived 2011-09-30 at the Wayback Machine (Pathology images)

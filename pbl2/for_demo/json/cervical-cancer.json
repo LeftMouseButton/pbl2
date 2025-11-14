@@ -1,0 +1,81 @@
+{
+  "disease_name": "Cervical cancer",
+  "synonyms": [],
+  "summary": "Cervical cancer is a type of cancer that starts in the cells of the cervix, the lower, narrow end of the uterus. It typically develops slowly from precancerous changes called cervical intraepithelial neoplasia (CIN) over 10 to 20 years, often without early symptoms. Almost all cases are caused by persistent infection with high-risk human papillomavirus (HPV). It is the fourth-most common cancer and cause of cancer death in women globally, with higher incidence and mortality in low- and middle-income countries.",
+  "causes": [
+    "Long-lasting infection with high-risk human papillomavirus (HPV)",
+    "Specific high-risk HPV types (e.g., 16, 18, 31, 45)",
+    "Integration of high-risk HPV DNA into host genome",
+    "HPV viral proteins E6 and E7 inducing cancer",
+    "HPV E6 protein degrading tumor suppressor protein p53",
+    "HPV E7 protein degrading and inactivating tumor suppressor protein pRb",
+    "Loss of p53 and pRb leading to increased blood vessel growth (VEGF over-expression), loss of tumor cell suppression, and cell cycle regulation disruptions"
+  ],
+  "risk_factors": [
+    "High-risk HPV infection",
+    "Weakened immune system (e.g., due to HIV, immunosuppressant medications)",
+    "Smoking tobacco (active and passive)",
+    "Long-term use of oral contraceptives",
+    "Multiple pregnancies (especially seven or more full-term pregnancies)",
+    "Starting sex at a young age",
+    "Having many sexual partners or partners with many sexual partners",
+    "Obesity",
+    "Exposure to diethylstilbestrol (DES) before birth",
+    "Genetic factors",
+    "Age over 30"
+  ],
+  "symptoms": [
+    "Abnormal vaginal bleeding (after sex, between menstrual periods, after douching, after pelvic exam, heavy bleeding)",
+    "Vaginal discharge (watery, strong odor, contains blood)",
+    "Pelvic pain",
+    "Pain during sexual intercourse",
+    "Vaginal mass (rare)",
+    "Difficult or painful bowel movements",
+    "Rectal bleeding",
+    "Difficult or painful urination",
+    "Blood in urine",
+    "Dull backache",
+    "Swollen legs",
+    "Abdominal (belly) pain",
+    "Fatigue",
+    "Loss of appetite",
+    "Weight loss",
+    "Bone fractures",
+    "Leakage of urine or faeces from the vagina (rare)",
+    "Hydronephrosis with flank pain (due to blocked ureters)",
+    "Blood clots in legs (due to blocked pelvic veins)"
+  ],
+  "diagnosis": [
+    "Medical history and family health history review",
+    "Pelvic exam",
+    "Cervical screening (Pap test, HPV test)",
+    "Colposcopy (magnified visual inspection of cervix, often with acetic acid and Lugol's iodine staining)",
+    "Cervical biopsy (tissue sample removal for microscopic examination, e.g., punch biopsy)",
+    "Loop electrical excision procedure (LEEP) (for severe precancerous lesions)",
+    "Cervical conization (cone biopsy) (for severe precancerous lesions or diagnosis)",
+    "Medical imaging (ultrasound, CT scan, MRI) to check for tumor spread or alternative diseases"
+  ],
+  "treatments": [
+    "Surgery (excision, ablation, hysterectomy, radical hysterectomy, trachelectomy, exenteration)",
+    "Radiation therapy (external beam radiotherapy, brachytherapy)",
+    "Chemotherapy (e.g., cisplatin-based chemotherapy, combination of hycamtin and cisplatin)",
+    "Targeted therapy",
+    "Immunotherapy (immune checkpoint inhibitors: pembrolizumab (Keytruda), cemiplimab-rwlc (Libtayo), Tisotumab vedotin (Tivdak))",
+    "HPV vaccination (as a primary prevention measure, also reduces risk of cancerous changes)"
+  ],
+  "related_genes": [
+    "TP53 (gene for tumor suppressor protein p53)",
+    "RB1 (gene for tumor suppressor protein pRb)",
+    "VEGFA (gene for vascular endothelial growth factor, associated with over-expression)"
+  ],
+  "subtypes": [
+    "Squamous cell carcinoma",
+    "Adenocarcinoma",
+    "Adenosquamous carcinoma",
+    "Small cell carcinoma",
+    "Neuroendocrine tumor",
+    "Glassy cell carcinoma",
+    "Villoglandular adenocarcinoma",
+    "Gastric-type mucinous adenocarcinoma"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "disease_name": "Meningioma",
+  "synonyms": [
+    "Meningeal tumor"
+  ],
+  "summary": "Meningioma is a typically slow-growing tumor that forms from the meninges, the membranous layers surrounding the brain and spinal cord. Symptoms depend on the location and occur as a result of the tumor pressing on nearby tissue. Many cases never produce symptoms. They are usually benign but can be atypical or malignant. Meningiomas are extra-axial and vascularized.",
+  "causes": [
+    "Radiation exposure (especially to the scalp)",
+    "Brain injury",
+    "Excess body fat",
+    "High doses of cyproterone acetate",
+    "Neurofibromatosis type 2 (NF-2)"
+  ],
+  "risk_factors": [
+    "Exposure to ionizing radiation",
+    "Family history of meningioma",
+    "Neurofibromatosis type 2",
+    "Older age",
+    "Female sex"
+  ],
+  "symptoms": [
+    "Headaches (often in the morning)",
+    "Nausea and vomiting",
+    "Changes in ability to talk, hear, or see",
+    "Problems with balance or walking",
+    "Problems with thinking or memory",
+    "Feeling weak or sleepy",
+    "Changes in mood or behavior",
+    "Seizures",
+    "Dementia",
+    "One-sided weakness",
+    "Loss of bladder control",
+    "Diplopia (double vision)",
+    "Uneven pupil size",
+    "Progressive spastic weakness in legs",
+    "Incontinence"
+  ],
+  "diagnosis": [
+    "Neurologic exam",
+    "MRI (with gadolinium)",
+    "CT scan (contrast)",
+    "Biopsy",
+    "Arteriography",
+    "Lumbar puncture (elevated CSF protein levels)",
+    "Medical imaging"
+  ],
+  "treatments": [
+    "Watchful waiting",
+    "Observation with close imaging follow-up",
+    "Surgery",
+    "Radiation therapy (photon-beam, proton-beam, fractionated external beam)",
+    "Radiosurgery",
+    "Chemotherapy (currently not effective)",
+    "Antiprogestin agents",
+    "Hydroxyurea",
+    "Transarterial embolization (preoperative procedure)"
+  ],
+  "related_genes": [
+    "NF2 (neurofibromatosis 2 gene)",
+    "TRAF7",
+    "KLF4",
+    "AKT1",
+    "SMO"
+  ],
+  "subtypes": [
+    "Benign (Grade I)",
+    "Atypical (Grade II)",
+    "Anaplastic/malignant (Grade III)",
+    "Meningothelial",
+    "Fibrous",
+    "Transitional",
+    "Psammomatous",
+    "Angioblastic",
+    "Chordoid",
+    "Clear cell",
+    "Papillary",
+    "Rhabdoid",
+    "Hemangiopericytoma"
+  ]
+}

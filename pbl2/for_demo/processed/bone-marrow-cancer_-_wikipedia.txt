@@ -1,0 +1,34 @@
+Tumors of the hematopoietic and lymphoid tissues (American English) or tumours of the haematopoietic and lymphoid tissues (British English) are tumors that affect the blood, bone marrow, lymph, and lymphatic system. Because these tissues are all intimately connected through both the circulatory system and the immune system, a disease affecting one will often affect the others as well, making aplasia, myeloproliferation and lymphoproliferation (and thus the leukemias, myelomas, and the lymphomas) closely related and often overlapping problems.
+While uncommon in solid tumors, chromosomal translocations are a common cause of these diseases. This commonly leads to a different approach in diagnosis and treatment of hematological malignancies.
+Hematological malignancies are malignant neoplasms ("cancer"), and they are generally treated by specialists in hematology and/or oncology. In some centers "hematology/oncology" is a single subspecialty of internal medicine while in others they are considered separate divisions (there are also surgical and radiation oncologists). Not all hematological disorders are malignant ("cancerous"); these other blood conditions may also be managed by a hematologist.
+Hematological malignancies may derive from either of the two major blood cell lineages: myeloid and lymphoid cell lines. The myeloid cell line normally produces granulocytes, erythrocytes, thrombocytes, macrophages and mast cells; the lymphoid cell line produces B, T, NK and plasma cells. Lymphomas, lymphocytic leukemias, and myeloma are from the lymphoid line, while acute and chronic myelogenous leukemia, myelodysplastic syndromes and myeloproliferative diseases are myeloid in origin.
+A subgroup of them are more severe and are known as haematological malignancies (British English)/hematological malignancies (American English) or blood cancer. They may also be referred to as liquid tumors.
+
+== Diagnosis ==
+For the analysis of a suspected hematological malignancy, a complete blood count and blood film are essential, as malignant cells can show in characteristic ways on light microscopy. When there is lymphadenopathy, a biopsy from a lymph node is generally undertaken surgically. In general, a bone marrow biopsy is also used for the analysis of these diseases. All specimens are examined microscopically to determine the nature of the malignancy. A number of these diseases can now be classified by cytogenetics (AML, CML) or immunophenotyping (lymphoma, myeloma, CLL) of the malignant cells.
+
+=== Classification ===
+Historically, hematological malignancies have been most commonly divided by whether the malignancy is mainly located in the blood (leukemia) or in lymph nodes (lymphomas).
+Relative proportions of hematological malignancies in the United States
+
+==== World Health Organization ====
+4th Edition
+NOS = "Not otherwise specified"
+
+== Treatment ==
+Treatment can occasionally consist of "watchful waiting" (e.g., in CLL) or symptomatic treatment (e.g., blood transfusions in MDS). The more aggressive forms of disease require treatment with chemotherapy, radiotherapy, immunotherapy and—in some cases—a bone marrow transplant. The use of rituximab has been established for the treatment of B-cell–derived hematologic malignancies, including follicular lymphoma (FL) and diffuse large B-cell lymphoma (DLBCL).
+In addition to cure-directed treatment, people can benefit from self-care to manage symptoms. For example, aerobic exercise, such as walking, can reduce fatigue and feelings of depression in people with hematological malignancies.
+
+=== Follow-up ===
+If treatment has been successful ("complete" or "partial remission"), a person is generally followed up at regular intervals to detect recurrence and monitor for "secondary malignancy" (an uncommon side-effect of some chemotherapy and radiotherapy regimens—the appearance of another form of cancer). In the follow-up, which should be done at pre-determined regular intervals, general anamnesis is combined with complete blood count and determination of lactate dehydrogenase or thymidine kinase in serum. Hematological malignancies as well as their treatments are associated with complications affecting many organs, with the lungs being frequently affected.
+
+== Etiology ==
+Chromosomal translocations are a major etiologic factor in hematologic malignancies. Such translocations usually arise in cells as the result of aberrant DNA double-strand break repair by an imprecise processes such as non-homologous end joining. Chromosome instability in chronic myeloid leukemia may be due to oxidative damage to DNA along with impairments of genetic surveillance leading to imprecise error prone DNA repair.
+
+== Epidemiology ==
+Taken together, haematological malignancies account for 9.5% of new cancer diagnoses in the United States and 30,000 patients in the UK are diagnosed each year. Within this category, lymphomas are more common than leukemias.
+
+== See also ==
+Myelodysplastic–myeloproliferative diseases
+
+== References ==

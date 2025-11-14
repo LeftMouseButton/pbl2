@@ -1,0 +1,79 @@
+{
+  "disease_name": "Osteosarcoma",
+  "synonyms": [
+    "Osteogenic sarcoma",
+    "OS",
+    "OGS"
+  ],
+  "summary": "Osteosarcoma is a malignant neoplasm that arises from primitive transformed cells of mesenchymal origin and exhibits osteoblastic differentiation, producing malignant osteoid. It is the most common histological form of primary bone sarcoma and is most prevalent in teenagers and young adults. It can also occur in other animals, including dogs, cats, and dinosaurs.",
+  "causes": [
+    "Genetic mutations",
+    "Radiotherapy for unrelated conditions",
+    "Small supernumerary marker chromosome",
+    "Giant rod chromosome",
+    "Deletion of chromosome 13q14 inactivating the retinoblastoma gene",
+    "Li-Fraumeni syndrome (germline TP53 mutation)",
+    "Rothmund–Thomson syndrome",
+    "Large doses of Sr-90"
+  ],
+  "risk_factors": [
+    "Bone dysplasias (Paget's disease of bone, fibrous dysplasia, enchondromatosis, hereditary multiple exostoses)",
+    "Familial cases",
+    "Middle-aged large and giant breed dogs",
+    "Spayed/neutered dogs",
+    "Infestation with the parasite Spirocerca lupi (in dogs)"
+  ],
+  "symptoms": [
+    "Pain (often worse at night, intermittent, varying intensity, long-standing)",
+    "Localized swelling",
+    "Sudden fracture with minor trauma",
+    "Pain in the lower femur or below the knee (in active teenagers)",
+    "Pain in the mandible (lower jaw)"
+  ],
+  "diagnosis": [
+    "X-rays (sunburst appearance, Codman triangle)",
+    "CT scan (bony anatomy, cortex integrity, pathologic fracture, ossification, calcification)",
+    "MRI scan (soft tissue, medullary cavity)",
+    "Dental check-ups (for jaw osteosarcoma)",
+    "Biopsy (orthopedic oncologist for non-facial, oral & maxillofacial surgeon for facial)",
+    "Chest X-ray (for lung metastasis)"
+  ],
+  "treatments": [
+    "Surgical resection (en bloc)",
+    "Limb-salvage surgery",
+    "Amputation",
+    "Mifamurtide (after surgery, with chemotherapy)",
+    "Rotationplasty",
+    "Neoadjuvant chemotherapy (before surgery)",
+    "High-dose methotrexate with leucovorin rescue",
+    "Intra-arterial cisplatin",
+    "Adriamycin",
+    "Ifosfamide with mesna",
+    "BCD (bleomycin, cyclophosphamide, dactinomycin)",
+    "Etoposide",
+    "Muramyl tripeptide",
+    "Osteoclast inhibitors (alendronate, pamidronate) (in dogs)",
+    "Chemotherapy (in cats, post-amputation)"
+  ],
+  "related_genes": [
+    "RB gene",
+    "p53 gene",
+    "TP53",
+    "RB1",
+    "PTEN",
+    "MYC",
+    "PIK3CA",
+    "SETD2"
+  ],
+  "subtypes": [
+    "Conventional osteosarcoma (osteoblastic, chondroblastic, fibroblastic)",
+    "Telangiectatic OS",
+    "Small cell OS",
+    "Low-grade central OS",
+    "Periosteal OS",
+    "Paraosteal OS",
+    "Secondary OS",
+    "High-grade surface OS",
+    "Extraskeletal OS"
+  ]
+}

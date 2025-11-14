@@ -1,0 +1,106 @@
+Wilms' tumor or Wilms tumor, also known as nephroblastoma, is a cancer of the kidneys that typically occurs in children (rarely in adults), and occurs most commonly as a renal tumor in child patients. It is named after Max Wilms, the German surgeon (1867–1918) who first described it.
+Approximately 650 cases are diagnosed in the U.S. annually. The majority of cases occur in children with no associated genetic syndromes; however, a minority of children with Wilms' tumor have a congenital abnormality. It is highly responsive to treatment, with about 90 percent of children being cured.
+
+== Signs and symptoms ==
+Typical signs and symptoms of Wilms' tumor include the following:
+
+a painless, palpable abdominal mass
+loss of appetite
+abdominal pain
+fever
+nausea and vomiting
+blood in the urine (in about 20% of cases)
+high blood pressure in some cases (especially if synchronous or metachronous bilateral kidney involvement)
+Rarely as varicocele
+
+== Pathogenesis ==
+
+Wilms' tumor has many causes, which can broadly be categorized as syndromic and non-syndromic. Syndromic causes of Wilms' tumor occur as a result of alterations to genes such as the Wilms Tumor 1 (WT1) or Wilms Tumor 2 (WT2) genes, and the tumor presents with a group of other signs and symptoms. Non-syndromic Wilms' tumor is not associated with other symptoms or pathologies. Many, but not all, cases of Wilms' tumor develop from nephrogenic rests, which are fragments of tissue in or around the kidney that develop before birth and become cancerous after birth. In particular, cases of bilateral Wilms' tumor, as well as cases of Wilms' tumor derived from certain genetic syndromes such as Denys-Drash syndrome, are strongly associated with nephrogenic rests. Most nephroblastomas are on one side of the body only and are found on both sides in less than 5% of cases, although people with Denys-Drash syndrome mostly have bilateral or multiple tumors. They tend to be encapsulated and vascularized tumors that do not cross the midline of the abdomen. In cases of metastasis it is usually to the lung. A rupture of Wilms' tumor puts the patient at risk of bleeding and peritoneal dissemination of the tumor. In such cases, surgical intervention by a surgeon who is experienced in the removal of such a fragile tumor is imperative.
+Pathologically, a triphasic nephroblastoma comprises three elements:
+
+blastema
+mesenchyme (stroma)
+epithelium
+Wilms' tumor is a malignant tumor containing metanephric blastema, stromal and epithelial derivatives. Characteristic is the presence of abortive tubules and glomeruli surrounded by a spindled cell stroma. The stroma may include striated muscle, cartilage, bone, fat tissue, and fibrous tissue. Dysfunction is caused when the tumor compresses the normal kidney parenchyma.
+The mesenchymal component may include cells showing rhabdomyoid differentiation or malignancy (rhabdomyosarcomatous Wilms).
+Wilms' tumors may be separated into two prognostic groups based on pathologic characteristics:
+
+Favorable – Contains well developed components mentioned above
+Anaplastic – Contains diffuse anaplasia (poorly developed cells)
+
+=== Molecular biology and related conditions ===
+Mutations of the WT1 gene which is located on the short arm of chromosome 11 (11p13) are observed in approximately 20% of Wilms' tumors, the majority of them being inherited from the germline, while a minority are acquired somatic mutations. In addition at least half of the Wilms' tumors with mutations in WT1 also carry acquired somatic mutations in CTNNB1, the gene encoding the proto-oncogene beta-catenin. This latter gene is found on short arm of chromosome 3 (3p22.1).
+Most cases do not have mutations in any of these genes.
+
+An association with H19 has been reported. H19 is a long noncoding RNA located on the short arm of chromosome 11 (11p15.5).
+
+== Diagnosis ==
+
+The majority of people with Wilms' tumor present with an asymptomatic abdominal mass which is noticed by a family member or healthcare professional. Renal tumors can also be found during routine screening in children who have known predisposing clinical syndromes. The diagnostic process includes taking a medical history, a physical exam, and a series of tests including blood, urine, and imaging tests.
+Once Wilms' tumor is suspected, an ultrasound scan is usually done first to confirm the presence of an intrarenal mass. A computed tomography scan or MRI scan can also be used for more detailed imaging. Finally, the diagnosis of Wilms' tumor is confirmed by a tissue sample. In most cases, a biopsy is not done first because there is a risk of cancer cells spreading during the procedure. Treatment in North America is nephrectomy or in Europe chemotherapy followed by nephrectomy. A definitive diagnosis is obtained by pathological examination of the nephrectomy specimen.
+
+=== Staging ===
+Staging is a standard way to describe the extent of spread of Wilms' tumors and to determine prognosis and treatments. Staging is based on anatomical findings and tumor cells pathology. According to the extent of tumor tissue at the time of initial diagnosis, four stages are considered, with a fifth classification for bilateral involvement.
+
+==== Stage I ====
+In Stage I Wilms' tumor (43% of cases), all of the following criteria must be met:
+
+Tumor is limited to the kidney and is completely excised .
+The surface of the renal capsule is intact.
+The tumor is not ruptured or biopsied (open or needle) prior to removal.
+No involvement of extrarenal or renal sinus lymph-vascular spaces
+No residual tumor apparent beyond the margins of excision.
+Metastasis of tumor to lymph nodes not identified.
+
+==== Stage II ====
+In Stage II (23% of cases), 1 or more of the following criteria must be met:
+
+Tumor extends beyond the kidney but is completely excised.
+No residual tumor apparent at or beyond the margins of excision.
+Any of the following conditions may also exist:
+Tumor involvement of the blood vessels of the renal sinus and/or outside the renal parenchyma.
+Extensive tumor involvement of renal sinus soft tissue.
+
+==== Stage III ====
+In Stage III (20% of cases), 1 or more of the following criteria must be met:
+
+Inoperable primary tumor.
+Lymph node metastasis.
+Tumor is present at surgical margins.
+Tumor spillage involving peritoneal surfaces either before or during surgery, or transected tumor thrombus.
+The tumor has been biopsied prior to removal or there is local spillage of tumor during surgery, confined to the flank.
+
+==== Stage IV ====
+Stage IV (10% of cases) Wilms' tumor is defined by the presence of hematogenous metastases (lung, liver, bone, or brain), or lymph node metastases outside the abdominopelvic region.
+
+==== Bilateral ====
+5% of Wilms' tumor cases at the time of initial diagnosis are bilateral involvements, which pose unique challenges to treatment. An attempt should be made to stage each side according to the above criteria (stage I to III) on the basis of extent of disease prior to biopsy. Bilateral Wilms' tumors are as a whole placed in Stage V.
+
+== Treatment and prognosis ==
+The overall 5-year survival is estimated to be approximately 90%, but for individuals the prognosis is highly dependent on individual staging and treatment. Early removal tends to promote positive outcomes.
+Tumor-specific loss-of-heterozygosity (LOH) for chromosomes 1p and 16q identifies a subset of Wilms' tumor patients who have a significantly increased risk of relapse and death. LOH for these chromosomal regions can now be used as an independent prognostic factor together with disease stage to target intensity of treatment to risk of treatment failure. Genome-wide copy number and LOH status can be assessed with virtual karyotyping of tumor cells (fresh or paraffin-embedded).
+Statistics may sometimes show more favorable outcomes for more aggressive stages than for less aggressive stages, which may be caused by more aggressive treatment and/or random variability in the study groups. Also, a stage V tumor is not necessarily worse than, but nevertheless comparable in prognosis to a stage IV tumor.
+
+In case of relapse of Wilms' tumor, the 4-year survival rate for children with a standard-risk has been estimated to be 80%.
+
+== Epidemiology ==
+Wilms tumor is the most common malignant renal tumor in children. There are a number of rare genetic syndromes that have been linked to an increased risk of developing Wilms Tumor. Screening guidelines vary between countries; however health care professionals are recommending regular ultrasound screening for people with associated genetic syndromes.
+Wilms' tumor affects approximately one person per 10,000 worldwide before the age of 15 years. People of African descent may have slightly higher rates of Wilms' tumor. The peak age of Wilms' tumor is 3 to 4 years and most cases occur before the age of 10 years. A genetic predisposition to Wilms' tumor in individuals with aniridia has been established, due to deletions in the p13 band on chromosome 11.
+
+== History ==
+Sidney Farber, founder of Dana–Farber Cancer Institute, and his colleagues achieved the first remissions in Wilms' tumor in the 1950s. By employing the antibiotic actinomycin D in addition to surgery and radiation therapy, they boosted cure rates from 40 to 89 percent.
+The use of computed tomography scan for the diagnosis of Wilms' tumor began in the early 1970s, thanks to the intuition of Mario Costici, an Italian physician. He discovered that in the direct radiograms and in the urographic images, determining elements for a differential diagnosis with the Wilms' tumor can be identified. This possibility was a premise for starting a treatment.
+
+== See also ==
+Hemihypertrophy
+National Wilms Tumor Study Group (NWTS)
+Perlman syndrome
+Virtual Karyotype for 1p and 16q LOH
+
+== References ==
+
+== External links ==
+
+GeneReviews/NCBI/NIH/UW entry on Wilms' Tumor Overview
+Information from National Cancer Institute
+Cancer.Net Wilms' Tumor – Childhood

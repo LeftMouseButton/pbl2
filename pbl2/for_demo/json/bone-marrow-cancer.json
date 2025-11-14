@@ -1,0 +1,57 @@
+{
+  "disease_name": "Chronic Lymphocytic Leukemia",
+  "synonyms": [
+    "CLL"
+  ],
+  "summary": "Chronic Lymphocytic Leukemia (CLL) is a chronic blood cancer originating in the bone marrow, characterized by the overproduction of abnormal lymphocytes. These abnormal cells displace healthy blood cells, leading to symptoms such as infection, anemia, and easy bleeding. It primarily affects adults, especially those over 50, and can spread to other body parts.",
+  "causes": [
+    "Genetic changes in bone marrow cells",
+    "Chromosomal translocations (general to hematologic malignancies, arising from aberrant DNA double-strand break repair)"
+  ],
+  "risk_factors": [
+    "Older age (over 50)",
+    "Family history of CLL or other blood and bone marrow diseases",
+    "White racial/ethnic group",
+    "Exposure to certain chemicals (e.g., Agent Orange)"
+  ],
+  "symptoms": [
+    "Swollen lymph nodes",
+    "Weakness",
+    "Fatigue",
+    "Pain or feeling of fullness below the ribs",
+    "Fever",
+    "Infection",
+    "Easy bruising",
+    "Easy bleeding",
+    "Petechiae",
+    "Unexplained weight loss",
+    "Drenching night sweats",
+    "Anemia"
+  ],
+  "diagnosis": [
+    "Physical exam",
+    "Medical history",
+    "Complete blood count (CBC) with differential",
+    "Blood chemistry tests (e.g., basic metabolic panel, comprehensive metabolic panel, kidney function tests, liver function tests, electrolyte panel)",
+    "Blood film analysis",
+    "Flow cytometry tests (on blood, bone marrow, or other tissue)",
+    "Genetic tests (for gene and chromosome changes)",
+    "Bone marrow biopsy",
+    "Lymph node biopsy",
+    "Imaging tests",
+    "Microscopic examination of specimens"
+  ],
+  "treatments": [
+    "Watchful waiting",
+    "Targeted therapy (e.g., Rituximab)",
+    "Chemotherapy",
+    "Radiation therapy",
+    "Immunotherapy",
+    "Bone marrow transplant",
+    "Stem cell transplant",
+    "Symptomatic treatment (e.g., blood transfusions)",
+    "Self-care (e.g., aerobic exercise)"
+  ],
+  "related_genes": [],
+  "subtypes": []
+}

@@ -1,0 +1,99 @@
+{
+  "disease_name": "Non-Hodgkin lymphoma",
+  "synonyms": [
+    "NHL",
+    "non-Hodgkin's lymphoma"
+  ],
+  "summary": "Non-Hodgkin lymphoma (NHL) is a group of blood cancers that originate from lymphocytes, a type of white blood cell. These abnormal cells can proliferate and spread throughout the body. The disease is categorized into over 60 specific types, grouped by aggressiveness.",
+  "causes": [
+    "Abnormal T cells or B cells",
+    "Poor immune function",
+    "Autoimmune diseases",
+    "Helicobacter pylori infection",
+    "Hepatitis C virus infection",
+    "Epstein–Barr virus infection",
+    "HIV infection",
+    "Exposure to certain chemicals (e.g., polychlorinated biphenyls, dioxins, phenoxy herbicides)",
+    "Medical treatments (e.g., radiation therapy, chemotherapy)",
+    "Genetic diseases (e.g., Klinefelter syndrome, Chédiak–Higashi syndrome, ataxia–telangiectasia syndrome)",
+    "Bone trauma and microfractures",
+    "Implants (hard metals or silicone)"
+  ],
+  "risk_factors": [
+    "Weakened immune system",
+    "Certain types of infections",
+    "Family history of lymphoma",
+    "Older age",
+    "Male sex (up to 45 years old)"
+  ],
+  "symptoms": [
+    "Swollen, painless lymph nodes",
+    "Unexplained weight loss",
+    "Fever",
+    "Soaking night sweats",
+    "Coughing",
+    "Trouble breathing",
+    "Chest pain",
+    "Weakness",
+    "Tiredness",
+    "Pain in the abdomen",
+    "Swelling in the abdomen",
+    "Feeling of fullness in the abdomen",
+    "Lumps under the skin",
+    "Itchiness",
+    "Red or purple skin lumps",
+    "Seizures",
+    "Problems with thinking",
+    "Personality changes",
+    "Bone pain"
+  ],
+  "diagnosis": [
+    "Physical exam",
+    "Blood tests",
+    "Chest x-ray",
+    "Biopsy (lymph node or bone marrow)",
+    "Complete blood count (CBC)",
+    "Blood chemistry studies",
+    "Hepatitis B test",
+    "Hepatitis C test",
+    "HIV test",
+    "CT scan (CAT scan)",
+    "PET scan (positron emission tomography scan)",
+    "Bone marrow aspiration",
+    "Immunohistochemistry",
+    "Cytogenetic analysis",
+    "Immunophenotyping",
+    "Medical imaging (for cancer staging)"
+  ],
+  "treatments": [
+    "Chemotherapy",
+    "Radiation therapy",
+    "Targeted therapy",
+    "Biological therapy (immunotherapy)",
+    "Watchful waiting",
+    "Stem-cell transplantation",
+    "Surgery",
+    "Plasmapheresis",
+    "R-CHOP (cyclophosphamide, doxorubicin, vincristine, prednisone, rituximab)",
+    "R-CHP with polatuzumab vedotin",
+    "Mesenchymal stromal cells (MSCs)",
+    "Platelet transfusions",
+    "Aerobic physical exercise"
+  ],
+  "related_genes": [
+    "Genes associated with specific subtypes"
+  ],
+  "subtypes": [
+    "Burkitt's lymphoma",
+    "Follicular dendritic cell sarcoma",
+    "Extranodal NK-T-cell lymphoma",
+    "Diffuse large B-cell lymphoma",
+    "Adult T-cell lymphoma",
+    "Gastric lymphoma",
+    "Primary effusion lymphoma",
+    "Multicentric Castleman disease",
+    "Splenic marginal zone lymphoma",
+    "Lymphoplasmacytic lymphoma",
+    "Hodgkin lymphoma (excluded)"
+  ]
+}

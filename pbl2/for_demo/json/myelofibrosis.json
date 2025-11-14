@@ -1,0 +1,89 @@
+{
+  "disease_name": "Myelofibrosis",
+  "synonyms": [
+    "Primary myelofibrosis",
+    "PMF",
+    "Myelofibrosis with myeloid metaplasia",
+    "Agnogenic myeloid metaplasia",
+    "Chronic idiopathic myelofibrosis",
+    "Heuck-Assmann disease",
+    "Assmann's Disease"
+  ],
+  "summary": "Myelofibrosis is a rare bone marrow blood cancer classified as a myeloproliferative neoplasm. It involves the remodeling of bone marrow with osteosclerosis and the secretion of collagen and reticulin proteins (fibrosis), which compromise normal bone marrow function and lead to decreased production of blood cells like erythrocytes, granulocytes, and platelets. It can also be a complication of other myeloproliferative disorders like polycythemia vera and essential thrombocythemia.",
+  "causes": [
+    "Acquired mutation in JAK2 gene",
+    "Acquired mutation in CALR gene",
+    "Acquired mutation in MPL gene",
+    "Somatic mutation in JAK2, CALR, or MPL genes",
+    "JAK2 V617F mutation",
+    "MPL W515L mutation",
+    "Genetics",
+    "Environmental factors"
+  ],
+  "risk_factors": [
+    "Older age (over 50)",
+    "Previous myeloproliferative disorders (polycythemia vera, essential thrombocythemia)"
+  ],
+  "symptoms": [
+    "Fever",
+    "Night sweats",
+    "Bone pain",
+    "Fatigue",
+    "Abdominal pain",
+    "Abdominal fullness",
+    "Enlarged spleen (splenomegaly)",
+    "Enlarged liver (hepatomegaly)",
+    "Bruising",
+    "Easy bleeding",
+    "Increased risk of thrombosis",
+    "Cachexia (loss of appetite, weight loss, fatigue)",
+    "Chills",
+    "Weight loss",
+    "Gout",
+    "High uric acid levels",
+    "Increased susceptibility to infection (e.g., pneumonia)",
+    "Pallor",
+    "Shortness of breath",
+    "Anemia",
+    "Leukoerythroblastic smear (tear-drop RBCs, nucleated RBCs, immature granulocytes)",
+    "Raised red blood cell volume (rare)",
+    "Cutaneous myelofibrosis (nodules in skin)"
+  ],
+  "diagnosis": [
+    "Bone marrow biopsy",
+    "Physical exam of the abdomen (for enlarged spleen or liver)",
+    "Blood Count Tests",
+    "Blood Tests",
+    "Bone Marrow Test",
+    "Reticulocyte Count",
+    "Genetic and chromosomal testing"
+  ],
+  "treatments": [
+    "Allogeneic stem cell transplantation",
+    "Ruxolitinib (Jakafi)",
+    "Fedratinib (Inrebic)",
+    "Pacritinib (Vonjo)",
+    "Momelotinib (Ojjaara)",
+    "Supportive care",
+    "Folic acid",
+    "Allopurinol",
+    "Blood transfusions",
+    "Dexamethasone",
+    "Alpha-interferon",
+    "Hydroxyurea (hydroxycarbamide)",
+    "Lenalidomide",
+    "Thalidomide",
+    "Splenectomy"
+  ],
+  "related_genes": [
+    "JAK2",
+    "CALR",
+    "MPL"
+  ],
+  "subtypes": [
+    "Prefibrotic primary myelofibrosis",
+    "Overt primary myelofibrosis",
+    "Secondary myelofibrosis (post-polycythemia vera)",
+    "Secondary myelofibrosis (post-essential thrombocythemia)"
+  ]
+}

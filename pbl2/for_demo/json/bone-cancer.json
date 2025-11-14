@@ -1,0 +1,83 @@
+{
+  "disease_name": "Bone Cancer",
+  "synonyms": [
+    "Bone tumor",
+    "Malignant bone tumor",
+    "Bone sarcoma"
+  ],
+  "summary": "Bone cancer is an abnormal growth of tissue in bone, which can be benign or malignant. Malignant bone tumors can originate in the bone (primary) or spread from other parts of the body (secondary), with secondary tumors being significantly more common. Primary bone cancers include osteosarcoma, chondrosarcoma, and Ewing's sarcoma.",
+  "causes": [
+    "Neoplastic processes (for primary tumors)",
+    "Developmental issues (for primary tumors)",
+    "Trauma (for primary tumors)",
+    "Infection (for primary tumors)",
+    "Inflammation (for primary tumors)",
+    "Metastasis from other cancers (e.g., Lung cancer, Breast cancer, Thyroid cancer, Kidney cancer, Prostate cancer)"
+  ],
+  "risk_factors": [
+    "Age (10-19 years for Osteosarcoma and Ewing's sarcoma)",
+    "Age (over 40 years for Chondrosarcoma)",
+    "Male sex (for Ewing's sarcoma)",
+    "Presence of primary cancer in other organs (e.g., Lung, Breast, Thyroid, Kidney, Prostate)"
+  ],
+  "symptoms": [
+    "Pain (often worse at night and at rest)",
+    "Lump",
+    "Neurological signs (due to nerve pressure)",
+    "Pathologic fracture (unexplained broken bone)",
+    "Fatigue",
+    "Fever",
+    "Weight loss",
+    "Anemia",
+    "Nausea"
+  ],
+  "diagnosis": [
+    "X-ray",
+    "CT scan",
+    "MRI",
+    "PET scan",
+    "Bone scintigraphy",
+    "Complete blood count (CBC)",
+    "Inflammatory markers test",
+    "Serum electrophoresis",
+    "PSA test",
+    "Kidney function tests",
+    "Liver function tests",
+    "Bence Jones protein test (urine)",
+    "Biopsy (needle or open)"
+  ],
+  "treatments": [
+    "Surgery (e.g., Limb amputation, Limb sparing surgery, Bone graft, Artificial bone replacement, Limb salvage prostheses, Allograft, Tumor-devitalized autograft, Vascularized fibula graft, Distraction osteogenesis, Custom-made implants)",
+    "Chemotherapy",
+    "Radiation therapy",
+    "Bisphosphonates (for bone density/loss)",
+    "Strontium-89 chloride (for pain)",
+    "Thermal ablation (Radiofrequency ablation, Cryoablation)"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Osteosarcoma",
+    "Chondrosarcoma",
+    "Ewing's sarcoma",
+    "Fibrosarcoma",
+    "Pleomorphic undifferentiated sarcoma (formerly Malignant fibrous histiocytoma)",
+    "Multiple myeloma",
+    "Germ cell tumors (e.g., Teratoma, Sacrococcygeal teratoma)",
+    "Osteoma (benign)",
+    "Osteoid osteoma (benign)",
+    "Osteochondroma (benign)",
+    "Osteoblastoma (benign)",
+    "Enchondroma (benign)",
+    "Giant cell tumor of bone (benign)",
+    "Aneurysmal bone cyst (benign)",
+    "Non-ossifying fibroma (benign)",
+    "Cartilage tumors (WHO 2020 classification)",
+    "Osteogenic tumors (WHO 2020 classification)",
+    "Fibrogenic tumors (WHO 2020 classification)",
+    "Vascular tumors of bone (WHO 2020 classification)",
+    "Osteoclastic giant cell-rich tumors (WHO 2020 classification)",
+    "Notochordal tumors (WHO 2020 classification)",
+    "Other mesenchymal tumors of bone (WHO 2020 classification)",
+    "Hematopoietic neoplasms of bone (WHO 2020 classification)"
+  ]
+}

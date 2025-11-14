@@ -1,0 +1,80 @@
+{
+  "disease_name": "Anaplastic thyroid cancer",
+  "synonyms": [
+    "Anaplastic thyroid carcinoma",
+    "ATC"
+  ],
+  "summary": "Anaplastic thyroid cancer (ATC) is a rare, aggressive form of thyroid cancer characterized by uncontrolled growth of highly abnormal cells in the thyroid gland. It accounts for a small percentage of thyroid cancer cases but is responsible for a significant proportion of deaths due to its aggressive behavior, rapid growth, and resistance to many standard cancer treatments. ATC typically carries a very poor prognosis, with a median survival time of three to six months after diagnosis. It often presents as a rapidly enlarging neck mass and can cause symptoms by compressing local structures.",
+  "causes": [],
+  "risk_factors": [
+    "Older age (most commonly 40-70, or over 60)",
+    "Female sex",
+    "Asian ethnicity (for general thyroid cancer)",
+    "Exposure to certain types of radiation (e.g., radiation treatments to head or neck as a child, radiation emergency, repeated radiation exposure to chest or neck)",
+    "Goiter (enlarged thyroid)",
+    "Long-standing goiter",
+    "Certain genetic conditions (e.g., multiple endocrine neoplasia)",
+    "Family history of thyroid cancer or thyroid disease",
+    "Coexisting differentiated thyroid cancer (suggests dedifferentiation)"
+  ],
+  "symptoms": [
+    "Lump in the neck",
+    "Rapidly enlarging neck mass",
+    "Redness and swelling of overlying skin",
+    "Trouble breathing",
+    "Difficulty swallowing",
+    "Pain when swallowing",
+    "Hoarseness",
+    "Difficulty controlling the voice",
+    "Cough",
+    "Neck pain",
+    "Symptoms from distant metastases (e.g., brain)",
+    "Coughing up blood"
+  ],
+  "diagnosis": [
+    "Physical exam (checking neck for swelling, lumps)",
+    "Medical history",
+    "Thyroid tests",
+    "Other blood tests",
+    "Imaging tests",
+    "Biopsy",
+    "Fine-needle aspiration (FNA)",
+    "Microscopic examination of thyroid tissue",
+    "Immunohistochemistry testing (e.g., positive for keratin, p53, PAX8; negative for thyroid transcription factor-1, thyroglobulin, calcitonin)",
+    "Ultrasound imaging (hypoechoic mass, invasion of local structures, lymph node metastases)",
+    "Contrast-enhanced computed tomography (CT) scan of the neck",
+    "PET scan (for staging)",
+    "CT scan of the neck, chest, abdomen, and pelvis (for staging)",
+    "Magnetic resonance imaging (MRI) of the brain (to assess for distant metastases)"
+  ],
+  "treatments": [
+    "Surgery (often unresectable, but curative if resectable and followed by adjuvant therapy)",
+    "Radiation therapy",
+    "External beam radiotherapy (EBRT)",
+    "Chemotherapy",
+    "Targeted therapy",
+    "BRAF inhibitors (e.g., dabrafenib, vemurafenib)",
+    "MEK inhibitors (e.g., trametinib, cobimetinib)",
+    "Immunotherapy (e.g., atezolizumab, pembrolizumab, spartalizumab)",
+    "Palliative care",
+    "Fosbretabulin (under investigation)",
+    "Bortezomib (under investigation)",
+    "TNF-Related Apoptosis Induced Ligand (TRAIL) (under investigation)",
+    "Adjuvant radiotherapy",
+    "Combinatorial therapy (molecular-based, targeted therapies, immunotherapy, surgery)"
+  ],
+  "related_genes": [
+    "p53",
+    "PAX8",
+    "BRAF",
+    "TERT"
+  ],
+  "subtypes": [
+    "Sarcomatoid variant",
+    "Squamoid variant",
+    "Osteoclastic variant",
+    "Paucicellular variant",
+    "Rhabdoid variant",
+    "Carcinomasarcoid variant"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "disease_name": "Carcinosarcoma",
+  "synonyms": [],
+  "summary": "Carcinosarcomas are rare malignant tumors composed of a mixture of carcinoma (epithelial cancer) and sarcoma (mesenchymal/connective tissue cancer), which can develop in diverse organs such as the skin, lungs, uterus, and ovaries.",
+  "causes": [
+    "Collision of two independent tumors (Collision tumor hypothesis)",
+    "Pseudosarcomatous reaction to epithelial malignancy (Composition hypothesis)",
+    "Divergent differentiation from a common pluripotential stem cell (Combination hypothesis)",
+    "Metaplastic sarcomatous transformation of the epithelial component (Conversion/divergence hypothesis)",
+    "p53 mutations",
+    "KRAS mutations",
+    "Early alteration in histogenesis with late transformation or degeneration of the epithelial component"
+  ],
+  "risk_factors": [
+    "Sun-damaged skin (associated with collision tumor hypothesis)"
+  ],
+  "symptoms": [],
+  "diagnosis": [],
+  "treatments": [],
+  "related_genes": [
+    "p53",
+    "KRAS"
+  ],
+  "subtypes": [
+    "Adenosarcoma",
+    "Uterine adenosarcoma"
+  ]
+}

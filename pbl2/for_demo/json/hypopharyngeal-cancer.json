@@ -1,0 +1,61 @@
+{
+  "disease_name": "Hypopharyngeal cancer",
+  "synonyms": [
+    "Laryngopharyngeal cancer",
+    "Throat cancer (specific to hypopharynx)"
+  ],
+  "summary": "Hypopharyngeal cancer is a rare type of head and neck cancer where malignant cells grow in the hypopharynx, the area where the larynx and esophagus meet. It originates in the outer layer (epithelium) of the hypopharynx and progresses by spreading into deeper tissues. Due to its late-stage diagnosis and proximity to lymphatic vessels, it has a high mortality rate.",
+  "causes": [
+    "Tobacco use",
+    "Heavy alcohol use",
+    "Chewing tobacco",
+    "Poor diet",
+    "Bile reflux",
+    "HPV (risk factor for oropharyngeal cancer, but mentioned in general throat cancer context)",
+    "Plummer-Vinson syndrome",
+    "Deficiency in certain vitamins"
+  ],
+  "risk_factors": [
+    "Tobacco use",
+    "Heavy alcohol use",
+    "Chewing tobacco",
+    "Poor diet",
+    "Bile reflux",
+    "HPV (risk factor for oropharyngeal cancer)",
+    "Plummer-Vinson syndrome",
+    "Deficiency in certain vitamins"
+  ],
+  "symptoms": [
+    "Sore throat that does not go away",
+    "Lump in the neck",
+    "Pain or ringing in the ears",
+    "Trouble swallowing",
+    "Ear pain",
+    "Swollen lymph nodes in the neck",
+    "Pain that radiates from the throat to the ears",
+    "Difficult or painful swallowing",
+    "Malnutrition and weight loss (due to refusal to eat)",
+    "Voice changes (late stage)"
+  ],
+  "diagnosis": [
+    "Physical exam and history",
+    "Imaging tests (CT scan, MRI)",
+    "Biopsy",
+    "Endoscopy",
+    "Staging (TNM system)"
+  ],
+  "treatments": [
+    "Surgery",
+    "Radiation therapy",
+    "Chemotherapy",
+    "Targeted therapy",
+    "Neoadjuvant chemotherapy (for advanced cancer)"
+  ],
+  "related_genes": [
+    "Oncogenes",
+    "Tumor suppressor genes",
+    "NF-kB",
+    "PARP1"
+  ],
+  "subtypes": []
+}

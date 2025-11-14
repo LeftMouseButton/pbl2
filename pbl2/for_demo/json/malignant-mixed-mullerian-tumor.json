@@ -1,0 +1,41 @@
+{
+  "disease_name": "Malignant mixed Müllerian tumor",
+  "synonyms": [
+    "Malignant mixed mesodermal tumor",
+    "MMMT",
+    "Carcinosarcoma"
+  ],
+  "summary": "A cancer found in the uterus, ovaries, fallopian tubes, and other body parts, characterized by the presence of both carcinomatous (epithelial) and sarcomatous (connective) tissue components. It is divided into homologous and heterologous types based on the origin of the sarcomatous component.",
+  "causes": [
+    "Combination theory (stem cell differentiation)",
+    "Collision theory (separate tissue types joining)",
+    "Composition theory (adenocarcinoma stimulating stroma)"
+  ],
+  "risk_factors": [
+    "Obesity",
+    "Exogenous estrogen therapies",
+    "Nulliparity",
+    "Tamoxifen therapy",
+    "Pelvic irradiation",
+    "Postmenopausal status",
+    "Older age (average 66 years)"
+  ],
+  "symptoms": [],
+  "diagnosis": [
+    "Histology (adenocarcinoma mixed with malignant mesenchymal elements)",
+    "Gross appearance (fleshy, bulky, polypoid, protruding through cervical os)"
+  ],
+  "treatments": [
+    "Combination chemotherapy (including Ifosfamide)",
+    "Ifosfamide alone",
+    "Radiotherapy to the abdomen"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Homologous malignant mixed Müllerian tumor",
+    "Heterologous malignant mixed Müllerian tumor",
+    "Endometrioid adenocarcinoma",
+    "Serous adenocarcinoma",
+    "Clear cell adenocarcinoma"
+  ]
+}

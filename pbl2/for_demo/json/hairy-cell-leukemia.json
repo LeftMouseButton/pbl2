@@ -1,0 +1,73 @@
+{
+  "disease_name": "Hairy Cell Leukemia",
+  "synonyms": [
+    "HCL",
+    "Leukemic reticuloendotheliosis",
+    "Histiocytic leukemia",
+    "Malignant reticulosis",
+    "Lymphoid myelofibrosis",
+    "Hairy cell leukemia-variant (HCL-V)"
+  ],
+  "summary": "Hairy cell leukemia (HCL) is an uncommon hematological malignancy characterized by the accumulation of abnormal B lymphocytes, often referred to as 'hairy cells' due to their cytoplasmic projections. These abnormal cells accumulate in the bone marrow, interfering with the production of normal blood cells, leading to pancytopenia. HCL typically has an indolent course, but patients frequently relapse. Despite this, with treatment, life expectancy is usually comparable to the general population.",
+  "causes": [
+    "Genetic mutations (BRAF V600E mutation is a driver mutation in nearly all cases)",
+    "Unknown cause (general cancer etiology)",
+    "Possible correlation with herbicides (extrapolated from other chronic B-cell leukemias/lymphomas)",
+    "Possible correlation with pesticides"
+  ],
+  "risk_factors": [
+    "Older age (median age at diagnosis is 55-60 for classic HCL, over 70 for HCL-V)",
+    "Male sex (4:1 male to female ratio for classic HCL)",
+    "Farming and gardening (correlates with increased risk in some studies)",
+    "Exposure to herbicides (potential risk factor, though not specifically proven for HCL)",
+    "Exposure to pesticides"
+  ],
+  "symptoms": [
+    "Infections (due to low white blood cell count)",
+    "Anemia",
+    "Fatigue (due to lack of red blood cells)",
+    "Easy bleeding (due to low platelet count)",
+    "Enlarged spleen (splenomegaly)",
+    "Abdominal lymphadenopathy",
+    "Fever (rare, constitutional symptom)",
+    "Chills (rare, constitutional symptom)",
+    "Weight loss (rare, constitutional symptom)",
+    "Rigors (rare, constitutional symptom)",
+    "Petechiae (tiny red dots under the skin due to bleeding)",
+    "Bone lesions (rare, in recurrent disease)"
+  ],
+  "diagnosis": [
+    "Complete blood count (CBC) showing low white blood cells, red blood cells, and platelets",
+    "Blood smear examination (presence of hairy cells with characteristic projections)",
+    "Bone marrow biopsy (confirmation of HCL infiltration and absence of other diseases)",
+    "Tartrate resistant acid phosphatase (TRAP) stain",
+    "Flow cytometry (detection of specific cell surface markers like CD19, CD20, CD22, CD11c, CD25, CD103, FMC7)",
+    "Annexin A1 and BRAF V600E mutant protein testing",
+    "Imaging tests (e.g., CT scans for abdominal lymphadenopathy)",
+    "Genetic tests (for BRAF V600E mutation)"
+  ],
+  "treatments": [
+    "Watchful waiting (for asymptomatic patients with no significant cytopenia or organomegaly)",
+    "Cladribine (purine analog, first-line therapy)",
+    "Pentostatin (purine analog, first-line therapy)",
+    "Rituximab (anti-CD20 monoclonal antibody, often combined with purine analogs)",
+    "Vemurafenib (BRAF inhibitor, second-line therapy)",
+    "Dabrafenib (BRAF inhibitor, second-line therapy)",
+    "Interferon-alpha (immune system hormone)",
+    "Splenectomy (may be used when other therapies fail and spleen has high disease burden)",
+    "Blood transfusions (for low red blood cells or platelets)",
+    "Filgrastim (to stimulate white blood cell production, routine use not recommended after cladribine)",
+    "Moxetumomab pasudotox (anti-CD22 immunotoxin, for relapsed disease)",
+    "Trametinib (MEK inhibitor, in combination with BRAF inhibitors)",
+    "Cobimetinib (MEK inhibitor, in combination with BRAF inhibitors)"
+  ],
+  "related_genes": [
+    "BRAF V600E",
+    "p53",
+    "IGHV (immunoglobulin gene VH4-34 rearrangement is a poor prognostic factor)"
+  ],
+  "subtypes": [
+    "Classic Hairy Cell Leukemia",
+    "Hairy Cell Leukemia-Variant (HCL-V)"
+  ]
+}

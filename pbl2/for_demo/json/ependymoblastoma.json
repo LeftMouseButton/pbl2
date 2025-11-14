@@ -1,0 +1,37 @@
+{
+  "disease_name": "Primitive neuroectodermal tumor",
+  "synonyms": [
+    "PNET",
+    "pPNET"
+  ],
+  "summary": "Primitive neuroectodermal tumor (PNET) is a rare, malignant (cancerous) neural crest tumor, typically affecting children and young adults under 25 years of age. Characterized by primitive, undifferentiated cells derived from neuroectoderm, it belongs to the Ewing family of tumors and has an overall 5-year survival rate of about 53%.",
+  "causes": [
+    "Genetic mutations"
+  ],
+  "risk_factors": [
+    "Young age (under 25 years)"
+  ],
+  "symptoms": [],
+  "diagnosis": [
+    "MRI",
+    "X-ray",
+    "CT scan",
+    "PET scan",
+    "Bone marrow biopsy",
+    "Tumor biopsy"
+  ],
+  "treatments": [
+    "Neoadjuvant chemotherapy",
+    "Radiation therapy",
+    "Surgical resection",
+    "Adjuvant chemotherapy",
+    "Palliative care"
+  ],
+  "related_genes": [
+    "p53"
+  ],
+  "subtypes": [
+    "Peripheral PNET",
+    "CNS PNET"
+  ]
+}

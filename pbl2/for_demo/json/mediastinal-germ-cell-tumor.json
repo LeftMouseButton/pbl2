@@ -1,0 +1,47 @@
+{
+  "disease_name": "Mediastinal germ cell tumor",
+  "synonyms": [
+    "Mediastinal germ cell tumors",
+    "Malignant mediastinal germ cell tumors"
+  ],
+  "summary": "Mediastinal germ cell tumors are tumors that derive from germ cell rest remnants in the mediastinum. While germ cell tumors most commonly occur in the gonad, they can occasionally arise elsewhere. Malignant mediastinal tumors are usually symptomatic at the time of diagnosis and can cause symptoms by compressing or invading adjacent structures. Rare cases of adult onset acute megakaryoblastic leukemia are associated with malignant mediastinal germ cell tumor, with similar genetic aberrations found in both malignancies.",
+  "causes": [
+    "Abnormal migration of germ cells during embryogenesis",
+    "Widespread distribution of germ cells to multiple sites during normal embryogenesis"
+  ],
+  "risk_factors": [
+    "Young males (for diagnosis consideration)",
+    "Klinefelter's syndrome"
+  ],
+  "symptoms": [
+    "Compression or invasion of adjacent structures (lungs, pleura, pericardium, chest wall)",
+    "Large tumor size",
+    "Minimal symptomatology despite large tumor size (seminomas)",
+    "Acute megakaryoblastic leukemia (rare association)"
+  ],
+  "diagnosis": [
+    "Physical examination",
+    "Routine laboratory studies",
+    "CT of the chest and abdomen",
+    "Determination of serum levels of HCG",
+    "Determination of serum levels of alpha-fetoprotein",
+    "Biopsy (implied for tissue examination)"
+  ],
+  "treatments": [
+    "Radiation therapy (for seminomas)",
+    "Combination chemotherapy (for seminomas)",
+    "Chemotherapy using bleomycin, etoposide and cisplatin (for seminomas)",
+    "Thoracotomy and attempted complete resection (for small, resectable tumors)",
+    "Surgical resection of any residual disease (for nonseminomatous tumors)",
+    "Chemotherapy following guidelines for poor-prognosis testicular cancer (for nonseminomatous tumors)"
+  ],
+  "related_genes": [
+    "Inversions in the long arm of chromosome 12",
+    "Trisomy 8",
+    "Extra X chromosome"
+  ],
+  "subtypes": [
+    "Seminomas",
+    "Nonseminomatous germ cell tumors"
+  ]
+}

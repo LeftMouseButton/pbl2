@@ -1,0 +1,72 @@
+{
+  "disease_name": "Cholangiocarcinoma",
+  "synonyms": [
+    "Bile duct cancer"
+  ],
+  "summary": "Cholangiocarcinoma, also known as bile duct cancer, is a rare type of cancer that forms in the bile ducts, which are tubes that carry bile from the liver to the small intestine. It can occur in bile ducts inside or outside the liver.",
+  "causes": [
+    "Infection with Helicobacter bilis bacteria",
+    "Infection with Helicobacter hepaticus bacteria",
+    "Infection with liver flukes (Opisthorchis viverrini, Clonorchis sinensis)"
+  ],
+  "risk_factors": [
+    "Primary sclerosing cholangitis (PSC)",
+    "Ulcerative colitis",
+    "Cirrhosis",
+    "Hepatitis C",
+    "Hepatitis B",
+    "Congenital liver malformations (e.g., Caroli disease, choledochal cysts)",
+    "Chronic liver disease (including viral hepatitis, alcoholic liver disease)",
+    "HIV infection",
+    "Lynch syndrome II",
+    "Biliary papillomatosis",
+    "Intrahepatic stones (hepatolithiasis)",
+    "Exposure to Thorotrast",
+    "Inflammation of the bile duct",
+    "Altered DNA repair functions in inflammatory bowel disease patients",
+    "Gut microbiota and bile acid activity"
+  ],
+  "symptoms": [
+    "Abdominal pain",
+    "Jaundice (yellowish skin, yellowing of eyes and skin)",
+    "Weight loss",
+    "Generalized itching (itchy skin)",
+    "Fever",
+    "Light colored stool",
+    "Dark urine",
+    "Abnormal liver function tests (e.g., elevated bilirubin, alkaline phosphatase, gamma glutamyl transferase)"
+  ],
+  "diagnosis": [
+    "Physical exam",
+    "Blood tests (e.g., serum CEA, CA19-9, liver function tests)",
+    "Imaging tests (Ultrasound, CT scan, MRI, MRCP)",
+    "Endoscopy (ERCP, Endoscopic ultrasound)",
+    "Percutaneous transhepatic cholangiography (PTC)",
+    "Biopsy (examination of cells/tissue under microscope)",
+    "Surgical exploration (Laparoscopy, Laparotomy)",
+    "Histological examination",
+    "Immunohistochemistry"
+  ],
+  "treatments": [
+    "Surgical resection",
+    "Chemotherapy (e.g., 5-fluorouracil with leucovorin, gemcitabine, cisplatin, irinotecan, capecitabine)",
+    "Radiation therapy",
+    "Stenting procedures",
+    "Liver transplantation",
+    "Adjuvant therapy",
+    "Locoregional therapies (Transarterial chemoembolization (TACE), Transarterial radioembolization (TARE), Ablation therapies)",
+    "Targeted therapy (Erlotinib, Infigratinib (Truseltiq), Pemigatinib (Pemazyre), Ivodesinib (Tibsovo), Futibatinib (Lytgobi))",
+    "Immunotherapy (Durvalumab (Imfinzi))",
+    "Palliative care"
+  ],
+  "related_genes": [
+    "FGFR2",
+    "IDH1"
+  ],
+  "subtypes": [
+    "Intrahepatic cholangiocarcinoma",
+    "Extrahepatic cholangiocarcinoma",
+    "Perihilar cholangiocarcinoma (Klatskin tumor)",
+    "Distal cholangiocarcinoma"
+  ]
+}

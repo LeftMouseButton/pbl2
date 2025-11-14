@@ -1,0 +1,53 @@
+{
+  "disease_name": "Head and neck cancer",
+  "synonyms": [],
+  "summary": "Head and neck cancer is a term for cancers that develop in the mouth, nose and sinuses, salivary glands, and throat and voice box (larynx). Most head and neck cancers are squamous cell cancers, beginning in the moist tissues lining the head and neck. The cancer cells can spread into deeper tissue as the cancer grows. Other cancers like brain cancer, eye cancer, and esophageal cancer are not typically considered head and neck cancers due to different treatments.",
+  "causes": [
+    "Tobacco use",
+    "Heavy alcohol consumption",
+    "HPV infection (for cancers in the tonsils and base of the tongue)",
+    "Exposure to wood dusts or certain other toxic substances at work (for upper throat, nose, and sinus cancers)",
+    "Radiation exposure to the head and neck (for salivary gland cancer)",
+    "Epstein-Barr virus (EBV) infection (for upper throat and salivary gland cancers)"
+  ],
+  "risk_factors": [
+    "Tobacco use",
+    "Heavy alcohol consumption",
+    "Male sex",
+    "Age over 50",
+    "History of head or neck cancer",
+    "HPV infection",
+    "Occupational exposure to wood dusts or certain toxic substances",
+    "Head and neck radiation exposure",
+    "Epstein-Barr virus (EBV) infection",
+    "Asian ethnicity (for upper throat cancer)"
+  ],
+  "symptoms": [
+    "Lump in the neck",
+    "Sore in the mouth or throat that does not heal and may be painful",
+    "Sore throat that does not go away",
+    "Trouble swallowing",
+    "Change or hoarseness in the voice"
+  ],
+  "diagnosis": [
+    "Physical exam of the affected area",
+    "Blood and/or urine tests",
+    "Endoscopy",
+    "Biopsy or cell collection for microscopic examination",
+    "Imaging tests"
+  ],
+  "treatments": [
+    "Surgery",
+    "Radiation therapy",
+    "Chemotherapy",
+    "Cancer immunotherapy",
+    "Targeted therapy",
+    "Physical therapy",
+    "Dietary counseling",
+    "Speech therapy"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Squamous cell cancers"
+  ]
+}

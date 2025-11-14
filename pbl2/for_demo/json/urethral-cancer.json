@@ -1,0 +1,59 @@
+{
+  "disease_name": "Urethral cancer",
+  "synonyms": [
+    "Cancer of the urethra"
+  ],
+  "summary": "Urethral cancer is a rare cancer that originates from the urethra, the tube that allows urine to pass out of the body. It is more common in men and its incidence rises after the age of 75. The most common type is papillary urothelial carcinoma.",
+  "causes": [
+    "Prolonged irritations of the urethra due to urinary catheterization",
+    "Chronic inflammation due to infection",
+    "Radiation",
+    "Diverticula of the urethra",
+    "Urethral strictures"
+  ],
+  "risk_factors": [
+    "Urinary catheterization",
+    "Chronic inflammation",
+    "Radiation exposure",
+    "Urethral strictures",
+    "Squamous cell carcinoma (SCC)",
+    "Genital lichen sclerosus",
+    "Older age"
+  ],
+  "symptoms": [
+    "Blood in the urine",
+    "Lump at end of penis",
+    "Bloody penile discharge",
+    "Weak or interrupted flow of urine",
+    "Frequent urination",
+    "Painful urination",
+    "Inability to pass urine",
+    "Lump or thickness in the perineum or penis",
+    "Enlarged lymph nodes",
+    "Pain in the groin or vaginal area",
+    "Bleeding from the urethra",
+    "Discharge from the urethra"
+  ],
+  "diagnosis": [
+    "Transurethral biopsy",
+    "Histological findings",
+    "Bladder cystoscopy",
+    "Urine tests",
+    "X-rays",
+    "Examination of the urethra with a cystoscope"
+  ],
+  "treatments": [
+    "Surgery (Open excision, Electro-resection with flash, Laser surgery, Cystourethrectomy, Cystoprostatectomy, Anterior body cavity, Incomplete or basic penectomy surgery)",
+    "Radiation therapy",
+    "Chemotherapy (cisplatin, vincristine, methotrexate)",
+    "Medicines"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Papillary urothelial carcinoma",
+    "Urothelial cell cancers",
+    "Squamous cell carcinomas",
+    "Adenocarcinomas",
+    "Anterior urethral cancer"
+  ]
+}

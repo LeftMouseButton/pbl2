@@ -1,0 +1,59 @@
+{
+  "disease_name": "Carcinoid Syndrome",
+  "synonyms": [],
+  "summary": "Carcinoid syndrome is a paraneoplastic syndrome comprising signs and symptoms that occur secondary to neuroendocrine tumors, most often found in the gut or lungs. It is caused by these tumors releasing biologically active substances, primarily serotonin, into the blood, leading to characteristic symptoms such as flushing, diarrhea, and less frequently, heart failure and bronchoconstriction.",
+  "causes": [
+    "Neuroendocrine tumors (formerly carcinoid tumors)",
+    "Release of biologically active substances (serotonin, histamine, tachykinins, kallikrein, prostaglandins) by neuroendocrine tumors",
+    "Metastasis of neuroendocrine tumors to the liver (allowing substances to bypass first-pass metabolism)",
+    "Neuroendocrine tumors arising in the bronchi (allowing products to reach systemic circulation before liver metabolism)"
+  ],
+  "risk_factors": [
+    "Presence of neuroendocrine tumors (occurs in approximately 10% of all, or 30–40% of more advanced/well developed NETs)",
+    "African American ethnicity (appears to be affected more often)",
+    "Stressful procedures (anesthesia, surgery, radiation treatment) can trigger carcinoid crisis"
+  ],
+  "symptoms": [
+    "Flushing (of skin, head, upper thorax)",
+    "Diarrhea",
+    "Abdominal cramping",
+    "Abdominal pain",
+    "Bronchoconstriction",
+    "Sneezing",
+    "Shortness of breath",
+    "Heart disease (cardiac complications, fibrosis of tricuspid and pulmonic valves, heart murmur)",
+    "Fatigue",
+    "Vomiting",
+    "Malabsorption",
+    "Pellagra (due to niacin deficiency)",
+    "Muscle loss",
+    "Cognitive impairment",
+    "Mesenteric fibrosis",
+    "Retroperitoneal fibroses",
+    "Hypotension (during carcinoid crisis)",
+    "Arrhythmia (during carcinoid crisis)",
+    "Bronchospasm (during carcinoid crisis)"
+  ],
+  "diagnosis": [
+    "24-hour urine levels of 5-HIAA (5-hydroxyindoleacetic acid)",
+    "Chromogranin A test",
+    "Imaging studies of abdomen and pelvis",
+    "Nuclear medicine gamma camera imaging (using radioactive somatostatin analogues like indium-111 pentetreotide)",
+    "PET scan",
+    "Bronchoscopy with biopsy (for pulmonary tumors)",
+    "Echocardiogram (with color doppler for carcinoid heart disease)"
+  ],
+  "treatments": [
+    "Surgery (for primary tumors)",
+    "Symptomatic control with somatostatin analogues (octreotide, lanreotide, pasireotide)",
+    "mTOR inhibitors (everolimus)",
+    "TPH inhibitor (telotristat ethyl for diarrhea)",
+    "Peptide directed radiotherapy (PRRT) (e.g., 177Lu-Dotatate, 90Y-Edotreotide)",
+    "Cytoreductive surgery (chemically with 131metaiodobenzylguanidine (131I-MIBG))",
+    "Liver-directed therapies (radiofrequency ablation, radioembolization for liver metastases)",
+    "Surgical valve repair or replacement (for carcinoid heart disease)",
+    "Treatment for heart failure"
+  ],
+  "related_genes": [],
+  "subtypes": []
+}

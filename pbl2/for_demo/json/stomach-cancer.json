@@ -1,0 +1,80 @@
+{
+  "disease_name": "Stomach Cancer",
+  "synonyms": [
+    "Gastric cancer"
+  ],
+  "summary": "Stomach cancer, also known as gastric cancer, is a malignant tumor of the stomach that develops in the lining of the stomach due to abnormal cell growth. It is often diagnosed late due to non-specific early symptoms, leading to a generally poor prognosis. The cancer can spread to other parts of the body, including the liver, lungs, bones, lining of the abdomen, and lymph nodes. Globally, it is a significant cause of cancer-related deaths.",
+  "causes": [
+    "Helicobacter pylori infection",
+    "Genetic syndromes (e.g., hereditary diffuse gastric cancer)",
+    "Epstein-Barr virus",
+    "Bile reflux"
+  ],
+  "risk_factors": [
+    "Older age",
+    "Male sex",
+    "Salted, smoked, or pickled foods",
+    "Smoking cigarettes",
+    "Family history of stomach cancer",
+    "Stomach inflammation",
+    "Obesity",
+    "Alcohol consumption",
+    "Dietary factors (fried foods, processed meat, red meat, brackens)",
+    "Iodine deficiency",
+    "AIDS"
+  ],
+  "symptoms": [
+    "Indigestion",
+    "Stomach discomfort",
+    "Heartburn",
+    "Upper abdominal pain",
+    "Nausea",
+    "Loss of appetite",
+    "Vomiting",
+    "Blood in stool (melena)",
+    "Unexplained weight loss",
+    "Jaundice",
+    "Trouble swallowing (dysphagia)",
+    "Fatigue",
+    "Bloating of the stomach after meals",
+    "Diarrhea",
+    "Constipation",
+    "Anemia"
+  ],
+  "diagnosis": [
+    "Physical exam",
+    "Blood tests (complete blood count, fecal occult blood test)",
+    "Imaging tests (CT scan, PET scan, abdominal ultrasound)",
+    "Endoscopy (gastroscopy)",
+    "Biopsy (histological examination)",
+    "Upper GI series (barium roentgenogram)",
+    "Breath test (experimental)",
+    "Endoscopic ultrasound",
+    "Tumor markers (carcinoembryonic antigen, carbohydrate antigen)"
+  ],
+  "treatments": [
+    "Surgery (gastrectomy, endoscopic mucosal resection, endoscopic submucosal dissection)",
+    "Chemotherapy (e.g., 5-fluorouracil, cisplatin, epirubicin, etoposide, docetaxel, oxaliplatin, capecitabine, irinotecan)",
+    "Radiation therapy",
+    "Targeted therapy (e.g., trastuzumab for HER2-overexpressing tumors)",
+    "Immunotherapy (e.g., nivolumab)",
+    "Palliative care",
+    "Treatment of H. pylori infection (for MALT lymphomas)"
+  ],
+  "related_genes": [
+    "CDH1",
+    "ITGAV",
+    "DUSP1",
+    "P2RX7"
+  ],
+  "subtypes": [
+    "Gastric adenocarcinomas",
+    "Intestinal type adenocarcinoma",
+    "Diffuse type adenocarcinoma",
+    "Signet ring cell carcinomas",
+    "Lymphomas (e.g., extranodal marginal zone B-cell lymphomas, diffuse large B-cell lymphomas)",
+    "Mesenchymal tumors",
+    "Carcinoid tumors",
+    "Stromal tumors"
+  ]
+}

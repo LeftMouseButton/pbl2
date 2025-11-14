@@ -1,0 +1,133 @@
+Basal-cell carcinoma (BCC), also known as basal-cell cancer, basalioma, or rodent ulcer, is the most common type of skin cancer. It often appears as a painless, raised area of skin, which may be shiny with small blood vessels running over it. It may also present as a raised area with ulceration. Basal-cell cancer grows slowly and can damage the tissue around it, but it is unlikely to spread to distant areas or result in death.
+Risk factors include exposure to ultraviolet light (UV), having lighter skin, radiation therapy, long-term exposure to arsenic, and poor immune-system function. Exposure to UV light during childhood is particularly harmful. Tanning beds have become another common source of ultraviolet radiation. Diagnosis often depends on skin examination, confirmed by tissue biopsy.
+Whether sunscreen affects the risk of basal-cell cancer remains unclear. Treatment is typically by surgical removal. This can be by simple excision if the cancer is small; otherwise, Mohs surgery is generally recommended. Other options include electrodesiccation and curettage, cryosurgery, topical chemotherapy, photodynamic therapy, laser surgery, or the use of imiquimod, a topical immune-activating medication. In the rare cases in which distant spread has occurred, chemotherapy or targeted therapy may be used.
+Basal-cell cancer accounts for at least 32% of all cancers globally. Of skin cancers other than melanoma, about 80% are BCCs. In the United States, about 35% of White males and 25% of White females are affected by BCC at some point in their lives.
+
+Basal-cell carcinoma is named after the basal cells that form the lowest layer of the epidermis. It is thought to develop from the folliculo–sebaceous–apocrine germinative cells called trichoblasts (of note, trichoblastic carcinoma is a term sometimes used to refer to a rare type of aggressive skin cancer that may resemble a benign trichoblastoma, and can also closely resemble BCC).
+
+
+== Signs and symptoms ==
+Individuals with basal-cell cancer typically present with a shiny, pearly skin nodule, but superficial BCC can present as a red patch similar to eczema. Infiltrative or morpheaform BCCs can present as a skin thickening or scar tissue – making diagnosis difficult without using tactile sensation and a skin biopsy. Visually distinguishing BCC from acne scar, actinic elastosis, and recent cryodestruction inflammation is often difficult.
+
+
+== Cause ==
+
+Most BCCs occur on sun-exposed areas of the body.
+
+
+== Pathophysiology ==
+
+Basal-cell carcinoma (BCC) is named after the basal cells that populate the lowest layer of the epidermis due to the histological appearance of the cancer cells under the microscope. Nevertheless, not all BCCs originate within the basal layer.  Some are thought to develop from the folliculo–sebaceous–apocrine germinative cells known as trichoblasts. Trichoblastic carcinoma is a term used to describe a rare and potentially aggressive malignancy that is also thought to arise from trichoblasts and may resemble a benign trichoblastoma (differential diagnosis can be challenging). It has been suggested that lesions diagnosed as trichoblastic carcinoma may actually themselves be BCC.
+Overexposure to the sun leads to the formation of thymine dimers, a form of DNA damage. While DNA repair removes most UV-induced damage, not all crosslinks are excised, so cumulative DNA damage can lead to mutations. Apart from the mutagenesis, overexposure to sunlight depresses the local immune system, possibly decreasing immune surveillance for new tumor cells.  Studies of the role of DNA repair in susceptibility to sunlight-induced BCC indicated that reduced DNA repair capacity is one of the underlying molecular mechanisms for sunlight-induced skin carcinogenesis in the general population.
+Basal-cell carcinomas can often occur in association with other lesions of the skin, such as actinic keratosis, seborrheic keratosis, and squamous-cell carcinoma. In a small proportion of cases, BCC also develops as a result of basal-cell nevus syndrome, or Gorlin syndrome, which is also characterized by keratocystic odontogenic tumors of the jaw, palmar or plantar (sole of the foot) pits, calcification of the falx cerebri (in the center line of the brain), and rib abnormalities. The cause of this syndrome is a mutation in the PTCH1 tumor suppressor gene located in chromosome 9q22.3, which inhibits the hedgehog signaling pathway. A mutation in the SMO gene, which is also on the hedgehog pathway, also causes BCC.
+
+
+== Diagnosis ==
+
+To diagnose basal-cell carcinomas, a skin biopsy is performed for histopathologic analysis. The most common method is a shave biopsy under local anesthesia. Most nodular BCCs can be diagnosed clinically; however, other variants can be challenging to distinguish from benign lesions such as intradermal naevus, sebaceomas, fibrous papules, early acne scars, and hypertrophic scarring. Exfoliative cytology methods have high sensitivity and specificity for confirming the diagnosis of BCC when clinical suspicion is high, but of unclear usefulness otherwise.
+
+
+=== Characteristics ===
+
+Basal-cell carcinoma cells resemble epidermal basal cells and are usually well differentiated.
+In uncertain cases, immunohistochemistry using BerEP4 can be used, having a high sensitivity and specificity in detecting only BCC cells.
+
+
+=== Main classes ===
+Basal-cell carcinoma can broadly be divided into three groups, based on the growth patterns.
+
+Superficial basal-cell carcinoma, formerly referred to as in-situ basal-cell carcinoma, is characterized by a superficial proliferation of neoplastic basal-cells. This tumor is generally responsive to topical chemotherapy, such as imiquimod, or fluorouracil, although surgical treatment is better able to ensure complete removal and confirm that there is not an underlying more aggressive subtype that was not sampled in the initial biopsy.
+Infiltrative basal-cell carcinoma, which also encompasses morpheaform and micronodular basal-cell cancer, is more difficult to treat with conservative methods, given its tendency to penetrate into deeper layers of the skin.
+Nodular basal-cell carcinoma includes most of the remaining categories of basal-cell cancer. It is not unusual to encounter heterogeneous morphologic features within the same tumor.
+
+
+=== Nodular basal-cell carcinoma ===
+
+Nodular basal-cell carcinoma (also known as "classic basal-cell carcinoma") accounts for 50% of all BCC. It most commonly occurs on the sun-exposed areas of the head and neck. Histopathology shows aggregates of basaloid cells with well-defined borders, showing a peripheral palisading of cells and one or more typical clefts. Such clefts are caused by shrinkage of mucin during tissue fixation and staining. Central necrosis with eosinophilic, granular features may also be present, as well as mucin. The heavy aggregates of mucin determine a cystic structure. Calcification may also be present, especially in long-standing lesions. Mitotic activity is usually not so evident, but a high mitotic rate may be present in more aggressive lesions. Adenoidal BCC can be classified as a variant of NBCC, characterized by basaloid cells with a reticulated configuration extending into the dermis.
+
+
+=== Other subtypes ===
+Other more specific subtypes of basal-cell carcinoma include:
+
+
+=== Aggressiveness patterns ===
+There are mainly three patterns of aggressiveness, based mainly on the cohesion of cancer cells:
+
+
+=== Differential diagnoses ===
+
+
+=== Radicality ===
+
+In suspected but uncertain BCC cells close to the resection margins, immunohistochemistry with BerEp4 can highlight the BCC cells.
+
+
+== Prevention ==
+Basal-cell carcinoma is a common skin cancer and occurs mainly in fair-skinned patients with a family history of this cancer. Sunlight is a factor in about two-thirds of these cancers; therefore, doctors recommend sunscreens with at least SPF 30. However, a Cochrane review examining the effect of solar protection (sunscreen only) in preventing the development of basal-cell carcinoma or cutaneous squamous cell carcinoma found that there was insufficient evidence to demonstrate whether sunscreen was effective for the prevention of either of these keratinocyte-derived cancers. The review did ultimately state that the certainty of these results was low, so future evidence could very well alter this conclusion. One-third occur in non-sun-exposed areas; thus, the pathogenesis is more complex than UV exposure as the cause.
+The use of a chemotherapeutic agent such as 5-Fluorouracil or imiquimod can prevent the development of skin cancer. It is usually recommended to individuals with extensive sun damage, a history of multiple skin cancers, or rudimentary forms of cancer (i.e., solar keratosis). It is often repeated every 2 to 3 years to decrease the risk of skin cancer further.
+
+
+== Treatment ==
+The following methods are employed in the treatment of basal-cell carcinoma (BCC):
+
+
+=== Standard surgical excision ===
+
+Surgery to remove the basal-cell carcinoma affected area and the surrounding skin is thought to be the most effective treatment. A disadvantage with standard surgical excision is a reported higher recurrence rate of basal-cell cancers of the face, especially around the eyelids, nose, and facial structures. There is no clear approach, nor clear research comparing the effectiveness of Mohs micrographic surgery versus surgical excision for BCC of the eye.
+For basal cell carcinoma excisions on the lower lip, the wound can be covered with a keystone flap. A keystone flap is achieved by creating a flap below the defect and pulling it superiorly to cover the wound. This can be performed if there is enough skin laxity to cover the defect and adequate blood supply to the flap.
+
+
+=== Mohs surgery ===
+For many new (primary) and all recurrent forms of basal cell carcinoma after previous surgery, especially on the head, neck, hands, feet, genitalia, and anterior legs (shins), Mohs surgery should be considered.
+Mohs surgery (or Mohs micrographic surgery) is an outpatient procedure, developed by Frederic E. Mohs in the 1930s, in which the tumor is surgically excised and then immediately examined under a microscope. It is a form of pathology processing called CCPDMA, which means that the entire surgical margin (both edges and deep) is examined. During the surgery, after each tissue removal and while the patient waits, the tissue is examined for cancer cells. That examination dictates the decision for additional tissue removal. Mohs surgery is also used for squamous-cell carcinoma, melanoma, atypical fibroxanthoma, dermatofibrosarcoma protuberans, Merkel cell carcinoma, microcystic adnexal carcinoma, and multiple other skin cancers; usually with cure rates higher than for other surgical and non-surgical treatments.
+An essential aspect of Mohs surgery is that the Mohs surgeon performs the surgery and personally reviews the Mohs pathology slides. Most standard excisions done in an office setting are sent to an outside laboratory for standard bread loafing methods of processing. With this method, it is likely that less than 5% of the surgical margin is examined, as each slice of tissue is only 6 micrometres thick, about 3 to 4 serial slices are obtained per section, and only about 3 to 4 sections are obtained per specimen.
+
+
+=== Cryosurgery ===
+Cryosurgery is an old modality for the treatment of many skin cancers. When accurately utilized with a temperature probe and cryotherapy instruments, it can result in a very good cure rate. Disadvantages include a lack of margin control, tissue necrosis, over- or under-treatment of the tumor, and long recovery time. Overall, there is sufficient data to consider cryosurgery as a reasonable treatment for BCC. There are no good studies, however, comparing cryosurgery with other modalities, particularly with Mohs surgery, excision, or electrodesiccation and curettage, so no conclusion can be made whether cryosurgery is as efficacious as other methods. Also, there is no evidence on whether curetting the lesions before cryosurgery affects the efficacy of treatment. Several textbooks are published on the therapy, and a few physicians still apply the treatment to selected patients.
+
+
+=== Electrodesiccation and curettage ===
+Electrodesiccation and curettage (EDC, also known as curettage and cautery, simply curettage) is accomplished by using a round knife, or curette, to scrape away the soft cancer. The skin is then burned with an electric current. This further softens the skin, allowing for the knife to cut more deeply with the next layer of curettage. The cycle is repeated, with a safety margin of curettage of normal skin around the visible tumor. This cycle is repeated 3 to 5 times, and the free skin margin treated is usually 4 to 6 mm. Cure rate is very much user-dependent and depends also on the size and type of tumor. Infiltrative or morpheaform BCCs can be difficult to eradicate with EDC. Generally, this method is used on cosmetically unimportant areas like the trunk (torso). Some physicians believe that it is acceptable to utilize EDC on the face of elderly patients over the age of 70. However, with increasing life expectancy, such an objective criterion cannot be supported. The cure rate can vary, depending on the aggressiveness of the EDC and the free margin treated. Some advocate curettage alone without electrodesiccation, and with the same cure rate.
+
+
+=== Chemotherapy ===
+Some superficial cancers respond to local therapy with 5-fluorouracil, a chemotherapy agent. One can expect a great deal of inflammation with this treatment. Chemotherapy often follows Mohs surgery to eliminate the residual superficial basal-cell carcinoma after the invasive portion is removed. 5-fluorouracil has received FDA approval.
+Removing the residual superficial tumor with surgery alone can result in large and difficult-to-repair surgical defects. One often waits a month or more after surgery before starting the immunotherapy or chemotherapy to make sure the surgical wound has adequately healed. Some people advocate the use of curettage (see EDC below) first, followed by chemotherapy. These experimental procedures are not standard care.
+Vismodegib and sonidegib are drugs approved specifically for treating BCC, but are expensive and cannot be used in pregnant women.
+Itraconazole, traditionally an antifungal medication, has also garnered recent attention for its potential use in the treatment of BCC, especially those that cannot be removed surgically. Possessing anti-Hedgehog pathway activity, there is clinical evidence that itraconazole has some efficacy either alone or when combined with vismodegib/sonidegib for primary and recurrent BCC. There is one case report of efficacy in metastatic BCC.
+
+
+=== Immunotherapy ===
+This technique uses the body's immune system to kill cancer cells. Improvement of the immune system works its way up to the cancerous cells and treats the skin cancer.
+Topical treatment with 5% Imiquimod cream (IMQ), with five applications per week for six weeks, has a reported 70–90% success rate at reducing, even removing, the BCC [basal-cell carcinoma]. Imiquimod has received FDA approval, and topical IMQ is approved by the European Medicines Agency for the treatment of small superficial basal-cell carcinoma. Off-label use of imiquimod on invasive basal-cell carcinoma has been reported. Imiquimod may be used before surgery to reduce the size of the carcinoma.
+Some advocate the use of imiquimod before Mohs surgery to remove the superficial component of the cancer.
+Research suggests that treatment using Euphorbia peplus, a common garden weed, may be effective. Australian biopharmaceutical company Peplin is developing this as topical treatment for BCC.
+
+
+=== Radiation ===
+Radiation therapy can be delivered either as external beam radiotherapy or as brachytherapy (mostly internal radiotherapy). Although radiotherapy is generally used in older patients who are not candidates for surgery, it is also used in cases where surgical excision will be disfiguring or difficult to reconstruct (especially on the tip of the nose and the nostril rims). Radiation treatment with external radiation often takes as few as 5 visits to as many as 25 visits. Usually, the more visits scheduled for therapy, the less complication or damage is done to the normal tissue supporting the tumor. Radiotherapy can also be useful if surgical excision has been done incompletely or if the pathology report following surgery suggests a high risk of recurrence, for example, if nerve involvement has been demonstrated. The cure rate can be as high as 95% for small tumors or as low as 80% for large tumors. A variation of an external brachytherapy is the epidermal radioisotope therapy (e.g., with 188Re in the form of the Rhenium-SCT). It is used in accordance with the general indications for brachytherapy and especially complex localisations or structures (e.g., earlobe) as well as the genitals.
+Usually, recurrent tumors after radiation are treated with surgery, not with radiation. Further radiation treatment will further damage normal tissue, and the tumor might be resistant to further radiation. Radiation therapy may be contraindicated for the treatment of nevoid basal-cell carcinoma syndrome.  A 2008 study reported that radiation therapy is appropriate for primary BCCs and recurrent BCCs, but not for BCCs that have recurred following previous radiation treatment.
+
+
+=== Photodynamic therapy ===
+Photodynamic therapy (PDT) is a new modality for the treatment of basal-cell carcinoma, which is administered by application of photosensitizers to the target area. When these molecules are activated by light, they become toxic, therefore destroying the target cells. Methyl aminolevulinate has been approved by the EU as a photosensitizer since 2001. This therapy is also used in other skin cancer types. A 2008 study reported that PDT was a good treatment option for primary superficial BCCs and reasonable for primary low-risk nodular BCCs, but was a "relatively poor" option for high-risk lesions.
+
+
+== Prognosis ==
+Prognosis is excellent if the appropriate method of treatment is used in early primary basal-cell cancers. Recurrent cancers are much harder to cure, with a higher recurrence rate, with the method of treatment. Although basal-cell carcinoma rarely metastasizes, it grows locally with invasion and destruction of local tissues. The cancer can impinge on vital structures like nerves and result in loss of sensation or loss of function, or rarely death. The vast majority of cases can be successfully treated before serious complications occur. The recurrence rate for the above treatment options ranges from 50 percent to 1 percent or less.
+The nose and temporal region are the most common areas for basal-cell carcinoma of the face.  When completely excised, the recurrence rate for basal-cell carcinoma is relatively low. However, when recurrence occurs among surgically treated basal-cell carcinomas of the face, there is a strong correlation with tumor thickness.
+
+
+== Epidemiology ==
+Basal-cell cancer is a very common skin cancer. It is much more common in White individuals and anyone with a family history of basal-cell cancer. It increases in incidence closer to the equator or at higher altitudes. It is very common among elderly people over the age of 80. There are approximately 800,000 new cases yearly in the United States alone. Up to 30% of white people develop basal-cell carcinomas in their lifetime. In Canada, the most common skin cancer is basal-cell carcinoma (as much as one-third of all cancer diagnoses), affecting 1 in 7 individuals over a lifetime.  This tumor accounts for approximately 70% of non-melanoma skin cancers. In 80 percent of all cases, basal-cell carcinoma affects the head or neck skin.
+Most sporadic BCCs occur in small numbers on sun-exposed skin of people over age 50, although younger people may also be affected. The development of multiple basal-cell cancer at an early age could be indicative of nevoid basal-cell carcinoma syndrome, also known as Gorlin syndrome.
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==

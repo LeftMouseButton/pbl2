@@ -1,0 +1,62 @@
+{
+  "disease_name": "Uterine Sarcoma",
+  "synonyms": [
+    "Uterine cancer"
+  ],
+  "summary": "Uterine sarcoma is a rare, aggressive cancer that begins in the muscle or other tissues of the uterus. It is harder to treat than endometrial cancer and can spread quickly. It is a malignant tumor arising from the smooth muscle or connective tissue of the uterus.",
+  "causes": [
+    "Past treatment with radiation therapy to the pelvis",
+    "Taking tamoxifen"
+  ],
+  "risk_factors": [
+    "Obesity",
+    "Metabolic syndrome",
+    "Estrogen-only hormone replacement therapy (HRT) after menopause",
+    "Type 2 diabetes",
+    "Early menarche",
+    "Late menopause",
+    "Nulliparity (never been pregnant)",
+    "Polycystic ovary syndrome",
+    "Family history of endometrial cancer",
+    "Lynch syndrome",
+    "Endometrial hyperplasia",
+    "Black women (for leiomyosarcoma)",
+    "Post-menopausal women"
+  ],
+  "symptoms": [
+    "Abnormal vaginal bleeding",
+    "Pelvic pain",
+    "Pelvic pressure",
+    "Unusual vaginal discharge",
+    "Enlarged uterus",
+    "Pelvic mass",
+    "Frequent urination",
+    "Difficulty urinating",
+    "Pain during sexual intercourse",
+    "Increased uterine size"
+  ],
+  "diagnosis": [
+    "Pelvic exam",
+    "Imaging tests (ultrasound, CAT scan, MRI)",
+    "Biopsy",
+    "Dilation and curettage (D & C)",
+    "Hysteroscopy",
+    "Histologic examination of specimen",
+    "T2*-weighted imaging (MRI)"
+  ],
+  "treatments": [
+    "Hysterectomy (radical hysterectomy)",
+    "Bilateral salpingo-oophorectomy",
+    "Hormone therapy",
+    "Radiation therapy",
+    "Chemotherapy"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Leiomyosarcoma",
+    "Endometrial stromal sarcoma",
+    "Carcinosarcoma",
+    "Uterine adenosarcoma",
+    "Malignant mixed Müllerian tumors"
+  ]
+}

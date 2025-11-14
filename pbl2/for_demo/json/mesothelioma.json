@@ -1,0 +1,100 @@
+{
+  "disease_name": "Mesothelioma",
+  "synonyms": [
+    "Malignant mesothelioma"
+  ],
+  "summary": "Mesothelioma is a rare but serious cancer of the mesothelium, the tissue lining internal organs such as the lungs, heart, and abdomen. It most commonly starts in the lungs and is strongly linked to asbestos exposure, with a long latency period between exposure and disease onset. Symptoms can include breathing difficulties, cough, chest or abdominal pain, and weight loss. Diagnosis often involves imaging tests and biopsy, and treatment options include surgery, radiation therapy, chemotherapy, immunotherapy, and targeted therapy.",
+  "causes": [
+    "Asbestos exposure",
+    "Erionite exposure",
+    "Genetic disposition (BAP1 gene mutation)",
+    "Simian virus 40 (SV40) infection (cofactor)",
+    "Irradiation of the chest or abdomen",
+    "Intrapleural thorium dioxide (thorotrast)"
+  ],
+  "risk_factors": [
+    "Occupational exposure to asbestos",
+    "Living near asbestos mines or factories",
+    "Living with asbestos workers",
+    "Working with asbestos-containing materials",
+    "Renovation or DIY activities in buildings with asbestos",
+    "Genetics",
+    "Infection with simian virus 40 (SV40)",
+    "Exposure to erionite",
+    "Exposure to talc"
+  ],
+  "symptoms": [
+    "Trouble breathing",
+    "Cough",
+    "Pain under the rib cage",
+    "Abdominal pain",
+    "Abdominal swelling",
+    "Lumps in the abdomen",
+    "Weight loss",
+    "Blood clots",
+    "Constipation",
+    "Fatigue",
+    "Anemia",
+    "Wheezing",
+    "Hoarseness",
+    "Blood in sputum (hemoptysis)",
+    "Pleural effusion (fluid around the lung)",
+    "Ascites (fluid in the abdomen)",
+    "Fever",
+    "Night sweats",
+    "Poor appetite",
+    "Vomiting",
+    "Umbilical hernia",
+    "Swelling of the neck or face",
+    "Constrictive pericarditis",
+    "Heart failure",
+    "Pulmonary embolism",
+    "Cardiac tamponade",
+    "Substernal chest pain",
+    "Orthopnea",
+    "Jaundice",
+    "Low blood sugar",
+    "Thrombophlebitis",
+    "Disseminated intravascular coagulation"
+  ],
+  "diagnosis": [
+    "Physical exam",
+    "Imaging tests (chest X-ray, CT scan, MRI)",
+    "Biopsy (tissue sample examination)",
+    "Cytopathology (examination of fluid)",
+    "Thoracentesis",
+    "Tube thoracostomy",
+    "Paracentesis",
+    "Ascitic drain",
+    "Pericardiocentesis",
+    "Immunohistochemistry",
+    "TNM classification (staging)"
+  ],
+  "treatments": [
+    "Surgery (pleurectomy/decortication, extrapleural pneumonectomy, pericardectomy)",
+    "Radiation therapy",
+    "Chemotherapy (cisplatin, pemetrexed, raltitrexed, gemcitabine, vinorelbine, carboplatin, adriamycin)",
+    "Immunotherapy (nivolumab, ipilimumab, interferon alpha)",
+    "Targeted therapy",
+    "Pleurodesis (using talc)",
+    "Hyperthermic intrathoracic chemotherapy",
+    "Multimodality therapy (combination of surgery, radiation, and chemotherapy)"
+  ],
+  "related_genes": [
+    "BAP1",
+    "NF2",
+    "TP53",
+    "EGFR",
+    "C-Met",
+    "AXL",
+    "PDGFRB"
+  ],
+  "subtypes": [
+    "Epithelioid mesothelioma",
+    "Sarcomatous mesothelioma",
+    "Biphasic mesothelioma",
+    "Pleural mesothelioma",
+    "Peritoneal mesothelioma",
+    "Pericardial mesothelioma"
+  ]
+}

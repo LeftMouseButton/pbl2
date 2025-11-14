@@ -1,0 +1,17 @@
+{
+  "disease_name": "Mucosal melanoma",
+  "synonyms": [],
+  "summary": "Mucosal melanoma is a rare type of melanoma that affects the mucous membranes, typically occurring in the head and neck, anorectal, vulvovaginal regions, and urinary tract. It is associated with a worse prognosis compared to skin melanomas.",
+  "causes": [],
+  "risk_factors": [],
+  "symptoms": [],
+  "diagnosis": [],
+  "treatments": [
+    "Immune checkpoint inhibitors (e.g., pembrolizumab)"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Vulvovaginal melanoma",
+    "Vaginal melanoma"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "disease_name": "Ovarian Germ Cell Tumors",
+  "synonyms": [
+    "OGCTs",
+    "Malignant germ cell tumors of ovary"
+  ],
+  "summary": "Ovarian germ cell tumors (OGCTs) are a heterogeneous group of tumors derived from primitive germ cells of the embryonic gonad, accounting for about 2.6% of all ovarian malignancies. They are relatively difficult to detect and diagnose at an early stage due to nonspecific symptoms and histological characteristics. Common symptoms include bloating, abdominal distention, ascites, and dyspareunia. The exact cause is unknown, but genetic mutations and environmental factors are implicated. Treatment typically involves surgical resection coupled with chemotherapy.",
+  "causes": [
+    "Formation of malignant cancer cells in the primordial germ cells of the ovary",
+    "Genetic mutations",
+    "Environmental factors",
+    "Endometriosis",
+    "Polycystic ovarian syndrome",
+    "BRCA-1/BRCA-2 mutations",
+    "Hereditary nonpolyposis colorectal cancer (Lynch syndrome)",
+    "Dysfunction of the tumor suppressor gene TRC8/RNF139",
+    "Karyotypic abnormalities",
+    "Transgenerational epigenetic inheritance from hazardous environmental substances (plastics, pesticides, dioxins)"
+  ],
+  "risk_factors": [
+    "Endometriosis",
+    "Polycystic ovarian syndrome",
+    "BRCA-1/BRCA-2 mutations",
+    "Hereditary nonpolyposis colorectal cancer (Lynch syndrome)",
+    "Young age (most common in 15-19 year old women, 75% incidence rate for women <30 years)"
+  ],
+  "symptoms": [
+    "Bloating",
+    "Abdominal distention",
+    "Ascites",
+    "Dyspareunia",
+    "Acute abdominal pain (if tumor ruptures)",
+    "Sister Mary Joseph Nodule",
+    "Ovarian torsion",
+    "Hemorrhage",
+    "Isosexual precocious puberty (in young children)"
+  ],
+  "diagnosis": [
+    "Pelvic examination",
+    "Serum tumor marker test (elevated alpha-fetoprotein, human chorionic gonadotropin, lactate dehydrogenase, alkaline phosphatase, cancer antigen 125)",
+    "Transvaginal ultrasonography (heteroechoic mass with sharp borders and high vascularization)",
+    "Computed tomography (lobular pattern of the tumor, compartmentalized solid mass with enhancing septa)",
+    "Surgical staging (FIGO staging guidelines)",
+    "Biopsy of tissue",
+    "Palpation or biopsies of lymph nodes (para-aortic, iliac, inguinal)",
+    "Peritoneal biopsies",
+    "Omentectomy"
+  ],
+  "treatments": [
+    "Surgical resection",
+    "Chemotherapy (BEP regimen: bleomycin, etoposide, cisplatin)",
+    "Salvage therapy (cisplatin, ifosfamide, paclitaxel)",
+    "Platinum-based chemotherapy (cisplatin, carboplatin, oxaliplatin)",
+    "Hyperthermic intraperitoneal chemotherapy (HIPEC) with docetaxel and cisplatin",
+    "Fertility-preserving surgery (unilateral salpingo-oophorectomy)",
+    "Cytoreductive surgery (hysterectomy, bilateral salpingo-oophorectomy)",
+    "Second look laparotomy"
+  ],
+  "related_genes": [
+    "BRCA1",
+    "BRCA2",
+    "TRC8/RNF139"
+  ],
+  "subtypes": [
+    "Dysgerminomas",
+    "Yolk sac tumor (endodermal sinus tumors)",
+    "Teratoma (mature teratoma, immature teratoma)",
+    "Choriocarcinoma (gestational choriocarcinoma, non-gestational choriocarcinoma)"
+  ]
+}

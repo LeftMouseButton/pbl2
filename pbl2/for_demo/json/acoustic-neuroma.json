@@ -1,0 +1,59 @@
+{
+  "disease_name": "Acoustic Neuroma",
+  "synonyms": [
+    "Vestibular Schwannoma",
+    "VS",
+    "Acoustic neuroma"
+  ],
+  "summary": "Acoustic neuroma is a benign tumor that develops on the vestibulocochlear nerve, which connects the ear to the brain. It typically grows slowly and can press against the hearing and balance nerves, leading to symptoms like hearing loss, tinnitus, dizziness, and balance problems. If it grows large enough, it can press against the brainstem and become life-threatening. It can also cause facial numbness or paralysis. In some cases, acoustic neuromas are associated with a genetic disorder called neurofibromatosis type 2 (NF2).",
+  "causes": [
+    "Malfunction of Schwann cells that form the insulating myelin sheath on the vestibulocochlear nerve",
+    "Mutation in the tumor suppressor gene, NF2, located on chromosome 22, resulting in abnormal production of the cell protein Merlin"
+  ],
+  "risk_factors": [
+    "Therapeutic radiation exposure to the head"
+  ],
+  "symptoms": [
+    "Loss of hearing on one side",
+    "Ringing in ears (tinnitus)",
+    "Dizziness",
+    "Balance problems",
+    "Feeling of fullness in the affected ear",
+    "Numbness of the face",
+    "Paralysis of the face",
+    "Headache (rare)",
+    "Sudden hearing loss",
+    "Vertigo",
+    "Nausea",
+    "Vomiting",
+    "Sleepiness",
+    "Mental confusion"
+  ],
+  "diagnosis": [
+    "Ear exams",
+    "Hearing tests",
+    "Vestibular testing",
+    "Scans",
+    "MRI scan",
+    "Auditory brainstem response test (ABR)",
+    "Computed tomography (CT scan) of the head",
+    "Genetic testing (for NF2)"
+  ],
+  "treatments": [
+    "Observation (wait-and-watch/wait-and-scan)",
+    "Regular check-ups",
+    "Surgery (microsurgery)",
+    "Radiation therapy",
+    "Radiosurgery (stereotactic radiosurgery)",
+    "Partial removals (for large tumors)",
+    "Medical therapies (clinical trials for drugs like everolimus, lapatinib, mifepristone)",
+    "Gene therapies"
+  ],
+  "related_genes": [
+    "NF2"
+  ],
+  "subtypes": [
+    "Sporadic VS (unilateral, non-hereditary)",
+    "Bilateral VS (associated with Neurofibromatosis Type 2)"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "disease_name": "Invasive Ductal Carcinoma",
+  "synonyms": [
+    "Invasive carcinoma of no special type",
+    "Invasive breast carcinoma of no special type",
+    "Invasive ductal carcinoma",
+    "Infiltrating ductal carcinoma",
+    "Invasive ductal carcinoma, not otherwise specified",
+    "Invasive carcinoma NST",
+    "IBC-NST",
+    "IDC",
+    "Invasive ductal carcinoma NOS"
+  ],
+  "summary": "Invasive Ductal Carcinoma (IDC) is a type of breast cancer that begins in the milk ducts and has spread into surrounding breast tissue. It is the most common type of invasive breast cancer, accounting for a significant majority of diagnoses in women and also occurring in men. It is characterized by cells that have invaded beyond the duct walls but lack specific differentiating features of other invasive breast cancer types, making it a diagnosis of exclusion. The disease can spread to nearby lymph nodes or metastasize to distant parts of the body through the lymphatic system or bloodstream. Prognosis varies based on factors like tumor grade, stage, and receptor status.",
+  "causes": [
+    "Changes in genetic material (DNA)",
+    "Inherited genetic changes (hereditary breast cancer)",
+    "Genetic changes in BRCA1 and BRCA2 genes"
+  ],
+  "risk_factors": [
+    "Older age",
+    "History of breast cancer or benign breast disease",
+    "Inherited risk of breast cancer (e.g., BRCA1/BRCA2 gene changes)",
+    "Dense breast tissue",
+    "Reproductive history leading to increased estrogen exposure (early menstruation, late first birth, late menopause)",
+    "Hormone therapy for menopause symptoms",
+    "Radiation therapy to the breast or chest",
+    "Obesity",
+    "Alcohol consumption",
+    "Being White",
+    "Being Black (tend to have greater severity and worse survival)"
+  ],
+  "symptoms": [
+    "New lump or thickening in or near the breast or armpit",
+    "Change in breast size or shape",
+    "Dimple or puckering in breast skin (orange peel-like texture)",
+    "Nipple turned inward",
+    "Nipple discharge (sudden, bloody, or from one breast)",
+    "Scaly, red, or swollen skin in the nipple area or breast",
+    "Pain in the breast",
+    "Palpable mass",
+    "Skin changes",
+    "Non-healing ulcers (in advanced disease)",
+    "Metastatic symptoms depending on affected organ"
+  ],
+  "diagnosis": [
+    "Physical exam (including clinical breast exam)",
+    "Medical history",
+    "Imaging tests (mammogram, ultrasound, MRI)",
+    "Breast biopsy",
+    "Blood chemistry tests (BMP, CMP, electrolyte panel)",
+    "Genetic tests (BRCA, TP53)",
+    "HER2 test",
+    "Estrogen and progesterone receptor test",
+    "Staging (TNM system)",
+    "Sentinel lymph node biopsy",
+    "Histopathological typing and grading",
+    "DNA analysis (diploid vs. aneuploid, S phase percentage)",
+    "Microscopic evaluation of carcinomatous cells below basement membrane of lactiferous ducts invading stroma",
+    "Histologic grading (Bloom Richardson Grade)"
+  ],
+  "treatments": [
+    "Surgery (mastectomy, lumpectomy)",
+    "Radiation therapy",
+    "Chemotherapy",
+    "Hormone therapy (e.g., tamoxifen, anastrozole)",
+    "Targeted therapy (e.g., trastuzumab for HER2-positive tumors)",
+    "Immunotherapy",
+    "Neoadjuvant therapy",
+    "Adjuvant systemic medical therapy",
+    "Prophylactic mastectomy",
+    "Bilateral prophylactic salpingo-oophorectomy (for BRCA carriers)"
+  ],
+  "related_genes": [
+    "BRCA1",
+    "BRCA2",
+    "TP53",
+    "HER2/neu"
+  ],
+  "subtypes": [
+    "Ductal carcinoma",
+    "Lobular carcinoma",
+    "Inflammatory breast cancer",
+    "Paget's disease of the breast",
+    "Pleomorphic carcinoma",
+    "Carcinoma with osteoclast-like stromal giant cells",
+    "Carcinoma with choriocarcinomatous features",
+    "Carcinoma with melanotic features",
+    "Mucinous carcinoma",
+    "Papillary carcinoma",
+    "Cribriform carcinoma",
+    "Tubular carcinoma"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "disease_name": "Adrenal gland cancer",
+  "synonyms": [
+    "Malignant adrenal gland tumors"
+  ],
+  "summary": "Malignant tumors of the adrenal glands, which are located on top of each kidney and produce essential hormones like sex hormones and cortisol. Most adrenal gland tumors are benign and do not cause symptoms or require treatment. Adrenal gland cancers are uncommon.",
+  "causes": [],
+  "risk_factors": [],
+  "symptoms": [
+    "Symptoms depend on the type of cancer"
+  ],
+  "diagnosis": [],
+  "treatments": [
+    "Surgery",
+    "Chemotherapy",
+    "Radiation therapy"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Adrenocortical carcinoma",
+    "Neuroblastoma",
+    "Pheochromocytoma"
+  ]
+}

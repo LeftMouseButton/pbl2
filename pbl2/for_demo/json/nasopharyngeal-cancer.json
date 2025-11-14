@@ -1,0 +1,78 @@
+{
+  "disease_name": "Nasopharyngeal carcinoma",
+  "synonyms": [
+    "NPC",
+    "Nasopharynx cancer",
+    "Throat cancer",
+    "Cantonese cancer"
+  ],
+  "summary": "Nasopharyngeal carcinoma (NPC) is a type of head and neck cancer originating in the nasopharynx. It is characterized by its distinct occurrence, causes, clinical behavior, and treatment compared to other head and neck cancers. NPC is significantly more common in certain regions of East Asia and Africa and is more prevalent in males. It is a squamous cell carcinoma of an undifferentiated type.",
+  "causes": [
+    "Epstein-Barr virus (EBV) infection",
+    "Consumption of preserved meats and salted fish containing carcinogenic volatile nitrosamines",
+    "Genetic susceptibility",
+    "Human papillomavirus (HPV) (for WHO type I NPC)",
+    "Chronic sinusitis (hypothesized)"
+  ],
+  "risk_factors": [
+    "Tobacco use",
+    "Heavy drinking",
+    "Having HPV (for oropharyngeal cancer)",
+    "Chinese or Asian ancestry",
+    "Exposure to Epstein-Barr virus (EBV)",
+    "Familial clusters",
+    "Heavy alcohol consumption",
+    "Smoking (cigarette smoking, wood fires)",
+    "Living in crowded and less hygienic conditions (for EBV transmission)"
+  ],
+  "symptoms": [
+    "Lump or mass on the back of the neck (often not tender or painful)",
+    "Swollen lymph nodes in the neck",
+    "Sore throat that does not go away",
+    "Trouble swallowing",
+    "Ear pain",
+    "Ringing in the ears",
+    "Headaches",
+    "Trouble hearing",
+    "Trouble breathing",
+    "Trouble speaking",
+    "Facial pain or numbness",
+    "Blurred or double vision",
+    "Trouble opening the mouth",
+    "Recurring ear infections",
+    "Trismus",
+    "Otitis media",
+    "Nasal regurgitation due to paresis of the soft palate",
+    "Hearing loss",
+    "Cranial nerve palsy",
+    "Nasal obstruction or bleeding",
+    "Nasal twang",
+    "Bone pain",
+    "Organ dysfunction",
+    "Osteoarthropathy (rarely)"
+  ],
+  "diagnosis": [
+    "Physical exam and history",
+    "Imaging tests (e.g., MRI, CT, ultrasound)",
+    "Biopsy (including lymph node biopsy)",
+    "Blood tests (for EBV titers)",
+    "Staging based on clinical and radiologic examination"
+  ],
+  "treatments": [
+    "Surgery",
+    "Radiation therapy (including 3D conformal radiation therapy, intensity-modulated radiation therapy, particle beam therapy, brachytherapy)",
+    "Chemotherapy (systemic or regional)",
+    "Targeted therapy",
+    "Immunotherapy (e.g., toripalimab-tpzi with cisplatin and gemcitabine)",
+    "Adjuvant therapy (chemotherapy after radiation)"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "WHO type 1: squamous cell carcinoma",
+    "WHO type 2: non-keratinizing carcinoma",
+    "WHO type 3: undifferentiated carcinoma",
+    "Non-keratinizing squamous cell carcinoma (lymphoepithelioma)",
+    "Keratinizing squamous cell carcinoma",
+    "Basaloid squamous cell carcinoma"
+  ]
+}

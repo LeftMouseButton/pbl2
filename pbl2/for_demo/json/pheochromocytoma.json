@@ -1,0 +1,96 @@
+{
+  "disease_name": "Pheochromocytoma",
+  "synonyms": [
+    "Phaeochromocytoma"
+  ],
+  "summary": "Pheochromocytoma is a rare tumor that usually starts in the cells of one of your adrenal glands. Although they are usually benign, pheochromocytomas often cause the adrenal gland to make too many hormones, leading to high blood pressure and symptoms such as headaches, sweating, pounding of the heart, shakiness, and paleness. It is part of the paraganglioma (PGL) family of neuroendocrine tumors. These tumors can release catecholamines into the bloodstream, causing symptoms like hypertension, tachycardia, sweating, and headaches. Pheochromocytoma is sometimes part of multiple endocrine neoplasia syndrome (MEN).",
+  "causes": [
+    "Chromaffin cells",
+    "Genetic mutations (e.g., in SDHx genes, RET proto-oncogene, VHL, NF1, HIF2A)"
+  ],
+  "risk_factors": [
+    "Multiple Endocrine Neoplasia Syndrome (MEN)",
+    "Von-Hippel-Lindau syndrome (VHL)",
+    "Neurofibromatosis-1 (NF1)",
+    "Succinate Dehydrogenase Subunit x (SDHx) genetic variants",
+    "Pacak-Zhuang Syndrome",
+    "Carney Triad",
+    "Carney-Stratakis Syndrome"
+  ],
+  "symptoms": [
+    "Headaches",
+    "Sweating",
+    "Pounding of the heart",
+    "Being shaky",
+    "Being extremely pale",
+    "Hypertension (high blood pressure)",
+    "Tachycardia (fast heart rate)",
+    "Hyperhidrosis (excessive sweating)",
+    "Pallor",
+    "Heat intolerance",
+    "Weight loss",
+    "Chest or abdominal discomfort",
+    "Palpitations",
+    "Nausea/vomiting",
+    "Constipation",
+    "Orthostatic hypotension",
+    "Anxiety",
+    "Panic attacks",
+    "Nervousness",
+    "Tremors",
+    "Hyperglycemia (high blood sugar)",
+    "Rhabdomyolysis",
+    "Acute renal failure",
+    "Multiple organ dysfunction syndrome (MODS)"
+  ],
+  "diagnosis": [
+    "Lab tests",
+    "Imaging tests",
+    "Biochemical evaluation (elevated plasma free metanephrines)",
+    "Twenty-four hour urinary metanephrines",
+    "Chromogranin A",
+    "Clonidine suppression test",
+    "Plasma methoxytyramine",
+    "Anatomic imaging (CT, MRI)",
+    "Functional imaging (18F-FDG PET, 123I-MIBG, 18F-FDOPA, 68Ga-DOTA, HED-PET)",
+    "Immunohistochemistry (Chromogranin-A, Synaptophysin, GATA3, SOX10, S100, SDHB, Inhibin A, CAIX, TH, DBH, ChAT, Ki67)"
+  ],
+  "treatments": [
+    "Surgery (surgical resection, laparoscopic adrenalectomy, open procedure)",
+    "Radiation therapy",
+    "Chemotherapy (cyclophosphamide, vincristine, and dacarbazine - CVD; temozolomide - TMZ)",
+    "Targeted therapy (Tyrosine Kinase Inhibitors - TKIs, Belzutifan, Selpercatinib)",
+    "Radionuclide Therapy (Iodine-131 meta-iodobenzylguanadine - MIBG, Peptide Receptor Radionuclide Therapy - PRRT)",
+    "Alpha-adrenoceptor blockade (doxazosin, prazosin, terazosin, phenoxybenzamine)",
+    "Beta-adrenoceptor blockade (atenolol, metoprolol, propranolol)",
+    "Calcium-channel blocker (amlodipine)",
+    "Steroid supplementation (hydrocortisone, fludrocortisone)",
+    "Fluid resuscitation",
+    "Vasopressors"
+  ],
+  "related_genes": [
+    "RET proto-oncogene",
+    "VHL",
+    "NF1",
+    "SDHx",
+    "HIF2A",
+    "EPAS1",
+    "GATA3",
+    "SOX10",
+    "S100",
+    "SDHB",
+    "Inhibin A",
+    "CAIX",
+    "TH",
+    "DBH",
+    "ChAT",
+    "Ki67"
+  ],
+  "subtypes": [
+    "Paraganglioma (PGL)",
+    "Adrenal pheochromocytoma",
+    "Extra-adrenal pheochromocytoma",
+    "Malignant pheochromocytoma",
+    "Metastatic pheochromocytoma"
+  ]
+}

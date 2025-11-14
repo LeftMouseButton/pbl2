@@ -1,0 +1,65 @@
+{
+  "disease_name": "Medullary thyroid cancer",
+  "synonyms": [
+    "MTC",
+    "Medullary carcinoma of the thyroid",
+    "Thyroid carcinoma originating from parafollicular cells"
+  ],
+  "summary": "Medullary thyroid cancer (MTC) is a form of thyroid cancer that originates from the parafollicular cells (C cells) of the thyroid gland, which produce the hormone calcitonin. It is the third most common type of thyroid cancer, accounting for about 3% of all cases. MTC can occur sporadically or be hereditary, often associated with genetic mutations in the RET proto-oncogene.",
+  "causes": [
+    "Mutation in the RET proto-oncogene (sporadic and hereditary)",
+    "Hereditary genetic disorder (familial medullary thyroid cancer)",
+    "Multiple endocrine neoplasia type 2 (MEN2A and MEN2B)"
+  ],
+  "risk_factors": [
+    "Age between 25 and 65",
+    "Being female",
+    "Being Asian",
+    "Exposure to certain types of radiation (head or neck radiation treatment as a child, radiation emergency)",
+    "History of goiter (enlarged thyroid)",
+    "Certain genetic conditions (e.g., multiple endocrine neoplasia)",
+    "Family history of thyroid cancer or thyroid disease",
+    "Individuals with pheochromocytoma",
+    "Individuals with hyperparathyroidism"
+  ],
+  "symptoms": [
+    "Lump (nodule) in the neck",
+    "Trouble breathing",
+    "Trouble swallowing",
+    "Pain when swallowing",
+    "Hoarseness or other changes to voice",
+    "Diarrhea (especially with liver metastasis)",
+    "Flushing episodes (especially with liver metastasis)",
+    "Itching (pruritus)",
+    "Enlarged cervical lymph nodes"
+  ],
+  "diagnosis": [
+    "Physical exam (checking neck for swelling, lumps)",
+    "Medical history",
+    "Thyroid tests",
+    "Blood tests (calcitonin, CEA, metanephrines)",
+    "Imaging tests",
+    "Biopsy (fine needle aspiration)",
+    "Genetic testing (RET proto-oncogene mutation analysis)",
+    "Microscopic examination of biopsy (amyloid stroma, hyperplasia of parafollicular cells)"
+  ],
+  "treatments": [
+    "Surgery (total thyroidectomy with bilateral neck dissection)",
+    "Radiation therapy (external beam radiotherapy)",
+    "Chemotherapy",
+    "Thyroid hormone therapy",
+    "Targeted therapy (protein kinase inhibitors like Vandetanib, Cabozantinib)",
+    "Watchful waiting",
+    "Removal of parathyroid tumors",
+    "Removal of pheochromocytomas"
+  ],
+  "related_genes": [
+    "RET proto-oncogene"
+  ],
+  "subtypes": [
+    "Sporadic medullary thyroid cancer",
+    "Familial medullary thyroid cancer",
+    "Medullary thyroid cancer associated with Multiple Endocrine Neoplasia type 2A (MEN2A)",
+    "Medullary thyroid cancer associated with Multiple Endocrine Neoplasia type 2B (MEN2B)"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "disease_name": "Neuroblastoma",
+  "synonyms": [
+    "NB"
+  ],
+  "summary": "Neuroblastoma is a type of cancer that forms in nerve cells called neuroblasts. It usually begins in the adrenal glands but can also start in the neck, chest, or spinal cord. Neuroblasts are immature nerve tissue that normally develop into working nerve cells, but in neuroblastoma, they form a tumor. It is the most common cancer in babies and the third-most common cancer in children.",
+  "causes": [
+    "Changes in genes (gene variants or mutations)",
+    "Inherited mutations",
+    "MYCN oncogene amplification",
+    "Duplicated segments of the LMO1 gene",
+    "Copy-number variation within the NBPF10 gene"
+  ],
+  "risk_factors": [
+    "Parental factors around conception and during gestation (occupation, smoking, alcohol consumption, medicinal drug use, birth factors)",
+    "Atopy",
+    "Exposure to infection early in life",
+    "Use of hormones and fertility drugs",
+    "Maternal use of hair dye"
+  ],
+  "symptoms": [
+    "Lump in the abdomen, neck, or chest",
+    "Bulging eyes",
+    "Dark circles around the eyes",
+    "Bone pain",
+    "Swollen stomach",
+    "Trouble breathing",
+    "Painless, bluish lumps under the skin",
+    "Weakness or paralysis",
+    "Abdominal distension",
+    "Constipation",
+    "Breathing problems",
+    "Inability to stand, crawl, or walk",
+    "Limping",
+    "Distinct bruising and swelling around the eyes",
+    "Pallor from anemia",
+    "Fatigue",
+    "Loss of appetite",
+    "Fever",
+    "Joint pain"
+  ],
+  "diagnosis": [
+    "Medical history",
+    "Neurological exam",
+    "Imaging tests (x-rays, CT scan, ultrasound, MRI, MIBG scan)",
+    "Blood and urine tests",
+    "Biopsy",
+    "Bone marrow aspiration and biopsy",
+    "Surgical pathology",
+    "Urine catecholamine levels",
+    "Meta-iodobenzylguanidine (mIBG) scan",
+    "Fluoro-deoxy-glucose positron emission tomography (F-FDG-PET)",
+    "Microscopy (small, round, blue cells, Homer Wright pseudorosettes)",
+    "Immunohistochemical stains",
+    "International Neuroblastoma Staging System (INSS)",
+    "International Neuroblastoma Risk Group Staging System (INRGSS)"
+  ],
+  "treatments": [
+    "Observation (watchful waiting)",
+    "Surgery",
+    "Radiation therapy",
+    "Chemotherapy",
+    "High-dose chemotherapy and radiation therapy with stem cell rescue",
+    "Iodine 131-MIBG therapy",
+    "Targeted therapy",
+    "Stem cell transplantation",
+    "13-cis-retinoic acid (isotretinoin)",
+    "Immunotherapy (anti-GD2 monoclonal antibody therapy - dinutuximab)",
+    "Myeloablative therapy",
+    "Naxitamab",
+    "Granulocyte-macrophage colony-stimulating factor (GM-CSF)",
+    "Radionuclide therapy (177Lu-DOTA-TATE)"
+  ],
+  "related_genes": [
+    "ALK",
+    "PHOX2B",
+    "KIF1B",
+    "MYCN",
+    "LMO1",
+    "AHCY",
+    "DPYSL3",
+    "NME1",
+    "NBPF1O"
+  ],
+  "subtypes": [
+    "Low-risk neuroblastoma",
+    "Intermediate-risk neuroblastoma",
+    "High-risk neuroblastoma",
+    "Esthesioneuroblastoma (olfactory neuroblastoma)",
+    "Peripheral neuroblastic tumors (pNTs)",
+    "Ganglioneuroma",
+    "Ganglioneuroblastoma",
+    "Favorable neuroblastoma",
+    "Unfavorable neuroblastoma"
+  ]
+}

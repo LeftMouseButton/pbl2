@@ -1,0 +1,59 @@
+{
+  "disease_name": "Cutaneous T-cell lymphoma",
+  "synonyms": [
+    "CTCL"
+  ],
+  "summary": "Cutaneous T-cell lymphoma (CTCL) is a class of non-Hodgkin lymphoma, a cancer of the immune system caused by a mutation of T cells. These cancerous T cells initially migrate to the skin, causing various lesions that progress from itchy rashes to plaques and tumors, and can eventually spread to other parts of the body.",
+  "causes": [
+    "Mutation of T cells"
+  ],
+  "risk_factors": [
+    "Hydrochlorothiazide diuretics use",
+    "Therapy-induced immunosuppression",
+    "HTLV-1 infection",
+    "HTLV-2 infection",
+    "HIV infection",
+    "Epstein-Barr virus infection",
+    "Cytomegalovirus infection",
+    "HHV-6 infection",
+    "HHV-7 infection",
+    "HHV-8 (KSHV) infection",
+    "Polyomaviruses infection (e.g., Merkel cell polyomavirus)",
+    "Staphylococcus aureus infection",
+    "Mycobacterium leprae infection",
+    "Chlamydophila pneumoniae infection",
+    "Dermatophytes infection",
+    "Male sex",
+    "African-American ethnicity"
+  ],
+  "symptoms": [
+    "Skin lesions",
+    "Rash",
+    "Pruritus (itchy skin)",
+    "Plaques",
+    "Tumors",
+    "Enlarged lymph nodes",
+    "Enlarged liver",
+    "Enlarged spleen",
+    "Non-specific dermatitis",
+    "Pain"
+  ],
+  "diagnosis": [
+    "Point-based algorithm (International Society for Cutaneous Lymphomas, 2005)"
+  ],
+  "treatments": [
+    "Denileukin diftitox (Ontak)",
+    "Bexarotene (Targretin)",
+    "Vorinostat (Zolinza)",
+    "Romidepsin (Istodax)",
+    "Mogamulizumab-kpkc (Poteligeo)",
+    "Histone deacetylase (HDAC) inhibitors",
+    "Naloxone lotion (for pruritus)"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Mycosis fungoides",
+    "Sézary syndrome",
+    "Adult T-cell leukemia/lymphoma subtype"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "disease_name": "Hodgkin lymphoma",
+  "synonyms": [
+    "Hodgkin disease",
+    "HL"
+  ],
+  "summary": "Hodgkin lymphoma is a cancer that develops in the lymph system, which is part of the immune system. It starts in different types of white blood cells called lymphocytes. A hallmark of Hodgkin lymphoma is the presence of multinucleated Reed–Sternberg cells in the lymph nodes.",
+  "causes": [
+    "Unknown",
+    "Epstein-Barr virus (EBV) infection"
+  ],
+  "risk_factors": [
+    "Age (early adulthood 20-39, late adulthood 65+)",
+    "Male sex",
+    "Past Epstein-Barr virus (EBV) infection",
+    "Family history of Hodgkin lymphoma",
+    "HIV/AIDS"
+  ],
+  "symptoms": [
+    "Painless, swollen lymph nodes (neck, underarm, groin)",
+    "Fever",
+    "Drenching night sweats",
+    "Unexplained weight loss",
+    "Itchy skin",
+    "Fatigue",
+    "Splenomegaly (enlargement of the spleen)",
+    "Hepatomegaly (enlargement of the liver)",
+    "Pain following alcohol consumption",
+    "Back pain",
+    "Cyclical fever (Pel–Ebstein fever)"
+  ],
+  "diagnosis": [
+    "Medical history and symptom assessment",
+    "Physical examination",
+    "Complete blood count (CBC)",
+    "Blood chemistry studies",
+    "Lactate dehydrogenase (LDH) test",
+    "Erythrocyte sedimentation rate (ESR) test",
+    "Blood tests to rule out other conditions",
+    "Imaging tests (CT, PET, MRI)",
+    "Lymph node biopsy",
+    "Confirmation of cancer presence",
+    "Identification of Reed–Sternberg cells in lymph node biopsies"
+  ],
+  "treatments": [
+    "Chemotherapy",
+    "Radiation therapy",
+    "Targeted therapy",
+    "Cancer immunotherapy",
+    "Stem-cell transplantation",
+    "Rituximab (for nodular lymphocyte-predominant subtype)",
+    "Brentuximab vedotin",
+    "Nivolumab",
+    "Pembrolizumab"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Classic Hodgkin lymphoma",
+    "Nodular lymphocyte-predominant Hodgkin lymphoma",
+    "Nodular sclerosis",
+    "Lymphocyte depleted",
+    "Mixed cellularity",
+    "Lymphocyte-rich"
+  ]
+}

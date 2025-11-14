@@ -1,0 +1,87 @@
+{
+  "disease_name": "Inflammatory breast cancer",
+  "synonyms": [
+    "IBC"
+  ],
+  "summary": "Inflammatory breast cancer (IBC) is a rare and aggressive type of breast cancer where cancer cells block lymph vessels in the skin of the breast, causing the breast to become warm, red, and swollen. It often presents with symptoms resembling skin inflammation, such as redness and swelling, and may not be detected by mammography or ultrasound. IBC is characterized by rapid onset of symptoms and is often diagnosed at a later stage.",
+  "causes": [
+    "Changes in genetic material (DNA)",
+    "Inherited genetic changes (hereditary breast cancer)",
+    "BRCA1 gene changes",
+    "BRCA2 gene changes",
+    "Cancer cells blocking lymph vessels in the skin of the breast"
+  ],
+  "risk_factors": [
+    "Older age",
+    "History of breast cancer or benign breast disease",
+    "Inherited risk of breast cancer",
+    "Dense breast tissue",
+    "Reproductive history leading to more estrogen exposure (early menstruation, late first birth, late menopause)",
+    "Hormone therapy for menopause symptoms",
+    "Radiation therapy to the breast or chest",
+    "Obesity",
+    "Drinking alcohol",
+    "African-American ethnicity",
+    "Younger age at diagnosis for African-Americans"
+  ],
+  "symptoms": [
+    "Warm, red, and swollen breast",
+    "Rapid breast swelling",
+    "Skin changes (peau d'orange, dimpled appearance)",
+    "Nipple retraction",
+    "Nipple discharge",
+    "Scaly, red, or swollen skin in the nipple area or breast",
+    "Pain in the breast",
+    "Itching of breast",
+    "Swelling of lymph nodes (under the arm or in the neck)",
+    "Unusual warmth of the affected breast",
+    "Breast feels harder or firmer",
+    "Swelling of the arm",
+    "Breast size may seem to decrease",
+    "Acute central venous thrombosis"
+  ],
+  "diagnosis": [
+    "Physical exam (clinical breast exam)",
+    "Medical history",
+    "Mammogram",
+    "Ultrasound",
+    "MRI",
+    "Breast biopsy",
+    "Blood chemistry tests",
+    "Genetic tests (BRCA, TP53)",
+    "HER2 test",
+    "Estrogen and progesterone receptor test",
+    "Staging tests (imaging, sentinel lymph node biopsy)"
+  ],
+  "treatments": [
+    "Surgery (mastectomy, modified radical mastectomy)",
+    "Radiation therapy",
+    "Chemotherapy",
+    "Hormone therapy",
+    "Targeted therapy",
+    "Immunotherapy",
+    "Systemic therapy (prior to surgery)",
+    "Palliative surgery (for metastatic disease)"
+  ],
+  "related_genes": [
+    "BRCA1",
+    "BRCA2",
+    "TP53",
+    "VEGF",
+    "bFGF",
+    "Caveolin 1",
+    "Caveolin 2",
+    "E-cadherin",
+    "RhoC GTPase",
+    "NF-κB",
+    "EGFR",
+    "LIBC",
+    "WISP3"
+  ],
+  "subtypes": [
+    "Ductal carcinoma",
+    "Lobular carcinoma",
+    "Paget's disease of the breast",
+    "Triple negative breast cancer (TNBC)"
+  ]
+}

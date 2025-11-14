@@ -1,0 +1,35 @@
+{
+  "disease_name": "Bile duct cancer",
+  "synonyms": [
+    "Cholangiocarcinoma"
+  ],
+  "summary": "Bile duct cancer is a rare cancer that can occur in the parts of the bile ducts that are outside or inside the liver. Cancer of the bile duct outside of the liver is more common. Bile ducts carry bile from the liver and gallbladder to the small intestine to help break down fat and remove toxins and waste.",
+  "causes": [],
+  "risk_factors": [
+    "Inflammation of the bile duct",
+    "Ulcerative colitis",
+    "Some liver diseases"
+  ],
+  "symptoms": [
+    "Jaundice",
+    "Itchy skin",
+    "Fever",
+    "Abdominal pain"
+  ],
+  "diagnosis": [
+    "Physical exam",
+    "Imaging tests of the liver and bile ducts",
+    "Blood tests",
+    "Biopsy"
+  ],
+  "treatments": [
+    "Surgery",
+    "Radiation therapy",
+    "Chemotherapy"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Cancer of the bile duct outside of the liver",
+    "Cancer of the bile duct inside the liver"
+  ]
+}

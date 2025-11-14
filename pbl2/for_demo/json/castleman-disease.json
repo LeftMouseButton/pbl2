@@ -1,0 +1,71 @@
+{
+  "disease_name": "Castleman disease",
+  "synonyms": [
+    "CD",
+    "Localized Castleman disease"
+  ],
+  "summary": "Castleman disease is a group of rare lymphoproliferative disorders characterized by enlarged lymph nodes and a broad range of inflammatory symptoms and laboratory abnormalities. It involves the overproduction of cytokines and other inflammatory proteins by the body's immune system, and distinct abnormal lymph node features. The disease affects the lymphatic system, which is crucial for fighting infection and maintaining fluid balance.",
+  "causes": [
+    "Genetic change in lymph node tissue (Unicentric Castleman disease)",
+    "Human herpesvirus 8 (HHV-8) infection (HHV-8-associated Multicentric Castleman disease)",
+    "Cancerous cell population in POEMS syndrome producing cytokines (POEMS-associated Multicentric Castleman disease)",
+    "Unknown (Idiopathic Multicentric Castleman disease)"
+  ],
+  "risk_factors": [
+    "HIV infection (for HHV-8-associated MCD)",
+    "Immunocompromised state (for HHV-8-associated MCD)"
+  ],
+  "symptoms": [
+    "Enlarged lymph nodes",
+    "Inflammatory symptoms",
+    "Laboratory abnormalities (e.g., elevated C-reactive protein)",
+    "Fever",
+    "Fatigue",
+    "Night sweats",
+    "Weight loss",
+    "Skin rash",
+    "Symptoms due to compression of surrounding structures by enlarged lymph nodes",
+    "Flu-like symptoms",
+    "Organ dysfunction",
+    "Thrombocytopenia (iMCD-TAFRO)",
+    "Anasarca (iMCD-TAFRO)",
+    "Renal dysfunction (iMCD-TAFRO)",
+    "Myelofibrosis (iMCD-TAFRO)",
+    "Organomegaly (iMCD-TAFRO)",
+    "Thrombocytosis (iMCD-IPL)",
+    "Hypergammaglobulinemia (iMCD-IPL)",
+    "Symptoms related to HIV infection (HHV-8-associated MCD)"
+  ],
+  "diagnosis": [
+    "Microscopic analysis (histology) of enlarged lymph node tissue",
+    "Characteristic abnormal lymph node features (e.g., plasmacytic, hyaline vascular, hypervascular, mixed features)",
+    "Staining for latency-associated nuclear antigen (LANA-1) to detect HHV-8 infection",
+    "Formal diagnostic criteria (established in 2016)",
+    "International consensus diagnostic criteria for iMCD (established in 2017)",
+    "Evidence-based diagnostic criteria for UCD (established in 2020)"
+  ],
+  "treatments": [
+    "Surgery (first-line for Unicentric Castleman disease)",
+    "Rituximab (for UCD with compression symptoms, first-line for HHV-8-associated MCD, also used for iMCD if siltuximab ineffective)",
+    "Anti-interleukin-6 (IL-6) therapy (for UCD with inflammatory syndrome, first-line for iMCD)",
+    "Radiation (if UCD treatments not effective)",
+    "Treatment directed at POEMS syndrome (for POEMS-associated MCD)",
+    "Antivirals (for HHV-8-associated MCD)",
+    "Cytotoxic chemotherapies (for HHV-8-associated MCD, for critically ill iMCD patients)",
+    "Siltuximab (FDA-approved, first-line for iMCD)",
+    "Tocilizumab (if siltuximab not available for iMCD)",
+    "Corticosteroids (for critically ill iMCD patients)",
+    "Sirolimus (if siltuximab not effective for iMCD)"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Unicentric Castleman disease (UCD)",
+    "Multicentric Castleman disease (MCD)",
+    "POEMS-associated MCD",
+    "HHV-8-associated multicentric Castleman disease (HHV-8-MCD)",
+    "Idiopathic multicentric Castleman disease (iMCD)",
+    "iMCD with TAFRO Syndrome (iMCD-TAFRO)",
+    "iMCD with idiopathic plasmacytic lymphadenopathy (iMCD-IPL)",
+    "iMCD, not otherwise specified (iMCD-NOS)"
+  ]
+}

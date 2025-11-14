@@ -1,0 +1,82 @@
+{
+  "disease_name": "Chronic Myeloid Leukemia",
+  "synonyms": [
+    "Chronic Myelogenous Leukemia",
+    "CML"
+  ],
+  "summary": "Chronic Myeloid Leukemia (CML) is a cancer of the white blood cells, specifically a type of chronic leukemia. It is characterized by the increased and unregulated growth of myeloid cells in the bone marrow and their accumulation in the blood. CML is a clonal bone marrow stem cell disorder associated with a characteristic chromosomal translocation called the Philadelphia chromosome, which creates the BCR-ABL fusion gene. This gene produces an abnormal protein that causes leukemia cells to grow out of control, crowding out healthy blood cells and leading to infection, anemia, and bleeding.",
+  "causes": [
+    "Philadelphia chromosome (t(9;22)(q34;q11.2) translocation)",
+    "BCR-ABL fusion gene",
+    "Abnormal BCR-ABL protein (tyrosine kinase) leading to uncontrolled cell growth"
+  ],
+  "risk_factors": [
+    "Older age",
+    "Male sex",
+    "Exposure to high-dose ionizing radiation"
+  ],
+  "symptoms": [
+    "Fatigue",
+    "Unexplained weight loss",
+    "Drenching night sweats",
+    "Fever",
+    "Pain or fullness below the ribs on the left side",
+    "Frequent infections",
+    "Anemia",
+    "Easy bleeding",
+    "Petechiae",
+    "Ecchymosis",
+    "Bone pain",
+    "Enlarged spleen (splenomegaly)",
+    "Enlarged liver (hepatomegaly)",
+    "Loss of appetite",
+    "Increase in bone marrow fibrosis"
+  ],
+  "diagnosis": [
+    "Physical exam",
+    "Medical history",
+    "Complete blood count (CBC) with differential",
+    "Blood chemistry tests (e.g., Basic Metabolic Panel, Comprehensive Metabolic Panel, kidney function tests, liver function tests, electrolyte panel)",
+    "Bone marrow aspiration",
+    "Bone marrow biopsy",
+    "Genetic tests for gene and chromosome changes",
+    "Detection of Philadelphia chromosome",
+    "Cytogenetics (detecting t(9;22)(q34;q11.2) translocation)",
+    "Fluorescent in situ hybridization (FISH) for BCR-ABL1",
+    "PCR for BCR-ABL1",
+    "Imaging tests (e.g., MRI, CT, ultrasound) for cancer spread",
+    "Elevated white blood cell count",
+    "Increased granulocytes (neutrophils, eosinophils, basophils)"
+  ],
+  "treatments": [
+    "Tyrosine kinase inhibitors (TKIs)",
+    "Imatinib mesylate",
+    "Dasatinib",
+    "Nilotinib",
+    "Radotinib",
+    "Bosutinib",
+    "Asciminib",
+    "Ponatinib",
+    "Chemotherapy",
+    "Immunotherapy",
+    "High-dose chemotherapy with stem cell transplant",
+    "Allogeneic stem cell transplant",
+    "Bone marrow transplant",
+    "Donor lymphocyte infusion (DLI)",
+    "Splenectomy (surgery to remove the spleen)",
+    "Hydroxyurea",
+    "Omacetaxine",
+    "Interferon alfa-2b",
+    "Leukapheresis therapy"
+  ],
+  "related_genes": [
+    "BCR-ABL1",
+    "BCR gene",
+    "ABL1 gene"
+  ],
+  "subtypes": [
+    "Chronic phase",
+    "Accelerated phase",
+    "Blastic phase (Blast crisis)"
+  ]
+}

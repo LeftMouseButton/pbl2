@@ -1,0 +1,75 @@
+{
+  "disease_name": "Testicular Cancer",
+  "synonyms": [
+    "Testis cancer"
+  ],
+  "summary": "Testicular cancer is a cancer that develops in the tissues of one or both testicles, which are part of the male reproductive system and are responsible for making male hormones and sperm. It is rare but highly treatable and usually curable, with high survival rates, especially when detected early.",
+  "causes": [
+    "Cryptorchidism (undescended testicles)",
+    "Abnormal testicle development",
+    "Infection with human T-lymphotropic virus type 1 (HTLV-1)"
+  ],
+  "risk_factors": [
+    "Age (most common in men between 20 and 39, but can occur at any age)",
+    "Undescended testicle",
+    "Previous testicular cancer",
+    "Family history of testicular cancer",
+    "Being White",
+    "Inguinal hernias",
+    "Klinefelter syndrome",
+    "Mumps orchitis",
+    "Sedentary lifestyle",
+    "Early onset of male characteristics",
+    "Use of cannabis"
+  ],
+  "symptoms": [
+    "Painless lump or swelling in either testicle",
+    "Change in how the testicle feels",
+    "Dull ache in the lower abdomen or groin",
+    "Sudden build-up of fluid in the scrotum",
+    "Pain or discomfort in a testicle or in the scrotum",
+    "Feeling of heaviness in the scrotum",
+    "Firmness of the testicle",
+    "Breast enlargement (gynecomastia)",
+    "Low back pain (lumbago)",
+    "Shortness of breath (dyspnea)",
+    "Cough",
+    "Coughing up blood (hemoptysis)",
+    "Lump in the neck"
+  ],
+  "diagnosis": [
+    "Physical exam",
+    "Blood tests (including tumor markers like alpha-fetoprotein, human chorionic gonadotropin, and LDH-1)",
+    "Ultrasound of the testicles",
+    "Inguinal orchiectomy (surgical removal of the testicle for tissue examination)",
+    "CT scans (for staging and detecting metastases)",
+    "Pregnancy test (to detect high levels of chorionic gonadotropin)"
+  ],
+  "treatments": [
+    "Surgery (inguinal orchiectomy)",
+    "Radiation therapy",
+    "Chemotherapy (e.g., Bleomycin-Etoposide-Cisplatin (BEP), Etoposide-Cisplatin (EP), carboplatin)",
+    "High-dose chemotherapy with stem cell transplant",
+    "Retroperitoneal lymph node dissection (RPLND)",
+    "Surveillance"
+  ],
+  "related_genes": [
+    "Isochromosome 12p"
+  ],
+  "subtypes": [
+    "Germ cell tumors (GCTs)",
+    "Seminomas",
+    "Non-seminomas",
+    "Sex cord-stromal tumors",
+    "Lymphomas",
+    "Gonadoblastoma",
+    "Germinoma",
+    "Embryonal carcinoma",
+    "Yolk sac tumor",
+    "Choriocarcinoma",
+    "Teratoma",
+    "Spermatocytic tumor",
+    "Leydig cell tumor",
+    "Sertoli cell tumor"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "disease_name": "Carcinoid Tumor",
+  "synonyms": [
+    "Carcinoid",
+    "Neuroendocrine tumor"
+  ],
+  "summary": "Carcinoid tumors are rare, slow-growing neuroendocrine cancers primarily originating in the digestive tract or lungs. They are often asymptomatic in early stages, but can produce hormones, notably serotonin, leading to carcinoid syndrome, characterized by flushing, diarrhea, and breathing difficulties. They have malignant potential and can metastasize.",
+  "causes": [],
+  "risk_factors": [
+    "Achlorhydria",
+    "Hashimoto's thyroiditis",
+    "Pernicious anemia"
+  ],
+  "symptoms": [
+    "Flushing (face, upper chest, cutaneous)",
+    "Diarrhea",
+    "Trouble breathing",
+    "Wheezing",
+    "Bronchoconstriction",
+    "Abdominal cramping",
+    "Peripheral edema",
+    "Heart problems",
+    "Tricuspid valve disease",
+    "Right-sided cardiac valve disease",
+    "Niacin deficiency (Pellagra)",
+    "Dermatitis",
+    "Dementia",
+    "Haemorrhage",
+    "Effects of tumor bulk"
+  ],
+  "diagnosis": [
+    "Surgical discovery (coincidental)",
+    "CT scan",
+    "MRI scan",
+    "Tumor marker labs (e.g., serotonin)",
+    "History and physical examination"
+  ],
+  "treatments": [
+    "Surgery",
+    "Lutetium (177Lu) DOTA-octreotate (for metastatic disease)",
+    "131I-mIBG (meta iodo benzyl guanidine) (for metastatic disease)",
+    "Octreotide (somatostatin analogue)",
+    "Lanreotide (somatostatin analogue)",
+    "Interferon treatment"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Midgut carcinoid",
+    "Gastrointestinal carcinoid",
+    "Lung carcinoid",
+    "Goblet cell carcinoid",
+    "Neuroendocrine cancer"
+  ]
+}

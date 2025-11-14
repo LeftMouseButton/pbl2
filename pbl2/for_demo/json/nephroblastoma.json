@@ -1,0 +1,66 @@
+{
+  "disease_name": "Wilms tumor",
+  "synonyms": [
+    "Nephroblastoma",
+    "Wilms' tumor"
+  ],
+  "summary": "Wilms tumor is a rare type of kidney cancer that typically occurs in children, but can also affect adults. It causes a tumor on one or both kidneys and is highly responsive to treatment, with a high cure rate. It can be associated with certain genetic conditions and birth defects.",
+  "causes": [
+    "Alterations to genes such as WT1",
+    "Alterations to genes such as WT2",
+    "Nephrogenic rests (fragments of tissue that develop before birth and become cancerous after birth)",
+    "Congenital abnormalities",
+    "Genetic syndromes",
+    "Mutations in WT1 gene",
+    "Acquired somatic mutations in CTNNB1 gene",
+    "Deletions in the p13 band on chromosome 11"
+  ],
+  "risk_factors": [
+    "Certain genetic conditions",
+    "Birth defects",
+    "Aniridia",
+    "Denys-Drash syndrome",
+    "Hemihypertrophy",
+    "Perlman syndrome"
+  ],
+  "symptoms": [
+    "Lump in the abdomen",
+    "Blood in the urine",
+    "Fever",
+    "Painless, palpable abdominal mass",
+    "Loss of appetite",
+    "Abdominal pain",
+    "Nausea and vomiting",
+    "High blood pressure",
+    "Varicocele"
+  ],
+  "diagnosis": [
+    "Kidney examination",
+    "Blood tests",
+    "Ultrasound scan",
+    "Computed tomography (CT) scan",
+    "Magnetic resonance imaging (MRI) scan",
+    "Tissue sample (biopsy)",
+    "Pathological examination of nephrectomy specimen",
+    "Medical history",
+    "Physical exam"
+  ],
+  "treatments": [
+    "Surgery (nephrectomy)",
+    "Chemotherapy",
+    "Radiation therapy",
+    "Biologic therapies",
+    "Actinomycin D"
+  ],
+  "related_genes": [
+    "WT1",
+    "WT2",
+    "CTNNB1",
+    "H19"
+  ],
+  "subtypes": [
+    "Favorable Wilms' tumor",
+    "Anaplastic Wilms' tumor",
+    "Bilateral Wilms' tumor"
+  ]
+}

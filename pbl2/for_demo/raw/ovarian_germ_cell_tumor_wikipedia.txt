@@ -1,0 +1,88 @@
+Ovarian germ cell tumors (OGCTs) are heterogeneous tumors that are derived from the primitive germ cells of the embryonic gonad, which accounts for about 2.6% of all ovarian malignancies. There are four main types of OGCTs, namely dysgerminomas, yolk sac tumor, teratoma, and choriocarcinoma.
+Dygerminomas are Malignant germ cell tumor of ovary and particularly prominent in patients diagnosed with gonadal dysgenesis. OGCTs are relatively difficult to detect and diagnose at an early stage because of the nonspecific histological characteristics. Common symptoms of OGCT are bloating, abdominal distention, ascites, and dyspareunia. OGCT is caused mainly due to the formation of malignant cancer cells in the primordial germ cells of the ovary. The exact pathogenesis of OGCTs is still unknown however, various genetic mutations and environmental factors have been identified. OGCTs are commonly found during pregnancy when an adnexal mass is found during a pelvic examination, ultrasound scans show a solid mass in ovary or blood serum test shows elevated alpha-fetoprotein levels. They are unlikely to have metastasized and therefore the standard tumor management is surgical resection, coupled with chemotherapy. The occurrence rate is less than 3% worldwide.
+
+
+== Classification ==
+OGCTs can be classified into dysgerminoma, teratomas, yolk sac tumors, and choriocarcinomas, listed in the order of prevalence.
+
+
+=== Dysgerminoma ===
+Dysgerminomas are comparable to testicular seminomas and account for approximately 32- 37% of all OGCTs. They are particularly prominent in individuals with dysgenic gonads of 46, XY pure gonadal dysgenesis patients. Based on gross examinations, dysgerminomas are characterized by having a 'solid, lobulated, tan, flesh-like gross appearance with a smooth surface'. Microscopically, the cellular structure is distinguished by a round-ovoid shape containing ample eosinophilic cytoplasm and an irregularly shaped nuclei. The uniformly positioned cells are separated through the fibrous strands and lymphocytic infiltration is commonly observed.
+
+
+=== Teratomas ===
+
+Teratoma are most common germ cell tumor of ovary. Teratomas can be divided into two types: mature teratoma (benign) and immature teratoma (malignant). Immature teratomas contain immature or embryonic tissue which significantly differentiates them from mature teratomas as they carry dermoid cysts. It is commonly observed in 15 to 19-year-old women and rarely in women after menopause. Immature teratomas are characterized with a diameter of 14–25 cm, encapsulated mass, cystic areas, and occasional appearance of hemorrhagic areas. The stage of immature teratomas is determined depending on the amount of immature neuroepithelium tissue detected.
+
+
+=== Yolk sac tumor ===
+
+The ovarian yolk sac tumors, also known as endodermal sinus tumors, are accountable for approximately 15.5% of all OGCTs. They have been observed in women particularly in their early ages, and rarely after 40 years of age. The critical pathologic features are a smooth external surface and capsular tears due to their rapid rate of growth. A study consisting of 71 individual cases of ovarian yolk sac tumor provides evidence to the proliferation of the tumor. In one of the cases, the pelvic examination revealed normal activity until a 9 cm and 12 cm sized tumor was discovered 4 weeks later. In another case, a 23 cm tumor was discovered in a pregnant woman who was monitored regularly and had normal findings until oophorectomy became essential. Histologically, these tumors are characterized by mixed solid and cystic components. The mixed solid components are characterized by a soft gray to yellow solid components accompanied with significant hemorrhage and necrosis. The cysts are approximately 2 cm in diameter and populated throughout the tissue which results in giving the neoplasm a 'honeycombed appearance'.
+
+
+=== Choriocarcinoma ===
+
+Choriocarcinomas are exceptionally rare which account for 2.1%-3.4% of all OGCTs. Under gross examination, the syncytiotrophoblast cells are aligned in a plexiform arrangement with the mononucleated cytotrophoblast cells surrounding the foci of the hemorrhage. Choriocarcinomas can be divided into gestational choriocarcinomas and non-gestational choriocarcinomas which have immunohistochemical differences.
+
+
+== Signs and symptoms ==
+OGCTs are relatively difficult to detect and diagnose at an early stage mainly because the symptoms are normally subtle and nonspecific. They become detectable when as they become large, tangible masses. Symptoms include bloating, abdominal distention, ascites, and dyspareunia. In rare cases where the tumor ruptures, acute abdominal pain can be experienced. The critical indicator of malignancy is usually the appearance of the Sister Mary Joseph Nodule. OGCTs can further give rise to ovarian torsion, hemorrhage, and even isosexual precocious puberty in young children.
+
+
+== Causes ==
+The exact cause of OGCT is yet to be determined. However, a few factors have been identified which may contribute to increased risk of OGCTs including endometriosis, polycystic ovarian syndrome, and genetic risk factors. Individuals who are more prone to developing OGCTs usually contain the autosomal dominant, BRCA-1/ BRCA-2, mutations. Complications with other cancers such as hereditary nonpolyposis colorectal cancer, also known as the Lynch syndrome, increases the risk of developing ovarian cancer. Pregnancy, breastfeeding, and oral contraceptives are known to have reduced risk for OGCTs. The etiology of OGCT is still under study, however, genetic alterations may contribute to development of OGCTs, such as the classical tumor suppressor genes and oncogenes. Along with genetic modifications, certain environmental factors such as endocrine disruptors, presence of a daily routine that affects the individual's biochemistry, and exposure to maternal hormones could also contribute to the proliferation of OGCT. A recent study on rats showed the transgenerational epigenetic inheritance supporting the influence of hazardous environmental substances, including plastics, pesticides, and dioxins, on the pathogenesis of OGCT.
+
+
+== Pathogenesis ==
+Nonetheless, a few speculations for the causes have been made. During ovulation, the follicle ruptures resulting in epithelial cell damage. In order to heal the tissue and replace the damage, the cells undergoes cell division. Each time the cell divides, there is a possibility for mutations to occur and the chance of tumor formation increases. The tumor is caused when the germ cells in the ovaries begin divide uncontrollably and become malignant which are characterized with their less organized nuclei and unclearly defined border. Another potential etiology is the dysfunctioning of the tumor suppressor gene, TRC8/RNF139, or even karyotypic abnormalities after close molecular examination. 
+OGCT has its roots in embryonic development where the primordial germ cells (PGCs) are isolated in early stages and have the ability to alter the genome as well as the transcriptome. OGCTs can be attributed to the internal mechanism of PGCs and their transforming characteristics.
+
+
+== Staging ==
+After OGCT has been diagnosed, various tests will be conducted to determine whether the cancer has spread to other areas in the body. The spread of OGCT is identified through different stages: stage I, stage II, stage III, and stage IV namely. 
+Stage I: Tumor cells are localized in the ovaries or the fallopian tubes without extensive spread to other body regions.
+Stage II: The cancer is in one or both ovaries or fallopian tubes and has spread into the pelvis.
+Stage III: The cancer has spread beyond the pelvis into the abdomen and to the retroperitoneal lymph nodes (located at the back of the abdomen). The substages are characterized by the relative size of the tumor.
+Note: Stage II ovarian cancer will also be declared if the cancerous cells have spread to the liver. Stage IV: The cancer has spread outside of the abdomen and pelvis to more distant organs, such as the lungs.
+
+
+== Diagnosis ==
+
+The preliminary diagnosis begins with a pelvic examination, serum tumor marker test and imaging. Physicians may feel a large palpable mass or lump in lower abdomen upon insertion of the gloved fingers into the vagina. To further identify the histologic subtypes of OGMTs, blood samples of patients are collected to analyse the serum level of biomarkers released by the tumor cells. A surge in the plasma levels of human chorionic gonadotropin and alpha-fetoprotein is indicative of OGMTs. Lactate dehydrogenase, alkaline phosphatase and cancer antigen 125 might potentially increase as well. To visualize the location and morphology of the tumor, transvaginal ultrasonography is usually employed. The most characteristic appearance is a parenchymal-like heteroechoic mass with sharp borders and high vascularization. Computed tomography would produce stacked image inside the peritoneal region of the body to visualise the lobular pattern of the tumour. Usually for dysgerminoma, solid mass being compartmentalized into lobules with enhancing septa may be evident for haemorrhage or necrosis.
+
+
+=== Preoperative procedures ===
+In accordance with FIGO staging guidelines, comprehensive surgical staging will be conducted to examine the extent of tumor spread via peritoneal regions or lymph drainages.
+28% of stage II patients will be found with the development of secondary malignant growths at lymph nodes with a distance from a primary site of cancer, called lymph node metastasis.
+There are three major lymphatic drainage pathways:
+
+drainage to the paraaortic lymph nodes via ovarian veins
+drainage from broad ligament to the iliac lymph nodes
+drainage from round ligament to the inguinal lymph nodes
+Palpation or biopsies of unilateral pelvic and para-aortic lymph nodes will be conducted as a preoperative step to deduce the prognosis of the tumour and lymphatic spread
+Peritoneal biopsies and omentectomy will also be employed to evaluate the extent of tumour content spillage or implantation in peritoneal cavity. Tumor cells may shed off from the original site into the peritoneal cavity and implant onto the liver capsule surface or diaphragm. They may clog up inside the lymphatic vessel around the diaphragm and prevent resorption of peritoneal fluid. In the end, pericardiophrenic lymphadenopathy and ascites may result from this frank invasion.
+
+
+== Treatment ==
+
+
+=== Surgery ===
+Malignant OGCTs are predominantly unilateral and chemosensitive, which means they are localized in only one side of the ovary. Fertility-preserving surgery is primarily standardized to keep the contralateral ovary and fallopian tube intact, also known as unilateral salpingo-oophorectomy. For Stage II patients with observable metastasis, cytoreductive surgery may be performed to debulk the volume of the tumor, such as hysterectomy (removal of all or part of the uterus) and bilateral salpingo-oophorectomy. A surgical incision at the abdominal cavity after the completion of adjuvant chemotherapy, called second look laparotomy, is best applicable for patients reported with teratomatous elements after previous cytoreductive surgery.
+
+
+=== Adjuvant Chemotherapy ===
+
+With a recurrence up to 15-25% for early-stage patients, adjuvant chemotherapy needs to couple with surgical resection of tumor to ensure full salvage. For systemic chemotherapy (issued orally or intravenously), the regimen is standardised in every FIGO staging to comprise bleomycin, etoposide, and cisplatin, also known as the BEP treatment. Patients should be issued with 3-4 cycles of BEP to ensure full salvage. Depending on the personalised conditions, some patients who are non-responders to BEP therapy will be prescribed with salvage therapy, which consists of cisplatin, ifosfamide and paclitaxel. Yet, it is likely that OGCT survivors after BEP therapy will have premature menopause at a rough age of 36. Alternatively, some hospitals opted for platinum-based chemotherapy since the platinum complexes present in the drug intervenes DNA transcription by forming chemical cross-links within the DNA strands, which prevents the reproduction of cancerous cells. The major elements are cisplatin, carboplatin, and oxaliplatin. It has been reported with full recovery among early-stage patients and only a quarter of advanced-stage patients are not salvaged potentially due to drug resistance.
+For advanced-stage patients, after cytoreductive surgery, invisible microscopic cancerous cells or nodules may still be present at the site of infection. Therefore, doctors may instill a heated chemotherapy solution (≈42-43 °C) into the abdominal cavity through carters tubes for 1.5 hours. Based on the principle that cancer cells normally dies at 40 °C, somatic cells remains unaffected since they die at 44 °C. This novel method is proven effective with only 10% recurrence rate and no mortality recorded. It is known as the hyperthermic intraperitoneal chemotherapy (HIPEC), containing docetaxel, and cisplatin. Given the drug is disseminated locally in intraperitoneal regions, it has no systemic side effects on other actively reproducing cells and is preferred over systemic chemotherapy.
+Typically, uncontrollable drug distribution in systemic chemotherapy results in myelosuppression, specifically with observed febrile neutropenia, neurotoxicity, ototoxicity, and nephrotoxicity. Remedial treatments to deal with chemotherapy-induced toxicities is through injection of granulocyte colony-stimulating factor or myeloid growth factors or oral intake of prophylactic antibiotics.
+
+
+== Epidemiology ==
+OGCT is a rare tumour under the scope of ovarian cancer, accounting for less than 5% of all ovarian malignancies. It occurs mostly in 15-19-year-old women and shows 75% incidence rate for women aged <30 years. In 2011, the number of new cases occurred worldwide is 5.3 per million. In most countries, the occurrence rate on average is less than 3% of the population. However, Asia has reported the highest proportion of cases up to 4.3% due to the younger age profile of the population. For other regions, the incidence rates reported are 2.5% in Oceania, 2.0% in North America and 1.3% in Europe.
+The five-year survival rates have reached up to 90-92%, which is much higher than that of epithelial ovarian cancers. The main reason is the high effectiveness of platinum-based chemotherapy.
+
+
+== References ==
+
+
+== External links ==

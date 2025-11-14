@@ -1,0 +1,3666 @@
+"Moon-like" face (Cushing's syndrome)
+11C-labelled metomidate PET
+13-cis-retinoic acid (isotretinoin)
+131I-mIBG (meta iodo benzyl guanidine) (for metastatic disease)
+24-hour urine levels of 5-HIAA (5-hydroxyindoleacetic acid)
+3' APC mutation (for FAP patients)
+3D conformal radiation therapy
+5-fluorouracil with leucovorin
+5-FU (Fluorouracil)
+A cough that doesn't go away or gets worse
+A lump in the abdomen
+A lump in the neck
+A sore throat that does not go away
+Abdominal (belly) pain
+Abdominal fullness
+Abdominal lymphadenopathy
+Abdominal mass or swelling
+Abdominal organ leiomyosarcoma
+Abdominal pain (due to intestinal blockage)
+Abdominal pain (liver metastases)
+Abdominal pain or swelling
+Abdominal pains (if in the abdomen)
+Abdominal swelling
+Abdominal swelling (ascites due to liver metastasis)
+Abdominal swelling (ascites)
+Abdominal swelling (ascites, due to liver metastasis)
+Abdominal wall desmoid tumor
+Ablation (cold, heat, ultrasound)
+Ablation therapy (percutaneous ablation, radio frequency ablation, microwave ablation, ethanol injection, acetic acid injection, cryotherapy)
+Abnormal appearance of the retina (leukocoria)
+Abnormal BCR-ABL protein (tyrosine kinase) leading to uncontrolled cell growth
+Abnormal cell growth
+Abnormal cells in the vagina, cervix, or uterus
+Abnormal cells that invade or spread to other parts of the body
+Abnormal conception with excessive placental development
+Abnormal DNA methylation of tumor suppressor promoters
+Abnormal feeling in the legs (spinal tumor)
+Abnormal growth factor signaling
+Abnormal growth of endometrial cells
+Abnormal liver function tests (e.g., elevated bilirubin, alkaline phosphatase, gamma glutamyl transferase)
+Abnormal menstrual cycles (before menopause)
+Abnormal migration of germ cells during embryogenesis
+Abnormal T cell or B cell development (for non-Hodgkin lymphoma)
+Abnormal T cells or B cells
+Abnormal TAZ-CAMTA1 fusion protein variant that is constitutively active
+Abnormal testicle development
+Abnormal uterine bleeding (ovarian)
+Abnormal uterine bleeding (postmenopausal patients)
+Abnormal vaginal bleeding
+Abnormal vaginal bleeding (after sex, between menstrual periods, after douching, after pelvic exam, heavy bleeding)
+Abnormal vaginal bleeding after menopause
+Abnormalities affecting Wnt signaling pathway, cell cycle regulation, RNA metabolism, protein folding, and cadherin-related cell adherence
+Absence of FUS-DDIT3 or EWSR1-DDIT3 fusion genes (for myxoid pleomorphic liposarcoma)
+Absence of HMB-45 marker (for differentiation from melanoma)
+Absence of S100 marker (for differentiation from melanoma)
+AC003092.1
+Accelerated phase
+Accumulation of genetic mutations to the DNA of cells in the prostate
+Acetaldehyde (metabolite of alcohol)
+Acid reflux (Gastroesophageal reflux disease - GERD)
+Acitretin (for people following kidney transplant)
+Acne (Virilization)
+Acquired aplastic anemia following immunosuppressive treatment
+Acquired mutation in CALR gene
+Acquired mutation in JAK2 gene
+Acquired mutation in MPL gene
+Acquired somatic mutations in CTNNB1 gene
+Acrylonitrile (in tobacco smoke)
+Actinomycin D (chemotherapy drug)
+Activation of the MYB oncogene
+Active surveillance (for rectal cancer)
+Acute abdominal pain (if tumor ruptures)
+Acute central venous thrombosis
+Acute megakaryoblastic leukemia (rare association)
+Acute respiratory symptoms (after pregnancy)
+Adenocarcinoma not otherwise specified (NOS)
+Adenoidal BCC
+Adenoma-carcinoma sequence (polyp to cancer progression)
+Adenomatoid
+Adenosquamous adrenocortical carcinoma
+Adjusting dose or switching immunosuppressive medications (for iatrogenic KS)
+Adjuvant chemotherapy (platinum-based)
+Adjuvant systemic medical therapy
+Adjuvant therapy (chemotherapy after radiation)
+Adoptive cell transfer (ACT) using tumor-infiltrating lymphocytes (TILs)
+Adoptive transfer of genetically altered autologous lymphocytes
+Adrenal tumors (adrenomedullary tumors)
+Adriamycin
+Adult T-cell lymphoma
+Adulthood (for high-grade types)
+Aerobic physical exercise
+Affected verbal communication
+Affects tendons and aponeuroses
+Aflatoxin exposure
+Aflibercept
+AFP level greater than 500 ng/ml
+African American ethnicity
+African American ethnicity (appears to be affected more often)
+African cutaneous Kaposi sarcoma
+African-American ethnicity
+Age (10-19 years for Osteosarcoma and Ewing's sarcoma)
+Age (21-30 years)
+Age (30-60 years old)
+Age (5-10 years)
+Age (early adulthood 20-39, late adulthood 65+)
+Age (most common in men between 20 and 39, but can occur at any age)
+Age (most often between 60 and 70)
+Age (over 40 years for Chondrosarcoma)
+Age (peaks at 5 years and 35 years)
+Age (under 5 years old)
+Age 60 or older
+Age between 25 and 65
+Age over 30
+Age over 40
+Age over 50
+Age over 80
+Age range 20-40 years (typical occurrence)
+Age-related abnormal methylation
+Ages 5-15 (for bacterial tonsillitis)
+Aggressive excision (including thyroid and surrounding tissues if necessary)
+AIDS (possible link)
+AIDS-associated Kaposi sarcoma
+Air pollution
+AL102 (investigational)
+Alcohol consumption (excessive drinking)
+Alcohol consumption (increases risk of sunburns)
+Alcohol intake
+Alcohol use
+Alemtuzumab (Campath)
+Alitretinoin (topical)
+Alpha-adrenoceptor blockade (doxazosin, prazosin, terazosin, phenoxybenzamine)
+Alpha-fetoprotein (AFP) blood levels
+Alterations in NF1 gene
+Alterations to genes such as WT1
+Alterations to genes such as WT2
+Alterations to WT1 gene
+Alterations to WT2 gene
+Altered DNA repair functions in inflammatory bowel disease patients
+Alternating electric field therapy
+Amaurotic cat's eye reflex
+Amphinex
+Amputation of the affected limb
+Amputation of the extremity
+Anabolic steroid abuse (associated with benign tumors transforming)
+Anal Pap smears (for screening high-risk individuals)
+Anaplastic astrocytoma (WHO Grade III)
+Anaplastic thyroid cancer
+Anaplastic/malignant (Grade III)
+Anasarca (iMCD-TAFRO)
+Anatomic imaging (CT, MRI)
+Androgen receptor
+Androgen receptor (AR) testing
+Androgen receptors
+Anemia (especially over 50)
+Anemia (low RBC count or reduced hemoglobin)
+Anemia-like symptoms
+Aneurysmal bone cyst (benign)
+Annexin A1 and BRAF V600E mutant protein testing
+Anoscopy (using an anoscope)
+Anovulation (reproductive age patients)
+Anti-interleukin-6 (IL-6) therapy (for UCD with inflammatory syndrome, first-line for iMCD)
+Antibiotics (for bacterial infections)
+Antibiotics (pre-surgery)
+Antibodies to the acetylcholine receptor
+Anticholinergic medications
+Anticonvulsant medication (anti-epileptics for seizures)
+Anticonvulsants
+Anticonvulsants (if seizures occur)
+Antiemetics
+Antiestrogens (e.g., tamoxifen)
+Antiprogestin agents
+Antipsychotic drugs
+Antiretrovirals (lamivudine, doravirine, cabotegravir)
+Antithyroid antibody measurement
+Antiviral drugs
+Antivirals (for HHV-8-associated MCD)
+Appearance of a new mole during adulthood (melanoma)
+Appetite-increasing drugs (megestrol acetate, corticosteroids)
+Arise from various neuroendocrine cells
+Arrhythmia (during carcinoid crisis)
+Artificial UV radiation (tanning beds)
+Ascites
+Ascites (fluid buildup in the abdominal cavity)
+Ascites (fluid in the abdomen)
+Ascitic drain
+Ashkenazi Jewish descent
+Ashkenazi Jewish ethnicity (due to APC gene mutations)
+Asian ethnicity (for general thyroid cancer)
+Asian ethnicity (for upper throat cancer)
+Assessment for cellular atypia and stratification
+Association with vascular endothelial growth factor
+Asthma or wheezing
+Asymmetric testicular enlargement
+Asymptomatic (can be)
+Asymptomatic (mass identified on imaging)
+Asymptomatic (most common)
+Asymptomatic at diagnosis (often advanced at diagnosis)
+ATM mutations
+Atrophic DFSP
+ATRX mutations
+Atypical (Grade II)
+Atypical carcinoid (AC)
+Atypical lipomatous tumor/well-differentiated liposarcoma (ALT/WDL)
+Auditory brainstem response test (ABR)
+Autoimmune deterioration of cerebellum, limbic system, or brainstem
+Autoimmune diseases (e.g., lupus erythematosus)
+Autosomal dominant familial isolated hyperparathyroidism
+Awkward gait patterns
+Back or bone pain
+Bad breath
+Balance problems
+Balanced, reciprocal translocation t(1;3)(p36.3;q25)
+Barium swallow or barium meal
+Barium swallow/meal
+Basal Cell Carcinoma (eyelid)
+Basal-cell nevus syndrome (Gorlin syndrome)
+Basal-cell skin cancer (BCC)
+BCD (bleomycin, cyclophosphamide, dactinomycin)
+BCG vaccine (intravesical)
+BCR-ABL1
+Bednar tumor (Pigmented DFSP)
+Behavioral changes (e.g., inappropriate social behavior, personality changes, temper tantrums, lower inhibition)
+Being a woman
+Being a young man in Africa
+Being Asian
+Being Black (tend to have greater severity and worse survival)
+Being extremely pale
+Being female
+Being female (solitary glomus tumors, especially subungual lesions)
+Being male (in children)
+Being male (multiple lesions)
+Being overweight
+Being shaky
+Being underweight
+Being White
+Bence Jones protein test (urine)
+Benign (Grade I)
+Benign epithelial tumours
+Benign mucinous tumors
+Benign serous tumors
+Benign tumors
+Beta-adrenoceptor blockade (atenolol, metoprolol, propranolol)
+Beta-catenin mutations
+Betel nut chewing
+Bevacizumab (anti-VEGFA antibody, for cerebral edema)
+Bexarotene (Targretin)
+bFGF
+Bilateral Babinski sign
+Bilateral lower leg swelling
+Bilateral prophylactic salpingo-oophorectomy (for BRCA carriers)
+Bilateral salpingo-oophorectomy (removal of ovaries and fallopian tubes)
+Bilateral tonsillectomy
+Bilateral VS (associated with Neurofibromatosis Type 2)
+Bilateral Wilms' tumor
+Bile reflux (unconjugated bile acids inducing oxidative stress and DNA damage)
+Bile reflux (unconjugated bile acids)
+Bilious vomit
+Biochemical evaluation (elevated plasma free metanephrines)
+Biologic immunotherapy agents (e.g., ipilimumab, pembrolizumab, nivolumab, cemiplimab)
+Biologic therapies
+Biological therapy (immunotherapy)
+Biopsies
+Biopsies of peritoneal fluid
+Biopsy (core needle biopsy, open biopsy)
+Biopsy (core needle or surgical incision)
+Biopsy (CT-guided needle biopsy, histologic examination)
+Biopsy (examination of cells/tissue under microscope)
+Biopsy (fine needle aspiration)
+Biopsy (for microscopic inspection)
+Biopsy (histological examination)
+Biopsy (histological proof of cancer type and grade)
+Biopsy (implied for tissue examination)
+Biopsy (including lymph node biopsy)
+Biopsy (lymph node biopsy, bone marrow testing)
+Biopsy (lymph node or bone marrow)
+Biopsy (needle aspiration or surgical)
+Biopsy (needle or open)
+Biopsy (orthopedic oncologist for non-facial, oral & maxillofacial surgeon for facial)
+Biopsy (risk of spreading)
+Biopsy (tissue sample examination)
+Biopsy (tumor tissue removal)
+Biopsy (with histopathologic and immunohistochemical analysis)
+Biopsy for histological examination
+Biopsy of fallopian tissue
+Biopsy of observed abnormal tissue
+Biopsy of skin lesions
+Biopsy of suspicious tissue
+Biopsy of the lung
+Biopsy of the tumor
+Biopsy of tissue (during surgery)
+Biopsy of tissue (often during surgery)
+Biopsy or cell collection for microscopic examination
+Biopsy or cell collection for microscopic examination (head and neck cancer)
+Biopsy or other procedure to collect cells for microscopic examination
+Birth defects
+Bispecific T-cell engagers (BITE)
+Bisphosphonates (for bone density/loss)
+Black discolouration of stool (melena)
+Black ethnicity
+Black or black-blue area in a mole
+Black women (for leiomyosarcoma)
+Bladder cystoscopy
+Blastic phase (Blast crisis)
+Bleeding (cutaneous)
+Bleeding after menopause
+Bleeding between periods
+Bleeding from a mole
+Bleeding from the anus or rectum
+Bleeding from the mouth
+Bleeding from the penis
+Bleeding from the urethra
+Bleeding gums
+Bleeding that is longer than normal
+Bleeding that is not your period
+Bleeding, pain, or numbness in the lip or mouth
+Bloating of the stomach after meals
+Blood and urine tests
+Blood and/or urine tests
+Blood and/or urine tests (head and neck cancer)
+Blood chemistry studies
+Blood chemistry tests
+Blood chemistry tests (BMP, CMP, electrolyte panel)
+Blood chemistry tests (e.g., basic metabolic panel, comprehensive metabolic panel, kidney function tests, liver function tests, electrolyte panel)
+Blood chemistry tests (e.g., Basic Metabolic Panel, Comprehensive Metabolic Panel, kidney function tests, liver function tests, electrolyte panel)
+Blood clots (Trousseau's syndrome)
+Blood clots in legs (due to blocked pelvic veins)
+Blood Count Tests
+Blood counts
+Blood film analysis
+Blood in sputum (hemoptysis)
+Blood in stool (melena)
+Blood in the stool (bright red or very dark)
+Blood in the stool (melena)
+Blood in the urine
+Blood in urine
+Blood in urine (haematuria, visible or microscopic)
+Blood in urine or semen
+Blood or bone marrow stem cell transplants (hematopoietic stem cell transplantation)
+Blood smear examination (presence of hairy cells with characteristic projections)
+Blood test checking alpha-fetoprotein (AFP) level
+Blood tests
+Blood Tests
+Blood tests (CA-125, CBC)
+Blood tests (CA-125, HE4, alpha-fetoprotein, hCG, inhibin A/B, lactate dehydrogenase)
+Blood tests (calcitonin, CEA, metanephrines)
+Blood tests (complete blood count, fecal occult blood test)
+Blood tests (e.g., complete blood count - CBC)
+Blood tests (e.g., protein electrophoresis, serum free light chain assay)
+Blood tests (e.g., serum CEA, CA19-9, liver function tests)
+Blood tests (for EBV titers)
+Blood tests (including tumor markers like alpha-fetoprotein, human chorionic gonadotropin, and LDH-1)
+Blood tests for tumor markers (carcinoembryonic antigen, carbohydrate antigen)
+Blood tests to eliminate other causes of cytopenias
+Blood tests to rule out other conditions
+Blood transfusions (for low red blood cells or platelets)
+Blood-stained watery vaginal discharge
+Bloody penile discharge
+Blue light cystoscopy (with hexaminolevulinate dye)
+Bluish discoloration
+Blurred or double vision
+Bone abnormalities
+Bone dysplasias (Paget's disease of bone, fibrous dysplasia, enchondromatosis, hereditary multiple exostoses)
+Bone fracture (pathologic fracture)
+Bone fractures
+Bone lesions (rare, in recurrent disease)
+Bone marrow biopsy (confirmation of HCL infiltration and absence of other diseases)
+Bone marrow examination
+Bone marrow failure (thrombocytopenia, anemia, leukopenia)
+Bone marrow or stem cell transplant (not explicitly mentioned for ovarian cancer, but a general cancer treatment)
+Bone Marrow Test
+Bone modifying agents (zoledronic acid, denosumab)
+Bone pain (distant spread)
+Bone pain (often in the back or ribs)
+Bone scan (for metastasis evaluation)
+Bone scintigraphy
+Bone trauma and microfractures
+Bone weakening and fractures (bone metastases)
+Bone weakness (increased fracture risk)
+Bone-strengthening agents (denosumab, bisphosphonates)
+Borderline mucinous tumors
+Borderline serous tumors
+Borderline tumors (low malignant potential - LMP)
+Boron neutron capture therapy (experimental)
+Bortezomib (under investigation)
+Bortezomib-based induction regimen
+Bowel problems
+Bowel resection
+Brachyury
+Brackens consumption
+BRAF 600E
+BRAF inhibitors (e.g., dabrafenib, vemurafenib)
+BRAF inhibitors (e.g., vemurafenib, dabrafenib)
+BRAF mutant subtype
+BRAF V600E
+Brain swelling
+BRCA-1/BRCA-2 mutations
+BRCA1 gene changes
+BRCA2 gene changes
+BRCA2 mutations
+Breast biopsy (core needle biopsy, fine-needle aspiration)
+Breast enlargement (gynecomastia)
+Breast enlargement (in men, Feminization)
+Breast feels harder or firmer
+Breast size may seem to decrease
+Breast-conserving surgery
+Breath test (experimental)
+Breathing problems
+Breathlessness
+Breslow scoring
+Bronchial carcinoids
+Bronchoscopy (for lungs)
+Bronchoscopy with biopsy (for pulmonary tumors)
+Bronchospasm (during carcinoid crisis)
+Bronchus NETs
+Bruise-like appearance (cutaneous)
+Bruising
+Bulging eyes
+Bumps that are not painful or itchy (Merkel cell carcinomas)
+Burning or tingling while urinating (dysuria)
+C-Met
+c-Met
+c-Myc
+c-myc
+CA-125 blood test
+CA-125 tumor marker test
+CA19-9 levels
+CA19-9 tumor marker
+Cachexia (loss of appetite, weight loss, fatigue)
+CAIX
+Calcimimetics (e.g., cinacalcet) to lower calcium levels
+Calcium-channel blocker (amlodipine)
+Canalicular adenoma
+Cancer cells blocking lymph vessels in the skin of the breast
+Cancer immunotherapy (head and neck cancer)
+Cancer of the bile duct inside the liver
+Cancer of the bile duct outside of the liver
+Cancer staging (TNM system)
+Cancer vaccines
+Cancer vaccines (Hepcortespenlisimut-L)
+Cancerous cell population in POEMS syndrome producing cytokines (POEMS-associated Multicentric Castleman disease)
+CAR-T cell therapy
+Carcinoembryonic antigen (CEA) blood level measurements
+Carcinoid tumors
+Carcinoid tumors (Neuroendocrine tumors)
+Carcinoma in situ (Stage 0)
+Carcinoma of the collecting ducts of Bellini
+Carcinomasarcoid variant
+Cardiac symptoms (constrictive pericarditis, heart failure, pulmonary embolism, cardiac tamponade)
+Carney complex (CNC)
+Carotene deficiency
+Carotid paraganglioma (carotid body tumor)
+Cartilage tumors (WHO 2020 classification)
+Cartilaginous and osseous metaplasia
+Castration-resistant prostate cancer (CRPC)
+Caucasian ethnicity
+Caucasian ethnicity (minor prevalence for neuroendocrine tumors)
+Caveolin 1
+Caveolin 2
+CCPDMA
+CD31 marker (gold standard)
+CD34 marker
+CDKN2A (p16)
+CDKN2A (p16) mutations
+CDKN2B (p15)
+CDX2
+Celiac disease (slightly increased risk)
+Celiac plexus nerve block
+Cellular progression from hyperplasia and metaplasia to dysplasia and carcinoma
+Central diabetes insipidus (severe thirst, excessive dilute urine)
+Cerebrospinal fluid (CSF) examination
+Certain genetic conditions
+Certain genetic conditions (e.g., multiple endocrine neoplasia)
+Certain genetic diseases
+Certain genetic diseases (general for soft tissue sarcomas)
+Certain hereditary disorders
+Certain imaging tests such as CT scans
+Certain occupations (firefighting, hairdressing, agricultural and industrial work)
+Certain strains of H. pylori
+Certain types of infections
+Cervical biopsy (tissue sample removal for microscopic examination, e.g., punch biopsy)
+Cervical conization (cone biopsy) (for severe precancerous lesions or diagnosis)
+Cervical inflexibility
+Cervical screening (Pap test, HPV test)
+Cessation of menstruation (Virilization)
+Change in appetite
+Change in bowel habits (diarrhea, constipation, narrower stool)
+Change in bowel habits (e.g., narrower stools, increased frequency, bowel incontinence)
+Change in bowel movements
+Change in breast size or shape
+Change in how the testicle feels
+Change in mole size (usually increase)
+Change in size, shape, color, or feel of a mole
+Change in the size or shape of the breast
+Change in the size, shape, color, or elevation of a mole (melanoma)
+Change or hoarseness in the voice
+Change or hoarseness in the voice (head and neck cancer, not glomus tumor)
+Changes in ability to talk, hear, or see
+Changes in breathing
+Changes in existing moles (size, shape, color, irregular edges, bleeding, itching)
+Changes in existing moles (size, shape, color, irregular edges, more than one color, itchy, bleeds)
+Changes in genes (gene variants or mutations)
+Changes in genetic material (DNA)
+Changes in HOXA13 expressing compartment
+Changes in mood or behavior
+Changes in taste
+Changes in the color of the skin of the vulva (redder or whiter)
+Changes in the genetic material (DNA) in bone marrow cells
+Changes in the skin that do not heal
+Changes in the vulvar skin (color changes, growths, ulcer)
+Changes to mood or concentration
+Changes to the DNA of bladder cells
+Characteristic abnormal lymph node features (e.g., plasmacytic, hyaline vascular, hypervascular, mixed features)
+Checkpoint inhibitors
+Chemoradiation
+Chemoreduction
+Chemotherapeutic cyclophosphamide
+Chemotherapy (anthracycline, Ifosfamide, gemcitabine, paclitaxel, dacarbazine)
+Chemotherapy (BEP regimen: bleomycin, etoposide, cisplatin)
+Chemotherapy (cisplatin with etoposide, doxorubicin with streptozocin, fluorouracil)
+Chemotherapy (cisplatin, carboplatin, oxaliplatin, fluorouracil (5-FU), capecitabine, epirubicin, nivolumab, pembrolizumab)
+Chemotherapy (cisplatin, pemetrexed, raltitrexed, gemcitabine, vinorelbine, carboplatin)
+Chemotherapy (cisplatin, pemetrexed, raltitrexed, gemcitabine, vinorelbine, carboplatin, adriamycin)
+Chemotherapy (cisplatin, vincristine, methotrexate)
+Chemotherapy (currently not effective)
+Chemotherapy (cyclophosphamide, doxorubicin, cisplatin)
+Chemotherapy (cyclophosphamide, vincristine, and dacarbazine - CVD; temozolomide - TMZ)
+Chemotherapy (dacarbazine, temozolomide, fotemustine)
+Chemotherapy (docetaxel, cabazitaxel, mitoxantrone)
+Chemotherapy (e.g., 5-fluorouracil with leucovorin, gemcitabine, cisplatin, irinotecan, capecitabine)
+Chemotherapy (e.g., 5-fluorouracil, cisplatin, epirubicin, etoposide, docetaxel, oxaliplatin, capecitabine, irinotecan)
+Chemotherapy (e.g., Bleomycin-Etoposide-Cisplatin (BEP), Etoposide-Cisplatin (EP), carboplatin)
+Chemotherapy (e.g., cisplatin, carboplatin, oxaliplatin, fluorouracil, capecitabine, epirubicin)
+Chemotherapy (e.g., cisplatin-based chemotherapy, combination of hycamtin and cisplatin)
+Chemotherapy (e.g., cisplatinum, carboplatinum, cyclophosphamide, vincristine, etoposide, ifosfamide, mafosfamide)
+Chemotherapy (e.g., cyclophosphamide, doxorubicin, fluorouracil, paclitaxel, cisplatin)
+Chemotherapy (e.g., doxorubicin, ifosfamide, gemcitabine, docetaxel, eribulin, trabectedin)
+Chemotherapy (e.g., Fluorouracil (5-FU), Capecitabine, Oxaliplatin, Irinotecan, UFT, CAPOX, FOLFOX, FOLFOXIRI, FOLFIRI regimens)
+Chemotherapy (e.g., methotrexate, vinblastine, vinorelbine, doxorubicin)
+Chemotherapy (e.g., temozolomide)
+Chemotherapy (few cases respond)
+Chemotherapy (for invasive mole or choriocarcinoma)
+Chemotherapy (for late-stage, highly metastasized cases)
+Chemotherapy (for metastatic disease, on a case-by-case basis)
+Chemotherapy (gemcitabine, 5-FU, FOLFIRINOX, nab-paclitaxel)
+Chemotherapy (head and neck cancer)
+Chemotherapy (if clear resection margins not achieved or for advanced disease)
+Chemotherapy (in cats, post-amputation)
+Chemotherapy (in dogs)
+Chemotherapy (limited use, for special cases)
+Chemotherapy (multidrug, e.g., vincristine, doxorubicin, cyclophosphamide, ifosfamide, etoposide)
+Chemotherapy (postoperative chemotherapy, chemotherapy agents like temozolomide)
+Chemotherapy (systemic or regional)
+Chemotherapy (systemic therapy for widespread disease)
+Chemotherapy alone for inoperable disease
+Chemotherapy following guidelines for poor-prognosis testicular cancer (for nonseminomatous tumors)
+Chemotherapy using bleomycin, etoposide and cisplatin (for seminomas)
+Chemotherapy with Cisplatin
+Chemotherapy with Doxorubicin
+Chemotherapy with Etoposide (EDP regimen)
+Chemotherapy with Mitotane
+Chemotherapy with Streptozotocin
+Chemowafer implants (experimental)
+Chest CT (for metastasis evaluation)
+Chest CT scan
+Chest or abdominal discomfort
+Chest pain (lung metastases)
+Chest X-ray
+Chest x-ray
+Chest X-ray (for lung metastasis)
+Chest X-ray (showing lung infiltrates)
+Chewing betel nut
+Chewing betel quid (paan)
+Chewing paan (betel quid)
+Childhood exposure to UV radiation (for melanomas and basal-cell cancers)
+Childhood or young adulthood (for low-grade types)
+Childhood UV light exposure
+Children over age two
+Chilled sensation
+Chills (rare, constitutional symptom)
+Chimeric antigen receptor T cell therapies (e.g., lisocabtagene maraleucel, axicabtagene ciloleucel, tisagenlecleucel, brexucabtagene autoleucel)
+Chinese or Asian ancestry
+Chlamydia pneumoniae infection
+Chlamydophila pneumoniae infection
+Chlorophyllin (potential for aflatoxin effects)
+Cholangiocellular cystadenocarcinoma
+Choriocarcinoma (gestational choriocarcinoma, non-gestational choriocarcinoma)
+Choroidectomy (removal of choroid layer)
+Chromatin remodeling agents (Histone deacetylase inhibitors - preclinical)
+Chromogranin A (CgA)
+Chromogranin A test
+Chromophobe RCC
+Chromosomal abnormalities
+Chromosomal translocation t(17;22) fusing COL1A1 and PDGF genes, leading to a self-stimulatory growth signal
+Chromosomal translocations (e.g., between immunoglobulin heavy chain gene and oncogenes)
+Chromosomal translocations (general to hematologic malignancies, arising from aberrant DNA double-strand break repair)
+Chromosome 19
+Chromosome 19q (loss)
+Chromosome 1p (loss)
+Chromosome 20q
+Chronic bladder infections
+Chronic exposure to carcinogenic effects of alcohol and tobacco
+Chronic inflammation due to infection
+Chronic inflammation of bile ducts
+Chronic inflammation of the penis
+Chronic inflammation or autoimmunity affecting the vulvar area
+Chronic liver disease (including viral hepatitis, alcoholic liver disease)
+Chronic liver injury
+Chronic lymphedema
+Chronic non-healing wounds (Marjolin's ulcers)
+Chronic obstructive pulmonary disorder (COPD)
+Chronic oral cavity inflammation
+Chronic Salmonella typhi infection
+Chronic sinusitis (hypothesized)
+Chronic viral hepatitis (estimated cause of 80% cases globally)
+Chronic vulvar itching or burning
+Ciliated cell endometrioid adenocarcinoma
+Circadian disruptions related to shift-work and routine late-night eating
+Cladribine (purine analog, first-line therapy)
+Clark level assessment
+Classic basal-cell carcinoma
+Classic Hairy Cell Leukemia
+Classical
+Clear cell adrenal cortical carcinoma
+Clear cell RCC
+Clear-cell carcinoma
+Clear-cell sarcoma
+Clear-cell tumors
+Clinical characterization
+Clinical evaluation for endocrinopathy of characteristic organs
+Clinical examination of skin and lymph nodes
+Clinical presentation
+Clonal eosinophilias
+Clonal hypereosinophilias
+Clonidine suppression test
+Clonorchis sinensis infection
+Clostridioides difficile membrane vesicles
+Clostridioides difficile strains
+Clots in the heart
+Coarsening of facial features (Virilization)
+Cobimetinib (MEK inhibitor, in combination with BRAF inhibitors)
+Coexisting differentiated thyroid cancer (suggests dedifferentiation)
+Cognitive difficulties
+Cognitive impairment (e.g., problems with thinking, poor reasoning, poor planning, poor memory, difficulty recognizing)
+Cold foods
+Collision of two independent tumors (Collision tumor hypothesis)
+Collision theory (separate tissue types joining)
+Colloid cyst
+Colposcopy (magnified visual inspection of cervix, often with acetic acid and Lugol's iodine staining)
+Combination chemotherapy (for seminomas)
+Combination chemotherapy (including Ifosfamide)
+Combination theory (stem cell differentiation)
+Combinatorial therapy (molecular-based, targeted therapies, immunotherapy, surgery)
+Combined modality approach (chemotherapy and radiation)
+Combined PET-CT scanning
+Combined use of alcohol and tobacco
+Commonly found in extremities (knee, feet, ankle)
+Compensation strategies (speech, voice, swallow)
+Complete blood count
+Complete blood count (CBC)
+Complete blood count (CBC) showing low white blood cells, red blood cells, and platelets
+Complete blood count (CBC) with differential
+Complete medical history and physical examination
+Complete surgical excision
+Complex chromosome and/or gene abnormalities including ring chromosomes, double minutes, deletions, and translocations
+Composition theory (adenocarcinoma stimulating stroma)
+Compression of vital organs (e.g., intestines, kidneys, lungs, blood vessels, nerves)
+Compression or invasion of adjacent structures (lungs, pleura, pericardium, chest wall)
+Computed axial tomography (CT)
+Computed tomography (CT scan) of the head
+Computed tomography (CT) imaging
+Computed tomography (CT) scan
+Computed tomography (CT) scan (chest, abdomen, pelvis)
+Computed Tomography (CT) scan (with iodine-based or barium sulfate contrast)
+Computed tomography (CT) scanning
+Computed tomography (CT) scanning of the abdomen
+Computed tomography (CT) scans
+Computed tomography (lobular pattern of the tumor, compartmentalized solid mass with enhancing septa)
+Computer-aided analysis (CAD)
+Computerized tomography (CT)
+Concurrent carboplatin plus paclitaxel
+Confirmation of cancer presence
+Confusion (Conn syndrome)
+Congenital abnormalities of the bile duct (e.g., choledochal cyst)
+Congenital infantile fibrosarcoma
+Congenital liver malformations (e.g., Caroli disease, choledochal cysts)
+Congenital melanocytic nevi syndrome
+Congenital mutation in chromosome 13 gene 13q14 (retinoblastoma protein)
+Congested sinuses
+Consensus molecular subtypes (CMS)
+Consolidation/maintenance with immunomodulator agents plus a proteasome inhibitor (e.g., ixazomib, carfilzomib)
+Constipation (if in the abdomen)
+Constitutive activation of the Wnt signaling pathway
+Constitutive activation of YAP
+Consumption of hormonal drugs for gender reassignment therapy
+Consumption of preserved meats and salted fish containing carcinogenic volatile nitrosamines
+Consumption of very hot drinks (over 65 °C)
+Continuous cough
+Contrast-enhanced computed tomography (CT) scan of the neck
+Conventional ependymoma (EPN)
+Conventional osteosarcoma (osteoblastic, chondroblastic, fibroblastic)
+Conventional radiographs (showing 'moth eaten' pattern, Codman triangle, onion peel appearance)
+Convulsions
+Copy-number variation within the NBPF10 gene
+Corneal light reflex (Hirschberg test)
+Corticosteroids (e.g., dexamethasone)
+Corticosteroids (e.g., prednisone, prednisolone)
+Corticosteroids (for cerebral edema)
+Corticosteroids (for critically ill iMCD patients)
+Corticosteroids (for increased intracranial pressure)
+Cosmetically disfiguring lesions
+Cough that doesn't go away
+Coughing
+Coughing up blood
+Coughing up blood (hemoptysis)
+CRAB criteria (Calcium, Renal insufficiency, Anemia, Bone lesions)
+Cramps
+Cranial nerve dysfunction
+Cranial nerve palsies (e.g., facial paralysis, abnormal eye movement, swallowing difficulty)
+Cranial nerve palsies (e.g., vagus nerve, hypoglossal nerve, spinal accessory nerve)
+Criteria for malignancy: tumor size > 2 cm and subfascial or visceral location, atypical mitotic figures, marked nuclear atypia, any level of mitotic activity
+Crusting and bleeding in the center of the tumor (BCC)
+Crusting and dry ulcer on the lip
+Cryoablation
+Cryoablation (experimental)
+Cryptorchidism (undescended testicles)
+CSPG4 (Chondroitin sulfate proteoglycan 4)
+CT Angiography (CTA)
+CT imaging
+CT of the chest and abdomen
+CT Scan
+CT scan
+CT scan (bony anatomy, cortex integrity, pathologic fracture, ossification, calcification)
+CT scan (CAT scan)
+CT scan (contrast)
+CT scan of the neck, chest, abdomen, and pelvis (for staging)
+CT scan radiation (up to 4% of brain cancers)
+CT scanning of upper urinary tract
+CT scans
+CT scans (for staging and detecting metastases)
+CT scans of abdomen
+CT-scans
+CTNNB1 (beta-catenin)
+CTNNB1 mutation 45F (associated with high risk of recurrence)
+Cutaneous myelofibrosis (nodules in skin)
+CyberKnife radiotherapy
+Cyclical fever (Pel–Ebstein fever)
+cyclin E
+CYP17
+Cytogenetic studies (e.g., Fluorescent in situ hybridization)
+Cytogenetics (detecting t(9;22)(q34;q11.2) translocation)
+Cytogenetics or chromosomal studies
+Cytopathology (examination of fluid produced by cancer)
+Cytopathology (examination of fluid)
+Cytoreductive surgery (chemically with 131metaiodobenzylguanidine (131I-MIBG))
+Cytoreductive surgery (hysterectomy, bilateral salpingo-oophorectomy)
+Cytotoxic chemotherapies (for HHV-8-associated MCD, for critically ill iMCD patients)
+Dabrafenib (BRAF inhibitor, second-line therapy)
+Dactinomycin (chemotherapy drug)
+Damage to the DNA of endothelial cells, leading to uncontrolled cell division and inhibited programmed cell death (underlying causes of DNA damage are not fully understood)
+Dark circles around the eyes
+Dark spot on iris or conjunctiva
+Dark urine
+DAXX mutations
+Deactivation of DCC
+Deactivation of SMAD protein
+Deactivation of TGF-β
+Deactivation of TGF-β and DCC proteins
+Death (rarely)
+Debulking surgery (for advanced cancer)
+Decerebrate attacks
+Deciduoid
+Decrease in stool caliber
+Decreased libido (in men, Feminization)
+Decreased range of motion (shoulder)
+Decreased sensation in extremities
+Decreased vision
+Deepening of voice (Virilization)
+Deeply situated mass
+Deficiency in bile salt export pump (ABCB11 mutation)
+Deficiency in certain vitamins
+Deformity
+Deletion of chromosome 13q14 inactivating the retinoblastoma gene
+Deletions in the GLMN (glomulin) gene (familial glomangiomas)
+Deletions in the p13 band on chromosome 11
+Deliberate exposure of sensitive skin to sunlight
+Denileukin diftitox (Ontak)
+Dense breast tissue
+Dental check-ups (for jaw osteosarcoma)
+Dental pain
+Dental prostheses
+Depressed local immune system (due to sunlight)
+Dermatophytes infection
+Desmoid tumor of back
+Desmoid tumor of buttock
+Desmoid tumor of lower extremity and pelvic girdle
+Desmoid tumor of the breast
+Desmoid tumor of the chest wall
+Desmoid tumor of the extremities
+Desmoid tumor of the head and neck
+Desmoid tumor of the pelvic cavity
+Desmoid tumor of upper extremity and shoulder girdle
+Desmoplastic small-round-cell tumor
+Detection of a pelvic mass on routine gynecologic examination
+Detection of DDIT3 gene rearrangements (FUS or EWSR1) by in situ hybridization or immunohistochemistry (for myxoid liposarcoma)
+Detection of KSHV protein LANA in tumor cells
+Detection of Philadelphia chromosome
+Deterioration of vision
+Determination of serum levels of alpha-fetoprotein
+Determination of serum levels of HCG
+Development of excessively high number of genetic abnormalities in plasma cells, precursor B cells, or plasmablasts
+Developmental issues (for primary tumors)
+Dexamethasone (for swelling/cerebral edema)
+Diaphragm stripping or resection
+Diarrhea (especially with liver metastasis)
+Diet high in red meat, processed meat, saturated fats, sugar
+Diet low in fruit and vegetables
+Dietary counseling
+Dietary factors (fried foods, processed meat, red meat, brackens)
+Dietary factors (pickled vegetables, fried foods, smoked foods, salt-rich foods, meat, processed meat, red meat)
+Dietary iodine deficiency
+Differential diagnosis from Adrenocortical adenoma
+Differential diagnosis from Hepatocellular carcinoma
+Differential diagnosis from Pheochromocytoma
+Differential diagnosis from Renal cell carcinoma
+Differential diagnosis from seminoma, teratocarcinoma, yolk sac tumor, and Sertoli–Leydig cell tumor
+Differentiated thyroid cancer
+Differentiation of borderline tumors from malignant tumors based on clear stromal invasion
+Difficult or painful bowel movements
+Difficult or painful swallowing
+Difficult or painful urination
+Difficulty controlling the voice
+Difficulty drawing
+Difficulty focusing
+Difficulty in moving the extremity with the tumor
+Difficulty opening mouth widely
+Difficulty swallowing (dysphagia)
+Difficulty with breathing
+Digital rectal exam
+Digital rectal exam (DRE)
+Dilation and curettage (D & C)
+Dimple or puckering in breast skin (orange peel-like texture)
+Dimpled or puckered skin
+Dimpling or puckering of breast skin ('orange peel' appearance)
+Dioxins exposure
+Diplopia (double vision)
+Discharge from the anus
+Discharge from the urethra
+Discolored patches that persist in the mouth
+Discolored skin
+Disorders of nerves, muscles, blood vessels, and blood clotting mechanisms
+Dispermic fertilization of a normal ovum (partial hydatidiform mole)
+Dispermic fertilization of an empty ovum (complete hydatidiform mole)
+Disrupted BMP signaling pathway
+Disrupted MYC signaling pathway
+Disrupted Notch signaling pathway
+Disrupted TGF-β signaling pathway
+Distension (liver-related)
+Distinct bruising and swelling around the eyes
+Distinct genetic alteration
+Disturbances in the gut microbiome
+Divergent differentiation from a common pluripotential stem cell (Combination hypothesis)
+Diverticula of the urethra
+DNA analysis (diploid vs. aneuploid, S phase percentage)
+DNA damage from UV light exposure
+DNA methylation profiling
+DNA mismatch repair gene mutations (MLH1, MSH2, MSH6, PMS2, EpCAM) (associated with Lynch syndrome)
+Double vision (diplopia)
+Down regulation of Cxcl3
+Drenching night sweats
+Drinking alcohol
+Drug therapy
+Dry cough
+Dry mouth
+Dry mouth (xerostomia)
+Dull ache in the lower abdomen or groin
+Dull backache
+Dull pain behind the sternum
+Duplicated segments of the LMO1 gene
+Duplication of the brachyury gene
+Duplications in chromosome Xq26.3 including GPR101 gene (X-LAG syndrome)
+Dysfunction of the tumor suppressor gene TRC8/RNF139
+Dysphagia (difficulty swallowing)
+Dysplastic nevus syndrome (familial atypical multiple mole melanoma - FAMMM)
+Dysplastic nevus syndrome (FAMMM-PC)
+Dyspnea (due to lung metastasis)
+Dysregulation of polycomb repressive complex 2 (PRC2)
+E-cadherin
+Ear exams
+Early age of sexual intercourse
+Early age of sun exposure
+Early alteration in histogenesis with late transformation or degeneration of the epithelial component
+Early menarche
+Early onset of male characteristics
+Early onset of puberty (pre-pubertal patients)
+Early-onset colorectal cancer (EOCC)
+Eastern European Jewish heritage
+Easy bleeding (due to low platelet count)
+Easy bruising (blood clotting abnormalities)
+Easy bruising or bleeding
+Easy irritability
+EBV-positive multiple myeloma
+Ecchymosis (bruising)
+Echocardiogram (with color doppler for carcinoid heart disease)
+Ectopic pituitary adenoma
+Eczema-like irritation on nipple/areola (Paget's disease)
+Edema (swelling)
+Edema after surgery
+Effects of tumor bulk
+eHAE presenting in the pleura
+Elderly individuals
+Electrical bio-impedance
+Electrocautery
+Electrochemotherapy with intravenous bleomycin
+Electron microscopy for secretory granules
+Elevated above the skin surface (nodular melanoma)
+Elevated bilirubin
+Elevated fecal bile acids (e.g., deoxycholic acid, cholic acid, chenodeoxycholic acid)
+Elevated gamma glutamyl transferase
+Elevated levels of bile acids (deoxycholic acid, cholic acid, chenodeoxycholic acid)
+Elevated serum hCG
+Elevated white blood cell count
+Elevation of the nail bed
+EMACO regimen (Etoposide, Methotrexate, Actinomycin D, Cyclophosphamide, Vincristine)
+Embolization
+Emesis
+Emotional instability
+Enchondroma (benign)
+Endo-anal ultrasound
+Endobronchial ultrasound
+Endocrine problems
+Endocrinological care
+Endocrinopathy of one characteristic organ plus a first-degree relative affected by MEN syndrome
+Endocrinopathy of two characteristic affected organs
+Endocytoscopy
+Endometrial biopsy (for uterine serous carcinoma)
+Endorectal ultrasound
+Endoscopic retrograde cholangiopancreatography (ERCP) with biopsy
+Endoscopic stent placement
+Endoscopic stenting
+Endoscopic therapy (mucosal ablation, radiofrequency ablation, photodynamic therapy, Nd-YAG laser, argon plasma coagulation)
+Endoscopy (ERCP, Endoscopic ultrasound)
+Endoscopy (esophagogastroduodenoscopy)
+Endoscopy (for stomach and intestines)
+Endoscopy (gastroscopy)
+Endoscopy (head and neck cancer)
+Endoscopy (including endoscopic ultrasound)
+Enfortumab vedotin (Padcev)
+Enlarged cervical lymph nodes
+Enlarged liver
+Enlarged liver (hepatomegaly)
+Enlarged lymph node
+Enlarged lymph node on the outside of the neck
+Enlarged lymph nodes
+Enlarged lymph nodes (around collarbone)
+Enlarged lymph nodes around collarbone
+Enlarged pelvic lymph nodes
+Enlarged spleen
+Enlarged spleen (splenomegaly)
+Enlarged spleen or liver
+Enlargement of clitoris (Virilization)
+Enrichment of Clostridia and other pro-inflammatory taxa
+Enrichment of Fusobacterium species
+Enucleation (removal of the eye)
+Enucleation of the eye
+Environmental exposure to ionizing radiation
+Epidemic (HIV-associated) Kaposi sarcoma
+Epidermal radioisotope therapy
+Epidermal radioisotope therapy (e.g., 188Re)
+Epigenetic alterations
+Epigenetic alterations (e.g., abnormal DNA methylation, altered microRNA expression, histone modifications)
+Epigenetic modifications (DNA methylation, histone modifications)
+Epigenetic reductions of DNA repair enzyme expression
+Epigenetic silencing of genes
+Epigenetic silencing of MMR proteins
+Epigenome-based Classification (EpiC) subtypes
+Epithelial ovarian carcinoma
+Epithelial Type
+Epstein-Barr virus (EBV) infection (for upper throat and salivary gland cancers)
+Epstein-Barr virus (rarely, in immunodeficient individuals)
+Epstein–Barr virus infection (for Hodgkin lymphoma and some non-Hodgkin lymphomas)
+ERBB2 (Her2/neu)
+Erdafitinib (Balversa)
+Erionite exposure
+Erythrocyte sedimentation rate (ESR) test
+Erythrostimulating agents (e.g., darbepoetin alfa, erythropoietin)
+Esophageal endoscopic ultrasound
+Esophageal squamous-cell carcinoma (ESCC)
+Esophageal stent insertion
+Esophagogastric junctional adenocarcinoma
+Esthesioneuroblastoma (olfactory neuroblastoma)
+Estrogen and progesterone receptor (ER/PR) test
+Estrogen and progesterone receptor test
+Estrogen exposure-linked mutations
+Estrogen oxidative metabolites causing DNA damage
+Estrogen receptor (ER) testing
+Estrogen receptor-positive (ER+)
+Estrogen-only hormone replacement therapy (HRT) after menopause
+Ethanol consumption
+ETV6-NTRK3
+Euphorbia peplus (experimental topical treatment)
+Evacuation of pregnancy (for hydatidiform mole)
+Evaluation of loss of normal tissue architecture
+Evaluation of photographs for abnormal red eye reflex (e.g., white/yellow dot for retinoblastoma)
+Evidence-based diagnostic criteria for UCD (established in 2020)
+Evisceration (removal of eye contents)
+EWSR1-ATF1
+EWSR1-CREB1
+EWSR1-CREM
+EWSR1-DDIT3
+Examination of cells from tumor under microscope
+Examination of surgical specimen (pathology)
+Examination of the larynx, trachea, and esophagus
+Examination of the oral cavity and oropharynx
+Examination of the urethra with a cystoscope
+Examination of the vulva
+Examination under anesthetic (EUA)
+Examination with lighted tube-like instruments
+Excess body fat
+Excess dehydroepiandrosterone (laboratory finding for virilism)
+Excess facial and body hair (Virilization)
+Excess fluid around lungs (pleural effusion, due to lung metastasis)
+Excess serum androstenedione (laboratory finding for virilism)
+Excess serum estrogen (laboratory finding for feminization)
+Excessive alcohol consumption (indirectly via chronic pancreatitis)
+Excessive estrogen exposure
+Excessive growth of facial hair (hirsutism)
+Exenteration (removal of eye and orbital contents, potentially eyelids)
+Exfoliative cytology
+Exogenous estrogen therapies
+Experimental therapies (clinical trials)
+Exploration of the abdominal cavity during surgery
+Exposure to alkylating chemotherapy agents for previous malignancies
+Exposure to asbestos-containing soil
+Exposure to beryllium
+Exposure to caustic substances
+Exposure to certain chemicals
+Exposure to certain chemicals (e.g., Agent Orange)
+Exposure to certain chemicals (e.g., benzene, tobacco smoke, pesticides)
+Exposure to certain chemicals (e.g., chlorophenols, phenoxy herbicides, vinyl chloride)
+Exposure to certain chemicals (e.g., polychlorinated biphenyls, dioxins, phenoxy herbicides)
+Exposure to certain chemicals (e.g., tobacco smoke, pesticides, benzene)
+Exposure to certain chemicals (general for soft tissue sarcomas)
+Exposure to certain chemicals (PCBs, PAHs, organic solvents)
+Exposure to certain chemicals in the workplace
+Exposure to certain toxic substances at work
+Exposure to certain types of radiation
+Exposure to certain types of radiation (e.g., radiation treatments to head or neck as a child, radiation emergency, repeated radiation exposure to chest or neck)
+Exposure to certain types of radiation (head or neck radiation treatment as a child, radiation emergency)
+Exposure to certain workplace chemicals
+Exposure to diethylstilbestrol (DES) before birth
+Exposure to Epstein-Barr virus (EBV)
+Exposure to erionite
+Exposure to hazardous substances
+Exposure to heavy metals (e.g., mercury, lead)
+Exposure to herbicides (potential risk factor, though not specifically proven for HCL)
+Exposure to high doses of radiation
+Exposure to high-dose ionizing radiation
+Exposure to higher estrogen levels
+Exposure to infection early in life
+Exposure to natural and artificial ionizing radiation
+Exposure to nickel
+Exposure to nitrosamines
+Exposure to petrochemicals (e.g., benzene)
+Exposure to radiation therapy to the breast or chest
+Exposure to radionuclides (Cesium-137 and Iodine-131)
+Exposure to some hair dyes
+Exposure to some pesticides
+Exposure to soot
+Exposure to SV40, HHV-6, and cytomegalovirus (CMV)
+Exposure to talc
+Exposure to talc mines or mills
+Exposure to tar
+Exposure to Thorotrast (thorium dioxide)
+Exposure to ultraviolet radiation (UV)
+Exposure to UV radiation from tanning devices
+Exposure to vinyl chloride
+Exposure to wood dusts or certain other toxic substances at work (for upper throat, nose, and sinus cancers)
+Extensive disease with malignant plasma cell infiltrations in organs
+Extensive necrotic focus involving skin and subcutaneous tissue
+External beam radiotherapy (EBRT)
+External beam therapy (proton therapy)
+External irradiation
+External radiation exposure (associated, but more common with adenoma)
+External-beam radiation therapy (EBRT)
+Extra X chromosome
+Extra-abdominal desmoid tumor
+Extradural ependymoma
+Extranodal marginal zone B cell lymphoma
+Extranodal marginal zone B-cell lymphomas (MALT type)
+Extranodal NK-T-cell lymphoma
+Extrapulmonary small cell carcinomas (ESCC or EPSCC)
+Extraspinal ependymoma (EEP)
+Extreme bone pain
+Extremely long, heavy, or frequent bleeding episodes (before menopause)
+Extremity leiomyosarcoma
+Eye enlargement
+Eye exam
+Eyewall resection
+Facial angiofibromas
+Facial pain or numbness
+Facial sensory loss
+Failures of bone marrow and other organs
+Faltering growth
+Familial adenomatous polyposis (hereditary)
+Familial cases
+Familial clusters
+Familial isolated pituitary adenoma (FIPA)
+Family health history
+Family health history assessment
+Family history
+Family history of AT/RT or other rhabdoid tumors
+Family history of basal-cell carcinoma
+Family history of chordoma
+Family history of CLL or other blood and bone marrow diseases
+Family history of colorectal cancer
+Family history of endometrial cancer
+Family history of Familial adenomatous polyposis
+Family history of Hodgkin lymphoma
+Family history of Li-Fraumeni syndrome
+Family history of lymphoma
+Family history of melanoma
+Family history of meningioma
+Family history of Multiple endocrine neoplasia (MEN)
+Family history of paraganglioma
+Family history of retinoblastoma
+Family history of thyroid cancer
+Family history of thyroid cancer or thyroid disease
+Family history of thyroid disease
+Farming and gardening (correlates with increased risk in some studies)
+Fast neutron therapy
+Fast neutron therapy (for advanced, inoperable, recurrent, or gross residual disease)
+Fatigue (due to lack of red blood cells)
+Fatigue (liver-related)
+Fatigue (metastatic melanoma)
+Fatty "buffalo hump" on neck (Cushing's syndrome)
+Faulty genes
+Favorable neuroblastoma
+Favorable Wilms' tumor
+Fecal occult blood testing (FOBT)
+Fedratinib (Inrebic)
+Feeling constipated
+Feeling full
+Feeling full quickly
+Feeling of fullness
+Feeling of fullness in the abdomen
+Feeling of fullness in the affected ear
+Feeling of heaviness in the scrotum
+Feeling of incomplete bowel emptying
+Feeling of pressure in the abdomen or pelvis
+Feeling of something in the throat
+Feeling that something is stuck in the throat
+Feeling very thirsty
+Feeling very tired
+Feeling weak or sleepy
+Female sex
+Female sex (for FAP patients)
+Female sex (minor prevalence for neuroendocrine tumors)
+Female sex (modest predilection)
+Fenretinide (4-hydroxy(phenyl)retinamide)
+Fertility medication
+Fertility-preserving surgery (unilateral salpingo-oophorectomy)
+Fertilized egg implants into the uterus, but chorionic villi do not develop properly
+FET gene family
+Fever (intermittent)
+Fever (rare, constitutional symptom)
+Fibre-optic nasal endoscopy
+Fibrogenic tumors (WHO 2020 classification)
+Fibrolamellar
+Fibrosarcoma of bone (in dogs)
+Fibrosarcoma of the mouth (in dogs)
+Fibrosarcoma of the skin (in cats)
+Fibrosarcomatous DFSP (DFSP-FS)
+Fibrous
+Filgrastim (to stimulate white blood cell production, routine use not recommended after cladribine)
+Fine needle aspiration (FNA) biopsy
+Fine needle aspiration cytology (FNAC)
+Finger-like (papillary) growth
+Firm hard nodules with a scaly top (SCC)
+Firm hard nodules with scaly top (SCC)
+Firm nodule or mass (0.5 cm to >5 cm diameter)
+Firm to the touch (nodular melanoma)
+Firmness of the testicle
+Fixation of lump to overlying skin
+FKHR
+Flank pain (due to kidney swelling from urine blockage)
+Flat penile lesions (FPL)
+Flexible sigmoidoscopy
+Flow cytometry (detection of specific cell surface markers like CD19, CD20, CD22, CD11c, CD25, CD103, FMC7)
+Flow cytometry immunophenotyping of blood cells to detect clonal phenotypes of plasma cells (e.g., CD138+, CD38+, CD19−, CD45+/- phenotype)
+Flow cytometry tests (on blood, bone marrow, or other tissue)
+Fluid discharge from the nipple
+Fluid draining from ear
+Fluid resuscitation
+Fluorescence microscopy of urine cells
+Fluorescent in situ hybridization (FISH) for BCR-ABL1
+Fluorine-18 fluorodeoxyglucose (FDG) PET
+Fluoro-deoxy-glucose positron emission tomography (F-FDG-PET)
+Fluorodeoxyglucose ([18F]FDG) PET
+Flushing (face, upper chest, cutaneous)
+Flushing (of skin, head, upper thorax)
+Flushing episodes (especially with liver metastasis)
+Follicular T cell lymphoma
+Follicular thyroid cancer
+Food and drink going down the wrong way (aspiration)
+Food sticking in the throat
+Foregut GEP-NET
+Formal diagnostic criteria (established in 2016)
+Formation of malignant cancer cells in the primordial germ cells of the ovary
+Fosbretabulin (under investigation)
+Foul-smelling, fatty feces
+Fractures (broken bones)
+Freezing the tumor
+Freezing therapy
+Freezing therapy (Cryotherapy)
+Frequent falls
+Frequent gas pains
+Frequent infections
+Frequent nausea
+Frequent nausea and vomiting
+Frequent or urgent need to urinate
+Frequent severe sunburns
+Frequent sun exposure (for lip cancer)
+Frequent urge to urinate
+Frequent urination
+Frequent vomiting
+Fried foods consumption
+Full blood count
+Fullness
+Functional imaging (18F-FDG PET, 123I-MIBG, 18F-FDOPA, 68Ga-DOTA, HED-PET)
+Functional laryngectomy
+Functional MRI (fMRI)
+Fungation (cutaneous)
+Furosemide (to decrease swelling)
+FUS-DDIT3
+Fusion of EWSR1 gene and FLI1 gene
+Fusion of TAZ (WWTR1) and CAMTA1 genes
+Fusion of the MYBL1 gene to NFIB or other partners
+Fusobacterium species
+Futibatinib (Lytgobi)
+Gallbladder removal
+Gallium-68 DOTATATE PET/CT imaging
+Gallium-68 receptor PET-CT
+Gallstones
+Gamma Knife radiosurgery
+Gastroenteropancreatic neuroendocrine tumors (GEP-NET)
+Gastrointestinal leiomyosarcoma
+Gastrointestinal problems (gas, bloating, constipation)
+Gastroscopic exam
+Gendicine (gene therapy)
+Gene fusion between TMPRSS2 and the oncogene ERG
+Gene therapies
+Gene therapy (AdVince)
+Gene therapy (e.g., CAR-T cells)
+Gene therapy (experimental)
+General malaise
+Generalized itching (itchy skin)
+Genes associated with specific subtypes
+Genetic abnormalities
+Genetic alteration of the TP53 gene (Li-Fraumeni syndrome)
+Genetic alteration testing
+Genetic alterations in RTK, PI3K/AKT/mTOR, p53, and RB pathways
+Genetic analysis (for INI1/hSNF5 gene deletion/mutation)
+Genetic and chromosomal testing
+Genetic change in lymph node tissue (Unicentric Castleman disease)
+Genetic changes (DNA mutations)
+Genetic changes in bone marrow cells
+Genetic changes in BRCA1 and BRCA2 genes
+Genetic changes that occur during a person's lifetime
+Genetic damage to the DNA of lung cells
+Genetic diseases (e.g., Klinefelter syndrome, Chédiak–Higashi syndrome, ataxia–telangiectasia syndrome)
+Genetic disorders (neurofibromatosis, Li-Fraumeni syndrome)
+Genetic disposition (BAP1 gene mutation)
+Genetic exchange between chromosomes
+Genetic factors
+Genetic factors (for retinoblastoma)
+Genetic findings (e.g., MDM2 or CDK4 gene overexpression, sSMC or giant marker chromosome detection)
+Genetic instability due to acquired abnormalities including gene mutations, single nucleotide polymorphisms, deletions, duplications, translocations, and changes in gene expression
+Genetic mutations (BRAF V600E mutation is a driver mutation in nearly all cases)
+Genetic mutations (BRCA1, BRCA2, CHEK2, PALB2, PTEN, ATM, RAD51L3)
+Genetic mutations (DNA changes or variants)
+Genetic mutations (DNA changes)
+Genetic mutations (e.g., amplification of MDM2 and CDK4 genes in ALT/WDL and DDL)
+Genetic mutations (e.g., FGFR2 fusion, IDH1 mutation)
+Genetic mutations (e.g., in SDHx genes, RET proto-oncogene, VHL, NF1, HIF2A)
+Genetic mutations (e.g., PTCH1 gene mutation)
+Genetic mutations (implicit in cancer development)
+Genetic mutations (inferred from familial syndromes)
+Genetic mutations in AIP gene
+Genetic mutations in DNA
+Genetic mutations in the SMARCB1 gene
+Genetic mutations in the Wnt signaling pathway
+Genetic mutations that arise by chance
+Genetic predisposition
+Genetic sequencing of tumor cells
+Genetic syndromes
+Genetic syndromes (e.g., congenital melanocytic nevi syndrome)
+Genetic syndromes (e.g., Familial Adenomatous Polyposis (FAP), Lynch syndrome, Gardner syndrome, Serrated Polyposis Syndrome)
+Genetic syndromes (e.g., hereditary diffuse gastric cancer)
+Genetic testing (e.g., BRCA, TP53)
+Genetic testing (for NF2)
+Genetic testing (for small cell lung cancer)
+Genetic testing (RB1 gene mutation)
+Genetic testing (RET proto-oncogene mutation analysis)
+Genetic testing for MEN1 gene mutations
+Genetic testing for RET oncogene mutations
+Genetic testing for SMARCB1 mutations
+Genetic testing to guide treatment
+Genetic tests (BRCA, TP53)
+Genetic tests (for BRAF V600E mutation)
+Genetic tests (for gene and chromosome changes)
+Genetic tests for gene and chromosome changes
+Genetic variations in alcohol metabolism pathways
+Genital lichen sclerosus
+Genome-wide pattern of DNA copy-number alterations (CNAs)
+Geographic location (closer to equator or higher altitudes)
+Germ cell tumors (e.g., Teratoma, Sacrococcygeal teratoma)
+Germ cell tumors (GCTs)
+Germline duplication of brachyury
+Germline mutation in the BAP1 gene
+Giant cell fibroblastoma (Juvenile DFSP)
+Giant cell tumor of bone (benign)
+Giant-cell glioblastoma
+Glandular
+Glioblastoma (WHO Grade IV GBM)
+Glioblastoma multiforme (GBM) with oligodendroglial component
+GLMN (glomulin)
+Glomangiosarcomas arising de novo (GADN)
+Glomangiosarcomas arising in benign glomus tumors (GABG)
+Glomus jugulare (jugulotympanic paraganglioma)
+Glomus tympanicum
+GNRH agonists
+Goblet cell cancer
+Goblet cell carcinoid
+Goiter (enlarged thyroid)
+Grade I tumors (WHO grading)
+Grade II (low grade) tumor
+Grade II tumors (WHO grading)
+Grade III tumors (WHO grading)
+Grade IV tumors (WHO grading)
+Gross appearance (fleshy, bulky, polypoid, protruding through cervical os)
+Gross appearance (tumour size, oval shape, soft consistency)
+Gross examination showing pale grey, poorly defined tumour with haemorrhage and necrosis
+Gross-total resection
+Group 3 pathway
+Group 4 pathway
+Growing (nodular melanoma)
+Gut microbiota and bile acid activity
+Gynecomastia (historically considered, but not definitively established as a risk factor)
+Gynecomastia (in males)
+Gynecomastia (male)
+Hairy Cell Leukemia-Variant (HCL-V)
+Hard to understand speech
+Having HPV (for oropharyngeal cancer)
+Having many sexual partners or partners with many sexual partners
+Having moles (20-30% of melanomas develop from moles)
+Having moles (especially larger ones or those that change)
+Having multiple sexual partners
+hCG testing (for acute respiratory or neurological symptoms after pregnancy)
+hCG testing (for persistent abnormal vaginal bleeding after pregnancy)
+Head and neck cancer (due to field cancerization)
+Head and neck radiation exposure
+Head-and-neck squamous-cell carcinomas (HNSCC)
+Headache (Conn syndrome)
+Headache (especially morning headache or headache that resolves after vomiting)
+Headache (rare)
+Headache (severe, morning, or relieved after vomiting)
+Headache that goes away after vomiting
+Headaches (often in the morning)
+Headaches (often in the morning, worsened by Valsalva maneuver, causing awakening from sleep, progressively worsening, subsiding after vomiting, due to raised intracranial pressure)
+Headaches associated with increased intracranial pressure
+Hearing loss (in glomus tympanicum and jugulare)
+Hearing tests
+Heart disease (cardiac complications, fibrosis of tricuspid and pulmonic valves, heart murmur)
+Heart palpitations
+Heart problems
+Heat intolerance
+Heat therapy (Thermotherapy)
+Heavy alcohol use
+Heavy chain myeloma
+Heavy consumption of alcohol
+Heavy drinking
+Helicobacter bilis infection
+Helicobacter hepaticus infection
+Hematolymphoid tumours
+Hematopoietic neoplasms of bone (WHO 2020 classification)
+Hemoperitoneum (postmenopausal patients)
+Hemoptysis (coughing up blood)
+Hepatic artery chemoembolization (HACE) / Transarterial chemoembolization (TACE)
+Hepatic artery chemotherapy
+Hepatitis B test
+Hepatitis B virus (HBV) infection
+Hepatitis C test
+Hepatitis C virus (HCV) infection
+Hepatitis D virus (HDV) co-infection with HBV
+Hepatocellular adenoma (associated with malignancy)
+Hepatomegaly (enlargement of the liver)
+HER-2/neu
+HER2 protein test
+HER2 test
+HER2-positive
+HER2/neu
+Her2/neu
+HER2/neu receptor testing
+Herbicide exposure (tentative)
+Hereditary conditions
+Hereditary conditions (25% of cases)
+Hereditary genetic defect
+Hereditary genetic disorder (familial medullary thyroid cancer)
+Hereditary genetic disorders (Li-Fraumeni syndrome, Muir–Torre syndromes) predisposing to various cancers
+Hereditary syndromes (e.g., neurofibromatosis, Li-Fraumeni syndrome, tuberous sclerosis, Turcot syndrome)
+Heritable form
+Heterologous malignant mixed Müllerian tumor
+HHV-8 (KSHV) infection
+HHV-8-associated multicentric Castleman disease (HHV-8-MCD)
+HIF2A
+High alcohol consumption (three or more drinks/day)
+High blood pressure
+High blood pressure (Conn syndrome)
+High blood pressure (hypertension)
+High cholesterol (obesity-related)
+High consumption of nitrosamines and nitrites
+High consumption of red meat
+High consumption of saturated fats
+High dose chemotherapy with stem cell rescue
+High doses of cyproterone acetate
+High estrogen exposure (male)
+High estrogen levels
+High grade and more aggressive tumor
+High grade serous tumors
+High intake of processed meat
+High intake of red meat
+High intensity focused ultrasound (HIFU)
+High levels of Beta-2 microglobulin
+High levels of blood cholesterol
+High levels of dietary nitrosamines
+High levels of extremely low frequency (ELF) magnetic fields (childhood leukemia, limited evidence)
+High levels of HCG (suggestive in context)
+High levels of red meat consumption
+High levels of serum lactate dehydrogenase
+High parathyroid hormone concentration in blood (in those > 40 years)
+High parathyroid hormone levels
+High serum aldosterone (laboratory finding for Conn syndrome)
+High socioeconomic conditions (professional/administrative workers)
+High uric acid levels
+High-dose chemotherapy and radiation therapy with stem cell rescue
+High-dose chemotherapy followed by autologous stem cell transplantation
+High-dose methotrexate with leucovorin rescue
+High-dose steroids (e.g., dexamethasone) for swelling reduction
+High-dose-rate interstitial brachytherapy (HDR-ISBT)
+High-fat diet
+High-frequency ultrasound (HFUS)
+High-grade astroblastoma
+High-grade astrocytoma (Diffuse zones of infiltration)
+High-grade bladder cancer
+High-grade serous carcinoma (HGSC)
+High-grade surface OS
+High-grade undifferentiated endometrial sarcoma (HGUS)
+High-resolution anoscopy (using a colposcope)
+High-risk HPV infection
+High-risk neuroblastoma
+Higher circulating testosterone levels in women
+Highly active antiretroviral therapy (HAART) (for AIDS-associated KS)
+Hindgut GEP-NET
+HIPEC (Hyperthermic intraperitoneal chemotherapy)
+Hispanic ethnicity
+Histologic analysis
+Histologic examination (of tumor)
+Histologic examination of specimen
+Histologic grading (Bloom Richardson Grade)
+Histological analysis
+Histological distinction between adult and juvenile forms (cytoplasm, nuclei, follicle organization)
+Histological examination of biopsies
+Histological examination of tissue
+Histological findings
+Histological grading systems (National Cancer Institute system, French Federation of Cancer Centers Sarcoma Group system)
+Histology (adenocarcinoma mixed with malignant mesenchymal elements)
+Histology (reticular, trabecular areas, interstitial haemorrhage, Call–Exner bodies)
+Histone deacetylase inhibitors (e.g., panobinostat)
+Histopathologic classification
+Histopathological examination (identification of syncytiotrophoblasts and cytotrophoblasts without villi)
+Histopathological typing and grading
+Histopathology
+Histopathology (bone marrow biopsy, immunohistochemistry, flow cytometry)
+Histopathology (solid glomus tumor, glomangioma, glomangiomyoma)
+Histopathology analysis of tumor tissue
+Histopathology examination of tissue
+Histopathology of tumors
+Histopathology showing acinar, ductal or neuroendocrine differentiation
+History of adenomas (colorectal polyps)
+History of benign breast disease (e.g., atypical ductal hyperplasia, fibrocystic changes)
+History of breast cancer or benign breast disease
+History of cervical cancer
+History of cigarette smoking
+History of colonic polyps
+History of genital warts
+History of goiter (enlarged thyroid)
+History of head and neck cancer
+History of head or neck cancer
+History of human papillomavirus (HPV) infection
+History of previous abdominal surgery (for FAP patients and general recurrence)
+History of radiation therapy to the chest
+History of sunburns
+History of symptoms
+History of vaginal cancer
+History of vulvar cancer
+History of vulvar or cervical intraepithelial neoplasia
+HIV infection (for HHV-8-associated MCD)
+HIV medicines (for epidemic KS)
+HIV test
+HIV/AIDS
+HMB-45 antibody
+Hoarse voice
+Hoarseness or other changes to voice
+Hoarseness or other voice changes
+Hodgkin lymphoma (excluded)
+Homologous malignant mixed Müllerian tumor
+Homologous-recombination genes
+Homozygous deletion of CDKN2A/B (main feature of high-grade astrocytoma)
+Homozygous deletion of ZNRF3 gene
+Horizontal nystagmus
+Hormonal imbalance (estrogen/progesterone) causing cell proliferation
+Hormonal treatments (for uterine LMS)
+Hormone replacement therapy (post-menopause)
+Hormone replacement therapy for menopause (especially combined progesterone/estrogen)
+Hormone therapy (androgen deprivation therapy, GnRH agonists, GnRH antagonists)
+Hormone therapy (e.g., tamoxifen, anastrozole)
+Hormone therapy (e.g., tamoxifen, aromatase inhibitors, GnRH-targeted drugs, CDK4/6 inhibitors, mTOR inhibitors)
+Hormone therapy for menopause symptoms
+Hostility
+HPV (risk factor for oropharyngeal cancer)
+HPV (risk factor for oropharyngeal cancer, but mentioned in general throat cancer context)
+HPV 16
+HPV 18
+HPV 33
+HPV E6 protein degrading tumor suppressor protein p53
+HPV E7 protein degrading and inactivating tumor suppressor protein pRb
+HPV infection (for cancers in the tonsils and base of the tongue)
+HPV infections (for squamous-cell skin cancer)
+HPV infections (increase risk of squamous-cell skin cancer)
+HPV test
+HPV vaccination (as a primary prevention measure, also reduces risk of cancerous changes)
+HPV viral proteins E6 and E7 inducing cancer
+HPV-negative head and neck cancer
+HPV-negative oropharyngeal cancer
+HPV-positive head and neck cancer
+HPV-positive oropharyngeal cancer
+HPV-related precursor lesions (squamous hyperplasia, low-grade penile intraepithelial neoplasia, high-grade PIN)
+Human endogenous retroviruses (HERV-K) activity
+Human herpesvirus 8 (HHV-8) infection (HHV-8-associated Multicentric Castleman disease)
+Human herpesvirus 8 (in Kaposi sarcoma, though distinct from typical STS)
+Human herpesvirus-8 (HHV-8) infection in combination with immune suppression
+Human immunodeficiency virus (HIV) type 1 infection
+Human papillomavirus (HPV) (for WHO type I NPC)
+Human papillomavirus (HPV) infection (especially high-risk types like HPV-16)
+Human papillomavirus (HPV) infection (possible association with ESCC)
+Human papillomavirus (HPV) infection (possible association)
+Human papillomavirus (HPV) type 16 infection
+Human T-lymphotropic virus (HTLV-1)
+Human T-lymphotropic virus infection (for some non-Hodgkin lymphomas)
+Hungarian descent
+Hybrid tumours
+Hydrochlorothiazide diuretics use
+Hydronephrosis with flank pain (due to blocked ureters)
+Hydroxyurea (hydroxycarbamide)
+Hypercalcemia (high blood calcium levels)
+Hypercalcemic crisis
+Hyperglycemia (high blood sugar)
+Hyperhidrosis (excessive sweating)
+Hypermutated tumor types
+Hypertension (high blood pressure)
+Hyperthermic intraperitoneal chemotherapy (HIPEC) with docetaxel and cisplatin
+Hyperthermic intrathoracic perfusion chemotherapy (ITH)
+Hypokalemia (low serum potassium, Conn syndrome)
+Hypomethylating agents (e.g., azacitidine, decitabine)
+Hypoplastic MDS
+Hypotension (during carcinoid crisis)
+Hysterectomy (radical hysterectomy)
+Hysteroscopy (with biopsy)
+Iatrogenic (transplant-related) Kaposi sarcoma
+Icelandic descent
+Identification of blue cells attempting to form primitive tubules (in testicle)
+Identification of Reed–Sternberg cells in lymph node biopsies
+Idiopathic multicentric Castleman disease (iMCD)
+Ifosfamide alone
+Ifosfamide with mesna
+IgA myeloma
+IgD myeloma
+IgE myeloma
+IGF-II
+IgG myeloma
+IGHV (immunoglobulin gene VH4-34 rearrangement is a poor prognostic factor)
+IgM myeloma
+IHC (vimentin positive, cytokeratin negative, S100 negative, actin variable)
+Image assessment
+Imaging
+Imaging (CT scan, MRI scan)
+Imaging (CT scan, PET scan, MRI, ultrasound)
+Imaging (CT scans, MRIs, PET/CTs, ultrasound) for metastasis
+Imaging (implied for assessing organ involvement and bilaterality)
+Imaging (MRI of brain and spine, CT of chest and abdomen)
+Imaging (MRI, CT)
+Imaging (MRI, ultrasound, bone scan)
+Imaging (PET scan, CT scan) for staging
+Imaging (ultrasound or MRI) for surveillance (not recommended without symptoms)
+Imaging studies (CT, MRI, ultrasound)
+Imaging studies (ultrasound, CT, MRI)
+Imaging studies of abdomen and pelvis
+Imaging tests
+Imaging tests (chest x-ray, CT or MRI scans)
+Imaging tests (chest X-ray, CT scan, MRI)
+Imaging tests (CT scan, endoscopic ultrasound, MRI, positron emission tomography, abdominal ultrasound)
+Imaging tests (CT scan, MRI)
+Imaging tests (CT scan, MRI, PET scan)
+Imaging tests (CT scan, PET scan, abdominal ultrasound)
+Imaging tests (CT scan, PET, MRI)
+Imaging tests (CT, PET, MRI)
+Imaging tests (CT/CAT scan, chest X-ray)
+Imaging tests (e.g., CT scan, PET scan, abdominal ultrasound)
+Imaging tests (e.g., CT scans for abdominal lymphadenopathy)
+Imaging tests (e.g., MRI, CT, ultrasound)
+Imaging tests (e.g., MRI, CT, ultrasound) for cancer spread
+Imaging tests (head and neck cancer)
+Imaging tests (mammogram, ultrasound, MRI)
+Imaging tests (mammogram, ultrasound, MRI, tomosynthesis)
+Imaging tests (MIT, CT, PET scans)
+Imaging tests (MRI, CT, ultrasound)
+Imaging tests (to determine location and extent of tumors)
+Imaging tests (to determine spread)
+Imaging tests (transvaginal ultrasound, abdominal ultrasound, CT scan, MRI)
+Imaging tests (ultrasound, CAT scan, MRI)
+Imaging tests (ultrasound, CT scan, MRI)
+Imaging tests (Ultrasound, CT scan, MRI, MRCP)
+Imaging tests (ultrasound, MRI, CT scan, PSMA scan, bone scintigraphy)
+Imaging tests (x-rays, CT scan, ultrasound, MRI, MIBG scan)
+Imaging tests of the liver and bile ducts
+Imatinib (Gleevec)
+Imatinib mesylate (tyrosine kinase inhibitor, for unresectable, recurrent, or metastatic DFSP)
+iMCD with idiopathic plasmacytic lymphadenopathy (iMCD-IPL)
+iMCD with TAFRO Syndrome (iMCD-TAFRO)
+iMCD, not otherwise specified (iMCD-NOS)
+Imiquimod (topical cream)
+Imiquimod cream (immunotherapy)
+Immature liver precursor cells
+Immature or embryonal cells
+Immune checkpoint inhibitors (e.g., pembrolizumab)
+Immune checkpoint inhibitors (e.g., pembrolizumab, atezolizumab, nivolumab, avelumab)
+Immunocompromised state (for HHV-8-associated MCD)
+Immunodeficiency (due to HIV/AIDS, organ transplantation, rheumatoid arthritis)
+Immunohistochemical analysis
+Immunohistochemical staining
+Immunohistochemical staining (e.g., for CD34, S-100 protein, hormone receptors)
+Immunohistochemical staining for muscle-specific proteins (myogenin, muscle-specific actin, desmin, D-myosin, myoD1)
+Immunohistochemistry (Chromogranin-A, Synaptophysin, GATA3, SOX10, S100, SDHB, Inhibin A, CAIX, TH, DBH, ChAT, Ki67)
+Immunohistochemistry (detecting brachyury and cytokeratin expression)
+Immunohistochemistry (e.g., CD99 positive, MIC2 positive, CD45 negative)
+Immunohistochemistry (for genetic mutations)
+Immunohistochemistry (IHC) for neuroendocrine markers (synaptophysin, chromogranin A) and other markers (PAX5, cytokeratin 20)
+Immunohistochemistry (using BerEP4)
+Immunohistochemistry testing (e.g., positive for keratin, p53, PAX8; negative for thyroid transcription factor-1, thyroglobulin, calcitonin)
+Immunohistological characterization of tumors
+Immunomodulator agents (e.g., thalidomide, lenalidomide, pomalidomide)
+Immunomodulatory agents (e.g., lenalidomide, pomalidomide, thalidomide)
+Immunoreactivity for GFAP
+Immunoreactivity for neuroendocrine differentiation markers
+Immunoreactivity for vimentin
+Immunosuppressant medications
+Immunosuppression (e.g., following kidney transplantation)
+Immunosuppression (e.g., HIV infection, organ transplant recipients, certain malignancies)
+Immunosuppressive medications (e.g., Cyclosporin A, azathioprine)
+Immunotherapeutics (Bevacizumab, Nivolumab)
+Immunotherapy (anti-GD2 monoclonal antibody therapy - dinutuximab)
+Immunotherapy (atezolizumab, bevacizumab, tremelimumab)
+Immunotherapy (being studied)
+Immunotherapy (cytokines like IFN-a and IL-2, immune checkpoint inhibitors like ipilimumab, nivolumab, pembrolizumab, anti-PD-1 antibodies, anti-CTLA-4 antibodies)
+Immunotherapy (Durvalumab (Imfinzi))
+Immunotherapy (e.g., atezolizumab for alveolar soft part sarcoma)
+Immunotherapy (e.g., atezolizumab, pembrolizumab)
+Immunotherapy (e.g., atezolizumab, pembrolizumab, spartalizumab)
+Immunotherapy (e.g., immune checkpoint inhibitors, Pembrolizumab, Dostarlimab)
+Immunotherapy (e.g., nivolumab)
+Immunotherapy (e.g., nivolumab, pembrolizumab)
+Immunotherapy (e.g., toripalimab-tpzi with cisplatin and gemcitabine)
+Immunotherapy (immune checkpoint inhibitors)
+Immunotherapy (immune checkpoint inhibitors: pembrolizumab (Keytruda), cemiplimab-rwlc (Libtayo), Tisotumab vedotin (Tivdak))
+Immunotherapy (interferon, interleukin-2)
+Immunotherapy (nivolumab, ipilimumab, interferon alpha)
+Immunotherapy (nivolumab, pembrolizumab)
+Immunotherapy (PD-1/PDL1 inhibitors like avelumab, pembrolizumab, nivolumab, ipilimumab)
+Immunotherapy (Sipuleucel-T)
+Immunotherapy (under research)
+Impaired bile flow
+Impaired breathing (due to lung metastasis)
+Impaired breathing (due to pleural effusion from lung metastasis)
+Implants (hard metals or silicone)
+Impotence (in men, Feminization)
+Improved airflow
+Inability to pass urine
+Inability to stand, crawl, or walk
+Inactivation of p53 tumor suppressor
+Inactivation of RB tumor suppressor
+Inactivation of RB1 tumor suppressor gene in myxoid pleomorphic liposarcoma
+Inattentiveness
+Incidental discovery (incidentalomas)
+Incidental finding during cholecystectomy for gallstones
+Increase in bone marrow fibrosis
+Increased blood calcium levels (hypercalcemia)
+Increased expression of HER-2/neu
+Increased granulocytes (neutrophils, eosinophils, basophils)
+Increased head size (in infants)
+Increased head size in infants
+Increased number of ovulatory cycles
+Increased quantitative chorionic gonadotropin levels
+Increased red bloods (polycythemia)
+Increased risk of aspiration pneumonia
+Increased risk of thrombosis
+Increased sedimentation rate
+Increased serum glucose (laboratory finding for Cushing's syndrome)
+Increased susceptibility to infection (e.g., pneumonia)
+Increased susceptibility to infections
+Increased urine cortisol (laboratory finding for Cushing's syndrome)
+Increased uterine size
+Increasing age
+Increasing age (> 60 years)
+Indigestion (dyspepsia)
+Indirect laryngoscopy
+Individuals with hyperparathyroidism
+Individuals with pheochromocytoma
+Indoor air pollution from burning wood, charcoal, or crop residue
+Induration of mucosa
+Infantile cholestasis
+Infantile choriocarcinoma of liver
+Infection (for primary tumors)
+Infection with Helicobacter bilis bacteria
+Infection with Helicobacter hepaticus bacteria
+Infection with HPV
+Infection with human herpesvirus-8 (HHV-8)
+Infection with human immunodeficiency virus (HIV)
+Infection with human T-lymphotropic virus type 1 (HTLV-1)
+Infection with liver flukes (Opisthorchis viverrini, Clonorchis sinensis)
+Infection with oncogenic CMV (potentially necessary for development)
+Infection with simian virus 40 (SV40)
+Infections (due to low white blood cell count)
+Infections by some forms of HPV
+Infestation with the parasite Spirocerca lupi (in dogs)
+Infigratinib (Truseltiq)
+Infiltrative basal-cell carcinoma
+Inflammation (for primary tumors)
+Inflammation of the bile duct
+Inflammation of the mouth or throat (mucositis)
+Inflammatory bowel disease (e.g., chronic ulcerative colitis, Crohn disease)
+Inflammatory bowel disease (ulcerative colitis and Crohn's disease)
+Inflammatory breast cancer
+Inflammatory markers test
+Inflammatory symptoms
+Infrared photocoagulation (for localized disease/precursor lesions)
+Ingestion of caustic substances
+Inguinal orchiectomy (surgical removal of the testicle for tissue examination)
+Inhalation of other fibrous silicates
+Inhaling damaging chemicals
+Inherited BRCA1 or BRCA2 gene mutations
+Inherited BRCA1/BRCA2 mutations impairing DNA repair
+Inherited diseases (e.g., neurofibromatosis type I, inherited retinoblastoma)
+Inherited disorders such as Li-Fraumeni syndrome
+Inherited familial syndromes (MEN1, MEN2, VHL disease, neurofibromatosis type 1, tuberous sclerosis, Carney complex)
+Inherited gene duplication
+Inherited genetic changes
+Inherited genetic changes (hereditary breast cancer)
+Inherited genetic changes (hereditary ovarian cancer)
+Inherited genetic component
+Inherited genetic mutations
+Inherited genetic predisposition (e.g., BRCA1, BRCA2, PALB2, TP53, PTEN, PALB1 mutations)
+Inherited germline mutations (e.g., INI1, SMARCB1)
+Inherited inactivation mutation in TP53 gene
+Inherited mutations
+Inherited risk of breast cancer
+Inherited risk of breast cancer (e.g., BRCA1/BRCA2 gene changes)
+Inhibin A
+INI1 (hSNF5/INI1)
+INI1/hSNF5 gene deletions or mutations
+Injections of chemotherapy into the lesion
+Inspection of the perineum
+Integration of high-risk HPV DNA into host genome
+Interaction of environmental factors and genetic susceptibility
+Interferon treatment
+Interferon-alpha
+Interferon-alpha (immune system hormone)
+Interferon-beta
+Intermediate-risk neuroblastoma
+Internal radiotherapy (brachytherapy)
+International consensus diagnostic criteria for iMCD (established in 2017)
+Interphase fluorescence in situ hybridization (FISH) testing
+Interruption to organ function
+Interstitial fibrosis
+Intestinal transplant
+Intra-abdominal desmoid tumor
+Intra-arterial cisplatin
+Intraductal papillary mucinous neoplasm (IPMN)
+Intrahepatic stones (hepatolithiasis)
+Intranasal drug delivery (experimental)
+Intraocular cancer
+Intraosseous (central) salivary gland tumours
+Intrapleural thorium dioxide (thorotrast)
+Intrathoracic desmoid tumor
+Intravenous chemotherapy
+Intravesical chemotherapy (e.g., mitomycin C, epirubicin, gemcitabine, docetaxel, valrubicin)
+Invasive mole
+Inversions in the long arm of chromosome 12
+Inverted ductal papilloma
+Iodine 131-MIBG therapy
+Ionizing radiation (e.g., X-rays)
+Ionizing radiation (including radiation treatment for other cancers)
+Ionizing radiation exposure (including CT scan radiation)
+IOTA models (LR2, SRrisk, ADNEX)
+Iridectomy (removal of part of the iris)
+Iridocyclectomy (removal of iris and ciliary body muscle)
+Iron chelation therapy (e.g., deferoxamine, deferasirox, deferiprone)
+Iron overload state
+Irradiation of pituitary adenoma (single case report)
+Irradiation of the chest or abdomen
+Isochromosome 12p
+Isolated limb infusion (ILI)
+Isosexual precocious puberty (in young children)
+Itchiness
+Itchiness of a mole
+Itching (pruritus)
+Itching from the anus
+Itching of breast
+Itching, burn, or bleeding on the vulva that does not go away
+Itchy skin (liver metastases)
+IVA regimen (ifosfamide, vincristine, actinomycin D)
+Ivodesinib (Tibsovo)
+JAK2 V617F mutation
+Jaundice (due to liver metastasis)
+Jaundice (liver-related)
+Jaundice (yellowish skin, yellowing of eyes and skin)
+Joint pain
+Kallikrein-2 blood test
+Karyotypic abnormalities
+Keratocystoma
+Kidney abnormalities
+Kidney disease requiring dialysis
+Kidney function tests
+Kidney issues
+Kidney stones (under investigation)
+Kinase fusions (BRAF, RAF1, ALK, RET, ROS1, NTRK1, NTRK3, MET)
+KIT (CD117)
+KMT2A (MLL)
+KRAS mutations
+Krukenberg tumors (metastasis from gastric cancer)
+Lab tests
+Lab tests (blood and sputum)
+Laboratory abnormalities (e.g., elevated C-reactive protein)
+Laboratory evaluations for hormone hypersecretion and hypopituitarism
+Laboratory investigations
+Lack of physical activity
+Lack of physical exercise
+Lactate dehydrogenase (LDH) test
+Lanreotide (somatostatin analogue)
+Laparoscopic retroperitoneal adrenalectomy
+Laparoscopic transperitoneal adrenalectomy
+Large brownish spot with darker speckles
+Large cell neuroendocrine carcinoma of the lung (LCNEC)
+Large doses of Sr-90
+Large mass (SCC, if untreated)
+Large mass (untreated SCC)
+Large mass in the neck
+Large tumor size
+Large-cell carcinoma
+Laryngeal reflux disease
+Laser excision
+Laser photocoagulation
+Late menopause
+Lateral rectus palsy
+LDH levels (may be elevated in metastatic melanoma)
+Leakage of urine or faeces from the vagina (rare)
+Leg weakness or paralysis
+Lenvatinib in combination with everolimus
+Leptin overexpression
+Leser-Trelat sign
+Lesions in the lungs
+Lesions in the mouth (hard palate, gums)
+Lesions in the stomach or intestines
+Lesions on legs and feet (ankles, soles)
+Leukapheresis therapy
+Leukoerythroblastic smear (tear-drop RBCs, nucleated RBCs, immature granulocytes)
+Li-Fraumeni syndrome (germline TP53 mutation)
+Li-Fraumeni syndrome (hereditary)
+LI-RADS classification system for liver lesions
+LIBC
+Lichen sclerosus
+Lichen sclerosus (in HPV-negative cancers)
+Life-threatening problems
+Light chain myeloma
+Light colored stool
+Light microscopy (basaloid tumor nests with neuroendocrine features)
+Light-colored skin, hair, and eyes
+Light-colored stools
+Lighted tube-like instruments that look inside the nose
+Lighter skin color
+Lighter skin, hair, and eye color
+Limb amputation (for unresectable limb tumors)
+Limb-saving surgery
+Limited stage SCLC
+Limping
+Lip or mouth sore that won't heal
+Liposomal anthracyclines (e.g., liposomal doxorubicin, daunorubicin)
+Liquid biopsy (experimental, from blood, CSF, urine)
+Listlessness
+Liver and gallbladder NETs
+Liver biopsy (historically required, now often not needed if imaging is conclusive)
+Liver enlargement
+Liver enzymes
+Liver Imaging Reporting and Data System (LI-RADS)
+Liver transplantation (in cases of liver metastasis)
+Liver-directed therapies (radiofrequency ablation, radioembolization for liver metastases)
+Living close to the equator
+Living in crowded and less hygienic conditions (for EBV transmission)
+Living near asbestos mines or factories
+Living near naturally occurring asbestos deposits
+Living with asbestos workers
+Local recurrence (following surgery in dogs and cats)
+Local skin flap
+Localized immunodeficiency
+Localized neurological problems
+Localized swelling
+Locally infiltrative glomus tumors (LIGT)
+Loco-regional therapy
+Locoregional therapies
+Locoregional therapies (Transarterial chemoembolization (TACE), Transarterial radioembolization (TARE), Ablation therapies)
+Long time to chew and swallow food
+Long-lasting infection with high-risk human papillomavirus (HPV)
+Long-standing foreign bodies
+Long-standing goiter
+Long-term arsenic exposure
+Long-term diabetes
+Long-term indwelling catheters
+Long-term use of oral contraceptives
+Long-term use of pioglitazone (for type 2 diabetes)
+Loop electrical excision procedure (LEEP) (for severe precancerous lesions)
+Loose teeth or dentures that no longer fit well
+Loss of appetite (anorexia)
+Loss of appetite (metastatic melanoma)
+Loss of balance
+Loss of bladder control
+Loss of function
+Loss of function (if impinging on nerves)
+Loss of GATA-3 (leading to dedifferentiation)
+Loss of hearing on one side
+Loss of identity
+Loss of p53 and pRb leading to increased blood vessel growth (VEGF over-expression), loss of tumor cell suppression, and cell cycle regulation disruptions
+Loss of PTEN function leading to PI3k/Akt/mTOR pathway up-regulation
+Loss of sensation (if impinging on nerves)
+Loss of tumor suppressor genes on chromosome 3
+Loss-of-function mutations in tumor suppressor genes (NF1, TP53, CDKN2A)
+Low back pain (lumbago)
+Low blood pressure (hypotension)
+Low blood sugar
+Low body mass index (<18.5 kg/m2)
+Low grade malignant tumors
+Low grade serous tumors
+Low immune function
+Low intake of dairy products
+Low intake of water
+Low levels of skin pigment melanin
+Low plasma renin activity (laboratory finding for Conn syndrome)
+Low serum potassium (laboratory finding for Conn syndrome)
+Low socioeconomic status
+Low vitamin D levels (disproven)
+Low-dose morphine
+Low-dose sedatives
+Low-grade astroblastoma
+Low-grade bladder cancer
+Low-grade central OS
+Low-grade cribriform cystadenocarcinoma
+Low-grade serous carcinoma
+Low-grade tumor
+Low-risk neuroblastoma
+Lozenges
+Lu-177 PSMA
+Lumbar puncture (cerebrospinal fluid testing)
+Lumbar puncture (elevated CSF protein levels)
+Lumbar puncture (to check for M1 disease)
+Lump
+Lump (nodule) in the neck
+Lump at end of penis
+Lump in ear, cheek, jaw, lip, or inside the mouth
+Lump in the abdomen
+Lump in the abdomen, neck, or chest
+Lump in the back of the throat or mouth
+Lump in the lip, mouth, or gums
+Lump in the neck
+Lump in the neck (head and neck cancer, not glomus tumor)
+Lump in the pelvic area
+Lump in the vulva
+Lump near the anus
+Lump or mass on the back of the neck (often not tender or painful)
+Lump or pain on the right side of the abdomen
+Lump or swelling in soft tissue
+Lump or thickness in the perineum or penis
+Lumps in the abdomen
+Lumps under the skin
+Lutetium (177Lu) DOTA-octreotate (for metastatic disease)
+Lymphadenectomy (removal of pelvic and para-aortic lymph nodes)
+Lymphadenoma
+Lymphedema (swelling due to lymphatic system obstruction)
+Lymphedema (swelling in genitals or lower limbs)
+Lymphedema associated angiosarcoma (Stewart-Treves syndrome)
+Lymphocyte depleted
+Lymphocyte-rich
+Lymphoepithelioma
+Lymphoepithelioma like
+Lymphohistiocytic
+Lymphomas (e.g., extranodal marginal zone B-cell lymphomas, diffuse large B-cell lymphomas)
+Lymphomatous meningitis (LM)
+Lynch syndrome
+Lynch syndrome (hereditary)
+Macroadenomas
+Magnetic Resonance Angiography (MRA) (with or without gadolinium contrast)
+Magnetic resonance imaging (MRI) (for assessing depth of invasion)
+Magnetic Resonance Imaging (MRI) (with contrast enhancement, T1, T2, FLAIR imaging)
+Magnetic resonance imaging (MRI) of the brain (to assess for distant metastases)
+Magnetic resonance imaging (MRI) scan
+Magnetic resonance imaging (MRI) with T2-weighted imaging showing a tail sign
+Magnetic Resonance Spectroscopy (MRS) (proton spectroscopy)
+Maintenance regimen of lenalidomide, bortezomib, and dexamethasone
+Male gender (in myxoid liposarcoma)
+Male sex
+Male sex (4:1 male to female ratio for classic HCL)
+Male sex (especially for EAC)
+Male sex (for Ewing's sarcoma)
+Male sex (for subependymoma subtype)
+Male sex (in the US)
+Male sex (up to 45 years old)
+Malfunction of Schwann cells that form the insulating myelin sheath on the vestibulocochlear nerve
+Malignancy may be focally present in mucinous neoplasms of the ovary
+Malignant mixed müllerian tumor (carcinosarcoma)
+Malignant mucinous tumors
+Malignant peripheral nerve-sheath tumors
+Malignant plasma cell-secreted circulating monoclonal myeloma protein (IgG, IgA, light chain, or none)
+Malignant Rhabdoid Tumor of the Brain
+Malignant Rhabdoid Tumor of the Kidney
+Malignant Rhabdoid Tumor of the Soft Tissues
+Malignant triton tumors (MPNST with rhabdomyoblastomatous component)
+Malnutrition and weight loss (due to refusal to eat)
+Many moles
+Many sexual partners
+Marfanoid habitus
+Marijuana smoking
+Mass in the abdomen
+Mastectomy (total mastectomy)
+Maternal age over 35 years
+Maternal age over 45 years
+Maternal age under 16 years
+Maternal age under 20 years
+Maternal ovum with no functional DNA (complete hydatidiform mole)
+Maternal use of hair dye
+Maximal surgical removal of the tumor
+Maximum surgical resection
+MCV-negative MCC
+MCV-positive MCC
+MDM2 SNP309
+MDS unclassifiable
+MDS with bi-allelic TP53 inactivation
+MDS with fibrosis
+MDS with increased blood counts
+MDS with single lineage dysplasia
+Measles virus
+Measurement of corresponding hormones in blood or urine
+Measurement of free PSA
+Measurement of serum beta hCG
+Meat cooked at very high temperatures
+Medical history
+Medical history (including symptoms and family health history)
+Medical history and family health history review
+Medical history and symptom assessment
+Medical history assessment
+Medical imaging (e.g., CT scan, PET scan, MRI)
+Medical imaging (for cancer staging)
+Medical imaging (skeletal survey, MRI, CT scan)
+Medical imaging (to determine spread)
+Medical imaging (ultrasound, CT scan, MRI) to check for tumor spread or alternative diseases
+Medical imaging to characterize kidney masses
+Medical therapies (clinical trials for drugs like everolimus, lapatinib, mifepristone)
+Medical treatments (e.g., radiation therapy, chemotherapy)
+Medical ultrasonography
+Medical ultrasound
+Medication (cabergoline, bromocriptine, somatostatin receptor ligands like octreotide or lanreotide, pegvisomant, ketoconazole, metyrapone, osilodrostat, etomidate, mitotane, pasireotide, mifepristone)
+Medications to improve digestion (pancreatin)
+Mediterranean heritage
+Medullary thyroid cancer
+Medullary thyroid cancer associated with Multiple Endocrine Neoplasia type 2A (MEN2A)
+Medullary thyroid cancer associated with Multiple Endocrine Neoplasia type 2B (MEN2B)
+Medulloepithelioma (Diktyoma)
+MEK inhibitor (e.g., trametinib)
+MEK inhibitors (e.g., trametinib, cobimetinib)
+Melanoma in situ
+Melanoma with features of a Spitz nevus
+Melanoma with small nevus-like cells
+Memory loss
+MEN type 2A and 2B
+Men2B
+MEN4
+MenA
+menin
+Meningothelial
+Menometrorrhagia (reproductive age patients)
+Menopause at a later age
+Mental changes
+Mental confusion
+Merkel-cell carcinoma
+Mesenchymal cells failing to differentiate into myocytes of skeletal muscle
+Mesenchymal stromal cells (uncertain therapeutic effect)
+Mesenteric desmoid tumor
+Mesenteric fibrosis
+Mesoblastic nephroma
+Meta-iodobenzylguanidine (mIBG) scan
+Metabolic assessment
+Metabolic syndrome with NAFLD
+Metaplastic sarcomatous transformation of the epithelial component (Conversion/divergence hypothesis)
+Metastases from breast cancer
+Metastases from lung cancer
+Metastases to the pituitary gland
+Metastasis associated in colon cancer 1 (MACC1)
+Metastasis from breast cancer
+Metastasis from Breast cancer
+Metastasis from Colon cancer
+Metastasis from colon cancer
+Metastasis from Kidney cancer
+Metastasis from Lung cancer
+Metastasis from Melanoma skin cancer
+Metastasis from other cancers (e.g., Lung cancer, Breast cancer, Thyroid cancer, Kidney cancer, Prostate cancer)
+Metastasis from other primary cancers (e.g., breast cancer, lung cancer, prostate cancer, kidney cancer, thyroid cancer, skin cancer, colon cancer, blood cancer, bone marrow cancer)
+Metastasis from tumors of the female genital tract
+Metastasis of neuroendocrine tumors to the liver (allowing substances to bypass first-pass metabolism)
+Metastasis to lungs, bone, and lymph nodes
+Metastasizing pleomorphic adenoma
+Metastatic bladder cancer
+Metastatic Eye Cancer
+Metastatic pheochromocytoma
+Metastatic symptoms depending on affected organ
+Methotrexate (chemotherapy drug)
+Microadenomas
+Micronodular basal-cell cancer
+Microscopic analysis (histology) of enlarged lymph node tissue
+Microscopic evaluation of carcinomatous cells below basement membrane of lactiferous ducts invading stroma
+Microscopic examination (pathology)
+Microscopic examination of biopsy (amyloid stroma, hyperplasia of parafollicular cells)
+Microscopic examination of cells
+Microscopic examination of specimens
+Microscopic examination of thyroid tissue
+Microscopic examination of tissue
+Microscopic features including indistinct cell borders, mitoses, variable architecture (tubulopapillary, glandular, solid, embryoid bodies), nuclear overlap, and necrosis
+Microscopy (small, round, blue cells, Homer Wright pseudorosettes)
+Microvascular free flap
+Middle-aged large and giant breed dogs
+Midgut carcinoid
+Midgut GEP-NET
+Mifamurtide (after surgery, with chemotherapy)
+Migratory venous thrombophlebitis
+Milky nipple discharge unrelated to normal breast-feeding (galactorrhea)
+Minimal symptomatology despite large tumor size (seminomas)
+Minor firm area of skin (1-5 cm in diameter)
+Mismatch repair (MMR) deficient colorectal cancer
+Mismatch repair (MMR) deficient tumours
+Misuse of pain medicines for a long time
+Mitochondrial dysfunction
+Mitomycin C (MMC)
+Mixed cellularity
+Mixed Epithelial / Mesenchymal Type
+Mixed tumors (neuroendocrine and epithelial carcinoma features)
+MLH2
+MLH6
+MLL2
+Moderate to severe hypercalcemia
+Mogamulizumab-kpkc (Poteligeo)
+Mohs micrographic surgery (MMS)
+Mole evolving over time
+Molecular characterization (e.g., IDH1/IDH2 mutation status, EGFR amplification, TERT promoter mutation, ATRX expression)
+Molecular findings
+Molecular pathology (identifying chromosomal translocations, e.g., t(11;22))
+Momelotinib (Ojjaara)
+Monoclonal antibodies (e.g., daratumumab, isatuximab, elotuzumab, belantamab mafodotin)
+Monoclonal antibody therapy (e.g., cetuximab)
+Mood changes (e.g., depression, anxiety)
+Moon face
+Morning headache
+Morpheaform basal-cell cancer
+Morphology and special stains (PAS, Perls' Prussian blue iron stain)
+Motor system imbalance
+Motor system weakness
+Mouth symptoms (pain, numbness, swelling, jaw expansion, tooth mobility, radiolucency)
+Moxetumomab pasudotox (anti-CD22 immunotoxin, for relapsed disease)
+MPL W515L mutation
+MR cholangio-pancreatography (MRCP)
+MR spectroscopy (for tumor metabolite concentration, e.g., increased choline peak)
+MRI
+MRI (with gadolinium)
+MRI imaging
+MRI of upper urinary tract
+MRI scan
+MRI scan (often appearing as ring-enhancing lesions)
+MRI scan (soft tissue, medullary cavity)
+MRI scans
+MRI-images analyzed following nerve tracts up to the brainstem
+mTOR inhibitors (everolimus)
+mTOR mutations
+Mucohyaline
+Mucosal ablation (e.g., radiofrequency ablation, photodynamic therapy, Nd-YAG laser, argon plasma coagulation)
+Mucosal neuromas
+Multi-agent chemotherapy
+Multifocal AT/RT
+Multilocular clear cell RCC
+Multimodal therapy (combination of surgery, chemotherapy, radiation)
+Multimodality therapy (combination of surgery, radiation, and chemotherapy)
+Multiple atypical nevi or dysplastic nevi
+Multiple endocrine neoplasia (inherited condition)
+Multiple endocrine neoplasia (MEN) (hereditary)
+Multiple endocrine neoplasia type 2 (MEN2A and MEN2B)
+Multiple pregnancies (especially seven or more full-term pregnancies)
+Mumps orchitis
+Muramyl tripeptide
+Muscle inflammation
+Muscle loss
+Muscle loss (shoulder)
+Muscle wasting (Cushing's syndrome)
+Muscle weakness (Conn syndrome)
+Muscle-invasive bladder cancer (MIBC)
+Mutation in the RET proto-oncogene (sporadic and hereditary)
+Mutation in the tumor suppressor gene, NF2, located on chromosome 22, resulting in abnormal production of the cell protein Merlin
+Mutation of T cells
+Mutation of the p53 tumor suppressor gene
+Mutations affecting cellular machinery
+Mutations affecting genes involved in cell growth, replication, cell death, and DNA damage repair
+Mutations and deletions of tumor suppressor genes (e.g., P53)
+Mutations in ACVR2A
+Mutations in ACVR2A, TGFBR2, MSH3, MSH6, SLC9A9, BRAF genes (hypermutated tumors)
+Mutations in ATM
+Mutations in AXIN1, AXIN2, TCF7L2, NKD1 genes
+Mutations in BAX
+Mutations in BAX gene
+Mutations in BRAF genes (V600E, V600K)
+Mutations in CTDNEP1
+Mutations in CTNNB1 (β-catenin) gene
+Mutations in DNA repair genes (e.g., TP53, BRCA1, BRCA2)
+Mutations in FAM123B
+Mutations in FAM123B, SOX9, ATM, ARID1A genes (non-hypermutated tumors)
+Mutations in genetic material (DNA)
+Mutations in KRAS, RAF, PI3K genes
+Mutations in mismatch repair genes (e.g., MLH1, MLH2, MSH2, MSH6, PMS2)
+Mutations in MLL2
+Mutations in NKD1
+Mutations in PTEN tumor suppressor gene
+Mutations in RAS genes (NRAS, HRAS, KRAS)
+Mutations in RPL22 gene
+Mutations in SLC9A9
+Mutations in SMAD
+Mutations in TBR1
+Mutations in TGFBR2
+Mutations in the APC gene
+Mutations in the APC gene (Ashkenazi Jews)
+Mutations in the genes for MenA and Men2B
+Mutations in the TP53 gene
+Mutations in the Wnt signaling pathway
+Mutations in tumor suppressor genes (e.g., p53, PTEN, SPOP)
+Mutations of MAX
+Mutations of NF1
+Mutations of SDHAF2
+Mutations of SLC25A11
+Mutations of the genes for the succinate dehydrogenase (SDHD, SDHA, SDHC, SDHB)
+Mutations of TMEM127
+Mutations of VHL
+Mutations that disable SPOP
+Mutations that hyperactivate FOXA1
+MYB activation by copy number gain
+MYB activation by juxtaposition of enhancer elements near the MYB gene
+MYB gene fusion with the NFIB gene due to t(6;9) translocation
+MYCN oncogene amplification
+Mycobacterium leprae infection
+Myeloablative therapy
+Myelofibrosis (iMCD-TAFRO)
+Myeloid neoplasms with germ line predisposition and organ dysfunction
+Myeloma-defining events (MDEs)
+Myxoid DFSP
+N'-nitrosonornicotine (in smokeless tobacco)
+N-terminally truncated variant of Hsp70
+Nadofaragene firadenovec (Adstiladrin)
+Nail clubbing
+Naloxone lotion (for pruritus)
+Nanoparticle-based therapeutics (experimental)
+Nanoparticulate chemotherapy
+Nasal cavity paraganglioma
+Nasal obstruction or bleeding
+Nasal regurgitation due to paresis of the soft palate
+Nasal twang
+Nasogastric tube feeding
+Nath Score (risk assessment model)
+Native American ethnicity
+Nausea (liver or brain metastases)
+Nausea (metastatic melanoma)
+Nausea or vomiting (especially over 50)
+Nausea/vomiting
+NBS1
+Needle biopsy (fine-needle aspiration or core needle biopsy)
+Neoadjuvant chemotherapy
+Neoadjuvant chemotherapy (before surgery)
+Neoadjuvant chemotherapy (for advanced cancer)
+Neoadjuvant chemotherapy and/or radiotherapy (for invasive/large tumors)
+Neoplastic processes (for primary tumors)
+Nephrogenic rests (fragments of tissue that develop before birth and become cancerous after birth)
+Nerve damage (peripheral neuropathy)
+Nestin
+Nestin testing
+Neuroendocrine tumor of the anterior pituitary
+Neuroendocrine tumors (formerly carcinoid tumors)
+Neuroendocrine tumors arising in the bronchi (allowing products to reach systemic circulation before liver metabolism)
+Neurofibromatosis (inherited syndrome)
+Neurofibromin 1
+Neurologic abnormalities
+Neurologic exam
+Neurological care
+Neurological deficits
+Neurological deficits (e.g., visual loss, motor weakness, cognitive decline)
+Neurological exam
+Neurological signs (due to nerve pressure)
+Neurological symptoms
+Neurological symptoms (after pregnancy)
+Neurological symptoms (if in the brain)
+Neurological symptoms (migraines, seizures, coma)
+Neurological symptoms (weakness, confusion, headache, visual changes, retinopathy, radicular pain, loss of bowel or bladder control, carpal tunnel syndrome, peripheral neuropathy)
+Neuron-specific enolase (NSE)
+Neuron-specific enolase (NSE) testing
+Neuropathologist examination (for atypical cells, new blood vessel growth, mitotic figures)
+Neuropsychological deficits (e.g., anxiety)
+Neuroradiologic features analysis
+Neurosurgery (debulking)
+Neurosurgical care
+Neutropenia (low neutrophil count)
+Never been pregnant
+Never having been pregnant
+Never having been pregnant (nulliparity)
+New lump on the skin (nodular melanoma)
+New lump or thickening in breast or armpit
+New lump or thickening in or near the breast or armpit
+New mole
+Newly inverted nipple
+Nexavar
+NF-kB
+NF-κB
+NF1 mutant subtype
+NF2 (neurofibromatosis 2 gene)
+Niacin deficiency (pellagra)
+Niacin deficiency (Pellagra)
+Nimustine hydrochoride (ACNU)
+Nipple discharge (sudden, bloody, or from one breast)
+Nipple retraction
+Nipple turned inward
+Nivolumab (uncertain effect)
+NJDS gene
+NJDS gene mutation (correlated)
+Nodular basal-cell carcinoma
+Nodular lymphocyte-predominant Hodgkin lymphoma
+Nogapendekin alfa inbakicept (Anktiva)
+Non-functioning tumors
+Non-healing ulcers (in advanced disease)
+Non-hypermutated colorectal cancer
+Non-hypermutated tumor types
+Non-keratinizing squamous cell carcinoma (lymphoepithelioma)
+Non-muscle-invasive bladder cancer (NMIBC)
+Non-ossifying fibroma (benign)
+Non-reducing varicocele
+Non-specific dermatitis
+Non-specific symptoms
+Non-syndromic Wilms' tumor
+Nonheritable form
+Nonmelanoma skin cancer (NMSC)
+Nonsebaceous lymphadenoma
+Northern European ancestry
+Nose and sinus cancer
+Notochordal tumors (WHO 2020 classification)
+Nottingham system (grading)
+Nuclear medicine gamma camera imaging (using radioactive somatostatin analogues like indium-111 pentetreotide)
+Nuclear medicine therapy (radiolabeled peptides or hormones)
+Nucleoside drugs (e.g., fludarabine, pentostatin, cladribine)
+Null cell adenomas
+Nulliparity
+Nulliparity (never been pregnant)
+Numbness in face
+Numbness in limbs
+Numbness in the lip and chin
+Numbness in the mouth or lips
+Numbness of the face
+Numbness or paralysis of the face
+Obesity (especially abdominal obesity)
+Observation (for early stage or after resection)
+Observation (wait-and-watch/wait-and-scan)
+Observation (watchful waiting)
+Observation with close imaging follow-up
+Occupational exposure to aromatic amines (e.g., benzidine, beta-naphthylamine, ortho-toluidine)
+Occupational exposure to aromatic hydrocarbon solvents (e.g., benzene, toluene, xylene)
+Occupational exposure to arsenic
+Occupational exposure to asbestos
+Occupational exposure to asbestos (mining, production, working with asbestos products)
+Occupational exposure to beryllium
+Occupational exposure to certain chemicals in metalworking, petroleum, plastics, and textile industries
+Occupational exposure to chromium
+Occupational exposure to nickel
+Occupational exposure to paint fumes
+Occupational exposure to soot
+Occupational exposure to UV radiation (e.g., working in airplanes)
+Occupational exposure to wood dust
+Occupational exposure to wood dusts or certain toxic substances
+Occupations with long-term exposure to high temperatures, petrol emissions, or exhaust emissions
+Octreotide (somatostatin analogue)
+Older age
+Older age (4th to 5th decades for carcinoids)
+Older age (55-65 years old)
+Older age (>50 years old)
+Older age (average 66 years)
+Older age (median age at diagnosis is 55-60 for classic HCL, over 70 for HCL-V)
+Older age (most commonly 40-70, or over 60)
+Older age (over 50)
+Older age (over 60 years old)
+Older age (over 60 years)
+Older age (over 60, typical onset 70 years)
+Older age (post-menopause)
+Older age (typically after 45, average early 60s)
+Oncept IL-2 (for feline vaccine-associated fibrosarcomas)
+Oncogenes
+Oncolytic virotherapy (experimental)
+Oncolytic virus therapy (JX-594)
+One-sided weakness
+Oophorectomy (removal of ovaries)
+Ophthalmoscopy (examination by ophthalmologist/optometrist)
+Opioid painkillers
+Oral contraceptive pill use (longer than five years)
+Oral human papillomavirus infection (HPV)
+Oral prophylaxis and hygiene
+Oral tyrosine kinase inhibitors (e.g., imatinib, sorafenib, pazopanib, sunitinib)
+Oral/maxillofacial surgery
+Orbital swelling
+Organ of Zuckerkandl paraganglioma
+Organomegaly (iMCD-TAFRO)
+Originating from the fimbriated end of the fallopian tube has emerged as an origin for many high-grade serous carcinomas.
+Orthopnea (shortness of breath when lying flat)
+Osteoarthropathy (rarely)
+Osteoblastoma (benign)
+Osteochondroma (benign)
+Osteoclast inhibitors (alendronate, pamidronate) (in dogs)
+Osteoclastic giant cell-rich tumors (WHO 2020 classification)
+Osteoclastic variant
+Osteogenic tumors (WHO 2020 classification)
+Osteoid osteoma (benign)
+Osteoma (benign)
+Osteoradionecrosis of the jaw
+Other blood tests
+Other mesenchymal tumors of bone (WHO 2020 classification)
+Other thyroid diseases
+Outward growing (exophytic) growth
+Ovary NETs
+Overexpression of mutant p53
+Overexpression of oncogenes (e.g., KRAS, RAF, PI3K)
+Overweight or obesity
+Ozone depletion (contributes to increased UV exposure)
+p16INK4A immunostaining (for HPV-related penile cancer)
+p27
+P53 mutation
+p53 mutations
+p53 tumor suppressor gene
+p57kip2
+Pacak-Zhuang Syndrome
+Pacritinib (Vonjo)
+Pafolacianine (diagnostic agent during surgery)
+Pain (if spread and pressing on nerves/organs)
+Pain (in adults)
+Pain (less common, due to organ impingement)
+Pain (often reproduced by cold water)
+Pain (often worse at night and at rest)
+Pain (often worse at night, intermittent, varying intensity, long-standing)
+Pain (when large enough)
+Pain above the stomach
+Pain after surgery
+Pain and swelling around lymph nodes (abdomen or groin)
+Pain around the stomach (heartburn-like)
+Pain at the site of the tumor
+Pain behind the breastbone
+Pain behind the breastbone (heartburn-like)
+Pain during sex
+Pain during sexual intercourse
+Pain during sexual intercourse (dyspareunia)
+Pain during urination
+Pain following alcohol consumption
+Pain in any area of the breast
+Pain in face
+Pain in lower back, hips, or pelvis
+Pain in the abdomen
+Pain in the abdomen or pelvis
+Pain in the anterior region of the neck
+Pain in the area around the anus
+Pain in the back
+Pain in the breast
+Pain in the groin or vaginal area
+Pain in the lower femur or below the knee (in active teenagers)
+Pain in the mandible (lower jaw)
+Pain in the pelvis
+Pain in the right upper quadrant of the abdomen
+Pain in the side that does not go away
+Pain in the trapezius muscle
+Pain medication
+Pain or bleeding during or after sexual intercourse
+Pain or discomfort (numbness, burning, pins and needles)
+Pain or discomfort in a testicle or in the scrotum
+Pain or feeling of fullness below the ribs
+Pain or fullness below the ribs on the left side
+Pain or ringing in the ears
+Pain or soreness (as tumor presses against nerves and muscles)
+Pain reliever (acetaminophen)
+Pain that radiates from the throat to the ears
+Pain under the rib cage
+Pain when swallowing
+Pain when swallowing (odynophagia)
+Pain while urinating
+Pain, itching, ulceration, redness around the site, or bleeding at the site (melanoma)
+Pain, swelling, or lumps in the abdomen
+Pain, swelling, or pressure in the abdomen or pelvis
+Pain, trouble swallowing, or swelling of the neck or face (if spread beyond mesothelium)
+Painful ejaculation
+Painful lesion that itches or burns
+Painful sore in the mouth or throat
+Painful swallowing (odynophagia)
+Painful swelling due to lymph and blood flow blockage
+Painful urination
+Painless lump or swelling
+Painless lump or swelling in either testicle
+Painless, bluish lumps under the skin
+Painless, palpable abdominal mass
+Painless, raised, shiny skin area with small blood vessels
+Painless, slowly enlarging masses in muscle, skin, or non-cutaneous areas
+Painless, swollen lymph nodes (neck, underarm, groin)
+Painless, tender, or itchy lesions
+Painlessness (often)
+PALB2 mutations
+Pale skin
+Palliative care
+Palliative care (for recurrence)
+Palliative management (for high-grade astrocytomas)
+Palliative surgery (for bowel obstruction)
+Palliative surgery (for metastatic disease)
+Pallor from anemia
+Palpable abdominal mass
+Palpable lumps
+Palpable mass
+Palpable mass (primary breast angiosarcoma)
+Palpable swollen lymph nodes in the neck
+Palpable testicular mass
+Palpation of the Bartholin's glands
+Palpation of the neck and supraclavicular fossa for cervical adenopathy
+Palpation or biopsies of lymph nodes (para-aortic, iliac, inguinal)
+Palpitations (Conn syndrome)
+Pancreatic islet adenomas
+Panendoscopy (quadoscopy)
+Pap test
+Papillae and solid areas (in borderline and malignant tumors)
+Papillary carcinomas of the breast (in situ, encapsulated, solid-papillary, invasive)
+Papillary RCC
+Papillary thyroid cancer
+Papillary tumors
+Papules or plaques
+Paracentesis or ascitic drain (for ascites)
+Paraganglioma (PGL)
+Paralysis of facial muscles
+Paralysis of the face
+Paranasal sinus and nasal cavity cancer
+Paranasal sinus paraganglioma
+Paraneoplastic blood clotting
+Paraneoplastic syndromes (endocrine, neurological, mucocutaneous, hematological)
+Paraoccupational secondary exposure to asbestos
+Paraosteal OS
+Paraplegia (complication)
+Parathyroid tumors
+Parenchymal angiosarcoma
+Parental factors around conception and during gestation (occupation, smoking, alcohol consumption, medicinal drug use, birth factors)
+Parental use of cocaine
+Parental use of marijuana
+PARP inhibitors (olaparib, rucaparib, niraparib)
+Partial paralysis
+Partial removals (for large tumors)
+Particle beam therapy
+Passing blood with bowel movements
+Past Epstein-Barr virus (EBV) infection
+Past radiation therapy to the pelvis
+Past radiation therapy to the pelvis (for uterine sarcoma)
+Past treatment with radiation therapy to the pelvis
+Pathogenic Escherichia coli (producing colibactin)
+Pathogenic Escherichia coli producing colibactin
+Pathologic assessment (SEE-FIM Protocol)
+Pathologic fracture (unexplained broken bone)
+Pathological examination (cytological or genetic analysis of tumor tissue)
+Pathological examination of biopsy or resected tissue
+Pathological examination of nephrectomy specimen
+Pathological examination of removed tissue
+Pathological examination of tissue
+Pathological examination of tissue under a microscope
+Pathologically high levels of monoclonal plasma cells in bone marrow
+Pathologist examination of biopsy
+Pathology (histology/histopathology)
+Pathology dissection protocols such as the SEE-FIM Protocol (for identifying early serous cancers and precancers in the fallopian tube)
+Paucicellular variant
+PCA3 urine test
+PCR for BCR-ABL1
+PD-L1
+Pediatric ependymoma
+Pedicled skin flap
+Pellagra (due to niacin deficiency)
+Pelvic cramping
+Pelvic exam
+Pelvic exenteration (for radiation-treated recurrence)
+Pelvic irradiation
+Pelvic pain or discomfort
+Pelvic pressure
+Pelvic radiation
+Pelvic ultrasound (transvaginal or otherwise)
+Pembrolizumab (adjuvant setting for clear cell RCC)
+Pemigatinib (Pemazyre)
+Penile injury (small tears and abrasions)
+Pentostatin (purine analog, first-line therapy)
+People with light skin
+Peptide directed radiotherapy (PRRT) (e.g., 177Lu-Dotatate, 90Y-Edotreotide)
+Percutaneous ethanol injection
+Performing open-mouthed kissing or oral/mouth-genital sex on a person with HPV
+Perfusion Magnetic Resonance Imaging (pMRI) (with gadopentetate dimeglumine contrast)
+Perfusion MRI (for tumor blood flow)
+Pericardiocentesis (for pericardial effusion)
+Perihilar cholangiocarcinoma (Klatskin tumor)
+Perinatal transmission of HBV/HCV
+Periosteal OS
+Peripheral edema
+Peripheral neuroblastic tumors (pNTs)
+Peripheral PNET
+Peritoneal biopsies
+Peritoneal irritation (in children/adolescents)
+Persistent cough
+Persistent ear ache
+Persistent earache
+Persistent headache (brain metastases)
+Persistent rough patch with ulceration and raised border
+Persistent trophoblastic disease (PTD)
+Personalized mRNA vaccines
+Pesticide exposure (tentative)
+PET scan
+PET scan (for staging)
+PET scan (positron emission tomography scan)
+PET-CT fusion imaging
+PET/CT scanning (for suspected recurrence)
+PET/MR
+PET/MR scan
+Petechiae (tiny red dots under the skin due to bleeding)
+Petechiae (tiny red dots under the skin)
+Petrochemicals (such as benzene)
+Pheochromocytoma-like hypersecretion of catecholamines (rare)
+Philadelphia chromosome (t(9;22)(q34;q11.2) translocation)
+Phototherapy for neonatal jaundice (questionable association)
+Physical exam
+Physical exam (checking neck for swelling, lumps)
+Physical exam (clinical breast exam)
+Physical exam (including clinical breast exam)
+Physical exam of the abdomen (for enlarged spleen or liver)
+Physical exam of the affected area
+Physical exam of the area
+Physical exam of the area (head and neck cancer)
+Physical exam of the lips and mouth
+Physical examination (checking for lumps, lymph node enlargement)
+Physical examination (digital rectal exam, pelvic exam)
+Physical examination (including pelvic exam)
+Physical examination of throat and neck
+Physical exercise
+Physical exercises
+Physical trauma to esophagus
+PI3KCA
+PI3KCB
+PIK3CA mutations
+Pilocytic astrocytoma (WHO Grade I)
+Pineal AT/RT
+Pineal gland tumors
+Pink, red, or fleshy color (amelanotic melanoma)
+Pink, red, or fleshy colored moles (amelanotic melanoma)
+Pinpoint spots under the skin caused by bleeding (petechiae)
+Pituitary apoplexy (sudden hemorrhage or necrosis)
+Pituitary gland tumors
+Pituitary incidentalomas
+Pituitary tumors
+Plaque therapy (brachytherapy)
+Plasma methoxytyramine
+Platinum-based chemotherapy (cisplatin, carboplatin, oxaliplatin)
+Pleomorphic (giant cell)
+Pleomorphic anaplastic neuroblastoma
+Pleomorphic undifferentiated sarcoma (formerly Malignant fibrous histiocytoma)
+Pleomorphic xanthoastrocytoma (WHO Grade I)
+Pleural effusion (complication)
+Pleural effusion (due to lung metastasis)
+Pleural effusion (fluid around the lung)
+Pleurodesis (using talc to scar pleura)
+Pleurodesis (using talc)
+Pneumothorax (collapsed lung)
+Pneumothorax (due to lung metastasis)
+POEMS-associated MCD
+Point-based algorithm (International Society for Cutaneous Lymphomas, 2005)
+Polyembryoma
+Polymorphous low-grade adenocarcinoma
+Polyomaviruses infection (e.g., Merkel cell polyomavirus)
+Polypoid melanoma
+Poor diet
+Poor diet (e.g., high in processed/barbecued meats, pickled vegetables; low in fresh foods)
+Poor diet (low fresh foods, high processed/barbecued meats, pickled vegetables)
+Poor hygiene
+Poor immune function
+Poor immune function (e.g., from medications or HIV/AIDS)
+Poor immune system function
+Poor nutrition
+Poor oral hygiene
+Poor spatial perception
+Poorly differentiated neuroendocrine carcinomas (large cell, small cell)
+Poorly differentiated thyroid cancer
+Portal vein embolization (PVE)
+Positional vertigo
+Positive family history (for FAP patients)
+Positron emission tomography (PET) (for metastasis evaluation)
+Positron emission tomography (PET) scan
+Positron Emission Tomography (PET) scan (using radiolabelled substances like FDG)
+Positron emission tomography (PET) scanning
+Positron-emission tomography (PET)
+Possible correlation with herbicides (extrapolated from other chronic B-cell leukemias/lymphomas)
+Possible correlation with pesticides
+Post-mastectomy status
+Post-menopausal bleeding (for uterine serous carcinoma)
+Post-menopausal women
+Posterior fossa ependymoma (Infratentorial ependymoma)
+Posterior Fossa Group A Ependymoma (molecular subtype)
+Posterior Fossa Group B Ependymoma (molecular subtype)
+Postmenopausal status
+Postmenopausal status (for uterine serous carcinoma)
+Pounding of the heart
+PPAR-γ
+Precocious puberty (in children, Virilization)
+Prefibrotic primary myelofibrosis
+Pregnancy (may accelerate tumor growth due to progesterone receptor expression)
+Pregnancy test (to detect high levels of chorionic gonadotropin)
+Prenatal exposure to diethylstilbestrol (DES)
+Presence of >2 billion plasma cells per liter of blood
+Presence of >20% of nucleated blood cells being plasma cells
+Presence of a nevus (for melanoma development)
+Presence of neuroendocrine tumors (occurs in approximately 10% of all, or 30–40% of more advanced/well developed NETs)
+Presence of primary cancer in other organs (e.g., Lung, Breast, Thyroid, Kidney, Prostate)
+Presence of pseudo-lipoblasts in a myxoid sarcoma-like background
+Presence of squamoid nests
+Pressure effects on muscles and optic nerve
+Pressure in the area around the anus
+Preventive mastectomy
+Previous bladder cancer
+Previous GTD
+Previous history of cervical cancer
+Previous myeloproliferative disorders (polycythemia vera, essential thrombocythemia)
+Previous testicular cancer
+Previous treatment for cervical cancer
+Previous treatment for testicular cancer
+Previously having ovarian cancer
+Primary bilateral macro nodular adrenal hyperplasia (bilateral)
+Primary cardiac angiosarcoma
+Primary cutaneous adenoid cystic carcinoma
+Primary cutaneous angiosarcoma
+Primary Intraocular Lymphoma (Non-Hodgkin's, B-cell type, T-cell type)
+Primary liver angiosarcoma
+Primary lymphomas of the appendix
+Primary peritoneal cancer
+Primary plasma cell leukemia
+Primary tumors
+Prior history of pre-invasive or invasive cervical cancer
+Prior radiation therapy (general for soft tissue sarcomas)
+Prior skin cancers (e.g., multiple myeloma, chronic lymphocytic leukemia, malignant melanoma)
+Prior surgery (for recurrence)
+Problems caused by the production of too many hormones
+Problems or pain with swallowing
+Problems urinating (weak stream, difficulty starting, frequent urination, nocturia, pain or burning during urination)
+Problems with balance or walking
+Problems with bowel function
+Problems with thinking
+Problems with thinking or memory
+Procedure to collect cells
+Production of TAZ-TEAD transcriptome
+Progesterone receptor-positive (PR+)
+Prognostic multigene classifier
+Progression from parathyroid adenoma
+Progressive development of genetic abnormalities leading from monoclonal gammopathy of undetermined significance to smoldering multiple myeloma, overt myeloma cancer, and ultimately secondary PCL
+Progressive paraplegia (spinal tumor)
+Progressive spastic weakness in legs
+Progressive worsening cough
+Prolonged exposure to ultraviolet (UV) radiation
+Prolonged exposure to ultraviolet (UV) radiation from the sun
+Prolonged exposure to ultraviolet (UV) radiation from the sun or tanning devices
+Prolonged irritations of the urethra due to urinary catheterization
+Prolonged sedentary time
+Proneural
+Prostate tumor with neuroendocrine differentiation
+Prostate-specific antigen (PSA) blood test
+Proteasome inhibitor drugs (e.g., bortezomib)
+Proteasome inhibitors (e.g., bortezomib, carfilzomib, ixazomib)
+Proton beam irradiation
+Proton radiation treatment
+Proton therapy
+Protuberance (bump) (often delayed)
+Pruritus (itchy skin)
+PSA test
+Psammomatous
+Pseudoglandular (adenoid)
+Pseudosarcomatous reaction to epithelial malignancy (Composition hypothesis)
+Psychiatric care
+Psychological distress
+Psychological interventions (psychoeducation, cognitive behavioral therapy)
+Psychosocial intervention
+Psychosocial interventions (e.g., talk therapy, support groups)
+Psychosocial programs
+Psychotic episodes
+PTEN gene mutations (associated with Cowden syndrome)
+Pulmonary paraganglioma
+Purple discoloration of the extremity
+Purple lines on abdomen (Cushing's syndrome)
+Purplish-red papule (cutaneous)
+Pyrrolizidine alkaloid exposure
+QCancer algorithm
+Quantitative chorionic gonadotropin (hCG) levels
+R-CHOP (cyclophosphamide, doxorubicin, vincristine, prednisone, rituximab)
+R-CHP with polatuzumab vedotin
+RAD51L3
+Radiation (if UCD treatments not effective)
+Radiation emergency exposure
+Radiation exposure (especially to the scalp)
+Radiation exposure to breast/chest (especially before age 30)
+Radiation exposure to the head and neck
+Radiation exposure to the head and neck (for salivary gland cancer)
+Radiation therapy (e.g., upfront radiation, conformal local radiation, external beam radiation, proton beam radiation)
+Radiation therapy (external beam radiotherapy)
+Radiation therapy (external beam radiotherapy, brachytherapy)
+Radiation therapy (external beam, brachytherapy)
+Radiation therapy (external beam, proton beam, stereotactic radiosurgery)
+Radiation therapy (for seminomas)
+Radiation therapy (head and neck cancer)
+Radiation therapy (in dogs)
+Radiation therapy (including 3D conformal radiation therapy, intensity-modulated radiation therapy, particle beam therapy, brachytherapy)
+Radiation therapy (intensity-modulated radiation therapy, brachytherapy, external beam radiotherapy)
+Radiation therapy (photon-beam, proton-beam, fractionated external beam)
+Radiation therapy (radiotherapy, external beam radiation therapy, whole-brain radiotherapy treatment/WBRT, whole-brain irradiation, radiosurgery, stereotactic radiosurgery, Gamma knife, Cyberknife, Novalis Tx radiosurgery, brachytherapy, proton therapy, hypofractionated radiation therapy, postoperative radiotherapy)
+Radiation therapy (RT) (if clear resection margins not achieved or for advanced disease)
+Radiation therapy to the breast or chest
+Radiation treatments to the head or neck as a child
+Radical complete vulvectomy
+Radical mastectomy (historical cause)
+Radical partial vulvectomy
+Radical radiotherapy
+Radical surgical resection with a 2 cm margin
+Radioactive compounds (radium-223, samarium-153-EDTMP)
+Radioactive iodine uptake test
+Radiofrequency ablation (palliative)
+Radiographic imaging (CT scan or MRI)
+Radionuclide therapy (177Lu-DOTA-TATE)
+Radionuclide Therapy (Iodine-131 meta-iodobenzylguanadine - MIBG, Peptide Receptor Radionuclide Therapy - PRRT)
+Radiosurgery (stereotactic radiosurgery)
+Radiotherapy
+Radiotherapy (for metastatic disease)
+Radiotherapy (RT)
+Radiotherapy for unrelated conditions
+Radiotherapy to the abdomen
+Radon in the home or workplace
+Ragged, blurred, or irregular border of a mole
+Raised area with ulceration
+Raised red blood cell volume (rare)
+Raised, smooth, pearly bump on sun-exposed skin (BCC)
+Rapid breast swelling
+Rapid growth spurts during puberty
+Rapid strep test
+Rapidly enlarging tumors
+Rapidly enlarging, firm mass in extremity tissue
+Rapidly growing, non-tender red, purple, or skin-colored bumps (Merkel cell carcinomas)
+RAS (NRAS, HRAS, KRAS)
+RAS mutant subtype
+RasGTPase
+Rb
+RB
+RB gene
+RB1 (associated with Retinoblastoma)
+RB1 (gene for tumor suppressor protein pRb)
+Re-operation after incidental cancer diagnosis
+Recent onset of diabetes
+Receptive anal sex
+Reciprocal translocation between chromosomes 11 and 22, t(11;22)
+Reconstructive surgery (skin grafts, skin flaps)
+Rectal bleeding
+Recurring ear infections
+Red and irritated eye
+Red and painful eye
+Red hair
+Red or purple skin lumps
+Red or white patches in the mouth
+Red patch (similar to eczema)
+Red, purple, or brown skin lesions (nodules or blotches)
+Red, scaling, thickened patch on sun-exposed skin (SCC)
+Red, scaly nipple or skin
+Red, swollen tonsils
+Redness and irritation on the penis
+Redness and swelling of overlying skin
+Reduced back flexibility
+Reduced DNA repair capacity
+Reduced microbial diversity in tumors
+Reduction of immunosuppressive drugs
+Refractory anemia with excess blasts (RAEB-I, RAEB-II)
+Refractory anemia with ring sideroblasts (RARS)
+Regular check-ups
+Regular checks of eye nevi
+Regular consumption of very hot drinks
+Regular coughing (lung metastases)
+Regular monitoring (for small tumors)
+Regurgitation of food
+Rehabilitation (physical therapy, dietary counseling, speech therapy for head and neck cancer)
+Rehabilitation (speech and language therapy)
+Release of biologically active substances (serotonin, histamine, tachykinins, kallikrein, prostaglandins) by neuroendocrine tumors
+Removal of parathyroid tumors
+Removal of pheochromocytomas
+Renal cell cancer (RCC)
+Renal dysfunction (iMCD-TAFRO)
+Renal insufficiency (impaired kidney function)
+Renovation or DIY activities in buildings with asbestos
+Renovation or DIY activities in buildings with asbestos-containing materials
+Reproductive history increasing estrogen exposure (early menstruation, late or no first birth, late menopause)
+Reproductive history leading to increased estrogen exposure (early menstruation, late first birth, late menopause)
+Reproductive history leading to more estrogen exposure (early menstruation, late first birth, late menopause)
+Resembles a bruise, birthmark, or pimple
+Respiratory changes
+Restricted movement
+RET oncogene mutations
+RET proto-oncogene
+Retroperitoneal desmoid tumor
+Retroviral replicating vectors (experimental, Toca 511 & Toca FC)
+Rhabdoid
+Rhabdoid variant
+RhoC GTPase
+Right-sided cardiac valve disease
+Rigors (rare, constitutional symptom)
+Ringing in ears
+Ringing in ears (tinnitus)
+Ringing in the ears
+Risk of Malignancy Index (RMI)
+Risk of Ovarian Cancer Algorithm (ROCA)
+Risk-reducing salpingo-oophorectomy (preventive surgery for high-risk individuals)
+Rituximab (anti-CD20 monoclonal antibody, often combined with purine analogs)
+Rituximab (for nodular lymphocyte-predominant subtype)
+Rituximab (for UCD with compression symptoms, first-line for HHV-8-associated MCD, also used for iMCD if siltuximab ineffective)
+Romidepsin (Istodax)
+Rouleaux formation of red blood cells
+Round, elevated, reddish, and sometimes ulcerated mass (when found in skin)
+Routine laboratory studies
+Ruxolitinib (Jakafi)
+S-100 protein marker
+Salivary biomarkers (investigational)
+Salpingectomy (removal of fallopian tubes)
+Salted, smoked, or pickled foods
+Salted, smoked, or pickled foods consumption
+Saltwater gargles
+Salvage therapy (cisplatin, ifosfamide, paclitaxel)
+SAMD9/9L syndromes
+Sarcoma botryoides (rhabdomyosarcoma)
+Sarcomatoid variant
+Scaly, red, or swollen skin (nipple/breast)
+Scaly, red, or swollen skin in the nipple area or breast
+Scar tissue
+Schistosomiasis (infection with Schistosoma haematobium)
+Sclerosing DFSP
+Sclerosing stromal tumors
+Screening for precancer cells
+Scrotal or vaginal mass
+SDHx
+Sebaceous Carcinoma (eyelid)
+Sebaceous-cell tumors
+Second curettage (for persistent trophoblastic disease)
+Second look laparotomy
+Secondary breast angiosarcoma
+Secondary myelofibrosis (post-essential thrombocythemia)
+Secondary myelofibrosis (post-polycythemia vera)
+Secondary tumors (metastatic tumors)
+Secondary tumours
+Secondhand smoke
+Secretion of catecholamines (in 1-3% of cases)
+Seizures (brain metastases)
+Selective inhibitor of nuclear export (e.g., selinexor)
+Self-care (e.g., aerobic exercise)
+Self-help groups
+Sensitivity to cold weather
+Sensitivity to light
+Sensory disturbances (e.g., abnormal facial sensation)
+Sentinel lymph node (SLN) dissection
+Serotonin–norepinephrine reuptake inhibitors
+Serous psammocarcinoma
+Serrated polyposis syndrome
+Sertoli-Leydig cell tumor (arrhenoblastoma)
+Serum carcinoembryonic antigen (CEA) levels
+Serum tumor marker test (elevated alpha-fetoprotein, human chorionic gonadotropin, lactate dehydrogenase, alkaline phosphatase, cancer antigen 125)
+Sestamibi parathyroid scan (intense radioactivity, no washout)
+Severe abdominal pain (in children/adolescents)
+Severe disfigurement
+Severe lymphedema
+Sexual precocity (ovarian)
+Sexual transmission of KSHV (e.g., deep kissing)
+Shiny, pearly skin nodule
+Shortness of breath (distant spread, lung metastases)
+Shortness of breath (dyspnea)
+Shunt (for hydrocephalus/intracranial pressure)
+Sialadenoma papilliferum
+Signs and symptoms of hyperthyroidism
+Siltuximab (FDA-approved, first-line for iMCD)
+Simian virus 40 (SV40) infection (cofactor)
+Simple repair with sutures
+Single nucleotide polymorphisms (SNPs)
+Single-photon emission computed tomography (SPECT)
+Sirolimus (if siltuximab not effective for iMCD)
+Sirolimus (rapamycin)
+Sister Mary Joseph Nodule
+Sister Mary Joseph nodule (metastasis)
+Sitting regularly for prolonged periods
+Skin biopsy (excisional, incisional, punch)
+Skin breakdown on a mole
+Skin breakdown with fungating lesions
+Skin changes
+Skin changes (peau d'orange, dimpled appearance)
+Skin changes in the vulva (rash or warts)
+Skin hyperpigmentation (in males)
+Skin mucinous carcinoma
+Skin rash (liver metastases)
+Skin sarcomas (e.g., angiosarcoma, dermatofibrosarcoma protuberans, Kaposi's sarcoma, leiomyosarcoma)
+Skin that is paler than usual
+Skin thickening
+Skin thickening on the glans or inner foreskin
+Sleep problems
+Slow-growing tumor
+Slowly enlarging masses
+Slurring of speech
+Small blood vessels visible within the tumor (BCC)
+Small cell lung cancer (SCLC)
+Small cell OS
+Small supernumerary marker chromosome
+Small-cell carcinoma
+Small-cell ovarian carcinoma (hypercalcemic, pulmonary)
+Smegma accumulation
+Smoking (cigarette smoking, wood fires)
+Smoking (current smokers: relative risk 2.22, past smokers: relative risk 2.02)
+Smoking (evidence unclear)
+Smoking (mucinous ovarian cancer)
+Smoking cocaine
+Smoking duration (relative risk per 20 years: 1.44)
+Smoking tobacco (active and passive)
+Soaking night sweats
+Soft foods
+Soft tissue plasma cell tumors (plasmacytomas)
+Soft tissue tumours
+Solid pattern adenocarcinoma
+Somatic amplification of MYCN oncogene
+Somatic mutation in JAK2, CALR, or MPL genes
+Somatic mutation in the FOXL2 gene (c.402C>G, p.C134W) in adult granulosa cell tumours
+Somatic mutations of AKT1 (in-frame duplications in the pleckstrin-homology domain or point mutations) in juvenile granulosa cell tumours
+Somatostatin analogs (Octreotide, Lanreotide)
+Somatostatin receptor scintigraphy (SRS or SSRS)
+Some liver diseases
+Sonic Hedgehog
+Sonic Hedgehog pathway activation
+Sonography (ultrasound)
+Sore in the mouth or throat (head and neck cancer, not glomus tumor)
+Sore in the mouth or throat that does not heal
+Sore in the mouth or throat that does not heal and may be painful
+Sore that does not heal (BCC)
+Sore throat or feeling that something is caught in the throat
+Sore throat that does not go away
+Sore throat that does not go away (head and neck cancer, not glomus tumor)
+Sore tongue
+Soreness localized to the area of the tumor or extremity
+Sores, lumps, or ulcers on the vulva that do not go away
+Spayed/neutered dogs
+Specific high-risk HPV types (e.g., 16, 18, 31, 45)
+Speech difficulties (e.g., decreased production, difficulty speaking, poor language interpretation)
+Speech may become slurred
+Speech problems
+Speech, vision, memory, or behavioral disruptions (brain metastases)
+Spending a lot of time in the sun
+Spermatocytic tumor
+Sphenoid wing meningioma
+Spinal AT/RT
+Spindle cell tumors
+Spindle-cell/sclerosing rhabdomyosarcoma
+Splenectomy (may be used when other therapies fail and spleen has high disease burden)
+Splenectomy (surgery to remove the spleen)
+Splenomegaly (enlargement of the spleen)
+Sporadic medullary thyroid cancer
+Sporadic occurrence
+Sporadic VS (unilateral, non-hereditary)
+Spread to other tissues (in aggressive forms)
+Squamoid variant
+Squamous Carcinoma (eyelid)
+Squamous cell carcinoma (epidermoid carcinoma)
+Squamous-cell carcinoma (basaloid, warty, mixed warty-basaloid, verrucous, papillary, other SCC mixed, sarcomatoid carcinomas)
+Squamous-cell skin cancer (SCC)
+Squint (strabismus)
+Stage I NSCLC
+Stage II NSCLC
+Stage III NSCLC
+Stage IV NSCLC
+Staging (imaging workup)
+Staging (TNM staging guidelines)
+Staging (TNM system)
+Staging (TNM system, Cambridge Prognostic Group)
+Staging according to cell appearance, dimensions, and extent
+Staging based on clinical and radiologic examination
+Staging tests (imaging, sentinel lymph node biopsy)
+Staging tests (to determine spread)
+Staining for latency-associated nuclear antigen (LANA-1) to detect HHV-8 infection
+Standard surgical excision
+Starting menstruation at an early age
+Starting sex at a young age
+Stem cell transplant (bone marrow transplant)
+Stem cell transplantation
+Stem cell transplantation (autologous and allogeneic)
+Stem-cell transplantation
+Stent in the stomach
+Stenting of bile ducts
+Stenting procedures
+Stereotactic surgery
+Steroid supplementation (hydrocortisone, fludrocortisone)
+Steroids
+Stomach discomfort
+Stomach inflammation
+Stomach region pain (heartburn-like)
+Stool DNA screening testing (FIT-DNA)
+Stool tests (e.g., Fecal occult blood testing (FOBT), Fecal immunochemical test (FIT), FIT-DNA)
+Strabismus (crossed eyes)
+Streptococcus gallolyticus association
+Stressful procedures (anesthesia, surgery, radiation treatment) can trigger carcinoid crisis
+Stretch marks (striae)
+Stridor (high-pitched wheezing sound)
+Strontium-89 chloride (for pain)
+Stumbling gait
+Subependymal giant cell astrocytoma (WHO Grade I)
+Substantial breast swelling and redness (inflammatory breast cancer)
+Substernal chest pain
+Succinate Dehydrogenase Subunit x (SDHx) genetic variants
+Suction curettage
+Sudden build-up of fluid in the scrotum
+Sudden fracture with minor trauma
+Sudden hearing loss
+Sudden onset headache
+Sudden or frequent urge to urinate
+Sun exposure (for lip cancer)
+Sun exposure (leading to DNA damage like thymine dimers)
+Sun tanning beds
+Sun-damaged skin (associated with collision tumor hypothesis)
+Superficial basal-cell carcinoma
+Superficial spreading melanoma
+Superior vena cava syndrome (complication of cardiac angiosarcoma)
+Supplemental oxygen
+Supportive and palliative care
+Supportive care (e.g., antiemetics, cold caps, antidepressants, physical therapy, CBT, yoga, peer support)
+Supportive care (e.g., red blood cell transfusions, erythropoietin)
+Supportive care (nutrition, dental care)
+Supportive therapy
+Supportive treatment (physical exercises)
+Supratentorial AT/RT
+Surgery (complete surgical removal)
+Surgery (curative for benign tumors, likely curative for other low grade tumors)
+Surgery (e.g., endoscopic resection, partial colectomy, proctocolectomy, radiofrequency ablation, cryosurgery, removal of metastases, cytoreductive surgery, intestinal bypass, stent placement)
+Surgery (e.g., esophagectomy, endoscopic mucosal resection)
+Surgery (e.g., gastrectomy, endoscopic mucosal resection, endoscopic submucosal dissection)
+Surgery (e.g., Limb amputation, Limb sparing surgery, Bone graft, Artificial bone replacement, Limb salvage prostheses, Allograft, Tumor-devitalized autograft, Vascularized fibula graft, Distraction osteogenesis, Custom-made implants)
+Surgery (esophagectomy)
+Surgery (excision, ablation, hysterectomy, radical hysterectomy, trachelectomy, exenteration)
+Surgery (excision, wide local excision, Mohs surgery)
+Surgery (first-line for Unicentric Castleman disease)
+Surgery (for diagnosis and removal)
+Surgery (for localized skin lesions)
+Surgery (for primary tumors)
+Surgery (gastrectomy, endoscopic mucosal resection, endoscopic submucosal dissection)
+Surgery (head and neck cancer)
+Surgery (including Mohs surgery)
+Surgery (inguinal orchiectomy)
+Surgery (limb salvage or amputation)
+Surgery (mastectomy, lumpectomy)
+Surgery (mastectomy, lumpectomy, partial mastectomy, breast-conserving surgery, sentinel lymph node biopsy, breast reconstruction)
+Surgery (mastectomy, modified radical mastectomy)
+Surgery (microsurgery)
+Surgery (nephrectomy)
+Surgery (often unresectable, but curative if resectable and followed by adjuvant therapy)
+Surgery (Open excision, Electro-resection with flash, Laser surgery, Cystourethrectomy, Cystoprostatectomy, Anterior body cavity, Incomplete or basic penectomy surgery)
+Surgery (partial or complete kidney removal)
+Surgery (partial or full removal of the tumour)
+Surgery (partial surgical resection)
+Surgery (pleurectomy/decortication, extrapleural pneumonectomy, pericardectomy)
+Surgery (radical cholecystectomy, extended cholecystectomy, hepatectomy)
+Surgery (radical prostatectomy)
+Surgery (resection, gross total resection, cytoreduction/debulking, minimally invasive techniques, trans-nasal trans-sphenoidal approach, craniotomy)
+Surgery (resection, liver transplantation)
+Surgery (surgical removal/decompression)
+Surgery (surgical resection, laparoscopic adrenalectomy, open procedure)
+Surgery (Thyroidectomy)
+Surgery (to remove cancer)
+Surgery (to remove tumor)
+Surgery (total abdominal hysterectomy, removal of ovaries, tubes, uterus, cervix, omentum removal, lymph node sampling)
+Surgery (total thyroidectomy with bilateral neck dissection)
+Surgery (trans-sphenoidal adenectomy)
+Surgery (tumor removal/resection)
+Surgery (Whipple procedure, distal pancreatectomy)
+Surgery (wide excision, Mohs surgery)
+Surgery (wide local excision, microsurgery, laser surgery, circumcision, amputation/penectomy)
+Surgery to remove cancer
+Surgery to remove the tumor
+Surgical discovery (coincidental)
+Surgical excision (benign glomus tumors)
+Surgical exploration (laparoscopy, laparotomy)
+Surgical exploration (Laparoscopy, Laparotomy)
+Surgical removal
+Surgical removal of the tumor
+Surgical removal with clean margins
+Surgical resection
+Surgical resection (en bloc)
+Surgical resection (radical)
+Surgical resection of any residual disease (for nonseminomatous tumors)
+Surgical resection with permanent colostomies (historically)
+Surgical resection with wide margins
+Surgical staging (FIGO staging guidelines)
+Surgical valve repair or replacement (for carcinoid heart disease)
+Survival of five or more years post-mastectomy
+Sutent
+Swelling around the tumor
+Swelling at the site of the tumor
+Swelling in the abdomen
+Swelling in the abdomen or pelvis
+Swelling in the face and/or veins in the neck
+Swelling in the mouth
+Swelling of lymph nodes (under the arm or in the neck)
+Swelling of the arm
+Swelling of the jaw
+Swelling of the neck or face
+SWI/SNF
+SWI/SNF mutations/deletions
+Swollen abdomen
+Swollen glands in the neck
+Swollen legs
+Swollen lymph nodes (distant spread)
+Swollen lymph nodes in the neck
+Swollen stomach
+Swollen, painless lymph nodes
+Swollen, painless lymph nodes (lymphadenopathy)
+Symptomatic control with somatostatin analogues (octreotide, lanreotide, pasireotide)
+Symptomatic treatment (anticonvulsants for seizures, steroids for brain swelling)
+Symptomatic treatment (e.g., blood transfusions)
+Symptoms depend on the type of cancer
+Symptoms due to compression of surrounding structures by enlarged lymph nodes
+Symptoms from distant metastases (e.g., brain)
+Symptoms like those of infections
+Symptoms may not be present until cancer is advanced
+Symptoms of increased intracranial pressure
+Symptoms of inflammatory systemic illness
+Symptoms of sinusitis
+Symptoms related to HIV infection (HHV-8-associated MCD)
+Symptoms similar to infections
+Symptoms similar to stroke
+Symptoms vary depending on location and size of the cancer
+Synaptophysin (P38)
+Syndromic Wilms' tumor
+Systemic (intravenous) methotrexate (for hydatidiform mole)
+Systemic chemotherapy (e.g., cisplatin, gemcitabine, methotrexate, vinblastine, doxorubicin, carboplatin, vinflunine, paclitaxel, pemetrexed)
+Systemic T cell lymphoma of childhood
+Systemic therapy (prior to surgery)
+Sézary syndrome
+T1- and T2-weighted MRI with heterogeneous enhancement
+T2*-weighted imaging (MRI)
+Tachycardia (fast heart rate)
+Taking tamoxifen
+Talc exposure
+Talc exposure (controversial)
+Taller height
+Tamoxifen (for endometrial stromal sarcomas)
+Tamoxifen therapy
+Tamoxifen use
+Tanning bed use
+Tape stripping
+Targeted therapy (being studied)
+Targeted therapy (BRAF inhibitors, MEK inhibitors, C-Kit inhibitors, NRAS inhibitors)
+Targeted therapy (e.g., Bevacizumab, Aflibercept, Cetuximab, Panitumumab)
+Targeted therapy (e.g., BRAF inhibitors, MEK inhibitors)
+Targeted therapy (e.g., CDK4 or MDM2 gene inhibitors like abemaciclib, ribociclib, milademetan)
+Targeted therapy (e.g., Dostarlimab)
+Targeted therapy (e.g., HER2-targeted antibodies, PARP inhibitors, PIK3CA inhibitors)
+Targeted therapy (e.g., Rituximab)
+Targeted therapy (e.g., sorafenib, atezolizumab, nivolumab, pembrolizumab, regorafenib)
+Targeted therapy (e.g., sorafenib, lenvatinib, regorafenib, cabozantinib, ramucirumab)
+Targeted therapy (e.g., trastuzumab for HER2-overexpressing cancer)
+Targeted therapy (e.g., trastuzumab for HER2-overexpressing tumors)
+Targeted therapy (e.g., trastuzumab for HER2-positive tumors)
+Targeted therapy (erlotinib, everolimus, sunitinib)
+Targeted therapy (Erlotinib, Infigratinib (Truseltiq), Pemigatinib (Pemazyre), Ivodesinib (Tibsovo), Futibatinib (Lytgobi))
+Targeted therapy (head and neck cancer)
+Targeted therapy (protein kinase inhibitors like Vandetanib, Cabozantinib)
+Targeted therapy (Tyrosine Kinase Inhibitors - TKIs, Belzutifan, Selpercatinib)
+Targeted therapy (under investigation)
+Tartrate resistant acid phosphatase (TRAP) stain
+Taste changes
+Taxol (Paclitaxel)
+TAZ
+Telangiectatic OS
+Temporary memory loss
+Tender skin nodule in the extremity
+Tenderness (when large enough)
+Terahertz spectroscopy
+Teratoma (immature, mature/dermoid cyst)
+Teratoma (mature teratoma, immature teratoma)
+TERT promoter
+Testes NETs
+Testicular cancer (as a presentation in males)
+Testicular lump
+Testing for copper deficiency
+Testing for Ebstein Barr virus
+Testing for HPV status
+Testing hormone levels
+Tests done after miscarriage or abortion
+Tests of blood, urine, or saliva for hormone levels
+Tests of vision, balance, coordination, and mental status
+TGF-β
+Therapeutic radiation exposure to the head
+Therapy exercises (speech, voice, swallow)
+Therapy to remove proteins from the blood (plasmapheresis)
+Therapy-induced immunosuppression
+Thermal ablation (Radiofrequency ablation, Cryoablation)
+Thickening of the heart valves
+Thinning, fragile skin (Cushing's syndrome)
+Thoracentesis or tube thoracostomy (for pleural fluid)
+Thoracic inlet paraganglioma
+Thoracotomy and attempted complete resection (for small, resectable tumors)
+Thorough sampling of the tumor
+Three-drug regimen (e.g., bortezomib-lenalidomide-dexamethasone)
+Throat culture
+Throat pain
+Throbbing headache
+Thrombocytopenia (iMCD-TAFRO)
+Thrombocytopenia (low platelet count)
+Thrombocytosis (iMCD-IPL)
+Thrombopoietin receptor agonists (e.g., romiplostim, eltrombopag)
+Thymic carcinoids
+Thymus and mediastinal carcinoid tumors
+Thyroid hormone therapy
+Thyroid scan
+Thyroid stimulating hormone (TSH) level measurement
+Thyroid tests
+Thyroid tumors
+Thyroid-stimulating hormone (TSH) levels
+Thyrotropinomas
+Tinnitus (in glomus tympanicum and jugulare)
+Tiredness
+Tis21
+Tissue biopsies
+Tissue biopsy
+Tissue biopsy (histopathologic analysis)
+Tissue biopsy (stereotactic biopsy or craniotomy with tumor resection)
+Tissue sample (biopsy)
+Tissue tests
+TMPRSS2-ERG urine test
+TMZR1-eRNA
+TNF-Related Apoptosis Induced Ligand (TRAIL) (under investigation)
+TNM classification (staging)
+TNM staging (Tumor, Nodes, Metastases)
+TNM staging system (AJCC staging system)
+Tobacco use (chewing or smoking)
+Tobacco use (smoking or chewing)
+Tocilizumab (if siltuximab not available for iMCD)
+Tongue base mucosectomy
+Topical application of T4N5 liposome lotion (for xeroderma pigmentosum)
+Topical beta-blockers (e.g., timolol)
+Topical chemotherapy (e.g., 5-fluorouracil)
+Topical chemotherapy (e.g., imiquimod, 5-fluorouracil)
+Topical medications (e.g., fluorouracil, imiquimod)
+Torisel
+Torque teno virus
+Total body photography
+Total UV exposure (for squamous-cell skin cancers)
+Toxic effects of prior treatments (in secondary PCL)
+TP53 (gene for tumor suppressor protein p53)
+TPH inhibitor (telotristat ethyl for diarrhea)
+Trametinib (MEK inhibitor, in combination with BRAF inhibitors)
+Transarterial embolization (preoperative procedure)
+Transcatheter arterial chemoembolization (TACE)
+Transfusions (red blood cell, platelet)
+Transgenerational epigenetic inheritance from hazardous environmental substances (plastics, pesticides, dioxins)
+Transient myeloproliferative disease (transient leukemia)
+Transitional cell cancer (TCC)
+Translocation between chromosomes 12 and 15 (t(12;15)(p13;q25)) resulting in ETV6-NTRK3 fusion gene (in infantile type)
+Translocations at t(21;22) and t(7;22)
+Translocations involving FUS-DDIT3 or EWSR1-DDIT3 fusion genes in myxoid liposarcoma
+Transurethral biopsy
+Transurethral resection of bladder tumor (TURBT) for biopsy
+Transvaginal ultrasonography (heteroechoic mass with sharp borders and high vascularization)
+Trauma
+Trauma (for primary tumors)
+TRC8/RNF139
+Treating with high temperatures
+Treatment as other malignant ovarian tumours
+Treatment directed at POEMS syndrome (for POEMS-associated MCD)
+Treatment for heart failure
+Treatment for high grade serous tumors
+Treatment for low grade serous tumors
+Treatment of H. pylori infection
+Treatment of H. pylori infection (for MALT lymphomas)
+Triiodothyronine (T3) and thyroxine (T4) level measurement
+Trimodality therapy (TURBT + chemotherapy + radiotherapy)
+Tripe palms
+Triple negative breast cancer (TNBC)
+Triple wild-type subtype
+Trisomy 8
+Trisomy for chromosomes 8, 11, 17, or 20 (in infantile type)
+Trouble breathing (if spread and pressing on organs)
+Trouble eating or feeling full
+Trouble moving mouth or jaw
+Trouble opening the mouth
+Trouble speaking
+Trouble swallowing
+Trouble swallowing (dysphagia)
+Trouble swallowing (head and neck cancer, not glomus tumor)
+Trouble urinating
+Trouble walking (ataxia)
+Trouble walking (gait change, rotation of feet)
+Truncal ataxia
+Truncal obesity
+Tuberous sclerosis (inherited syndrome)
+TUJ1
+TUJ1 testing
+Tumor biopsy
+Tumor growth
+Tumor hypercellularity with fibrotic bands
+Tumor located in extremity, trunk, or head and neck areas
+Tumor marker Cyfra 21-1
+Tumor marker labs (e.g., serotonin)
+Tumor markers (alpha-fetoprotein (AFP), carbohydrate antigen 19-9 (CA 19–9), carcinoembryonic antigen (CEA), cancer antigen 125 (CA125))
+Tumor markers (carcinoembryonic antigen, carbohydrate antigen)
+Tumor markers (e.g., carcinoembryonic antigen, carbohydrate antigen)
+Tumor originating from epithelial cells of the thymus
+Tumor protein P53 gene mutations (associated with Li-Fraumeni syndrome)
+Tumor suppressor gene dysfunction (p53, WT1)
+Tumor suppressor genes
+Tumor-infiltrating lymphocytes (TIL therapy)
+Tumor-infiltrating lymphocytes (TIL) therapy
+Tumors
+Tumors of endocrine glands
+Tumors on head, neck, extremities, perianal region, or eyelid
+Tumour marker (Inhibin)
+Twenty-four hour urinary metanephrines
+Tylosis with esophageal cancer (RHBDF2 gene mutation)
+Type 2 diabetes (contributor)
+Type A
+Type AB
+Type B1
+Type B2
+Type B3
+Typical carcinoid (TC)
+Tyrosine-protein kinase SYK
+UFT
+Ulcer in the mouth that does not heal
+Ulcer with crusting
+Ulceration and bleeding (SCC)
+Ulceration of a mole
+Ulceration of mucosa
+Ulcerative growth
+Ulcering in the skin
+Ultrasound (for neck masses)
+Ultrasound imaging (hypoechoic mass, invasion of local structures, lymph node metastases)
+Ultrasound of liver and biliary tree
+Ultrasound of the testicles
+Ultrasound of upper urinary tract
+Ultrasound scan
+Ultrasound screening (every six months for high-risk individuals)
+Ultraviolet light (UV) exposure (sun or tanning devices)
+Unconsciousness (in advanced stages)
+Uncontrollable twitching
+Uneven color of a mole (shades of black, brown, tan)
+Uneven posture
+Uneven pupil size
+Unexpected lactation
+Unexplained nausea
+Unexplained rapid weight loss
+Unexplained weight loss
+Unfavorable dietary patterns
+Unfavorable neuroblastoma
+Unintended weight loss (liver-related)
+Unintentional weight loss
+Unknown (Idiopathic Multicentric Castleman disease)
+Unknown cause (general cancer etiology)
+Unknown for most cases
+Unknown for uterine serous carcinoma, but it is classified as a type II endometrial cancer and does not develop from endometrial hyperplasia or is hormone-sensitive.
+Untreated celiac disease
+Unusual bleeding
+Unusual nipple discharge (sudden, bloody, or unilateral)
+Unusual sleepiness
+Unusual sleepiness (lethargy)
+Unusual vaginal discharge
+Unusual vaginal discharge (thin white or clear in postmenopausal women)
+Unusual warmth of the affected breast
+Unusually heavy flow of blood
+Upper abdominal pain
+Upper GI series (barium roentgenogram)
+Urban living
+Urinary catheterization
+Urinary diversion (e.g., ileal conduit, continent urinary diversion)
+Urinary problems
+Urinary tract carcinoid tumor and neuroendocrine carcinoma
+Urine 5-hydroxyindoleacetic acid (5-HIAA)
+Urine catecholamine levels
+Urine tests
+Urine tests (e.g., protein electrophoresis for Bence Jones protein)
+Urine tests for bladder tumor antigen (BTA)
+Urine tests for mRNA of tumor-associated genes
+Urine tests for NMP22
+Urothelial cell cancers
+Use of cannabis
+Use of fertility drugs to induce ovulation
+Use of hormones and fertility drugs
+Use of immunosuppressive medications (e.g., Cyclosporin A, azathioprine)
+Usual-type vulvar intraepithelial neoplasia (uVIN)
+Usually located on the head and neck (when found in skin)
+Uterus filled with pus (pyometrea)
+UV light
+UV light exposure
+UV light treatment for psoriasis
+UVA radiation via indirect DNA damage (for melanoma)
+UVB radiation via direct DNA damage (for BCC and SCC)
+Uveal Melanoma (Choroid Melanoma, Iris Melanoma, Ciliary Body Melanoma)
+VAC regimen (vincristine, actinomycin D, cyclophosphamide)
+Vaccine-associated sarcoma (in cats)
+VAD regimen (vincristine, doxorubicin, dexamethasone)
+Vaginal bleeding (irregular or postmenopausal)
+Vaginal bleeding (not menstrual bleeding)
+Vaginal bleeding that is not your period
+Vaginal brachytherapy (VBT)
+Vaginal discharge (watery, strong odor, contains blood)
+Vaginal germ cell tumors (teratoma, endodermal sinus tumor)
+Vaginal lump
+Vaginal mass (rare)
+Vaginal spotting in postmenopausal women
+Values of 0.5 billion or 5% circulating plasma cells (suggested therapeutic criterion)
+Various colors from shades of brown to black (melanoma)
+Various infections
+Vascular tumors of bone (WHO 2020 classification)
+VCMP regimen (vincristine, carmustine, melphalan, prednisone alternating with vincristine, carmustine, doxorubicin, prednisone)
+VEGFA (gene for vascular endothelial growth factor, associated with over-expression)
+VEGFR2
+Vemurafenib (BRAF inhibitor, second-line therapy)
+Ventriculoperitoneal shunt (for increased intracranial pressure)
+Very hot drinks (over 65 °C or 149 °F)
+Vesicular stomatitis virus (VSV) therapy (experimental)
+Vestibular testing
+Vimentin
+Vinyl chloride exposure
+Viral cause (suspected)
+Viral genome integration (HBV)
+Virtual colonoscopy
+Virtual colonoscopy (CT colonography)
+Virtual karyotyping
+Visceral lipomas
+Visible lumps on the outside of the neck or oral cavity
+Visible tumor through the pupil
+Vision problems
+Vision problems (e.g., poor vision, vision loss, visual abnormalities)
+Vision problems (e.g., visual loss, inability to distinguish colors, seeing lines)
+Visual field defects (e.g., bitemporal hemianopsia)
+Visual field examination
+Visual inspection of skin lesion
+Visual loss
+Vitamin D receptor
+Vitamin D supplementation
+Voice changes (hoarse)
+Voice changes (late stage)
+Voice may become hoarse or weak
+Voice rehabilitation
+Vomiting (liver or brain metastases)
+Vomiting (metastatic melanoma)
+Vomiting blood
+Vomiting too much (hyperemesis)
+Von Hippel-Lindau Disease (inherited syndrome)
+Von-Hippel-Lindau syndrome (VHL)
+Vorinostat (Zolinza)
+Vulvar itching or tenderness
+WAGR syndrome
+Walking difficulties
+Warm liquids
+Warm, red, and swollen breast
+Washing clothing of asbestos workers
+Watchful waiting
+Watchful waiting (active surveillance)
+Watchful waiting (for asymptomatic patients with no significant cytopenia or organomegaly)
+Watchful waiting (watch and wait, watch and worry)
+Weak or interrupted flow of urine
+Weakened immune system
+Weakened immune system (e.g., due to HIV, immunosuppressant medications)
+Weakened immune system (e.g., due to HIV/AIDS or organ transplant medicines)
+Weakened immune systems
+Weakened immune systems due to HIV/AIDS
+Weakened immune systems due to immunosuppressive medications after organ transplant
+Weakness in face
+Weakness or feeling tired
+Weakness or paralysis
+Wedge resection
+Weight gain (Cushing's syndrome)
+Weight loss (in males)
+Weight loss (rare, constitutional symptom)
+Weight loss for no known reason
+Weight loss for no reason
+Weiss system scoring (pathology)
+Well-differentiated astroblastoma
+Well-differentiated neuroendocrine carcinomas (low-grade malignant)
+Well-differentiated neuroendocrine tumors (low grade, uncertain behavior)
+White ethnicity
+White or red patch in the mouth
+White or yellow coating on tonsils
+White people
+White racial/ethnic group
+Whitish appearance
+Whitish or yellowish glow through the pupil (leukocoria)
+Whitish, translucent mass in the eye
+WHO diagnostic grading criteria
+WHO Grade III Ependymoma
+WHO type 1: squamous cell carcinoma
+WHO type 2: non-keratinizing carcinoma
+WHO type 3: undifferentiated carcinoma
+Widespread distribution of germ cells to multiple sites during normal embryogenesis
+Wilson's disease (controversial)
+WISP3
+Wnt pathway inhibitors (e.g., E7386, tegavivint, ipafricept, investigational)
+Wnt signaling pathway alterations
+WNT/β-catenin
+WNT/β-catenin pathway activation
+Working in buildings containing asbestos
+Working in petroleum refining or rubber manufacturing
+Working with asbestos-containing materials
+Worsening constipation
+X-LAG syndrome
+X-rays (sunburst appearance, Codman triangle)
+Xp11 translocation carcinomas
+Yellow skin (jaundice, liver metastases)
+Yellowing of eyes
+Yellowing of the skin
+Yellowing of the skin (jaundice)
+Yellowing of the skin and eyes (jaundice)
+Yellowing of the skin and whites of the eyes
+Yellowish skin
+Yolk sac tumor (endodermal sinus tumor)
+Yolk sac tumor (endodermal sinus tumors)
+Young age (for retinoblastoma)
+Young age (infants and young children)
+Young age (most common in 15-19 year old women, 75% incidence rate for women <30 years)
+Young age (under 25 years)
+Young age (under 3 years old)
+Young age at time of radiation exposure
+Young males (for diagnosis consideration)
+Young people (for astrocytomas in the base of the brain)
+Younger age (in children)
+Younger age (multiple glomus tumors develop earlier)
+Younger age at diagnosis for African-Americans
+Younger children (for viral tonsillitis)

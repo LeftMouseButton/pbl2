@@ -1,0 +1,83 @@
+{
+  "disease_name": "Angiosarcoma",
+  "synonyms": [],
+  "summary": "Angiosarcoma is a rare and aggressive cancer originating in the endothelial cells that line blood or lymphatic vessels. It can appear anywhere in the body, but is most commonly found in older individuals and frequently affects the skin, particularly the scalp. The disease often presents with non-specific symptoms or can be asymptomatic, and multiple-organ involvement is common at the time of diagnosis. It is known for its high metastatic potential and poor prognosis.",
+  "causes": [
+    "Damage to the DNA of endothelial cells, leading to uncontrolled cell division and inhibited programmed cell death (underlying causes of DNA damage are not fully understood)"
+  ],
+  "risk_factors": [
+    "Chronic lymphedema",
+    "Radiation therapy",
+    "Arsenic exposure",
+    "Vinyl chloride exposure",
+    "Thorotrast exposure",
+    "Long-standing foreign bodies",
+    "Breast implants",
+    "Ultraviolet radiation",
+    "Localized immunodeficiency",
+    "Neurofibromatosis",
+    "Maffucci syndrome",
+    "Klippel-Trenaunay syndrome",
+    "Immunosuppression (e.g., following kidney transplantation)",
+    "AIDS (possible link)"
+  ],
+  "symptoms": [
+    "Asymptomatic (can be)",
+    "Non-specific symptoms",
+    "Skin lesions",
+    "Ulceration",
+    "Shortness of breath",
+    "Abdominal pain",
+    "Bruise-like appearance (cutaneous)",
+    "Purplish-red papule (cutaneous)",
+    "Fungation (cutaneous)",
+    "Bleeding (cutaneous)",
+    "Chest pain",
+    "Weight loss",
+    "Anemia-like symptoms",
+    "Low blood pressure (hypotension)",
+    "Syncope",
+    "Superior vena cava syndrome (complication of cardiac angiosarcoma)",
+    "Pericardial effusion",
+    "Cardiac tamponade",
+    "Cardiomegaly",
+    "Pleural effusion (due to lung metastasis)",
+    "Pneumothorax (due to lung metastasis)",
+    "Jaundice (liver-related)",
+    "Fatigue (liver-related)",
+    "Unintended weight loss (liver-related)",
+    "Distension (liver-related)",
+    "Palpable mass (primary breast angiosarcoma)"
+  ],
+  "diagnosis": [
+    "MRI scan",
+    "CT scan",
+    "Ultrasound scan",
+    "Biopsy",
+    "Histological analysis",
+    "Immunohistochemical analysis",
+    "CD31 marker (gold standard)",
+    "von Willebrand factor marker",
+    "CD34 marker",
+    "Vascular endothelial growth factor marker",
+    "Absence of S100 marker (for differentiation from melanoma)",
+    "Absence of HMB-45 marker (for differentiation from melanoma)"
+  ],
+  "treatments": [
+    "Surgery",
+    "Chemotherapy",
+    "Radiation therapy"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Primary cutaneous angiosarcoma",
+    "Lymphedema associated angiosarcoma (Stewart-Treves syndrome)",
+    "Parenchymal angiosarcoma",
+    "Primary breast angiosarcoma",
+    "Secondary breast angiosarcoma",
+    "Primary brain angiosarcoma",
+    "Primary cardiac angiosarcoma",
+    "Primary liver angiosarcoma",
+    "Deep soft tissue angiosarcoma"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "disease_name": "Mucinous ovarian tumor",
+  "synonyms": [
+    "Mucinous tumors of the ovary",
+    "Mucinous neoplasms of the ovary"
+  ],
+  "summary": "Mucinous tumors are a type of ovarian tumor, accounting for approximately 36% of all ovarian neoplasms. They are characterized by being filled with a mucus-like material produced by mucus-secreting goblet cells. Approximately 75% are benign, 10% are borderline, and 15% are malignant. They can become very large and may present bilaterally, though this is rare for primary tumors.",
+  "causes": [
+    "Malignancy may be focally present in mucinous neoplasms of the ovary"
+  ],
+  "risk_factors": [
+    "Smoking (current smokers: relative risk 2.22, past smokers: relative risk 2.02)",
+    "Smoking duration (relative risk per 20 years: 1.44)"
+  ],
+  "symptoms": [
+    "Large tumor size",
+    "Hemorrhage",
+    "Necrosis",
+    "Papillae and solid areas (in borderline and malignant tumors)"
+  ],
+  "diagnosis": [
+    "Thorough sampling of the tumor",
+    "Differentiation of borderline tumors from malignant tumors based on clear stromal invasion",
+    "Assessment for cellular atypia and stratification",
+    "Evaluation of loss of normal tissue architecture",
+    "Imaging (implied for assessing organ involvement and bilaterality)"
+  ],
+  "treatments": [],
+  "related_genes": [],
+  "subtypes": [
+    "Benign mucinous tumors",
+    "Borderline mucinous tumors",
+    "Malignant mucinous tumors",
+    "Mucinous cystadenocarcinomas"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "disease_name": "Fibrosarcoma",
+  "synonyms": [
+    "fibroblastic sarcoma"
+  ],
+  "summary": "Fibrosarcoma is a malignant mesenchymal tumor derived from fibrous connective tissue, characterized by immature proliferating fibroblasts or undifferentiated anaplastic spindle cells in a storiform pattern. It originates in fibrous tissues of the bone and invades long or flat bones, as well as the periosteum and overlying muscle. It can occur in adults and infants, with infantile fibrosarcoma often being congenital.",
+  "causes": [
+    "Translocation between chromosomes 12 and 15 (t(12;15)(p13;q25)) resulting in ETV6-NTRK3 fusion gene (in infantile type)",
+    "Trisomy for chromosomes 8, 11, 17, or 20 (in infantile type)"
+  ],
+  "risk_factors": [],
+  "symptoms": [
+    "Pain (in adults)",
+    "Local recurrence (following surgery in dogs and cats)"
+  ],
+  "diagnosis": [
+    "IHC (vimentin positive, cytokeratin negative, S100 negative, actin variable)"
+  ],
+  "treatments": [
+    "Surgery",
+    "Radiation therapy (in dogs)",
+    "Chemotherapy (in dogs)",
+    "Oncept IL-2 (for feline vaccine-associated fibrosarcomas)"
+  ],
+  "related_genes": [
+    "ETV6-NTRK3"
+  ],
+  "subtypes": [
+    "Adult-type fibrosarcoma",
+    "Infantile-type fibrosarcoma",
+    "Congenital infantile fibrosarcoma",
+    "Vaccine-associated sarcoma (in cats)",
+    "Fibrosarcoma of the mouth (in dogs)",
+    "Fibrosarcoma of bone (in dogs)",
+    "Fibrosarcoma of the skin (in cats)"
+  ]
+}

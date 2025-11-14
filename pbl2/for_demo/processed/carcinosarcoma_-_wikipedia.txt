@@ -1,0 +1,15 @@
+Carcinosarcomas are malignant tumors that consist of a mixture of carcinoma (or epithelial cancer) and sarcoma (or mesenchymal/connective tissue cancer). Carcinosarcomas are rare tumors, and can arise in diverse organs, such as the skin, salivary glands, lungs, the esophagus, pancreas, colon, uterus and ovaries.
+
+== Cellular origins ==
+Four main hypotheses have been proposed for the cellular origins of carcinosarcoma, based largely on the pathology of the disease. First, the collision tumor hypothesis, which proposes the collision of two independent tumors resulting in a single neoplasm, based on the observation that skin cancers and superficial malignant fibrous histiocytomas are commonly seen in patients with sun-damaged skin; second, the composition hypothesis, which suggests that the mesenchymal component represents a pseudosarcomatous reaction to the epithelial malignancy; third, the combination hypothesis, which suggests that both the epithelial and mesenchymal components of the tumor arise from a common pluripotential stem cell that undergoes divergent differentiation; and fourth, the conversion/divergence hypothesis, which argues that the sarcomatous component of the tumor represents a metaplastic sarcomatous transformation of the epithelial component. Despite the remaining uncertainty on the mechanisms that generate these tumors, recent immunohistochemical, ultrastructural, and molecular genetic studies suggest and favor the notion of monoclonality in carcinosarcoma. In addition, identical p53 and KRAS mutations have been identified in both epithelial and mesenchymal components of carcinosarcoma, findings that suggest an early alteration in the histogenesis of the tumor with late transformation or degeneration of the epithelial component into the sarcomatous component.
+
+== See also ==
+Adenosarcoma
+Uterine adenosarcoma
+
+== References ==
+
+== External links ==
+Carcinosarcoma entry in the public domain NCI Dictionary of Cancer Terms
+
+ This article incorporates public domain material from Dictionary of Cancer Terms. U.S. National Cancer Institute.

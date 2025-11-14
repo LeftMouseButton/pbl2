@@ -1,0 +1,69 @@
+{
+  "disease_name": "Eye Cancer",
+  "synonyms": [
+    "Ocular Neoplasm",
+    "Intraocular Cancer",
+    "Ocular Tumor"
+  ],
+  "summary": "Eye cancer is a rare disease that can affect all parts of the eye. It can be primary, starting within the eye (e.g., intraocular melanoma, lymphoma, retinoblastoma), or metastatic, spreading to the eye from other primary cancers (e.g., breast, lung). Eye cancers can be malignant or benign, with malignant forms often referred to as eye cancer. Treatment varies by type and advancement, including surgery, radiation, and chemotherapy.",
+  "causes": [
+    "Metastasis from other primary cancers (e.g., breast cancer, lung cancer, prostate cancer, kidney cancer, thyroid cancer, skin cancer, colon cancer, blood cancer, bone marrow cancer)",
+    "Genetic factors (for retinoblastoma)"
+  ],
+  "risk_factors": [
+    "Presence of a nevus (for melanoma development)",
+    "Young age (for retinoblastoma)"
+  ],
+  "symptoms": [
+    "Blurred vision",
+    "Decreased vision",
+    "Double vision (diplopia)",
+    "Vision loss",
+    "Retinal detachment",
+    "Dark spot on iris or conjunctiva",
+    "Strabismus (crossed eyes)",
+    "Whitish or yellowish glow through the pupil (leukocoria)",
+    "Red and painful eye",
+    "Visible tumor through the pupil",
+    "Pressure effects on muscles and optic nerve"
+  ],
+  "diagnosis": [
+    "Ophthalmoscopy (examination by ophthalmologist/optometrist)",
+    "Biopsy (with histopathologic and immunohistochemical analysis)",
+    "Regular checks of eye nevi",
+    "Evaluation of photographs for abnormal red eye reflex (e.g., white/yellow dot for retinoblastoma)"
+  ],
+  "treatments": [
+    "Surgery (general)",
+    "Enucleation (removal of the eye)",
+    "Evisceration (removal of eye contents)",
+    "Exenteration (removal of eye and orbital contents, potentially eyelids)",
+    "Iridectomy (removal of part of the iris)",
+    "Choroidectomy (removal of choroid layer)",
+    "Iridocyclectomy (removal of iris and ciliary body muscle)",
+    "Eyewall resection",
+    "Radiation therapy",
+    "Plaque therapy (brachytherapy)",
+    "Proton therapy",
+    "Laser therapy",
+    "Freezing therapy (Cryotherapy)",
+    "Heat therapy (Thermotherapy)",
+    "Chemotherapy"
+  ],
+  "related_genes": [
+    "RB1 (associated with Retinoblastoma)"
+  ],
+  "subtypes": [
+    "Uveal Melanoma (Choroid Melanoma, Iris Melanoma, Ciliary Body Melanoma)",
+    "Primary Intraocular Lymphoma (Non-Hodgkin's, B-cell type, T-cell type)",
+    "Retinoblastoma",
+    "Medulloepithelioma (Diktyoma)",
+    "Basal Cell Carcinoma (eyelid)",
+    "Squamous Carcinoma (eyelid)",
+    "Sebaceous Carcinoma (eyelid)",
+    "Malignant Melanoma (eyelid, conjunctival)",
+    "Orbital Lymphoma",
+    "Rhabdomyosarcoma",
+    "Metastatic Eye Cancer"
+  ]
+}

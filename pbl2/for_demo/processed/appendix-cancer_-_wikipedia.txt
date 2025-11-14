@@ -1,0 +1,42 @@
+Appendix cancer, also known as appendiceal cancer, is a very rare malignant tumor that forms in the vermiform appendix.
+Gastrointestinal stromal tumors are rare tumors with malignant potential. Primary lymphomas can occur in the appendix. Breast cancer, colon cancer, and tumors of the female genital tract may metastasize to the appendix.
+
+== Diagnosis ==
+
+Carcinoid tumors are the most common tumors of the appendix. Other common forms are mucinous adenocarcinomas, adenocarcinoma not otherwise specified (NOS), and signet ring cell adenocarcinoma listed from highest to lowest incidence.
+
+=== Carcinoid ===
+
+A carcinoid is a neuroendocrine tumor (NET) of the intestines. Incidence rates among carcinoids occur at about 0.15 per 100,000 per year. This subgroup makes up a large amount of neoplasias both malignant and benign. Almost 3 out of 4 of these tumors are associated with the region at the end of the appendix, and tend to be diagnosed in the 4th to 5th decades in life. Both women and Caucasian individuals show a minor prevalence regarding neuroendocrine tumor diagnosis without an explanation. Prognosis of 5 year survival rates of carcinoids averages between 70 and 80% for typical cases. Advanced cases for 5 year survival range from 12 to 28%.
+
+=== Mucinous neoplasm ===
+
+Mucinous cystadenoma is an obsolete term for appendiceal mucinous neoplasm.
+
+== Treatment ==
+Small neuroendocrine tumors (<2 cm) without features of malignancy may be treated by appendectomy if complete removal is possible. Other neuroendocrine tumors and adenocarcinomas may require right hemicolectomy.
+Pseudomyxoma peritonei treatment includes cytoreductive surgery which includes the removal of visible tumor and affected essential organs within the abdomen and pelvis. The peritoneal cavity is infused with heated chemotherapy known as HIPEC in an attempt to eradicate residual disease. The surgery may or may not be preceded or followed with intravenous chemotherapy or HIPEC.
+
+== Epidemiology ==
+A study of primary malignancies in the United States found a rate of 0.12 cases per 1,000,000 population per year. Carcinoids that were not identified as malignant were not included in this data. Carcinoid is found in roughly 1 in 300-400 appendectomies for acute appendicitis.
+In a systematic literature review where 4765 appendiceal cancer patients were identified, the incidence of appendiceal cancer was shown to have increased regardless of the type of tumor, age, sex, and stage of appendiceal cancer. Roughly 75% of appendiceal cases listed in the review had some form of metastases occurring. No observed trends have been noticed as to why this increase is occurring. One theory proposed is the increased use of computed tomography imaging in emergency departments since the early 1990s allowing for detection to occur before a surgery may be performed.
+Malignancies in the appendix may also cause Pseudomyxoma peritonei.
+
+== Notable cases ==
+Actress Audrey Hepburn was diagnosed with appendiceal cancer and died of the disease in 1993.
+In 2007, ESPN sportscast anchor Stuart Scott was diagnosed with appendiceal cancer and died of the disease in 2015.
+Serbian musician Vlada Divljan was diagnosed in 2012, and died of subsequent complications in 2015.
+Mexican actor Adan Canto died of appendiceal cancer at the age of 42 in 2024.
+
+== References ==
+
+== Further reading ==
+Hamilton, S.R.; Aaltonen, L.A., eds. (2000). "Ch. 5 Tumours of the Appendix". World Health Organization Classification of Tumours. Pathology and Genetics of Tumours of the Digestive System (PDF). Lyon: International Agency for Research on Cancer. Archived from the original (PDF) on 2014-05-18. Retrieved 2014-05-18.
+McGory, Marcia L.; Maggard, Melinda A.; Kang, Hakjung; O'Connell, Jessica B.; et al. (2005). "Malignancies of the appendix: Beyond case series reports". Diseases of the Colon & Rectum. 48 (12): 2264–71. doi:10.1007/s10350-005-0196-4. PMID 16258711. S2CID 23839281.
+O'Donnell, M.E.; Carson, J.; Garstin, W.I.H. (2006). "Surgical treatment of malignant carcinoid tumours of the appendix". International Journal of Clinical Practice. 61 (3): 431–7. doi:10.1111/j.1742-1241.2006.00875.x. PMID 16911574. S2CID 24142127 – via Medscape.
+Goede, A.C.; Caplin, M.E.; Winslet, M.C. (2003). "Carcinoid tumour of the appendix". British Journal of Surgery. 90 (11): 1317–22. doi:10.1002/bjs.4375. PMID 14598408. S2CID 36569061.
+Stinner, B.; Rothmund, M. (2005). "Neuroendocrine tumours (carcinoids) of the appendix". Best Practice & Research: Clinical Gastroenterology. 19 (5): 729–38. doi:10.1016/j.bpg.2005.06.003. PMID 16253897.
+
+== External links ==
+
+Cancer.Net: Appendix Cancer

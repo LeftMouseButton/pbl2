@@ -1,0 +1,102 @@
+Salivary gland tumours, or neoplasms, are tumours that form in the tissues of salivary glands. The salivary glands are classified as major or minor. The major salivary glands consist of the parotid, submandibular, and sublingual glands. The minor salivary glands consist of 800 to 1000 small mucus-secreting glands located throughout the lining of the oral cavity. People with these types of tumours may be asymptomatic.
+
+== Presentation ==
+Salivary gland tumours usually present as a lump or swelling in the affected gland, which may or may not have been present for a long time. The lump may be accompanied by symptoms of ductal obstruction (e.g., xerostomia). Usually, in their early stages, it is not possible to distinguish a benign tumour from a malignant one. One of the key differentiating symptoms of malignant growth is nerve involvement; for example, signs of facial nerve damage (e.g., facial nerve paralysis) are associated with malignant parotid tumours. Facial pain and paresthesias are also very often associated with malignant tumours. Other red-flag symptoms which may suggest malignancy and warrant further investigation are fixation of the lump to the overlying skin, ulceration and induration (hardening) of the mucosa.
+
+== Diagnosis ==
+The diagnosis and differentiation of salivary gland tumors involves multi-modal methods:
+Physical exam and history: An exam of the body to check general signs of health. The head, neck, mouth, and throat will be checked for signs of disease, such as lumps or other abnormalities. A medical history will also be taken.
+Endoscopy: A procedure to look at orifices in the body to check for abnormal areas. For salivary gland cancer, an endoscope is inserted into the mouth to look at the mouth, throat, and larynx. An endoscope is a thin, tube-like instrument with a light and a lens for viewing.
+MRI and/or CT Scan: These tests can confirm the presence of a tumour. An MRI and/or CT scan can also show whether metastasis has occurred.
+Biopsy: The removal of abnormal cells or tissues for viewing under a microscope by a pathologist to check for signs of cancer.
+Fine needle aspiration (FNA) biopsy: The removal of tissue or fluid using a thin needle. An FNA is the most common biopsy for salivary gland cancer and has been shown to yield accurate results in distinguishing benign from malignant tumours.
+Radiographs: Anorthopantomogram can be taken to rule out mandibular involvement. A chest radiograph may also be taken to rule out any secondary tumours.
+Ultrasound: Ultrasound can be used to initially assess a tumour that is located superficially in either the submandibular or parotid gland. It can distinguish an intrinsic from an extrinsic neoplasm. Ultrasonic images of malignant tumours include ill-defined margins. Furthermore, high-resolution ultrasound can identify the exact tumour location within the parotid gland, its relationship to the retromandibular vein, and assist surgical excision.
+
+=== Classification ===
+
+Due to the diverse nature of salivary gland tumours, many different terms and classification systems have been used. Perhaps the most widely used currently is that system proposed by the World Health Organization in 2005. This system defines five broad categories of salivary gland neoplasms: benign epithelial, malignant epithelial, soft tissue, hematolymphoid, and secondary.
+Benign epithelial tumours
+
+Pleomorphic adenoma
+Warthin's tumor
+Myoepithelioma
+Basal cell adenoma
+Oncocytoma
+Canalicular adenoma
+Lymphadenoma
+Sebaceous lymphadenoma
+Nonsebaceous lymphadenoma
+Ductal papilloma
+Inverted ductal papilloma
+Intraductal papilloma
+Sialadenoma papilliferum
+Cystadenoma
+Malignant epithelial tumours
+Acinic cell carcinoma
+Mucoepidermoid carcinoma
+Adenoid cystic carcinoma
+Polymorphous low-grade adenocarcinoma
+Epithelial-myoepithelial carcinoma
+clear-cell adenocarcinoma, not otherwise specified
+Basal cell adenocarcinoma
+Sebaceous carcinoma
+Sebaceous lymphadenocarcinoma
+Cystadenocarcinoma
+Low-grade cribriform cystadenocarcinoma
+Mucinous adenocarcinoma
+Oncocytic carcinoma
+Salivary duct carcinoma
+Salivary duct carcinoma, not otherwise specified
+Adenocarcinoma, not otherwise specified
+Myoepithelial carcinoma
+Carcinoma ex pleomorphic adenoma
+Mammary analogue secretory carcinoma
+Carcinosarcoma
+Metastasizing pleomorphic adenoma
+Squamous cell carcinoma
+Large cell carcinoma
+Lymphoepithelial carcinoma
+Sialoblastoma
+Soft tissue tumours
+Hemangioma
+Hematolymphoid tumours
+Hodgkin lymphoma
+Diffuse large B-cell lymphoma
+Extranodal marginal zone B cell lymphoma
+Secondary tumours (i.e., a tumour which has metastasized to the salivary gland from a distant location)
+Others, not included in the WHO classification above, include:
+
+Intraosseous (central) salivary gland tumours
+Hybrid tumours (i.e., a tumour displaying combined forms of histologic tumour types)
+Hybrid carcinoma
+Others
+Keratocystoma
+Sialolipoma
+
+== Treatment ==
+Early-stage lesions may be amenable to surgical treatment. More advanced or unresectable cancers tend to be treated with radiotherapy (RT) alone or chemoradiotherapy (CRT), which hampered the comparison of the efficacy of RT alone with that of surgery combined with adjuvant RT. But some effort had been made to reflect the role of surgery in the management of salivary gland tumours.
+
+Treatment may include the following:
+
+Surgery: Complete surgical resection, with adequate free margins, is currently the mainstay treatment for salivary gland tumours. However, elective treatment of the N0 neck region remains a controversial topic.
+Radiotherapy: When a salivary gland tumour is cancerous, RT may be necessary.
+Fast neutron therapy has been used successfully to treat salivary gland tumours, with evidence suggesting it is significantly more effective than photons in studies treating unresectable salivary gland tumours.
+Chemotherapy: Currently, little is known about the efficacy of chemotherapy in treating salivary gland tumours. Chemotherapy, which plays an important role in systemic therapy, is generally reserved for the palliative treatment of symptomatic locally recurrent and/or metastatic disease that is not amenable to further surgery or radiation. Conventional chemotherapy regimens, such as cisplatin and 5-FU or CAP (cisplatin, doxorubicin, and cyclophosphamide), are still utilized as first-line therapy for those with advanced lesions.
+Targeted therapy: Given the poor response to chemotherapy, it is urgent to explore novel therapeutic interventions for this disease. And great expectations have been put into individualized therapies: in particular, the EGF receptor family (EGFR and HER2), KIT, and androgen receptors are the most commonly investigated molecular targets in SGCs. Their expression seems not to be linked to its pathogenetic role in the development of SGCs, but more to the histogenetic origin of the tumour cells. Various targeted agents, such as imatinib, cetuximab, gefitinib, and trastuzumab, have been used to explore new treatments for salivary gland tumours, but because of their rare incidence, the number of cases available for targeted therapy analysis is relatively small.
+
+== Epidemiology ==
+The epidemiology of salivary gland tumours is incomplete. The incidence is unknown as most benign tumours go unrecorded in national cancer registries. Overall, the majority (60–70%) of salivary tumours are benign. Within the parotid gland specifically, 75–80% of tumours are benign. Around 50% of the tumours found in the submandibular glands are benign. Sublingual gland tumours are very rare, but if present, they are most likely malignant.
+Saku and colleagues and Venturi reported the causal role played by ionizing radiation in salivary gland tumorigenesis, particularly for mucoepidermoid carcinoma, in 1997 and 2021, respectively.
+In the United States, salivary gland cancers are uncommon, with a prevalence of 1.7 cases per 100,000 persons between 2009 and 2013.
+
+== See also ==
+Head and neck cancer
+Salivary gland pathology
+
+== References ==
+
+== External links ==
+Salivary gland cancer entry in the public domain NCI Dictionary of Cancer Terms
+
+ This article incorporates public domain material from Dictionary of Cancer Terms. U.S. National Cancer Institute.

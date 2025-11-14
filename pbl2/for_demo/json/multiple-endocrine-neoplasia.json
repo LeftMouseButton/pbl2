@@ -1,0 +1,56 @@
+{
+  "disease_name": "Multiple Endocrine Neoplasia",
+  "synonyms": [
+    "MEN",
+    "Multiple endocrine adenomas",
+    "Multiple endocrine adenomatosis",
+    "MEA"
+  ],
+  "summary": "Multiple endocrine neoplasia (MEN) encompasses several distinct syndromes characterized by tumors of endocrine glands, each with its own pattern. Tumors can be malignant or benign. Benign or malignant tumors of nonendocrine tissues can also occur. MEN syndromes are inherited as autosomal dominant disorders.",
+  "causes": [
+    "MEN1 gene mutations",
+    "RET oncogene mutations"
+  ],
+  "risk_factors": [
+    "Autosomal dominant inheritance"
+  ],
+  "symptoms": [
+    "Tumors of endocrine glands",
+    "Pituitary tumors",
+    "Parathyroid tumors",
+    "Pancreatic islet adenomas",
+    "Pheochromocytoma",
+    "Medullary thyroid carcinoma",
+    "Mucosal neuromas",
+    "Adrenocortical tumors",
+    "Thyroid tumors",
+    "Visceral lipomas",
+    "Cutaneous lipomas",
+    "Meningiomas",
+    "Facial angiofibromas",
+    "Collagenomas",
+    "Thymic carcinoids",
+    "Gastric carcinoids",
+    "Bronchial carcinoids",
+    "Marfanoid habitus",
+    "Endocrinopathy of two characteristic affected organs",
+    "Endocrinopathy of one characteristic organ plus a first-degree relative affected by MEN syndrome"
+  ],
+  "diagnosis": [
+    "Genetic testing for MEN1 gene mutations",
+    "Genetic testing for RET oncogene mutations",
+    "Clinical evaluation for endocrinopathy of characteristic organs"
+  ],
+  "treatments": [],
+  "related_genes": [
+    "MEN1",
+    "menin",
+    "RET"
+  ],
+  "subtypes": [
+    "Multiple Endocrine Neoplasia Type 1 (MEN1)",
+    "Multiple Endocrine Neoplasia Type 2A (MEN2A)",
+    "Multiple Endocrine Neoplasia Type 2B (MEN2B)",
+    "MEN4"
+  ]
+}

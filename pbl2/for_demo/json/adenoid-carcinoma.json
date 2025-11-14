@@ -1,0 +1,48 @@
+{
+  "disease_name": "Tonsillitis",
+  "synonyms": [],
+  "summary": "Tonsillitis is an inflammation of the tonsils, which are lumps of tissue at the back of the throat that are part of the lymphatic system. It can be caused by viral or bacterial infections.",
+  "causes": [
+    "Viral infection",
+    "Bacterial infection",
+    "Strep throat"
+  ],
+  "risk_factors": [
+    "Children over age two",
+    "Ages 5-15 (for bacterial tonsillitis)",
+    "Younger children (for viral tonsillitis)"
+  ],
+  "symptoms": [
+    "Sore throat",
+    "Red, swollen tonsils",
+    "Trouble swallowing",
+    "White or yellow coating on tonsils",
+    "Swollen glands in the neck",
+    "Fever",
+    "Bad breath",
+    "Pain when swallowing",
+    "Trouble breathing",
+    "Drooling"
+  ],
+  "diagnosis": [
+    "Medical history",
+    "Physical examination of throat and neck",
+    "Rapid strep test",
+    "Throat culture"
+  ],
+  "treatments": [
+    "Rest",
+    "Fluids",
+    "Soft foods",
+    "Warm liquids",
+    "Cold foods",
+    "Humidifier",
+    "Saltwater gargles",
+    "Lozenges",
+    "Pain reliever (acetaminophen)",
+    "Antibiotics (for bacterial infections)",
+    "Tonsillectomy"
+  ],
+  "related_genes": [],
+  "subtypes": []
+}

@@ -1,0 +1,34 @@
+{
+  "disease_name": "Adenoid cystic carcinoma",
+  "synonyms": [
+    "ACC"
+  ],
+  "summary": "Adenoid cystic carcinoma (ACC) is a rare type of cancer that can occur in various body sites, most commonly in the salivary glands. It is the third-most common malignant salivary gland tumor overall and the most common malignant salivary gland tumor in the submandibular gland region. ACC is generally well-differentiated and slow-growing, allowing patients to survive for years with metastases, though late-occurring metastatic disease can lead to death.",
+  "causes": [
+    "Activation of the MYB oncogene",
+    "MYB gene fusion with the NFIB gene due to t(6;9) translocation",
+    "MYB activation by copy number gain",
+    "MYB activation by juxtaposition of enhancer elements near the MYB gene",
+    "Fusion of the MYBL1 gene to NFIB or other partners"
+  ],
+  "risk_factors": [],
+  "symptoms": [],
+  "diagnosis": [
+    "MRI-images analyzed following nerve tracts up to the brainstem"
+  ],
+  "treatments": [
+    "Surgical removal with clean margins",
+    "Adjuvant radiotherapy",
+    "Palliative radiotherapy",
+    "Fast neutron therapy (for advanced, inoperable, recurrent, or gross residual disease)",
+    "Chemotherapy (for metastatic disease, on a case-by-case basis)"
+  ],
+  "related_genes": [
+    "MYB",
+    "NFIB",
+    "MYBL1"
+  ],
+  "subtypes": [
+    "Primary cutaneous adenoid cystic carcinoma"
+  ]
+}

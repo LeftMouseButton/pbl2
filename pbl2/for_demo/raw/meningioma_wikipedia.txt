@@ -1,0 +1,124 @@
+Meningioma, also known as meningeal tumor, is typically a slow-growing tumor that forms from the meninges, the membranous layers surrounding the brain and spinal cord. Symptoms depend on the location and occur as a result of the tumor pressing on nearby tissue. Many cases never produce symptoms. Occasionally seizures, dementia, trouble talking, vision problems, one sided weakness, or loss of bladder control may occur.
+Risk factors include exposure to ionizing radiation such as during radiation therapy, a family history of the condition, and neurofibromatosis type 2. They appear to be able to form from a number of different types of cells including arachnoid cells. Diagnosis is typically by medical imaging.
+If there are no symptoms, periodic observation may be all that is required. Most cases that result in symptoms can be cured by surgery. Following complete removal fewer than 20% recur. If surgery is not possible or all the tumor cannot be removed, radiosurgery may be helpful. Chemotherapy has not been found to be useful. A small percentage grow rapidly and are associated with worse outcomes.
+About one per thousand people in the United States are currently affected. Onset is usually in adults. In this group they represent about 30% of brain tumors. Women are affected about twice as often as men. Meningiomas were reported as early as 1614 by Felix Plater.
+
+
+== Signs and symptoms ==
+
+Small tumors (e.g., < 2.0 cm) usually are incidental findings at autopsy without having caused symptoms. Larger tumors may cause symptoms, depending on the size and location.
+
+Focal seizures may be caused by meningiomas that overlie the cerebrum.
+Progressive spastic weakness in legs and incontinence may be caused by tumors that overlie the parasagittal frontoparietal region.
+Tumors of the Sylvian aqueduct may cause myriad motor, sensory, aphasic, and seizure symptoms, depending on the location.
+Increased intracranial pressure eventually occurs, but is less frequent than in gliomas.
+Diplopia (Double vision) or uneven pupil size may be symptoms if related pressure causes a third and/or sixth nerve palsy.
+
+
+== Causes ==
+The causes of meningiomas are not well understood. Most cases are sporadic, appearing randomly, while some are familial. Persons who have undergone radiation, especially to the scalp, are more at risk for developing meningiomas, as are those who have had a brain injury. Atomic bomb survivors from Hiroshima had a higher than typical frequency of developing meningiomas, with the incidence increasing the closer that they were to the site of the explosion. Dental X-rays are correlated with an increased risk of meningioma, in particular for people who had frequent dental X-rays in the past, when the X-ray dose of a dental X-ray was higher than in the present.
+Having excess body fat increases the risk. In 2020, the European Medicine Agency issued a warning that high doses of cyproterone acetate may contribute to risk of meningioma, and to use the minimum dosage or alternative treatment for most indications, with the exception of prostate carcinoma.
+A 2012 review found that mobile telephone use was unrelated to meningioma.
+People with neurofibromatosis type 2 (NF-2) have a 50% chance of developing one or more meningiomas.
+92% of meningiomas are benign. 8% are either atypical or malignant.
+
+
+=== Genetics ===
+The most frequent genetic mutations (~50%) involved in meningiomas are inactivation mutations in the neurofibromatosis 2 gene (merlin) on chromosome 22q.
+TRAF7 mutations are present in about one-fourth of meningiomas. Mutations in the TRAF7, KLF4, AKT1, and SMO genes are commonly expressed in benign skull-base meningiomas. Mutations in NF2 are commonly expressed in meningiomas located in the cerebral and cerebellar hemispheres.
+
+
+== Pathophysiology ==
+
+Meningiomas arise from arachnoidal cap cells, most of which are near the vicinity of the venous sinuses, and this is the site of greatest prevalence for meningioma formation. Some subtypes may arise from the pial cap cells that migrate during the development together with blood vessels into the brain parenchyma. They most frequently are attached to the dura over the superior parasagittal surface of frontal and parietal lobes, along the sphenoid ridge, in the olfactory grooves, the Sylvian region, superior cerebellum along the falx cerebri, cerebellopontine angle, and the spinal cord. The tumor is usually gray, well-circumscribed, and takes on the form of the space it occupies. They usually are dome-shaped, with the base lying on the dura.
+
+
+=== Locations ===
+Falx cerebri falcine (25%)
+Convexity (surface of the brain) (19%)
+Sphenoid ridge (17%)
+Suprasellar (9%)
+Posterior fossa (8%)
+Olfactory groove (8%)
+Middle fossa/Meckel's cave (4%)
+Tentorial (3%)
+Peri-torcular (3%)
+Intraparenchymal (rare)
+Other uncommon locations are the lateral ventricle, foramen magnum, and the orbit/optic nerve sheath. Meningiomas also may occur as a spinal tumor, more often in women than in men. This occurs more often in Western countries than Asian.
+
+Histologically, meningioma cells are relatively uniform, with a tendency to encircle one another, forming whorls and psammoma bodies (laminated calcific concretions). As such, they also have a tendency to calcify and are highly vascularized.
+Meningiomas often are considered benign tumors that can be removed by surgery, but most recurrent meningiomas correspond to histologic benign tumors. The metabolic phenotype of these benign recurrent meningiomas indicated an aggressive metabolism resembling that observed for atypical meningioma.
+
+
+== Diagnosis ==
+
+Meningiomas are visualized readily with contrast CT, MRI with gadolinium, and arteriography, all attributed to the fact that meningiomas are extra-axial and vascularized. CSF protein levels are usually found to be elevated when lumbar puncture is used to obtain spinal fluid. On T1-weighted contrast-enhanced MRI, they may show a typical dural tail sign absent in some rare forms of meningiomas.
+Although the majority of meningiomas are benign, they may have malignant presentations.  Classification of meningiomas are based upon the WHO classification system.
+
+Benign (Grade I) – (90%) – meningothelial, fibrous, transitional, psammomatous, angioblastic
+Atypical (Grade II) – (7%) – chordoid, clear cell, atypical (includes brain invasion)
+Anaplastic/malignant (Grade III) – (2%) – papillary, rhabdoid, anaplastic (most aggressive)
+In a 2008 review of the latter two categories, atypical and anaplastic-meningioma cases, the mean overall survival for atypical meningiomas was found to be 11.9 years vs. 3.3 years for anaplastic meningiomas. Mean relapse-free survival for atypical meningiomas was 11.5 years vs. 2.7 years for anaplastic meningiomas.
+Malignant anaplastic meningioma is aggressive. Although anaplastic meningioma has higher chances of distant metastasis than the other two types, the overall incidence of meningioma metastasis is only 0.18%; which is considered rare. Even if, by general rule, neoplasms of the nervous system (brain tumors) cannot metastasize into the body because of the blood–brain barrier, anaplastic meningioma can. Although they are inside the cerebral cavity, they are located on the bloodside of the BBB, because meningiomas tend to be connected to blood vessels. Thus, cancerized cells can escape into the bloodstream, which is why meningiomas, when they metastasize, often turn up around the lungs.
+Anaplastic meningioma and hemangiopericytoma are difficult to distinguish, even by pathological means, as they look similar, especially, if the first occurrence is a meningeal tumor, and both tumors occur in the same types of tissue.
+Although usually benign a "petro-clival" menigioma is typically fatal without treatment due to its location. Until the 1970s no treatment was available for this type of meningioma; however, since that time a range of surgical and radiological treatments have evolved. Nevertheless, the treatment of this type of meningioma remains a challenge with relatively frequent poor outcomes.
+
+
+== Prevention ==
+The risk of meningioma can be reduced by maintaining a normal body weight, and by avoiding unnecessary dental x-rays.
+
+
+== Treatment ==
+
+
+=== Observation ===
+Observation with close imaging follow-up may be used in select cases if a meningioma is small and asymptomatic. In a retrospective study on 43 patients, 63% of patients were found to have no growth on follow-up, and the 37% found to have growth at an average of 4 mm / year. In this study, younger patients were found to have tumors that were more likely to have grown on repeat imaging; thus are poorer candidates for observation. In another study, clinical outcomes were compared for 213 patients undergoing surgery vs. 351 patients under watchful observation. Only 6% of the conservatively treated patients developed symptoms later, while among the surgically treated patients, 5.6% developed persistent morbid condition, and 9.4% developed surgery-related morbid condition.
+Observation is not recommended in tumors already causing symptoms. Furthermore, close follow-up with imaging is required with an observation strategy to rule out an enlarging tumor.
+
+
+=== Surgery ===
+Meningiomas usually can be surgically resected (removed) and result in a permanent cure if the tumor is superficial on the dural surface and easily accessible. Transarterial embolization has become a standard preoperative procedure in the preoperative management. If invasion of the adjacent bone occurs, total removal is nearly impossible. It is rare for benign meningiomas to become malignant.
+The probability of a tumor recurring or growing after surgery may be estimated by comparing the tumor's WHO (World Health Organization) grade and by the extent of surgery by the Simpson Criteria.
+
+
+=== Radiation therapy ===
+Radiation therapy may include photon-beam or proton-beam treatment, or fractionated external beam radiation.  Radiosurgery may be used in lieu of surgery in small tumors located away from critical structures. Fractionated external-beam radiation also can be used as primary treatment for tumors that are surgically unresectable or, for patients who are inoperable for medical reasons.
+Radiation therapy often is considered for WHO grade I meningiomas after subtotal (incomplete) tumor resections. The clinical decision to irradiate after a subtotal resection is somewhat controversial, as no class I randomized, controlled trials exist on the subject. Numerous retrospective studies, however, have suggested strongly that the addition of postoperative radiation to incomplete resections improves both progression-free survival (i.e. prevents tumor recurrence) and improves overall survival.
+In the case of a  grade III meningioma, the current standard of care involves postoperative radiation treatment regardless of the degree of surgical resection.  This is due to the proportionally higher rate of local recurrence for these higher-grade tumors.  Grade II tumors may behave variably and there is no standard of whether to give radiotherapy following a gross total resection. Subtotally resected grade II tumors should be radiated.
+
+
+=== Chemotherapy ===
+Likely, current chemotherapies are not effective. Antiprogestin agents have been used, but with variable results. A 2007 study of whether hydroxyurea has the capacity to shrink unresectable or recurrent meningiomas is being further evaluated.
+
+
+== Epidemiology ==
+Many individuals have meningiomas, but remain asymptomatic, so the meningiomas are discovered during an autopsy. One to two percent of all autopsies reveal meningiomas that were unknown to the individuals during their lifetime, since there were never any symptoms. In the 1970s, tumors causing symptoms were discovered in 2 out of 100,000 people, while tumors discovered without causing symptoms occurred in 5.7 out of 100,000, for a total incidence of 7.7/100,000. With the advent of modern sophisticated imaging systems such as CT scans, the discovery of asymptomatic meningiomas has tripled.
+Meningiomas are more likely to appear in women than men, though when they appear in men, they are more likely to be malignant. Meningiomas may appear at any age, but most commonly are noticed in men and women age 50 or older, with meningiomas becoming more likely with age. They have been observed in all cultures, Western and Eastern, in roughly the same statistical frequency as other possible brain tumors.
+
+
+== History ==
+The neoplasms currently referred to as meningiomas were referred to with a wide range of names in older medical literature, depending on the source. Various descriptors included "fungoid tumors", "fungus of the dura mater", "epithelioma", "psammoma", "dural sarcoma", "dural endothelioma", "fibrosarcoma", "angioendothelioma", "arachnoidal fibroboastoma", "endotheliosis of the meninges", "meningeal fibroblastoma", "meningoblastoma", "mesothelioma of the meninges", "sarcoma of the dura", and others.
+The modern term of "meningioma" was used first by Harvey Cushing (1869–1939) in 1922, to describe a set of tumors that occur throughout the neuraxis (brain and spinal cord), but have various commonalities. Charles Oberling then separated these into subtypes based on cell structure and, over the years, several other researchers have defined dozens of different subtypes as well. In 1979, the World Health Organization (WHO) classified seven subtypes, upgraded in 2000 to a classification system with nine low-grade variants (grade I tumors) and three variants each of grade II and grade III meningiomas. The most common subtypes are Meningotheliomatous (63%), transitional or mixed-type (19%), fibrous (13%), and psammomatous (2%).
+The earliest evidence of a probable meningioma is from a skull approximately 365,000 years old, which was found in Germany. Other probable examples have been discovered in other continents around the world, including North and South America, and Africa.
+The earliest written record of what was probably a meningioma is from the 1600s, when Felix Plater (1536–1614) of the University of Basel performed an autopsy on Sir Caspar Bonecurtius. Surgery for removal of a meningioma was first attempted in the sixteenth century, but the first known successful surgery for removal of a meningioma of the convexity (parasagittal) was performed in 1770 by Anoine Luis. The first documented successful removal of a skull base meningioma was performed in 1835 by Zanobi Pecchioli, Professor of Surgery at the  University of Siena. Other notable meningioma researchers have been William Macewen (1848–1924), and William W. Keen (1837–1932).
+Improvements in meningioma research and treatment over the last century have occurred in terms of the surgical techniques for removal of the tumor, and related improvements in anesthesia, antiseptic methods, techniques to control blood loss, better ability to determine which tumors are and are not operable, and to effectively differentiate between the different meningioma subtypes.
+
+
+== Notable cases ==
+Leonard Wood (1860–1927), underwent successful surgery by Dr. Harvey Cushing for a meningioma circa 1910, a major advance in neurosurgery at the time.
+Crystal Lee Sutton (1940–2009), American union organizer and inspiration for the film Norma Rae, died of a malignant meningioma.
+Elizabeth Taylor (1932–2011), American actress, underwent surgery in February 1997 to remove a benign meningioma.
+Kathi Goertzen (1958–2012), television news anchor in Seattle who underwent a very public battle with recurring tumors. She died on August 13, 2012, of complications related to her treatment.
+Eileen Ford (1922–2014), American model agency executive and co-founder of Ford Models. Died on July 9, 2014, from complications of meningioma and osteoporosis.
+Mary Tyler Moore (1936–2017), American actress, underwent surgery in May 2011 to remove a benign meningioma.
+Jack Daulton (1956–), American trial lawyer and art collector, underwent three surgeries in 2011–2012 in connection with the removal of a golf-ball-size benign meningioma over his left motor cortex; he fully recovered without disability or recurrence.
+Simone Giertz (1990–), Swedish inventor and professional YouTuber, underwent surgery to remove a grade I meningioma in 2018 and radiation therapy after tumor regrowth in 2019.
+
+
+== References ==
+
+
+== External links ==
+MR/CT scans of meningioma from MedPix
+MR/CT scans of pneumosinus dilatans from MedPix
+Cancer.Net: Meningioma

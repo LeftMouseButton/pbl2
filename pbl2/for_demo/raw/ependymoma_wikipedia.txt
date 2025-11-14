@@ -1,0 +1,60 @@
+An ependymoma is a tumor that arises from the ependyma, a tissue of the central nervous system. Usually, in pediatric cases the location is intracranial, while in adults it is spinal. The common location of intracranial ependymomas is the floor of the fourth ventricle. Rarely, ependymomas can occur in the pelvic cavity.
+Syringomyelia can be caused by an ependymoma.
+Ependymomas are also seen with neurofibromatosis type II.
+
+
+== Signs and symptoms ==
+Source:
+Symptoms are dependent on the location and severity of the tumor.
+Intracranial ependymomas: 
+
+severe headache
+nausea
+vomiting
+visual loss (due to papilledema)
+loss of balance
+vertigo
+hydrocephalus
+drowsiness (after several hours of the above symptoms)
+Spinal ependymomas: 
+
+bilateral Babinski sign
+gait change (rotation of feet when walking)
+impaction/constipation
+back flexibility
+
+
+== Morphology ==
+Ependymomas are composed of cells with regular, round to oval nuclei.  There is a variably dense fibrillary background. Tumor cells may form gland-like round or elongated structures that resemble the embryologic ependymal canal, with long, delicate processes extending into the lumen; more frequently present are perivascular pseudorosettes in which tumor cells are arranged around vessels with an intervening zone consisting of thin ependymal processes directed toward the wall of the vessel.
+It has been suggested that ependymomas are derived from radial glia, despite their name suggesting an ependymal origin.
+
+
+=== Ependymoma tumors ===
+Ependymomas make up about 5% of adult intracranial gliomas and up to 10% of childhood tumors of the central nervous system (CNS). Their occurrence seems to peak at age 5 years and then again at age 35. They develop from cells that line both the hollow cavities of the brain and the central canal containing the spinal cord, but they usually arise from the floor of the fourth ventricle, situated in the lower back portion of the brain, where they may produce headache, nausea and vomiting by obstructing the flow of cerebrospinal fluid. This obstruction may also cause hydrocephalus. They may also arise in the spinal cord, conus medullaris and supratentorial locations. Other symptoms can include (but are not limited to): loss of appetite, difficulty sleeping, temporary inability to distinguish colors, uncontrollable twitching, seeing vertical or horizontal lines when in bright light, and temporary memory loss.  It should be remembered that these symptoms also are prevalent in many other illnesses not associated with ependymoma.
+About 10% of ependymomas are benign myxopapillary ependymoma (MPE). MPE is a localized and slow-growing low-grade tumor, which originates almost exclusively from the lumbosacral nervous tissue of young patients. On the other hand, it is the most common tumor of the lumbosacral canal comprising about 90% of all tumoral lesions in this region.
+Although some ependymomas are of a more anaplastic and malignant type, most of them are not anaplastic. Well-differentiated ependymomas are usually treated with surgery. For other ependymomas, total surgical removal is the preferred treatment in addition to radiation therapy. The malignant (anaplastic) varieties of this tumor, malignant ependymoma and the ependymoblastoma, are treated similarly to medulloblastoma but the prognosis is much less favorable. Malignant ependymomas may be treated with a combination of radiation therapy and chemotherapy. Ependymoblastomas, which occur in infants and children younger than 5 years of age, may spread through the cerebrospinal fluid and usually require radiation therapy. The subependymoma, a variant of the ependymoma, is apt to arise in the fourth ventricle but may occur in the septum pellucidum and the cervical spinal cord. It usually affects people over 40 years of age and more often affects men than women.
+Extraspinal ependymoma (EEP), also known as extradural ependymoma, may be an unusual form of teratoma or may be confused with a sacrococcygeal teratoma.
+
+
+== Classifications ==
+Ependymomas are classified by their location, cellular features, and more recently, molecular characteristics. The three locations are defined as supratentorial, posterior fossa (also referred to as infratentorial), and spinal. They are classified as Grade I, Grade II, or Grade III. Within the last decade, ependymomas have been further characterized by 10 molecular subtypes. Ependymoma tumor location, grade, and molecular features determine the treatment plan and prognosis.
+Intracranial ependymomas, including supratentorial and posterior fossa, make up 90% of ependymomas in children. The supratentorial region is the upper brain region, or cerebrum, and contains the lateral and third ventricles. The posterior fossa, or infratentorial, is behind or below this region in the area of the brainstem and cerebellum and contains the fourth ventricle. A majority of intracranial pediatric ependymomas are in the posterior fossa. Patients with intracranial ependymomas typically present with increased intracranial pressure that results in headaches, dizziness, nausea, and vomiting. The third location of ependymomas is within the central canal of the spinal cord. Spinal ependymomas comprise about 65% of adult ependymomas and most often occur in the lumbosacral region. Patients with spinal ependymomas can present with back pain, numbness or weakness in the limbs, and urinary or bowel problems.
+The World Health Organization classifies ependymomas as Grade I-III. Grade I tumors are low-grade and include the subependymoma subtype, which is more common in adults. Grade II tumors include myxopapillary and conventional ependymoma, which are identified by the presence of perivascular pseudorosettes. Grade III anaplastic ependymomas are the most severe and fast-growing tumors.
+
+
+=== Molecular Subtypes ===
+There have been 10 identified molecular features of ependymomas. There are three molecular subtypes in the supratentorial location, three molecular subtypes in the posterior fossa location, and four molecular subtypes in the spinal cord. Each location has 1 molecular subtype classified as Grade I subependymoma and is found primarily among adults with good prognoses. The molecular subtypes: ZFTA and YAP1 are found in the supratentorial region of the brain, are classified as Grade II/III and have been identified in infants, children, and adults. Posterior Fossa Group A and Group B are the two molecular subtypes classified as Grade II/III in the posterior fossa region of the brain. Posterior Fossa Group A has become a therapeutic target within preclinical research due to its poor prognosis among infants and children, but clinical research is many years away. Spinal ependymomas have three molecular subtypes classified as Grade II/III: MPE, EPN, and MYC, ranging from good to poor outcomes, respectively. Since these are found primarily within the spinal cord, they have been identified mainly in adult patients.
+
+Key: subependymoma (SE), myxopapillary ependymoma (MPE), ependymoma (EPN)
+
+
+== Treatment ==
+Guidelines for initial management for ependymoma are maximum surgical resection followed by radiation. Chemotherapy is of limited use and reserved for special cases, including young children and those with tumor present after resection. Prophylactic craniospinal irradiation is of variable use and is a source of controversy given that most recurrence occurs at the site of resection and therefore is of debatable efficacy. Confirmation of cerebrospinal infiltration warrants more expansive radiation fields.
+Prognosis of recurrence is poor and often indicates palliative care to manage symptoms.
+
+
+== References ==
+
+
+== External links ==
+Brain and Spinal Tumors: Hope Through Research (National Institute of Neurological Disorders and Stroke)

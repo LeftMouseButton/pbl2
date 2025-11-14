@@ -1,0 +1,93 @@
+{
+  "disease_name": "Pituitary Adenoma",
+  "synonyms": [
+    "Pituitary tumor",
+    "Pituitary tumors",
+    "Pituitary incidentalomas",
+    "Ectopic pituitary adenoma"
+  ],
+  "summary": "Pituitary adenomas are tumors that occur in the pituitary gland, a pea-sized gland at the base of the brain that acts as the 'master control gland' by producing hormones affecting growth and other glands. Most pituitary tumors are benign and often asymptomatic. However, hormone-producing tumors can disrupt hormonal balance, leading to endocrine diseases like Cushing's syndrome and hyperthyroidism. Symptoms can include headaches, vision problems, nausea, vomiting, and issues related to hormone overproduction or underproduction. Treatment options include surgery, medication, radiation therapy, and chemotherapy.",
+  "causes": [
+    "Hormone secreting pituitary adenomas",
+    "Genetic mutations in AIP gene",
+    "Duplications in chromosome Xq26.3 including GPR101 gene (X-LAG syndrome)",
+    "Metastases from lung cancer",
+    "Metastases from breast cancer"
+  ],
+  "risk_factors": [
+    "Multiple endocrine neoplasia type 1 (MEN1)",
+    "Carney complex (CNC)",
+    "Familial isolated pituitary adenoma (FIPA)",
+    "Infection with human T-lymphotropic virus type 1 (HTLV-1)"
+  ],
+  "symptoms": [
+    "Headaches",
+    "Vision problems",
+    "Nausea",
+    "Vomiting",
+    "Problems caused by the production of too many hormones",
+    "Visual field defects (e.g., bitemporal hemianopsia)",
+    "Decreased visual acuity",
+    "Lateral rectus palsy",
+    "Symptoms of increased intracranial pressure",
+    "Depression",
+    "Anxiety",
+    "Apathy",
+    "Emotional instability",
+    "Easy irritability",
+    "Hostility",
+    "Gigantism",
+    "Acromegaly",
+    "Unexpected lactation",
+    "Fatigue",
+    "Weight gain",
+    "Truncal obesity",
+    "Moon face",
+    "Stretch marks (striae)",
+    "Hypertension",
+    "Glucose intolerance",
+    "Various infections",
+    "Excessive growth of facial hair (hirsutism)",
+    "Erectile dysfunction",
+    "Cognitive difficulties",
+    "Severe disfigurement",
+    "Pituitary apoplexy (sudden hemorrhage or necrosis)",
+    "Visual loss",
+    "Sudden onset headache",
+    "Central diabetes insipidus (severe thirst, excessive dilute urine)",
+    "Hypopituitarism"
+  ],
+  "diagnosis": [
+    "Testing hormone levels",
+    "Radiographic imaging (CT scan or MRI)",
+    "Visual field examination",
+    "Complete medical history and physical examination",
+    "Laboratory evaluations for hormone hypersecretion and hypopituitarism",
+    "Immunohistological characterization of tumors"
+  ],
+  "treatments": [
+    "Surgery (trans-sphenoidal adenectomy)",
+    "Medication (cabergoline, bromocriptine, somatostatin receptor ligands like octreotide or lanreotide, pegvisomant, ketoconazole, metyrapone, osilodrostat, etomidate, mitotane, pasireotide, mifepristone)",
+    "Radiation therapy (external beam, proton beam, stereotactic radiosurgery)",
+    "Chemotherapy",
+    "Hormone replacement therapy"
+  ],
+  "related_genes": [
+    "AIP",
+    "GPR101"
+  ],
+  "subtypes": [
+    "Microadenomas",
+    "Macroadenomas",
+    "Prolactinomas",
+    "Thyrotropinomas",
+    "Somatotrophic adenomas",
+    "Corticotropinomas",
+    "Null cell adenomas",
+    "Non-functioning tumors",
+    "Pituitary incidentalomas",
+    "Ectopic pituitary adenoma",
+    "Metastases to the pituitary gland",
+    "X-LAG syndrome"
+  ]
+}

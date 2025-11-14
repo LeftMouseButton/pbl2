@@ -1,0 +1,71 @@
+{
+  "disease_name": "Oropharyngeal cancer",
+  "synonyms": [
+    "Oropharyngeal squamous cell carcinoma",
+    "Tonsil cancer",
+    "Throat cancer"
+  ],
+  "summary": "Oropharyngeal cancer is a type of head and neck cancer that affects the oropharynx, including the base of the tongue, tonsils, soft palate, and pharyngeal walls. It is characterized by the abnormal growth of cells that can spread locally and to other parts of the body. The disease is classified into HPV-positive and HPV-negative subtypes, with different risk factors and prognoses.",
+  "causes": [
+    "Oral human papillomavirus infection (HPV)",
+    "Alcohol use",
+    "Tobacco use",
+    "Chewing paan (betel quid)",
+    "Marijuana smoking",
+    "Asbestos exposure",
+    "P53 mutation",
+    "CDKN2A (p16) mutations"
+  ],
+  "risk_factors": [
+    "Performing open-mouthed kissing or oral/mouth-genital sex on a person with HPV",
+    "Smoking",
+    "Chewing tobacco",
+    "Heavy alcohol use",
+    "Diet low in fruit and vegetables",
+    "Poor nutrition",
+    "Plummer–Vinson syndrome"
+  ],
+  "symptoms": [
+    "Sore throat that does not go away",
+    "Lump in the neck",
+    "Pain or ringing in the ears",
+    "Trouble swallowing",
+    "Ear pain",
+    "Throat pain",
+    "Unexplained rapid weight loss",
+    "Voice changes (hoarse)",
+    "Lump in the back of the throat or mouth",
+    "Dull pain behind the sternum",
+    "Persistent cough",
+    "Breathing problems",
+    "Hoarseness"
+  ],
+  "diagnosis": [
+    "Physical exam and history",
+    "Imaging tests",
+    "Biopsy of observed abnormal tissue",
+    "Staging according to cell appearance, dimensions, and extent"
+  ],
+  "treatments": [
+    "Surgery",
+    "Radiation therapy",
+    "Chemotherapy",
+    "Targeted therapy",
+    "Immunotherapy"
+  ],
+  "related_genes": [
+    "P53",
+    "CDKN2A (p16)"
+  ],
+  "subtypes": [
+    "HPV-positive oropharyngeal cancer",
+    "HPV-negative oropharyngeal cancer",
+    "Carcinoma in situ (Stage 0)",
+    "Stage 1",
+    "Stage 2",
+    "Stage 3",
+    "Stage 4A",
+    "Stage 4B",
+    "Stage 4C"
+  ]
+}

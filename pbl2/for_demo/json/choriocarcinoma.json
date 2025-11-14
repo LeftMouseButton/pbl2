@@ -1,0 +1,47 @@
+{
+  "disease_name": "Choriocarcinoma",
+  "synonyms": [
+    "Trophoblastic cancer",
+    "Germ cell tumor"
+  ],
+  "summary": "Choriocarcinoma is a trophoblastic cancer, often originating in the placenta, characterized by early hematogenous spread to the lungs. It represents the malignant end of the spectrum in gestational trophoblastic disease (GTD) and can also be classified as a germ cell tumor, potentially arising in the testis or ovary.",
+  "causes": [
+    "Hydatidiform mole",
+    "Spontaneous abortion",
+    "Ectopic pregnancy",
+    "Normal-term pregnancy",
+    "Hyperemesis gravidarum"
+  ],
+  "risk_factors": [],
+  "symptoms": [
+    "Increased quantitative chorionic gonadotropin levels",
+    "Vaginal bleeding",
+    "Shortness of breath",
+    "Hemoptysis (coughing up blood)",
+    "Chest pain",
+    "Testicular cancer (as a presentation in males)",
+    "Skin hyperpigmentation (in males)",
+    "Gynecomastia (in males)",
+    "Weight loss (in males)",
+    "Hyperthyroidism"
+  ],
+  "diagnosis": [
+    "Quantitative chorionic gonadotropin (hCG) levels",
+    "Chest X-ray (showing lung infiltrates)",
+    "Thyroid-stimulating hormone (TSH) levels",
+    "Histopathological examination (identification of syncytiotrophoblasts and cytotrophoblasts without villi)"
+  ],
+  "treatments": [
+    "Chemotherapy",
+    "Methotrexate",
+    "Actinomycin-D",
+    "EMACO regimen (Etoposide, Methotrexate, Actinomycin D, Cyclophosphamide, Vincristine)",
+    "Hysterectomy"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Gestational choriocarcinoma",
+    "Testicular choriocarcinoma (pure)",
+    "Ovarian choriocarcinoma"
+  ]
+}

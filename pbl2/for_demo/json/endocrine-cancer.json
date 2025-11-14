@@ -1,0 +1,29 @@
+{
+  "disease_name": "Thymus Cancer",
+  "synonyms": [],
+  "summary": "Thymus cancer is a rare cancer that originates in the thymus, a small organ located in the upper chest under the breastbone. The thymus plays a crucial role in the immune system by producing a type of white blood cell during childhood. While sometimes asymptomatic, it can cause respiratory and chest symptoms.",
+  "causes": [],
+  "risk_factors": [
+    "Myasthenia gravis",
+    "Lupus",
+    "Rheumatoid arthritis"
+  ],
+  "symptoms": [
+    "Persistent cough",
+    "Chest pain",
+    "Trouble breathing"
+  ],
+  "diagnosis": [
+    "Physical exam",
+    "Imaging tests",
+    "Biopsy"
+  ],
+  "treatments": [
+    "Surgery",
+    "Radiation therapy",
+    "Chemotherapy",
+    "Hormone therapy"
+  ],
+  "related_genes": [],
+  "subtypes": []
+}

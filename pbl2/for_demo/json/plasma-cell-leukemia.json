@@ -1,0 +1,60 @@
+{
+  "disease_name": "Plasma cell leukemia",
+  "synonyms": [
+    "PCL",
+    "Primary plasma cell leukemia",
+    "pPCL",
+    "Secondary plasma cell leukemia",
+    "sPCL"
+  ],
+  "summary": "Plasma cell leukemia (PCL) is a plasma cell dyscrasia, a disease involving the malignant degeneration of plasma cells. It is the terminal and most aggressive form of these dyscrasias, constituting 2% to 4% of all plasma cell malignancies. PCL can present as primary (in patients without prior history of plasma cell dyscrasia) or secondary (in patients previously diagnosed with multiple myeloma). It is an extremely serious, life-threatening, and therapeutically challenging disease.",
+  "causes": [
+    "Development of excessively high number of genetic abnormalities in plasma cells, precursor B cells, or plasmablasts",
+    "Genetic instability due to acquired abnormalities including gene mutations, single nucleotide polymorphisms, deletions, duplications, translocations, and changes in gene expression",
+    "Abnormalities affecting Wnt signaling pathway, cell cycle regulation, RNA metabolism, protein folding, and cadherin-related cell adherence",
+    "Progressive development of genetic abnormalities leading from monoclonal gammopathy of undetermined significance to smoldering multiple myeloma, overt myeloma cancer, and ultimately secondary PCL"
+  ],
+  "risk_factors": [],
+  "symptoms": [
+    "Pathologically high levels of monoclonal plasma cells in bone marrow",
+    "Malignant plasma cell-secreted circulating monoclonal myeloma protein (IgG, IgA, light chain, or none)",
+    "Splenomegaly",
+    "Lymphadenopathy",
+    "Hepatomegaly",
+    "Kidney failure",
+    "Bone marrow failure (thrombocytopenia, anemia, leukopenia)",
+    "Central nervous system defects",
+    "Peripheral neuropathies",
+    "Hypercalcemic crisis",
+    "High levels of serum lactate dehydrogenase",
+    "High levels of Beta-2 microglobulin",
+    "Soft tissue plasma cell tumors (plasmacytomas)",
+    "Extensive disease with malignant plasma cell infiltrations in organs",
+    "Failures of bone marrow and other organs",
+    "Toxic effects of prior treatments (in secondary PCL)"
+  ],
+  "diagnosis": [
+    "Presence of >2 billion plasma cells per liter of blood",
+    "Presence of >20% of nucleated blood cells being plasma cells",
+    "Values of 0.5 billion or 5% circulating plasma cells (suggested therapeutic criterion)",
+    "Flow cytometry immunophenotyping of blood cells to detect clonal phenotypes of plasma cells (e.g., CD138+, CD38+, CD19−, CD45+/- phenotype)"
+  ],
+  "treatments": [
+    "VAD regimen (vincristine, doxorubicin, dexamethasone)",
+    "VCMP regimen (vincristine, carmustine, melphalan, prednisone alternating with vincristine, carmustine, doxorubicin, prednisone)",
+    "Proteasome inhibitor drugs (e.g., bortezomib)",
+    "Autologous stem-cell transplantation",
+    "Immunomodulator agents (e.g., thalidomide, lenalidomide, pomalidomide)",
+    "Corticosteroids (e.g., dexamethasone)",
+    "Bortezomib-based induction regimen",
+    "Maintenance regimen of lenalidomide, bortezomib, and dexamethasone",
+    "Intensive chemotherapy",
+    "Three-drug regimen (e.g., bortezomib-lenalidomide-dexamethasone)",
+    "Consolidation/maintenance with immunomodulator agents plus a proteasome inhibitor (e.g., ixazomib, carfilzomib)"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Primary plasma cell leukemia",
+    "Secondary plasma cell leukemia"
+  ]
+}

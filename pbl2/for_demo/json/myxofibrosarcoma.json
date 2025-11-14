@@ -1,0 +1,45 @@
+{
+  "disease_name": "Myxofibrosarcoma",
+  "synonyms": [
+    "MFS",
+    "Malignant fibrous histiocytoma, myxoid variant",
+    "Epithelioid myxofibrosarcoma"
+  ],
+  "summary": "Myxofibrosarcoma (MFS) is a rare soft tissue sarcoma, often developing in elderly individuals. It is characterized by its tendency to recur locally after surgical resection, with recurrences often progressing to higher grades, metastasizing, and becoming life-threatening. An epithelioid variant is particularly aggressive.",
+  "causes": [
+    "Complex chromosome and/or gene abnormalities including ring chromosomes, double minutes, deletions, and translocations"
+  ],
+  "risk_factors": [
+    "Elderly individuals",
+    "Male sex"
+  ],
+  "symptoms": [
+    "Painless, slowly enlarging masses in muscle, skin, or non-cutaneous areas",
+    "Tumor located in extremity, trunk, or head and neck areas",
+    "Metastasis to lungs, bone, and lymph nodes"
+  ],
+  "diagnosis": [
+    "Histopathology of tumors",
+    "Presence of pseudo-lipoblasts in a myxoid sarcoma-like background",
+    "Magnetic resonance imaging (MRI) with T2-weighted imaging showing a tail sign"
+  ],
+  "treatments": [
+    "Radical surgical resection with a 2 cm margin",
+    "Limb amputation (for unresectable limb tumors)",
+    "Adjuvant radiotherapy",
+    "Chemotherapy (anthracycline, Ifosfamide, gemcitabine, paclitaxel, dacarbazine)",
+    "Angiogenesis inhibitors",
+    "Immunotherapeutics (Bevacizumab, Nivolumab)"
+  ],
+  "related_genes": [
+    "NF1",
+    "CDKN2A",
+    "CDKN2B",
+    "CDK6",
+    "CCND1",
+    "MDM2"
+  ],
+  "subtypes": [
+    "Epithelioid myxofibrosarcoma"
+  ]
+}

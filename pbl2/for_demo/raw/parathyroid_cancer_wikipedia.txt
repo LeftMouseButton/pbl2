@@ -1,0 +1,32 @@
+Parathyroid carcinoma is a rare cancer resulting in parathyroid adenoma to carcinoma progression. It forms in tissues of one or more of the parathyroid glands (four pea-sized glands in the neck that make parathyroid hormone (PTH). PTH helps the body maintain normal levels of serum calcium by promoting calcium reabsorption from bone. It is antagonized by the hormone calcitonin, which prompts calcium storage.).
+It is rare—with documented cases of less than one thousand since its first discovery in 1904—and much less common than parathyroid adenoma.
+It can be difficult to excise. The rate of occurrence of parathyroid carcinoma is between 0.5% to 5%.
+
+
+== Signs and symptoms ==
+Most patients experience moderate to severe hypercalcemia and high parathyroid hormone levels. A large mass in the neck is often seen, and kidney and bone abnormalities are common.
+
+
+== Risk factors ==
+Parathyroid cancer occurs in midlife at the same rate in men and women.
+Conditions that appear to result in an increased risk of parathyroid cancer include multiple endocrine neoplasia type 1, autosomal dominant familial isolated hyperparathyroidism and hyperparathyroidism-jaw tumor syndrome (which also is hereditary). Parathyroid cancer has also been associated with external radiation exposure, but most reports describe an association between radiation and the more common parathyroid adenoma.
+
+
+== Diagnosis ==
+On Sestamibi parathyroid scan, intense radioactivity greater than submandibular gland on delayed image, no washout between early and delayed images, and high concentration of parathyroid hormone concentration in blood in those who age more than 40 years is suggestive of parathyroid carcinoma. Some authors suggest high levels of HCG as a marker for parathyroid carcinoma in the right context. However, other thyroid diseases such as multinodular goitre, Hashimoto thyroiditis, thyroid adenoma, and thyroid carcinoma also retains the radiotracer because of high metabolic nature of these diseases. Thus, the final diagnosis always requires pathological examination of the tissue in question.
+
+
+== Treatment ==
+Parathyroid carcinoma is sometimes diagnosed during surgery for primary hyperparathyroidism. If the surgeon suspects carcinoma based on severity or invasion of surrounding tissues by a firm parathyroid tumor, aggressive excision is performed, including the thyroid and surrounding tissues as necessary.
+Agents such as calcimimetics (for example, cinacalcet) are used to mimic calcium and are able to activate the parathyroid calcium-sensing receptor (making the parathyroid gland "think" we have more calcium than we actually do), therefore lowering the calcium level, in an attempt to decrease the hypercalcemia.
+
+
+== References ==
+
+
+== External links ==
+Parathyroid cancer entry in the public domain NCI Dictionary of Cancer Terms
+Parathyroid Carcinoma (Medscape eMedicine)
+Cancer Management Handbook: Thyroid and Parathyroid Cancers Archived 2010-02-28 at the Wayback Machine
+
+ This article incorporates public domain material from Dictionary of Cancer Terms. U.S. National Cancer Institute.

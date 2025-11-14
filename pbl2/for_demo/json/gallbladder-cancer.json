@@ -1,0 +1,64 @@
+{
+  "disease_name": "Gallbladder Cancer",
+  "synonyms": [
+    "Gallbladder carcinoma",
+    "GBC"
+  ],
+  "summary": "Gallbladder cancer is a rare cancer that affects the pear-shaped organ under the liver that stores bile. It is more common in women and certain ethnic groups. The cancer is often diagnosed late, making it difficult to treat. It can spread to other organs like the liver, bile duct, stomach, and duodenum.",
+  "causes": [
+    "Gallstones",
+    "Porcelain gallbladder",
+    "Chronic cholecystitis",
+    "Chronic Salmonella typhi infection",
+    "Congenital abnormalities of the bile duct (e.g., choledochal cyst)"
+  ],
+  "risk_factors": [
+    "Female gender",
+    "Native American ethnicity",
+    "Hispanic ethnicity",
+    "Obesity",
+    "Primary sclerosing cholangitis",
+    "Gallbladder polyps",
+    "Older age"
+  ],
+  "symptoms": [
+    "Jaundice",
+    "Pain above the stomach",
+    "Fever",
+    "Nausea",
+    "Vomiting",
+    "Bloating",
+    "Lumps in the abdomen",
+    "Indigestion (dyspepsia)",
+    "Bilious vomit",
+    "Weakness",
+    "Loss of appetite",
+    "Weight loss",
+    "Abdominal pain"
+  ],
+  "diagnosis": [
+    "Transabdominal ultrasound",
+    "CT scan",
+    "Endoscopic ultrasound",
+    "MRI",
+    "MR cholangio-pancreatography (MRCP)",
+    "Biopsy",
+    "Incidental finding during cholecystectomy for gallstones"
+  ],
+  "treatments": [
+    "Surgery (radical cholecystectomy, extended cholecystectomy, hepatectomy)",
+    "Chemotherapy",
+    "Radiation therapy",
+    "Endoscopic stenting",
+    "Percutaneous transhepatic biliary drainage (PTBD)",
+    "Stent in the stomach",
+    "Re-operation after incidental cancer diagnosis"
+  ],
+  "related_genes": [
+    "Single nucleotide polymorphisms (SNPs)"
+  ],
+  "subtypes": [
+    "Adenocarcinoma",
+    "Squamous cell carcinoma"
+  ]
+}

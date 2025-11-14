@@ -1,0 +1,68 @@
+{
+  "disease_name": "Laryngeal cancer",
+  "synonyms": [
+    "Cancer of the larynx",
+    "Voice box cancer"
+  ],
+  "summary": "Laryngeal cancer is a type of cancer that develops in any part of the larynx (voice box). It is typically a squamous-cell carcinoma. The prognosis is affected by the location of the tumour, which is divided into three anatomical regions: the glottis, the supraglottis, and the subglottis. Laryngeal cancer can spread by direct extension, metastasis to regional lymph nodes, or via the bloodstream.",
+  "causes": [
+    "Tobacco smoking",
+    "Heavy consumption of alcohol",
+    "Combined use of alcohol and tobacco",
+    "Occupational exposure to wood dust",
+    "Occupational exposure to paint fumes",
+    "Occupational exposure to certain chemicals in metalworking, petroleum, plastics, and textile industries",
+    "Infections by some forms of HPV"
+  ],
+  "risk_factors": [
+    "Tobacco use",
+    "Heavy drinking",
+    "History of head and neck cancer",
+    "Chronic exposure to carcinogenic effects of alcohol and tobacco"
+  ],
+  "symptoms": [
+    "Hoarseness or other voice changes",
+    "A lump in the neck",
+    "A sore throat that does not go away",
+    "Feeling that something is stuck in the throat",
+    "Pain or ringing in the ears",
+    "Trouble swallowing",
+    "Ear pain",
+    "Persistent cough",
+    "Stridor (high-pitched wheezing sound)",
+    "Bad breath"
+  ],
+  "diagnosis": [
+    "Physical exam and history",
+    "Imaging tests (chest x-ray, CT or MRI scans)",
+    "Biopsy (histological proof of cancer type and grade)",
+    "Indirect laryngoscopy",
+    "Fibre-optic nasal endoscopy",
+    "Examination of the larynx, trachea, and esophagus",
+    "Palpation of the neck and supraclavicular fossa for cervical adenopathy",
+    "Examination of the oral cavity and oropharynx",
+    "Prognostic multigene classifier"
+  ],
+  "treatments": [
+    "Surgery (partial or full removal of the tumour)",
+    "Radiation therapy",
+    "Chemotherapy",
+    "Targeted therapy",
+    "Physical therapy",
+    "Occupational therapy",
+    "Speech therapy",
+    "Psychiatric care",
+    "Psychological care",
+    "Oral/maxillofacial surgery",
+    "Dental care",
+    "Neurological care",
+    "Neurosurgical care",
+    "Endocrinological care"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Supraglottic cancer",
+    "Glottic cancer",
+    "Subglottic cancer"
+  ]
+}

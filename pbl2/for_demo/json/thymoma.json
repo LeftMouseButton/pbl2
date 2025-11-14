@@ -1,0 +1,47 @@
+{
+  "disease_name": "Thymoma",
+  "synonyms": [
+    "Cancer of the thymus",
+    "Neoplasm of the thymus"
+  ],
+  "summary": "Thymoma is a rare tumor originating from the epithelial cells of the thymus, a small organ in the upper chest. It can be asymptomatic or cause symptoms due to compression of surrounding organs. Thymomas are frequently associated with neuromuscular and autoimmune disorders.",
+  "causes": [
+    "Tumor originating from epithelial cells of the thymus"
+  ],
+  "risk_factors": [],
+  "symptoms": [
+    "Cough that doesn't go away",
+    "Chest pain",
+    "Trouble breathing",
+    "Superior vena cava syndrome",
+    "Dysphagia (difficulty swallowing)",
+    "Asymptomatic (mass identified on imaging)"
+  ],
+  "diagnosis": [
+    "Physical exam",
+    "Imaging tests (CT/CAT scan, chest X-ray)",
+    "Biopsy (CT-guided needle biopsy, histologic examination)",
+    "Full blood count",
+    "Protein electrophoresis",
+    "Antibodies to the acetylcholine receptor",
+    "Electrolytes",
+    "Liver enzymes",
+    "Renal function"
+  ],
+  "treatments": [
+    "Surgery to remove the tumor",
+    "Radiation therapy",
+    "Chemotherapy (cyclophosphamide, doxorubicin, cisplatin)",
+    "Hormone therapy",
+    "Neoadjuvant chemotherapy and/or radiotherapy (for invasive/large tumors)",
+    "Hyperthermic intrathoracic perfusion chemotherapy (ITH)"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Type A",
+    "Type B1",
+    "Type B2",
+    "Type B3",
+    "Type AB"
+  ]
+}

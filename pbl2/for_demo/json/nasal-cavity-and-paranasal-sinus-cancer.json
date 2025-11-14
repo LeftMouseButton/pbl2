@@ -1,0 +1,32 @@
+{
+  "disease_name": "Nasal cavity and paranasal sinus cancer",
+  "synonyms": [
+    "Nasal cancer",
+    "Sinus cancer"
+  ],
+  "summary": "Cancer of the nasal cavity and paranasal sinuses is a rare condition affecting the small hollow spaces around the nose and the passageway behind the nose. These areas are lined with mucus-producing cells. Air passes through the nasal cavity on its way to the throat.",
+  "causes": [
+    "Infection with HPV"
+  ],
+  "risk_factors": [
+    "Male sex",
+    "Age over 40",
+    "Exposure to certain workplace chemicals",
+    "Smoking"
+  ],
+  "symptoms": [
+    "Symptoms similar to infections"
+  ],
+  "diagnosis": [
+    "Imaging tests",
+    "Examination with lighted tube-like instruments",
+    "Biopsies"
+  ],
+  "treatments": [
+    "Surgery",
+    "Radiation therapy",
+    "Chemotherapy"
+  ],
+  "related_genes": [],
+  "subtypes": []
+}

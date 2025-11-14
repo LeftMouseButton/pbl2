@@ -1,0 +1,95 @@
+{
+  "disease_name": "Stomach Cancer",
+  "synonyms": [
+    "Gastric cancer",
+    "Malignant tumor of the stomach"
+  ],
+  "summary": "Stomach cancer is a malignant tumor that develops in the lining of the stomach due to abnormal cell growth. It most commonly affects older individuals and can spread to other parts of the body. Early diagnosis is challenging due to non-specific symptoms, often leading to advanced disease at presentation. The prognosis is generally poor, especially for advanced cases.",
+  "causes": [
+    "Helicobacter pylori infection",
+    "Abnormal cell growth",
+    "Genetic syndromes (e.g., hereditary diffuse gastric cancer)",
+    "Epstein–Barr virus infection",
+    "Bile reflux"
+  ],
+  "risk_factors": [
+    "Older age",
+    "Male sex",
+    "Salted, smoked, or pickled foods consumption",
+    "Smoking cigarettes",
+    "Family history of stomach cancer",
+    "Stomach inflammation",
+    "Obesity",
+    "Alcohol consumption",
+    "Fried foods consumption",
+    "Processed meat consumption",
+    "Red meat consumption",
+    "Brackens consumption",
+    "Iodine deficiency",
+    "AIDS"
+  ],
+  "symptoms": [
+    "Indigestion",
+    "Stomach discomfort",
+    "Heartburn",
+    "Upper abdominal pain",
+    "Nausea",
+    "Loss of appetite",
+    "Vomiting",
+    "Unexplained weight loss",
+    "Jaundice",
+    "Trouble swallowing",
+    "Blood in stool",
+    "Diarrhea",
+    "Constipation",
+    "Yellowing of the skin and whites of the eyes",
+    "Fatigue",
+    "Bloating of the stomach after meals",
+    "Vomiting blood",
+    "Black discolouration of stool (melena)",
+    "Anemia",
+    "Acanthosis nigricans",
+    "Tripe palms",
+    "Leser-Trelat sign"
+  ],
+  "diagnosis": [
+    "Physical exam",
+    "Blood tests",
+    "Imaging tests (e.g., CT scan, PET scan, abdominal ultrasound)",
+    "Endoscopy",
+    "Biopsy",
+    "Histological examination",
+    "Upper GI series (barium roentgenogram)",
+    "Endoscopic ultrasound exam",
+    "Breath test (experimental)",
+    "Complete blood count",
+    "Fecal occult blood test",
+    "Tumor markers (e.g., carcinoembryonic antigen, carbohydrate antigen)"
+  ],
+  "treatments": [
+    "Surgery (e.g., gastrectomy, endoscopic mucosal resection, endoscopic submucosal dissection)",
+    "Chemotherapy (e.g., 5-fluorouracil, cisplatin, epirubicin, etoposide, docetaxel, oxaliplatin, capecitabine, irinotecan)",
+    "Radiation therapy",
+    "Targeted therapy (e.g., trastuzumab for HER2-overexpressing cancer)",
+    "Immunotherapy (e.g., nivolumab)",
+    "Palliative care",
+    "Treatment of H. pylori infection (for MALT lymphomas)"
+  ],
+  "related_genes": [
+    "CDH1",
+    "ITGAV",
+    "DUSP1",
+    "P2RX7"
+  ],
+  "subtypes": [
+    "Gastric adenocarcinomas",
+    "Gastric carcinomas",
+    "Lymphomas",
+    "Mesenchymal tumors",
+    "Intestinal type adenocarcinoma",
+    "Diffuse type adenocarcinoma",
+    "Signet ring cell carcinomas",
+    "Extranodal marginal zone B-cell lymphomas (MALT type)",
+    "Diffuse large B-cell lymphomas"
+  ]
+}

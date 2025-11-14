@@ -1,0 +1,17 @@
+{
+  "timestamp": "2025-11-14T11:08:35",
+  "ontology_files": [
+    "ontologies/doid.obo",
+    "ontologies/NCIT_ThesaurusInferred.owl",
+    "ontologies/hgnc.owl"
+  ],
+  "total_terms_processed": 7576,
+  "matched_terms": 3234,
+  "unmatched_terms": 4342,
+  "match_rate_percent": 42.69,
+  "average_match_score": 80.8,
+  "lowercase_enabled": true,
+  "output_file": "data/combined/all_diseases.json",
+  "ontology_mapping_file": "data/combined/ontology_mapping.json",
+  "unmatched_terms_file": "data/combined/unmatched_terms.txt"
+}

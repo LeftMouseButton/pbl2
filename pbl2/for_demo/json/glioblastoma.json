@@ -1,0 +1,87 @@
+{
+  "disease_name": "Glioblastoma",
+  "synonyms": [
+    "Glioblastoma multiforme",
+    "GBM"
+  ],
+  "summary": "Glioblastoma is the most aggressive and common type of primary brain cancer, originating from astrocytes. It is characterized by rapid growth, infiltrative nature, and a poor prognosis. Diagnosis is typically made through imaging (CT, MRI) and tissue biopsy, often with molecular characterization. Treatment involves a multimodal approach including surgery, radiotherapy, and chemotherapy, with temozolomide being a common chemotherapeutic agent. Despite treatment, recurrence is frequent.",
+  "causes": [
+    "Unknown for most cases",
+    "Ionizing radiation exposure (including CT scan radiation)",
+    "Hereditary syndromes (e.g., neurofibromatosis, Li-Fraumeni syndrome, tuberous sclerosis, Turcot syndrome)",
+    "Infection with oncogenic CMV (potentially necessary for development)",
+    "Genetic alterations in RTK, PI3K/AKT/mTOR, p53, and RB pathways",
+    "Amplification of EGFR gene",
+    "Mutations in TP53 gene",
+    "Alterations in NF1 gene",
+    "Methylation of MGMT gene promoter"
+  ],
+  "risk_factors": [
+    "Genetic disorders (neurofibromatosis, Li-Fraumeni syndrome)",
+    "Previous radiation therapy",
+    "Smoking",
+    "Exposure to pesticides",
+    "Working in petroleum refining or rubber manufacturing",
+    "Exposure to SV40, HHV-6, and cytomegalovirus (CMV)",
+    "Increasing age (> 60 years)",
+    "Male sex"
+  ],
+  "symptoms": [
+    "Headaches",
+    "Personality changes",
+    "Nausea",
+    "Symptoms similar to stroke",
+    "Seizures",
+    "Vomiting",
+    "Memory loss",
+    "Changes to mood or concentration",
+    "Localized neurological problems",
+    "Unconsciousness (in advanced stages)"
+  ],
+  "diagnosis": [
+    "CT scan",
+    "MRI scan (often appearing as ring-enhancing lesions)",
+    "Tissue biopsy (stereotactic biopsy or craniotomy with tumor resection)",
+    "Pathologic confirmation",
+    "Molecular characterization (e.g., IDH1/IDH2 mutation status, EGFR amplification, TERT promoter mutation, ATRX expression)",
+    "Perfusion MRI (for tumor blood flow)",
+    "MR spectroscopy (for tumor metabolite concentration, e.g., increased choline peak)"
+  ],
+  "treatments": [
+    "Surgery (surgical removal/decompression)",
+    "Radiation therapy",
+    "Chemotherapy (e.g., temozolomide)",
+    "High-dose steroids (e.g., dexamethasone) for swelling reduction",
+    "Anticonvulsants (if seizures occur)",
+    "Alternating electric field therapy",
+    "Gene therapy (experimental)",
+    "Oncolytic virotherapy (experimental)",
+    "Intranasal drug delivery (experimental)",
+    "Nanoparticle-based therapeutics (experimental)",
+    "Supportive care",
+    "Cognitive behavioral therapy",
+    "Physical exercise",
+    "Yoga",
+    "Meditation"
+  ],
+  "related_genes": [
+    "EGFR",
+    "TP53",
+    "NF1",
+    "MGMT",
+    "IDH1",
+    "IDH2",
+    "PDGFRA",
+    "ATRX",
+    "STAT3",
+    "CYP1B1-AS1",
+    "AC003092.1",
+    "TMZR1-eRNA"
+  ],
+  "subtypes": [
+    "Classical",
+    "Proneural",
+    "Mesenchymal",
+    "IDH-wild type glioblastoma"
+  ]
+}

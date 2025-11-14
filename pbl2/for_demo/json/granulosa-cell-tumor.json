@@ -1,0 +1,38 @@
+{
+  "disease_name": "Granulosa cell tumour",
+  "synonyms": [
+    "Granulosa cell tumors",
+    "Sex cord–gonadal stromal tumour",
+    "Non-epithelial tumour"
+  ],
+  "summary": "Granulosa cell tumours are estrogen-secreting tumours that arise from granulosa cells. They are part of the sex cord–gonadal stromal tumour group and can occur in both ovaries and testicles. These tumours are considered malignant and are treated similarly to other malignant ovarian tumours. The ovarian disease has adult and juvenile forms, both characterized by indolent growth and high recovery rates, often presenting as stage I.",
+  "causes": [
+    "Somatic mutation in the FOXL2 gene (c.402C>G, p.C134W) in adult granulosa cell tumours",
+    "Somatic mutations of AKT1 (in-frame duplications in the pleckstrin-homology domain or point mutations) in juvenile granulosa cell tumours"
+  ],
+  "risk_factors": [],
+  "symptoms": [
+    "Abnormal uterine bleeding (postmenopausal patients)",
+    "Hemoperitoneum (postmenopausal patients)",
+    "Menometrorrhagia (reproductive age patients)",
+    "Anovulation (reproductive age patients)",
+    "Early onset of puberty (pre-pubertal patients)"
+  ],
+  "diagnosis": [
+    "Gross appearance (tumour size, oval shape, soft consistency)",
+    "Histology (reticular, trabecular areas, interstitial haemorrhage, Call–Exner bodies)",
+    "Tumour marker (Inhibin)",
+    "Histological distinction between adult and juvenile forms (cytoplasm, nuclei, follicle organization)"
+  ],
+  "treatments": [
+    "Treatment as other malignant ovarian tumours"
+  ],
+  "related_genes": [
+    "FOXL2",
+    "AKT1"
+  ],
+  "subtypes": [
+    "Adult granulosa cell tumour",
+    "Juvenile granulosa cell tumour"
+  ]
+}

@@ -1,0 +1,77 @@
+An eye neoplasm is a tumor of the eye. A rare type of tumor, eye neoplasms can affect all parts of the eye, and can either be benign or malignant (cancerous), in which case it is known as eye cancer. Eye cancers can be primary (starts within the eye) or metastatic cancer (spread to the eye from another organ). The two most common cancers that spread to the eye from another organ are breast cancer and lung cancer. Other less common sites of origin include the prostate, kidney, thyroid, skin, colon and blood or bone marrow.
+
+== Types ==
+
+Tumors in the eye and orbit can be benign like dermoid cysts, or malignant like rhabdomyosarcoma and retinoblastoma.
+
+=== Malignant ===
+The most common eyelid tumor is called basal cell carcinoma. This tumor can grow around the eye but rarely spreads to other parts of the body. Other types of common eyelid cancers include squamous carcinoma, sebaceous carcinoma and malignant melanoma. The most common orbital malignancy is orbital lymphoma. This tumor can be diagnosed by biopsy with histopathologic and immunohistochemical analysis. Most patients with orbital lymphoma can be offered chemotherapy or radiation therapy.
+
+==== Adults ====
+The most common malignant primary intraocular tumor in adults is uveal melanoma. These tumors can occur in the choroid, iris and ciliary body. The latter are sometimes called iris or ciliary body melanoma.
+The next most common is primary intraocular lymphoma (PIOL) which is usually non-Hodgkin’s, large cell lymphoma of the B-cell type, although T cell lymphomas have also been described.
+
+==== Children ====
+The most common malignant intraocular tumor in children is retinoblastoma, affecting approximately 325 children per year in North America. Early detection has allowed for cures exceeding 95%.
+The second most common is medulloepithelioma (also called diktyoma) which can occur in the ciliary body and the uvea of the eye.
+
+=== Benign ===
+Orbital dermoid cysts are benign choristomas which are typically found at the junction of sutures, most commonly at the fronto-zygomatic suture. Large deep orbital dermoid cysts can cause pressure effects on the muscles and optic nerve, leading to diplopia and loss of vision.
+
+== Signs and symptoms ==
+
+Melanomas (choroidal, ciliary body and uveal) - In the early stages there may be no symptoms (the person does not know there is a tumor until an ophthalmologist or optometrist looks into the eye with an ophthalmoscope during a routine test). As the tumor grows, symptoms can be blurred vision, decreased vision, double vision, eventual vision loss and if they continue to grow the tumor can break past the retina causing retinal detachment. Sometimes the tumor can be visible through the pupil.
+A nevus is a benign, freckle in the eye. These should be checked out and regular checks on the eye done to ensure it has not turned into a melanoma.
+Iris and conjuctival tumors (melanomas) - Present as a dark spot. Any spot which continues to grow on the iris and the conjunctiva should be checked out.
+Retinoblastoma - Strabismus (crossed eyes), a whitish or yellowish glow through the pupil, decreasing/loss of vision, sometimes the eye may be red and painful. Retinoblastoma can occur in one or both eyes. This tumor occurs in babies and young children. It is called RB for short. Check photographs, normal healthy eyes would have the red eye reflex, but a white/yellow dot instead of the red eye reflex can indicate a tumor or some other kind of eye disease. Any photos of a child/children which have a white/yellow dot instead of the red eye reflex should be evaluated by an eye doctor.
+
+== Diagnosis ==
+
+=== Classification ===
+
+==== Choroidal tumors ====
+Choroidal hemangioma
+Choroidal melanoma
+Choroidal metastasis
+Choroidal nevus
+Choroidal osteoma
+Ciliary body melanoma
+The nevus of Ota
+
+==== Conjunctival tumors ====
+
+Conjunctival Kaposi's sarcoma
+Epibulbar dermoid
+Malignant conjunctival tumors
+Lymphoma of the conjunctiva
+Melanoma and PAM with atypia
+Pigmented conjunctival tumors
+Pingueculum
+Pterygium
+Squamous carcinoma and intraepithelial neoplasia of the conjunctiva
+
+== Treatment ==
+Laser therapy
+Plaque therapy
+Radiotherapy - The ophthalmologist decides in conjunction with the radiation oncologist which type of radiation therapy is most suitable, based on size and location of the tumour. Today, modern radiation treatment modalities, such as proton therapy, are likely to be chosen, for providing superior accuracy in dose delivery, helping to spare healthy tissue and the sensitive optic nerves.
+Proton therapy
+Enucleation of the eye - Removal of the eye, but the muscles and eyelids are left intact. An implant is inserted, then the person wears a conformer shield and later the person will have their prosthesis made and fitted (the prosthesis is made by an ocularist and is made to look like the person's real eye)
+Evisceration - Removal of the eye contents, leaving the sclera or the white part of the eye.
+Exenteration - Removal of the eye, all orbital contents, which can involve the eyelids as well. A special prosthesis is made to cover the defect and improve appearance.
+Iridectomy - Removal of the affected piece of the iris
+Choroidectomy - Removal of the choroid layer (the vascular tissue sandwiched between the sclera and the retina)
+Iridocyclectomy - Removal of the iris plus the ciliary body muscle.
+Eyewall resection - Cutting into the eye to remove a tumor e.g. melanoma. This operation can be quite difficult to perform.
+Chemotherapy
+
+== Ocular oncology ==
+Ocular oncology is the branch of medicine dealing with tumors relating to the eye and its adnexa.
+Ocular oncology takes into consideration that the primary requirement for patients is preservation of life by removal of the tumor, along with best efforts directed at preservation of useful vision, followed by cosmetic appearance. The treatment of ocular tumors is generally a multi-specialty effort, requiring coordination between the ophthalmologist, medical oncologist, radiation specialist, head & neck surgeon/ENT surgeon, pediatrician/internal medicine/hospitalist and a multidisciplinary team of support staff and nurses.
+
+== References ==
+
+== External links ==
+"EyeRounds".
+Eye Cancer - Medline Plus
+Ocular Oncology - Bascom Palmer Eye Institute
+Exophthalmos (Proptosis) at eMedicine

@@ -1,0 +1,78 @@
+{
+  "disease_name": "Desmoid Tumor",
+  "synonyms": [
+    "Aggressive fibromatosis",
+    "Desmoid-type fibromatosis"
+  ],
+  "summary": "Desmoid tumor, also known as aggressive fibromatosis, is a rare, locally aggressive and invasive type of fibromatosis related to sarcoma. It arises from fibroblasts and does not metastasize, but can cause pain, loss of function, and life-threatening problems by compressing vital organs. Most cases are sporadic, but some are associated with familial adenomatous polyposis (FAP). The condition is characterized by a variable and often unpredictable clinical course, with a tendency for recurrence.",
+  "causes": [
+    "Wnt signaling pathway alterations",
+    "CTNNB1 gene mutations",
+    "APC gene mutations",
+    "Familial adenomatous polyposis (FAP)",
+    "Gardner's syndrome",
+    "Pregnancy",
+    "Exposure to higher estrogen levels",
+    "Trauma",
+    "Surgery"
+  ],
+  "risk_factors": [
+    "Female sex (for FAP patients)",
+    "3' APC mutation (for FAP patients)",
+    "Positive family history (for FAP patients)",
+    "History of previous abdominal surgery (for FAP patients and general recurrence)",
+    "CTNNB1 mutation 45F (associated with high risk of recurrence)",
+    "Prior surgery (for recurrence)"
+  ],
+  "symptoms": [
+    "Pain",
+    "Loss of function",
+    "Restricted movement",
+    "Chronic pain",
+    "Deformity",
+    "Compression of vital organs (e.g., intestines, kidneys, lungs, blood vessels, nerves)",
+    "Life-threatening problems",
+    "Death (rarely)"
+  ],
+  "diagnosis": [
+    "Biopsy (core needle biopsy, open biopsy)",
+    "MRI imaging",
+    "CT imaging"
+  ],
+  "treatments": [
+    "Nirogacestat",
+    "AL102 (investigational)",
+    "Wnt pathway inhibitors (e.g., E7386, tegavivint, ipafricept, investigational)",
+    "Surgery (complete surgical removal)",
+    "Watchful waiting",
+    "Radiation therapy",
+    "Antiestrogens (e.g., tamoxifen)",
+    "Nonsteroidal anti-inflammatory drugs (NSAIDs)",
+    "Chemotherapy (e.g., methotrexate, vinblastine, vinorelbine, doxorubicin)",
+    "Ablation (cold, heat, ultrasound)",
+    "Oral tyrosine kinase inhibitors (e.g., imatinib, sorafenib, pazopanib, sunitinib)",
+    "Intestinal transplant"
+  ],
+  "related_genes": [
+    "CTNNB1",
+    "APC"
+  ],
+  "subtypes": [
+    "Extra-abdominal desmoid tumor",
+    "Abdominal wall desmoid tumor",
+    "Intra-abdominal desmoid tumor",
+    "Mesenteric desmoid tumor",
+    "Desmoid tumor of the extremities",
+    "Desmoid tumor of the head and neck",
+    "Desmoid tumor of the breast",
+    "Desmoid tumor of the chest wall",
+    "Intrathoracic desmoid tumor",
+    "Desmoid tumor of the pelvic cavity",
+    "Peritoneal desmoid tumor",
+    "Retroperitoneal desmoid tumor",
+    "Desmoid tumor of upper extremity and shoulder girdle",
+    "Desmoid tumor of lower extremity and pelvic girdle",
+    "Desmoid tumor of buttock",
+    "Desmoid tumor of back"
+  ]
+}

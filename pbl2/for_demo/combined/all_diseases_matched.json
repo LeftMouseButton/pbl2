@@ -1,0 +1,5498 @@
+{
+  "diseases": [
+    {
+      "disease_name": "acoustic neuroma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [
+        "dizziness",
+        "vertigo",
+        "nausea",
+        "vomiting",
+        "sleepiness"
+      ],
+      "diagnosis": [
+        "scan"
+      ],
+      "treatments": [
+        "radiation therapy"
+      ],
+      "related_genes": [
+        "nf2"
+      ],
+      "subtypes": []
+    },
+    {
+      "disease_name": "tonsillitis",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "viral infection",
+        "bacterial infection",
+        "obsolete streptococcal pharyngitis"
+      ],
+      "risk_factors": [],
+      "symptoms": [
+        "sore throat",
+        "fever",
+        "have trouble breathing",
+        "drooling"
+      ],
+      "diagnosis": [],
+      "treatments": [
+        "crest",
+        "fluid",
+        "humidifier",
+        "tonsillectomy"
+      ],
+      "related_genes": [],
+      "subtypes": []
+    },
+    {
+      "disease_name": "adenoid cystic carcinoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [],
+      "diagnosis": [],
+      "treatments": [
+        "adjuvant radiotherapy",
+        "palliative radiation therapy"
+      ],
+      "related_genes": [
+        "myb",
+        "nfib",
+        "mybl1"
+      ],
+      "subtypes": []
+    },
+    {
+      "disease_name": "adrenal gland cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [],
+      "diagnosis": [],
+      "treatments": [
+        "surgery",
+        "chemotherapy",
+        "radiation therapy"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "adrenocortical carcinoma",
+        "neuroblastoma",
+        "pheochromocytoma"
+      ]
+    },
+    {
+      "disease_name": "adrenocortical carcinoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "ctnnb1 gene mutation",
+        "men1 gene mutation",
+        "prkar1a gene mutation",
+        "daxx gene mutation",
+        "ret gene amplification",
+        "homozygous cdkn2a gene deletion"
+      ],
+      "risk_factors": [
+        "family history of marfan syndrome",
+        "tp53 gene mutation"
+      ],
+      "symptoms": [
+        "abdominal pain",
+        "flank pain",
+        "varicocele",
+        "renal vein thrombosis"
+      ],
+      "diagnosis": [
+        "magnetic resonance imaging of bone",
+        "positron emission tomography"
+      ],
+      "treatments": [
+        "palliative radiation therapy",
+        "genetic counseling"
+      ],
+      "related_genes": [
+        "tp53",
+        "ctnnb1",
+        "men1",
+        "prkar1a",
+        "rpl22",
+        "daxx",
+        "tert",
+        "znrf3",
+        "cdkn2a",
+        "h19"
+      ],
+      "subtypes": [
+        "adrenal cortical oncocytic carcinoma",
+        "adrenal cortical myxoid carcinoma",
+        "carcinosarcoma",
+        "primary pigmented nodular adrenocortical disease 1"
+      ]
+    },
+    {
+      "disease_name": "anal cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "cigarette smoking"
+      ],
+      "symptoms": [],
+      "diagnosis": [
+        "physical examination",
+        "digital rectal examination",
+        "proctoscopy"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "chemotherapy",
+        "surgery",
+        "cisplatin",
+        "carboplatin",
+        "doxorubicin",
+        "capecitabine"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "adenocarcinoma",
+        "small cell carcinoma",
+        "melanoma",
+        "cloacogenic carcinoma"
+      ]
+    },
+    {
+      "disease_name": "anaplastic thyroid cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [
+        "rapidly enlarging mass",
+        "have trouble breathing",
+        "have difficulty swallowing",
+        "hoarseness",
+        "cough",
+        "neck pain"
+      ],
+      "diagnosis": [
+        "biopsy",
+        "fine-needle aspiration"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "chemotherapy",
+        "targeted therapy",
+        "adjuvant radiotherapy"
+      ],
+      "related_genes": [
+        "tp53",
+        "pax8",
+        "braf",
+        "tert"
+      ],
+      "subtypes": []
+    },
+    {
+      "disease_name": "angiosarcoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "radiation therapy",
+        "arsenic exposure",
+        "thorotrast exposure",
+        "breast implant",
+        "ultraviolet radiation",
+        "neurofibromatosis",
+        "maffucci syndrome",
+        "klippel-trenaunay syndrome"
+      ],
+      "symptoms": [
+        "skin lesion",
+        "ulceration",
+        "no shortness of breath",
+        "abdominal pain",
+        "chest pain",
+        "weight loss",
+        "syncope",
+        "pericardial effusion",
+        "cardiac tamponade",
+        "cardiomegaly"
+      ],
+      "diagnosis": [
+        "biopsy",
+        "von willebrand factor human",
+        "vascular endothelial growth factor receptor"
+      ],
+      "treatments": [
+        "surgery",
+        "chemotherapy",
+        "radiation therapy"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "primary breast angiosarcoma",
+        "primary breast angiosarcoma",
+        "soft tissue angiosarcoma"
+      ]
+    },
+    {
+      "disease_name": "appendix cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [
+        "pseudomyxoma peritonei"
+      ],
+      "diagnosis": [],
+      "treatments": [
+        "appendectomy",
+        "right colectomy",
+        "cytoreductive surgery",
+        "hyperthermic intraperitoneal chemotherapy"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "gastric gastrointestinal stromal tumor",
+        "mucinous adenocarcinoma",
+        "signet ring cell adenocarcinoma",
+        "appendix mucinous neoplasm"
+      ]
+    },
+    {
+      "disease_name": "astroblastoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [
+        "increased intracranial pressure",
+        "nausea",
+        "vomiting",
+        "weight loss",
+        "lethargy",
+        "impaired vision",
+        "blurred vision",
+        "seizure",
+        "hallucination",
+        "cognitive regulation index",
+        "irritability",
+        "aggression"
+      ],
+      "diagnosis": [
+        "histology",
+        "comparative genomic hybridization"
+      ],
+      "treatments": [
+        "surgery",
+        "craniotomy",
+        "chemotherapy",
+        "etoposide",
+        "vincristine",
+        "ifosfamide",
+        "cisplatin",
+        "temozolomide",
+        "stem cell therapy"
+      ],
+      "related_genes": [
+        "gfap",
+        "cd33"
+      ],
+      "subtypes": [
+        "anaplastic astrocytoma"
+      ]
+    },
+    {
+      "disease_name": "astrocytoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [
+        "no hearing problems",
+        "have trouble walking",
+        "personality change",
+        "seizure"
+      ],
+      "diagnosis": [],
+      "treatments": [
+        "radiation therapy",
+        "chemotherapy"
+      ],
+      "related_genes": [
+        "cdkn2a"
+      ],
+      "subtypes": []
+    },
+    {
+      "disease_name": "atypical teratoid rhabdoid tumor",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "germline samd9 gene mutation",
+        "chromosomal deletion",
+        "smarcb1 gene mutation"
+      ],
+      "risk_factors": [],
+      "symptoms": [
+        "nausea",
+        "vomiting",
+        "no hearing problems",
+        "personality change",
+        "seizure"
+      ],
+      "diagnosis": [
+        "bone marrow aspiration",
+        "bone marrow biopsy",
+        "bone scan"
+      ],
+      "treatments": [
+        "intrathecal chemotherapy"
+      ],
+      "related_genes": [
+        "smarcb1",
+        "opn3"
+      ],
+      "subtypes": [
+        "posterior cranial fossa"
+      ]
+    },
+    {
+      "disease_name": "basal-cell carcinoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "gene mutation",
+        "ptch1 gene mutation",
+        "smo gene mutation"
+      ],
+      "risk_factors": [
+        "fair skin",
+        "family history of ovarian cancer",
+        "prior radiation therapy"
+      ],
+      "symptoms": [],
+      "diagnosis": [
+        "skin examination",
+        "shave biopsy"
+      ],
+      "treatments": [
+        "surgery",
+        "mohs surgery",
+        "electrodessication and curettage",
+        "cryosurgery",
+        "photodynamic therapy",
+        "laser surgery",
+        "radiation therapy",
+        "external beam radiation therapy",
+        "brachytherapy",
+        "systemic chemotherapy",
+        "targeted therapy",
+        "vismodegib",
+        "sonidegib",
+        "itraconazole",
+        "biological therapy"
+      ],
+      "related_genes": [
+        "ptch1",
+        "smo"
+      ],
+      "subtypes": []
+    },
+    {
+      "disease_name": "cholangiocarcinoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "primary sclerosing cholangitis",
+        "ulcerative colitis",
+        "cirrhosis",
+        "hepatitis c",
+        "hepatitis b",
+        "hiv infection",
+        "lynch syndrome 1",
+        "biliary papillomatosis",
+        "thorotrast exposure"
+      ],
+      "symptoms": [
+        "abdominal pain",
+        "weight loss",
+        "fever"
+      ],
+      "diagnosis": [
+        "percutaneous transhepatic cholangiography",
+        "histopathologic examination",
+        "immunocytochemistry"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "liver transplantation",
+        "adjuvant therapy"
+      ],
+      "related_genes": [
+        "fgfr2",
+        "idh1"
+      ],
+      "subtypes": [
+        "intrahepatic cholangiocarcinoma",
+        "intrahepatic cholangiocarcinoma",
+        "hilar cholangiocarcinoma"
+      ]
+    },
+    {
+      "disease_name": "cholangiocarcinoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "cholestasis"
+      ],
+      "risk_factors": [
+        "primary sclerosing cholangitis",
+        "ulcerative colitis",
+        "cirrhosis",
+        "hepatitis c infection",
+        "hepatitis b infection",
+        "lynch syndrome 1",
+        "biliary papillomatosis",
+        "alcoholic liver disease",
+        "hiv infection"
+      ],
+      "symptoms": [
+        "jaundice",
+        "skin itches",
+        "fever",
+        "abdominal pain",
+        "weight loss",
+        "abnormal liver function test",
+        "elevated urine alkaline phosphatase"
+      ],
+      "diagnosis": [
+        "magnetic resonance cholangiopancreatography",
+        "liver function test",
+        "biopsy",
+        "endoscopic ultrasound biopsy",
+        "percutaneous transhepatic cholangiography",
+        "immunocytochemistry"
+      ],
+      "treatments": [
+        "surgery",
+        "liver transplantation",
+        "whipple procedure",
+        "partial hepatectomy",
+        "radiation therapy",
+        "chemotherapy",
+        "gemcitabine",
+        "cisplatin",
+        "irinotecan",
+        "capecitabine",
+        "targeted therapy",
+        "erlotinib",
+        "transarterial chemoembolization",
+        "transarterial radioembolization",
+        "ablation therapy"
+      ],
+      "related_genes": [
+        "fgfr2",
+        "idh1"
+      ],
+      "subtypes": [
+        "intrahepatic cholangiocarcinoma",
+        "intrahepatic cholangiocarcinoma",
+        "hilar cholangiocarcinoma",
+        "klatskin's tumor",
+        "adenocarcinoma"
+      ]
+    },
+    {
+      "disease_name": "bladder cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "smoking tobacco",
+        "gene mutation"
+      ],
+      "risk_factors": [
+        "smoking",
+        "family history of breast cancer",
+        "schistosomiasis"
+      ],
+      "symptoms": [
+        "lower back pain",
+        "bone pain",
+        "recurrent ebv infection",
+        "loss of appetite",
+        "weight loss",
+        "jaundice",
+        "skin itches"
+      ],
+      "diagnosis": [
+        "cystoscopy",
+        "urine cytology",
+        "tnm staging system"
+      ],
+      "treatments": [
+        "surgery",
+        "transurethral resection of bladder tumor",
+        "radical cystectomy",
+        "partial cystectomy",
+        "chemotherapy",
+        "radiation therapy",
+        "biological therapy",
+        "clinical trial"
+      ],
+      "related_genes": [
+        "rb1",
+        "pten",
+        "mlh1",
+        "msh2",
+        "msh6",
+        "pms2",
+        "nat2",
+        "gstm1",
+        "ugt1a6",
+        "tp63",
+        "ccne1",
+        "myc",
+        "fgfr3",
+        "nbn",
+        "xrcc1",
+        "xrcc3",
+        "ercc2",
+        "ercc4",
+        "ercc5",
+        "pik3ca",
+        "erbb2",
+        "erbb3",
+        "tsc1",
+        "tp53",
+        "cdh1",
+        "tert"
+      ],
+      "subtypes": [
+        "urothelial carcinoma",
+        "transitional cell carcinoma",
+        "squamous cell carcinoma",
+        "adenocarcinoma",
+        "sarcoma",
+        "in situ carcinoma"
+      ]
+    },
+    {
+      "disease_name": "bone cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [
+        "fatigue",
+        "fever",
+        "weight loss",
+        "anemia",
+        "nausea"
+      ],
+      "diagnosis": [
+        "x-ray",
+        "gel electrophoresis",
+        "liver function test"
+      ],
+      "treatments": [
+        "chemotherapy",
+        "radiation therapy"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "osteosarcoma",
+        "chondrosarcoma",
+        "ewing sarcoma",
+        "fibrosarcoma",
+        "multiple myeloma"
+      ]
+    },
+    {
+      "disease_name": "chronic lymphocytic leukemia",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [
+        "swollen lymph node",
+        "weakness",
+        "fatigue",
+        "fever",
+        "infection",
+        "easy bruising",
+        "easy bleeding",
+        "petechia",
+        "anemia"
+      ],
+      "diagnosis": [
+        "bone marrow biopsy",
+        "lymph node biopsy"
+      ],
+      "treatments": [
+        "chemotherapy",
+        "radiation therapy",
+        "immunotherapy",
+        "bone marrow transplantation",
+        "stem cell transplant source"
+      ],
+      "related_genes": [],
+      "subtypes": []
+    },
+    {
+      "disease_name": "brain tumor",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "epstein-barr virus",
+        "ionizing radiation"
+      ],
+      "symptoms": [
+        "nausea",
+        "vomiting",
+        "hearing loss",
+        "weakness",
+        "sleepiness",
+        "seizure",
+        "consciousness",
+        "difficulty urinating",
+        "difficulty urinating"
+      ],
+      "diagnosis": [
+        "medical examination",
+        "clinical investigation",
+        "diffusion weighted imaging",
+        "biopsy"
+      ],
+      "treatments": [
+        "targeted therapy",
+        "monitoring"
+      ],
+      "related_genes": [
+        "tp53",
+        "idh1",
+        "idh2",
+        "atrx",
+        "egfr",
+        "tert",
+        "pten"
+      ],
+      "subtypes": [
+        "cancer",
+        "glioma",
+        "meningioma",
+        "pituitary adenoma",
+        "peripheral nerve sheath neoplasm",
+        "astrocytoma",
+        "glioblastoma",
+        "medulloblastoma",
+        "oligodendroglioma",
+        "anaplastic astrocytoma",
+        "anaplastic oligodendroglioma",
+        "central neurocytoma",
+        "choroid plexus carcinoma",
+        "choroid plexus papilloma",
+        "choroid plexus cancer",
+        "dysembryoplastic neuroepithelial tumor",
+        "ependymal tumor",
+        "fibrillary astrocytoma",
+        "gliomatosis cerebri",
+        "gliosarcoma",
+        "hemangiopericytoma",
+        "medulloepithelioma",
+        "meningeal carcinomatosis",
+        "neuroblastoma",
+        "pulmonary sclerosing hemangioma",
+        "oligoastrocytoma",
+        "optic nerve sheath meningioma",
+        "pilocytic astrocytoma",
+        "pineoblastoma",
+        "pineocytoma",
+        "pleomorphic xanthoastrocytoma",
+        "refractory central nervous system lymphoma",
+        "subependymal giant cell astrocytoma",
+        "subependymoma",
+        "trilateral retinoblastoma",
+        "acoustic neuroma"
+      ]
+    },
+    {
+      "disease_name": "breast cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "g-protein coupled estrogen receptor 1"
+      ],
+      "risk_factors": [
+        "family history of breast cancer",
+        "obesity",
+        "family history of breast cancer",
+        "diabetes mellitus",
+        "ionizing radiation",
+        "smoking tobacco",
+        "klinefelter syndrome"
+      ],
+      "symptoms": [],
+      "diagnosis": [
+        "sentinel lymph node biopsy"
+      ],
+      "treatments": [],
+      "related_genes": [
+        "brca1",
+        "brca2",
+        "tp53",
+        "herc2",
+        "palb2",
+        "pten",
+        "plb1",
+        "gata3",
+        "pik3ca"
+      ],
+      "subtypes": [
+        "breast ductal carcinoma",
+        "invasive lobular carcinoma",
+        "mammary paget's disease",
+        "ductal carcinoma in situ",
+        "lobular neoplasia",
+        "mucinous adenocarcinoma",
+        "tubular adenocarcinoma",
+        "obsolete medullary carcinoma",
+        "papillary carcinoma",
+        "triple-negative breast cancer finding"
+      ]
+    },
+    {
+      "disease_name": "carcinoid syndrome",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [
+        "diarrhea",
+        "abdominal cramp",
+        "abdominal pain",
+        "bronchoconstriction",
+        "sneezing",
+        "no shortness of breath",
+        "fatigue",
+        "vomiting",
+        "malabsorption",
+        "cognitive impairment",
+        "retroperitoneal fibrosis"
+      ],
+      "diagnosis": [],
+      "treatments": [],
+      "related_genes": [],
+      "subtypes": []
+    },
+    {
+      "disease_name": "carcinoid tumor",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "achlorhydria",
+        "autoimmune thyroiditis",
+        "pernicious anemia"
+      ],
+      "symptoms": [
+        "diarrhea",
+        "have trouble breathing",
+        "wheezing",
+        "bronchoconstriction",
+        "abdominal cramp",
+        "tricuspid valve disease",
+        "dermatitis",
+        "dementia",
+        "hemorrhage"
+      ],
+      "diagnosis": [
+        "history and physical exam"
+      ],
+      "treatments": [
+        "surgery"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "gastrointestinal carcinoma",
+        "lung carcinoma",
+        "neuroendocrine cell"
+      ]
+    },
+    {
+      "disease_name": "carcinosarcoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [],
+      "diagnosis": [],
+      "treatments": [],
+      "related_genes": [
+        "tp53",
+        "kras"
+      ],
+      "subtypes": [
+        "adenosarcoma",
+        "uterine angiosarcoma"
+      ]
+    },
+    {
+      "disease_name": "castleman disease",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [
+        "fever",
+        "fatigue",
+        "night sweats",
+        "weight loss",
+        "skin rash",
+        "flu-like symptoms",
+        "ovarian dysfunction",
+        "obsolete hypergammaglobulinemia"
+      ],
+      "diagnosis": [],
+      "treatments": [],
+      "related_genes": [],
+      "subtypes": [
+        "unicentric castleman disease",
+        "multicentric castleman disease"
+      ]
+    },
+    {
+      "disease_name": "cervical cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "obesity"
+      ],
+      "symptoms": [
+        "pelvic pain",
+        "fatigue",
+        "loss of appetite",
+        "weight loss"
+      ],
+      "diagnosis": [],
+      "treatments": [
+        "targeted therapy"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "squamous cell carcinoma",
+        "adenocarcinoma",
+        "adenosquamous carcinoma",
+        "small cell carcinoma",
+        "neuroendocrine tumor",
+        "glassy cell carcinoma",
+        "cervical villoglandular adenocarcinoma",
+        "gastric mucinous adenocarcinoma"
+      ]
+    },
+    {
+      "disease_name": "chordoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "age between 80 and 85 years"
+      ],
+      "symptoms": [
+        "pain"
+      ],
+      "diagnosis": [],
+      "treatments": [
+        "radiation therapy",
+        "amputation",
+        "chemotherapy",
+        "carbon ion radiotherapy",
+        "pemetrexed",
+        "pembrolizumab",
+        "afatinib",
+        "lapatinib",
+        "imatinib"
+      ],
+      "related_genes": [
+        "tsc1",
+        "tsc2",
+        "pten",
+        "akt1",
+        "eif4ebp1",
+        "pdgfrb",
+        "egfr",
+        "herc2"
+      ],
+      "subtypes": [
+        "conventional chordoma",
+        "chondroid chordoma",
+        "dedifferentiated chordoma"
+      ]
+    },
+    {
+      "disease_name": "choriocarcinoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "hydatidiform mole",
+        "spontaneous abortion",
+        "ectopic pregnancy",
+        "normal pregnancy",
+        "hyperemesis gravidarum"
+      ],
+      "risk_factors": [],
+      "symptoms": [
+        "vaginal bleeding",
+        "no shortness of breath",
+        "chest pain",
+        "hyperthyroidism"
+      ],
+      "diagnosis": [],
+      "treatments": [
+        "chemotherapy",
+        "methotrexate",
+        "dactinomycin",
+        "hysterectomy"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "gestational choriocarcinoma",
+        "testicular choriocarcinoma",
+        "ovarian choriocarcinoma"
+      ]
+    },
+    {
+      "disease_name": "chronic myeloid leukemia",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "bcr/abl1 fusion gene"
+      ],
+      "risk_factors": [],
+      "symptoms": [
+        "fatigue",
+        "fever",
+        "anemia",
+        "easy bleeding",
+        "petechia",
+        "ecchymosis",
+        "bone pain",
+        "loss of appetite"
+      ],
+      "diagnosis": [
+        "bone marrow aspiration",
+        "bone marrow biopsy"
+      ],
+      "treatments": [
+        "tyrosine kinase inhibitor",
+        "imatinib mesylate",
+        "dasatinib",
+        "nilotinib",
+        "radotinib",
+        "bosutinib",
+        "asciminib",
+        "ponatinib",
+        "chemotherapy",
+        "immunotherapy",
+        "high-dose chemotherapy with stem cell support",
+        "allogeneic stem cell transplantation",
+        "bone marrow transplantation",
+        "donor lymphocyte infusion",
+        "hydroxyurea",
+        "omacetaxine",
+        "interferon alfa-2c"
+      ],
+      "related_genes": [
+        "bcr",
+        "abl1"
+      ],
+      "subtypes": [
+        "chronic phase"
+      ]
+    },
+    {
+      "disease_name": "clear cell sarcoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "ewsr1/atf1 fusion gene",
+        "ewsr1/creb1 fusion gene",
+        "ewsr1/creb1 fusion gene",
+        "ewsr1/ddit3 fusion gene"
+      ],
+      "risk_factors": [],
+      "symptoms": [
+        "slow growing mass",
+        "head mass"
+      ],
+      "diagnosis": [
+        "biopsy",
+        "x-ray"
+      ],
+      "treatments": [
+        "radiation therapy"
+      ],
+      "related_genes": [],
+      "subtypes": []
+    },
+    {
+      "disease_name": "colorectal cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "apc gene mutation",
+        "tp53 gene mutation",
+        "mismatch repair deficiency"
+      ],
+      "risk_factors": [
+        "personal history of colorectal cancer",
+        "cigarette smoking",
+        "obesity"
+      ],
+      "symptoms": [
+        "bloating",
+        "fatigue",
+        "loss of appetite"
+      ],
+      "diagnosis": [
+        "screening test",
+        "colonoscopy",
+        "biopsy"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "hyperthermic intraperitoneal chemotherapy"
+      ],
+      "related_genes": [
+        "apc",
+        "ctnnb1",
+        "axin1",
+        "axin2",
+        "tcf7l2",
+        "nkd1",
+        "tp53",
+        "bax",
+        "dcc",
+        "smad1",
+        "kras",
+        "braf",
+        "pi3",
+        "pten",
+        "fam13b",
+        "sox9",
+        "atm",
+        "arid1a",
+        "acvr2a",
+        "tgfbr2",
+        "msh3",
+        "msh6",
+        "slc9a9",
+        "braf",
+        "myc",
+        "pole",
+        "pold1",
+        "macc1",
+        "hspa1a",
+        "rbm3"
+      ],
+      "subtypes": [
+        "colon cancer",
+        "rectum cancer",
+        "adenocarcinoma",
+        "lymphoma",
+        "adenosquamous carcinoma",
+        "squamous cell carcinoma",
+        "hypermutated colorectal carcinoma"
+      ]
+    },
+    {
+      "disease_name": "cutaneous t-cell lymphoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "htlv-1 infection",
+        "htlv-1 infection",
+        "hiv infection",
+        "epstein-barr virus infectious disease",
+        "obsolete cytomegalovirus infectious disease",
+        "hhv6 infection",
+        "hhv6 infection",
+        "staphylococcus aureus infection"
+      ],
+      "symptoms": [
+        "skin lesion",
+        "trash",
+        "plaque",
+        "pain"
+      ],
+      "diagnosis": [],
+      "treatments": [
+        "histone deacetylase inhibitor"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "mycosis fungoides",
+        "adult t-cell leukemia/lymphoma"
+      ]
+    },
+    {
+      "disease_name": "dermatofibrosarcoma protuberans (dfsp)",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [],
+      "diagnosis": [],
+      "treatments": [
+        "surgery",
+        "wide local excision"
+      ],
+      "related_genes": [
+        "col1a1",
+        "pdgfd",
+        "cd34"
+      ],
+      "subtypes": [
+        "ovarian granulosa cell"
+      ]
+    },
+    {
+      "disease_name": "desmoid tumor",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "ctnnb1 gene mutation",
+        "apc gene mutation",
+        "familial adenomatous polyposis 1",
+        "gardner syndrome",
+        "pregnancy",
+        "surgery"
+      ],
+      "risk_factors": [],
+      "symptoms": [
+        "pain",
+        "chronic pain"
+      ],
+      "diagnosis": [],
+      "treatments": [
+        "nirogacestat",
+        "radiation therapy",
+        "nonsteroidal antiinflammatory drug"
+      ],
+      "related_genes": [
+        "ctnnb1",
+        "apc"
+      ],
+      "subtypes": [
+        "periosteal desmoid tumor"
+      ]
+    },
+    {
+      "disease_name": "embryonal carcinoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [
+        "lower back pain",
+        "dyspnea",
+        "cough",
+        "hemoptysis",
+        "hematemesis"
+      ],
+      "diagnosis": [],
+      "treatments": [
+        "chemotherapy"
+      ],
+      "related_genes": [],
+      "subtypes": []
+    },
+    {
+      "disease_name": "thymus cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "myasthenia gravis",
+        "lupus erythematosus",
+        "rheumatoid arthritis"
+      ],
+      "symptoms": [
+        "chest pain",
+        "have trouble breathing"
+      ],
+      "diagnosis": [
+        "biopsy"
+      ],
+      "treatments": [
+        "surgery",
+        "radiation therapy",
+        "chemotherapy",
+        "hormone therapy"
+      ],
+      "related_genes": [],
+      "subtypes": []
+    },
+    {
+      "disease_name": "endometrial cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "chromosomal instability",
+        "kras gene mutation",
+        "microsatellite instability",
+        "endometrial hyperplasia"
+      ],
+      "risk_factors": [
+        "obesity",
+        "metabolic syndrome",
+        "type 2 diabetes mellitus",
+        "insulin resistance",
+        "polycystic ovary syndrome",
+        "lynch syndrome",
+        "endometrial hyperplasia",
+        "ovarian granulosa cell tumor",
+        "thecoma",
+        "cowden syndrome"
+      ],
+      "symptoms": [
+        "pelvic pain",
+        "enlarged uterus",
+        "pelvic mass",
+        "lower abdominal pain"
+      ],
+      "diagnosis": [
+        "endometrial biopsy",
+        "dilation and curettage",
+        "transvaginal ultrasound",
+        "liver function test"
+      ],
+      "treatments": [
+        "hysterectomy",
+        "cytoreductive surgery",
+        "hormone therapy",
+        "progestin",
+        "hydroxyprogesterone caproate",
+        "letrozole",
+        "megestrol acetate",
+        "medroxyprogesterone",
+        "radiation therapy",
+        "chemotherapy",
+        "paclitaxel",
+        "docetaxel",
+        "doxorubicin",
+        "cisplatin",
+        "carboplatin",
+        "capecitabine",
+        "gemcitabine"
+      ],
+      "related_genes": [
+        "mlh1",
+        "msh2",
+        "msh6",
+        "pms2",
+        "tp53",
+        "pten",
+        "pik3ca",
+        "kras",
+        "fgfr2",
+        "spop",
+        "arid1a",
+        "brca1",
+        "brca2"
+      ],
+      "subtypes": [
+        "endometrial carcinoma",
+        "villoglandular endometrial endometrioid adenocarcinoma",
+        "recurrent endometrioid adenocarcinoma",
+        "ovarian endometrioid adenocarcinoma with squamous differentiation",
+        "endometrial mucinous adenocarcinoma",
+        "serous cystadenocarcinoma",
+        "large cell carcinoma",
+        "mucinous adenocarcinoma",
+        "mixed carcinoma",
+        "undifferentiated carcinoma",
+        "carcinosarcoma",
+        "metastatic squamous cell carcinoma",
+        "transitional cell carcinoma",
+        "endometrial stromal sarcoma",
+        "rat endometrial stromal sarcoma",
+        "type i endometrial adenocarcinoma",
+        "type ii endometrial adenocarcinoma"
+      ]
+    },
+    {
+      "disease_name": "primitive neuroectodermal tumor",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "gene mutation"
+      ],
+      "risk_factors": [],
+      "symptoms": [],
+      "diagnosis": [
+        "x-ray",
+        "bone marrow biopsy"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "adjuvant chemotherapy"
+      ],
+      "related_genes": [
+        "tp53"
+      ],
+      "subtypes": [
+        "medulloblastoma"
+      ]
+    },
+    {
+      "disease_name": "ependymoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "vestibular schwannomatosis"
+      ],
+      "symptoms": [
+        "nausea",
+        "vomiting",
+        "no hearing problems",
+        "personality change",
+        "seizure",
+        "vertigo",
+        "hydrocephalus",
+        "loss of appetite",
+        "npi - difficulty sleeping",
+        "impaction",
+        "constipation",
+        "dizziness",
+        "back pain",
+        "have weakness in limbs"
+      ],
+      "diagnosis": [],
+      "treatments": [
+        "radiation therapy",
+        "prophylactic cranial irradiation"
+      ],
+      "related_genes": [
+        "zfta",
+        "yap1",
+        "myc"
+      ],
+      "subtypes": [
+        "myxopapillary ependymoma",
+        "anaplastic ependymoma",
+        "high grade ependymoma",
+        "embryonal tumor with multilayered rosettes, c19mc-altered",
+        "mouse subependymoma",
+        "high grade ependymoma",
+        "high grade ependymoma",
+        "supratentorial ependymoma",
+        "spinal cord ependymoma"
+      ]
+    },
+    {
+      "disease_name": "epithelioid hemangioendothelioma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [
+        "pain"
+      ],
+      "diagnosis": [
+        "histopathologic examination",
+        "cytogenetic analysis"
+      ],
+      "treatments": [
+        "tyrosine kinase inhibitor",
+        "sorafenib",
+        "sunitinib",
+        "pazopanib",
+        "vincristine",
+        "interferon",
+        "surgery",
+        "paclitaxel",
+        "combination chemotherapy",
+        "thalidomide",
+        "doxorubicin"
+      ],
+      "related_genes": [
+        "wwtr1",
+        "camta1",
+        "fos transcription factor family",
+        "yap1"
+      ],
+      "subtypes": []
+    },
+    {
+      "disease_name": "esophageal cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "alcohol consumption",
+        "nutritional deficiency",
+        "barrett's esophagus",
+        "achalasia",
+        "plummer-vinson syndrome"
+      ],
+      "risk_factors": [
+        "smoking",
+        "dietary nitrosamine",
+        "obesity",
+        "gastroesophageal reflux disease",
+        "barrett's esophagus",
+        "bile reflux",
+        "achalasia",
+        "plummer-vinson syndrome",
+        "human papillomavirus infection",
+        "head and neck cancer",
+        "palmoplantar keratoderma-esophageal carcinoma syndrome"
+      ],
+      "symptoms": [
+        "weight loss",
+        "nausea",
+        "vomiting",
+        "airway obstruction",
+        "superior vena cava syndrome",
+        "hypercalcemia"
+      ],
+      "diagnosis": [
+        "tnm staging system",
+        "rai staging system"
+      ],
+      "treatments": [
+        "endoscopic mucosal resection",
+        "radiation therapy",
+        "gastrostomy",
+        "laser therapy"
+      ],
+      "related_genes": [
+        "rhbdf2",
+        "hoxa13"
+      ],
+      "subtypes": [
+        "esophageal adenocarcinoma",
+        "leiomyosarcoma",
+        "melanoma",
+        "rhabdomyosarcoma",
+        "lymphoma"
+      ]
+    },
+    {
+      "disease_name": "esophageal cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "alcohol consumption",
+        "nutritional deficiency",
+        "gastroesophageal reflux disease",
+        "barrett's esophagus"
+      ],
+      "risk_factors": [
+        "smoking",
+        "alcohol consumption",
+        "gastroesophageal reflux disease",
+        "obesity",
+        "barrett's esophagus",
+        "palmoplantar keratoderma-esophageal carcinoma syndrome",
+        "achalasia",
+        "plummer-vinson syndrome"
+      ],
+      "symptoms": [
+        "weight loss",
+        "nausea",
+        "vomiting",
+        "airway obstruction",
+        "superior vena cava syndrome",
+        "hypercalcemia",
+        "dyspnea"
+      ],
+      "diagnosis": [
+        "biopsy"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "nutritional support",
+        "gastrostomy",
+        "laser therapy"
+      ],
+      "related_genes": [
+        "rhbdf2",
+        "hoxa13"
+      ],
+      "subtypes": [
+        "esophageal adenocarcinoma",
+        "leiomyosarcoma",
+        "melanoma",
+        "rhabdomyosarcoma",
+        "lymphoma"
+      ]
+    },
+    {
+      "disease_name": "ewing sarcoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "ewsr1/fli1 fusion protein",
+        "gene mutation"
+      ],
+      "risk_factors": [
+        "age between 80 and 85 years"
+      ],
+      "symptoms": [
+        "anemia",
+        "leukocytosis"
+      ],
+      "diagnosis": [
+        "morphologic finding",
+        "magnetic resonance imaging"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "stem cell transplant source",
+        "antisense oligonucleotides",
+        "proton beam radiation therapy"
+      ],
+      "related_genes": [
+        "ewsr1",
+        "fli1",
+        "egr2",
+        "nkx2-2",
+        "cd99",
+        "micu2"
+      ],
+      "subtypes": []
+    },
+    {
+      "disease_name": "eye cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [
+        "blurred vision",
+        "blindness",
+        "retinal detachment"
+      ],
+      "diagnosis": [],
+      "treatments": [
+        "general surgery",
+        "radiation therapy",
+        "laser therapy",
+        "chemotherapy"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "retinoblastoma",
+        "malignant conjunctival melanoma",
+        "orbit lymphoma",
+        "rhabdomyosarcoma"
+      ]
+    },
+    {
+      "disease_name": "fallopian tube cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "brca1 gene mutation",
+        "brca2 gene mutation",
+        "lynch syndrome"
+      ],
+      "risk_factors": [
+        "family history of ovarian cancer",
+        "endometriosis",
+        "hormone replacement therapy",
+        "tall stature"
+      ],
+      "symptoms": [
+        "trouble relaxing",
+        "abdominal distension",
+        "weight loss"
+      ],
+      "diagnosis": [],
+      "treatments": [
+        "cytoreductive surgery",
+        "radiation therapy"
+      ],
+      "related_genes": [
+        "brca1",
+        "brca2"
+      ],
+      "subtypes": [
+        "adenocarcinoma",
+        "leiomyosarcoma",
+        "transitional cell carcinoma"
+      ]
+    },
+    {
+      "disease_name": "fibrosarcoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [],
+      "diagnosis": [],
+      "treatments": [
+        "surgery"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "adult fibrosarcoma",
+        "infantile fibrosarcoma"
+      ]
+    },
+    {
+      "disease_name": "gallbladder cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "gallbladder pain",
+        "chronic cholecystitis"
+      ],
+      "risk_factors": [
+        "female gender",
+        "obesity",
+        "primary sclerosing cholangitis",
+        "gallbladder polyp"
+      ],
+      "symptoms": [
+        "jaundice",
+        "fever",
+        "nausea",
+        "vomiting",
+        "bloating",
+        "weakness",
+        "loss of appetite",
+        "weight loss",
+        "abdominal pain"
+      ],
+      "diagnosis": [
+        "transabdominal ultrasound",
+        "endoscopic ultrasound",
+        "biopsy"
+      ],
+      "treatments": [
+        "chemotherapy",
+        "radiation therapy",
+        "percutaneous transhepatic biliary drainage"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "adenocarcinoma",
+        "squamous cell carcinoma"
+      ]
+    },
+    {
+      "disease_name": "gastric cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "helicobacter pylori infection",
+        "hereditary diffuse gastric cancer",
+        "epstein-barr virus",
+        "bile reflux"
+      ],
+      "risk_factors": [
+        "smoking",
+        "obesity",
+        "alcohol consumption",
+        "iodine deficiency",
+        "acquired immunodeficiency syndrome"
+      ],
+      "symptoms": [
+        "heartburn",
+        "nausea",
+        "loss of appetite",
+        "weight loss",
+        "vomiting",
+        "have difficulty swallowing",
+        "fatigue",
+        "anemia",
+        "digestion",
+        "have abdominal discomfort",
+        "diarrhea",
+        "constipation",
+        "weakness"
+      ],
+      "diagnosis": [
+        "breath test",
+        "optical coherence tomography",
+        "fecal occult blood test",
+        "endoscopic ultrasound"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "gene therapy"
+      ],
+      "related_genes": [
+        "cdh1",
+        "itgav",
+        "dusp1",
+        "p2rx7"
+      ],
+      "subtypes": [
+        "gastric adenocarcinoma",
+        "lymphoma",
+        "mesenchymal cell neoplasm",
+        "intestinal-type adenocarcinoma",
+        "diffuse type adenocarcinoma",
+        "signet ring cell carcinoma",
+        "diffuse large b-cell lymphoma",
+        "obsolete stromal neoplasm"
+      ]
+    },
+    {
+      "disease_name": "stomach cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "helicobacter pylori infection",
+        "epstein-barr virus infectious disease",
+        "bile reflux"
+      ],
+      "risk_factors": [
+        "cigarette smoking",
+        "family history of stomach cancer",
+        "obesity",
+        "alcohol consumption",
+        "red meat consumption",
+        "red meat consumption",
+        "iodine deficiency",
+        "acquired immunodeficiency syndrome"
+      ],
+      "symptoms": [
+        "digestion",
+        "heartburn",
+        "nausea",
+        "loss of appetite",
+        "vomiting",
+        "jaundice",
+        "blood in stool",
+        "diarrhea",
+        "constipation",
+        "fatigue",
+        "anemia",
+        "acanthosis nigricans"
+      ],
+      "diagnosis": [
+        "panendoscopy",
+        "biopsy",
+        "histopathologic examination",
+        "endoscopic ultrasound",
+        "fecal occult blood test"
+      ],
+      "treatments": [
+        "radiation therapy"
+      ],
+      "related_genes": [
+        "cdh1",
+        "itgav",
+        "dusp1",
+        "p2rx7"
+      ],
+      "subtypes": [
+        "gastric adenocarcinoma",
+        "gastric carcinoma",
+        "lymphoma",
+        "mesenchymal cell neoplasm",
+        "intestinal-type adenocarcinoma",
+        "diffuse type adenocarcinoma",
+        "signet ring cell carcinoma",
+        "diffuse large b-cell lymphoma"
+      ]
+    },
+    {
+      "disease_name": "gestational trophoblastic disease",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [
+        "enlarged uterus"
+      ],
+      "diagnosis": [
+        "ultrasound",
+        "histologic confirmation date"
+      ],
+      "treatments": [
+        "hysterectomy"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "hydatidiform mole",
+        "complete hydatidiform mole",
+        "partial hydatidiform mole",
+        "choriocarcinoma",
+        "placental site trophoblastic tumor",
+        "epithelioid trophoblastic tumor",
+        "gestational trophoblastic neoplasm"
+      ]
+    },
+    {
+      "disease_name": "glioblastoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "egfr gene amplification",
+        "tp53 gene mutation",
+        "mgmt gene promoter methylation"
+      ],
+      "risk_factors": [
+        "prior radiation therapy",
+        "smoking",
+        "pesticide exposure"
+      ],
+      "symptoms": [
+        "headache",
+        "personality change",
+        "nausea",
+        "seizure",
+        "vomiting"
+      ],
+      "diagnosis": [
+        "histologic confirmation date"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "supportive care",
+        "cognitive behavior therapy",
+        "yoga",
+        "medication"
+      ],
+      "related_genes": [
+        "egfr",
+        "tp53",
+        "nf1",
+        "mgmt",
+        "idh1",
+        "idh2",
+        "pdgfra",
+        "atrx",
+        "stat3",
+        "cyp1b1-as1"
+      ],
+      "subtypes": [
+        "mesenchymal",
+        "idh-wildtype glioblastoma"
+      ]
+    },
+    {
+      "disease_name": "glomus tumor",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [],
+      "diagnosis": [],
+      "treatments": [],
+      "related_genes": [],
+      "subtypes": [
+        "solid glomus tumor",
+        "glomangioma",
+        "glomangiomyoma",
+        "malignant glomus tumor"
+      ]
+    },
+    {
+      "disease_name": "granulosa cell tumour",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [],
+      "diagnosis": [],
+      "treatments": [],
+      "related_genes": [
+        "foxl2",
+        "akt1"
+      ],
+      "subtypes": [
+        "adult granulosa cell tumor",
+        "juvenile type testicular granulosa cell tumor"
+      ]
+    },
+    {
+      "disease_name": "hairy cell leukemia",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "pesticide exposure"
+      ],
+      "symptoms": [
+        "anemia"
+      ],
+      "diagnosis": [],
+      "treatments": [],
+      "related_genes": [
+        "tp53"
+      ],
+      "subtypes": []
+    },
+    {
+      "disease_name": "head and neck cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "tobacco use",
+        "human papillomavirus infection",
+        "epstein-barr virus infectious disease",
+        "wood dust exposure",
+        "gastroesophageal reflux disease"
+      ],
+      "risk_factors": [
+        "tobacco use",
+        "hpv16 infection",
+        "wood dust exposure",
+        "epstein-barr virus infectious disease",
+        "age greater than 85 years",
+        "socioeconomic factors",
+        "leukoplakia",
+        "allogeneic hematopoietic stem cell transplantation"
+      ],
+      "symptoms": [
+        "npi - difficulty sleeping",
+        "depression",
+        "nausea",
+        "vomiting",
+        "facial pain",
+        "numbness",
+        "swelling",
+        "weight loss",
+        "shoulder pain",
+        "uncertainty",
+        "fear"
+      ],
+      "diagnosis": [
+        "panendoscopy",
+        "biopsy",
+        "fine-needle aspiration",
+        "magnetic resonance imaging",
+        "chest computed tomography",
+        "positron emission tomography",
+        "panendoscopy"
+      ],
+      "treatments": [
+        "surgery",
+        "radiation therapy",
+        "chemotherapy",
+        "cancer immunotherapy",
+        "targeted therapy",
+        "rehabilitation",
+        "physical therapy",
+        "speech therapist",
+        "maxillectomy",
+        "mandibulectomy",
+        "glossectomy",
+        "radical neck dissection",
+        "partial laryngectomy",
+        "total laryngectomy",
+        "esophageal speech",
+        "tracheoesophageal puncture",
+        "electrolarynx",
+        "intensity-modulated radiation therapy",
+        "brachytherapy",
+        "paclitaxel",
+        "carboplatin",
+        "cetuximab",
+        "docetaxel",
+        "cisplatin",
+        "fluorouracil",
+        "amifostine",
+        "photodynamic therapy",
+        "bevacizumab",
+        "erlotinib",
+        "checkpoint blockade immunotherapy",
+        "pembrolizumab",
+        "nivolumab",
+        "transoral robotic surgery",
+        "transoral laser microsurgery"
+      ],
+      "related_genes": [
+        "tp53",
+        "cdkn2a",
+        "pik3ca",
+        "tp53",
+        "prb1",
+        "alcohol dehydrogenases"
+      ],
+      "subtypes": [
+        "orbital cancer",
+        "pharynx cancer",
+        "pharynx cancer",
+        "oropharynx cancer",
+        "hypopharynx cancer",
+        "salivary gland cancer",
+        "squamous cell carcinoma",
+        "adenocarcinoma",
+        "glottis cancer",
+        "supraglottis cancer",
+        "subglottis cancer"
+      ]
+    },
+    {
+      "disease_name": "hepatoblastoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "familial adenomatous polyposis 1",
+        "beckwith-wiedemann syndrome",
+        "trisomy 18",
+        "trisomy 21",
+        "aicardi syndrome",
+        "li-fraumeni syndrome",
+        "goldenhar syndrome",
+        "glycogen storage disease i"
+      ],
+      "symptoms": [
+        "abdominal mass"
+      ],
+      "diagnosis": [],
+      "treatments": [
+        "liver transplantation",
+        "adjuvant chemotherapy"
+      ],
+      "related_genes": [],
+      "subtypes": []
+    },
+    {
+      "disease_name": "hepatocellular carcinoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "chronic liver disease",
+        "cirrhosis",
+        "fibrosis",
+        "inflammation",
+        "hepatitis b infection",
+        "hepatitis c infection",
+        "hepatitis c infection",
+        "nonalcoholic steatohepatitis",
+        "alcoholic liver disease",
+        "hemochromatosis",
+        "alpha 1-antitrypsin deficiency",
+        "biliary atresia",
+        "glycogen storage disease"
+      ],
+      "risk_factors": [
+        "hepatitis b infection",
+        "hepatitis c infection",
+        "hepatitis c infection",
+        "cirrhosis",
+        "hemochromatosis",
+        "obesity",
+        "diabetes mellitus",
+        "alpha 1-antitrypsin deficiency",
+        "nonalcoholic steatohepatitis",
+        "nonalcoholic fatty liver disease",
+        "type 2 diabetes mellitus",
+        "metabolic syndrome",
+        "congenital lens disorder",
+        "fibrolamellar carcinoma",
+        "alcohol use disorder"
+      ],
+      "symptoms": [
+        "abdominal pain",
+        "nausea",
+        "vomiting",
+        "feel tired",
+        "loss of appetite"
+      ],
+      "diagnosis": [
+        "des-gamma carboxyprothrombin",
+        "mri without contrast",
+        "pet scan without contrast"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "chemotherapy",
+        "liver transplantation",
+        "radiofrequency ablation",
+        "selective internal radiation therapy",
+        "systemic therapy"
+      ],
+      "related_genes": [
+        "tp53",
+        "ctnnb1",
+        "axin1",
+        "arid1a",
+        "arid2",
+        "abcb11"
+      ],
+      "subtypes": [
+        "clear cell"
+      ]
+    },
+    {
+      "disease_name": "hodgkin lymphoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "unknown",
+        "epstein-barr virus infectious disease"
+      ],
+      "risk_factors": [],
+      "symptoms": [
+        "fever",
+        "skin itches",
+        "fatigue",
+        "back pain"
+      ],
+      "diagnosis": [
+        "physical examination",
+        "lymph node biopsy"
+      ],
+      "treatments": [
+        "chemotherapy",
+        "radiation therapy",
+        "targeted therapy",
+        "cancer immunotherapy",
+        "brentuximab vedotin",
+        "nivolumab",
+        "pembrolizumab"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "classic hodgkin lymphoma",
+        "multiple sclerosis"
+      ]
+    },
+    {
+      "disease_name": "hypopharyngeal cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "tobacco use",
+        "chewing tobacco",
+        "bile reflux",
+        "plummer-vinson syndrome"
+      ],
+      "risk_factors": [
+        "tobacco use",
+        "chewing tobacco",
+        "bile reflux",
+        "plummer-vinson syndrome"
+      ],
+      "symptoms": [
+        "ear pain"
+      ],
+      "diagnosis": [
+        "history and physical exam",
+        "biopsy",
+        "panendoscopy"
+      ],
+      "treatments": [
+        "surgery",
+        "radiation therapy",
+        "chemotherapy",
+        "targeted therapy"
+      ],
+      "related_genes": [
+        "parp1"
+      ],
+      "subtypes": []
+    },
+    {
+      "disease_name": "inflammatory breast cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "obesity"
+      ],
+      "symptoms": [
+        "nipple discharge"
+      ],
+      "diagnosis": [
+        "mammogram",
+        "ultrasound",
+        "biopsy of breast"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "chemotherapy",
+        "hormone therapy",
+        "targeted therapy",
+        "immunotherapy"
+      ],
+      "related_genes": [
+        "brca1",
+        "brca2",
+        "tp53",
+        "vegfa",
+        "egfr"
+      ],
+      "subtypes": [
+        "breast ductal carcinoma",
+        "invasive lobular carcinoma",
+        "mammary paget's disease"
+      ]
+    },
+    {
+      "disease_name": "colorectal cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "ctnnb1 gene mutation",
+        "axin1 gene mutation",
+        "axin2 gene mutation",
+        "tcf7l2 gene mutation",
+        "pten gene mutation",
+        "ctnnb1 gene mutation",
+        "sox9 gene mutation",
+        "arid1a gene mutation",
+        "msh3 gene mutation",
+        "msh6 gene mutation",
+        "braf gene mutation",
+        "mismatch repair protein deficiency",
+        "familial adenomatous polyposis 1",
+        "lynch syndrome",
+        "gardner syndrome",
+        "pole gene mutation",
+        "pold1 gene mutation",
+        "clostridium",
+        "escherichia coli",
+        "fusobacterium nucleatum"
+      ],
+      "risk_factors": [
+        "crohn's disease",
+        "celiac disease",
+        "obesity",
+        "smoking",
+        "alcohol consumption",
+        "inflammatory bowel disease",
+        "prolonged standing",
+        "vitamin d deficiency"
+      ],
+      "symptoms": [
+        "abdominal pain",
+        "blood in stool",
+        "fatigue",
+        "loss of appetite",
+        "nausea",
+        "vomiting",
+        "anemia"
+      ],
+      "diagnosis": [
+        "colonoscopy",
+        "sigmoidoscopy",
+        "biopsy",
+        "fecal immunochemical test",
+        "tnm staging system",
+        "panendoscopy"
+      ],
+      "treatments": [
+        "surgery",
+        "chemotherapy",
+        "radiation therapy",
+        "targeted therapy",
+        "endoscopic mucosal resection",
+        "endoscopic submucosal dissection",
+        "partial colectomy",
+        "proctocolectomy",
+        "colostomy",
+        "fluorouracil",
+        "capecitabine",
+        "oxaliplatin",
+        "irinotecan",
+        "bevacizumab",
+        "cetuximab",
+        "panitumumab",
+        "chemoradiotherapy",
+        "pembrolizumab",
+        "dostarlimab",
+        "aspirin",
+        "celecoxib"
+      ],
+      "related_genes": [
+        "apc",
+        "ctnnb1",
+        "axin1",
+        "axin2",
+        "tcf7l2",
+        "nkd1",
+        "tp53",
+        "bax",
+        "smad1",
+        "dcc",
+        "kras",
+        "braf",
+        "pi3",
+        "pten",
+        "fam13b",
+        "sox9",
+        "atm",
+        "arid1a",
+        "acvr2a",
+        "tgfbr2",
+        "msh3",
+        "msh6",
+        "slc9a9",
+        "braf",
+        "macc1",
+        "pole",
+        "pold1",
+        "hspa1a",
+        "rbm3"
+      ],
+      "subtypes": [
+        "adenocarcinoma",
+        "lymphoma",
+        "adenosquamous carcinoma",
+        "squamous cell carcinoma"
+      ]
+    },
+    {
+      "disease_name": "bile duct cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "ulcerative colitis"
+      ],
+      "symptoms": [
+        "jaundice",
+        "skin itches",
+        "fever",
+        "abdominal pain"
+      ],
+      "diagnosis": [
+        "biopsy"
+      ],
+      "treatments": [
+        "surgery",
+        "radiation therapy",
+        "chemotherapy"
+      ],
+      "related_genes": [],
+      "subtypes": []
+    },
+    {
+      "disease_name": "invasive ductal carcinoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "obesity",
+        "alcohol consumption"
+      ],
+      "symptoms": [],
+      "diagnosis": [
+        "biopsy of breast",
+        "sentinel lymph node biopsy"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "chemotherapy",
+        "immunotherapy",
+        "neoadjuvant therapy",
+        "prophylactic mastectomy"
+      ],
+      "related_genes": [
+        "brca1",
+        "brca2",
+        "tp53"
+      ],
+      "subtypes": [
+        "breast ductal carcinoma",
+        "invasive lobular carcinoma",
+        "mammary paget's disease",
+        "pleomorphic carcinoma",
+        "breast carcinoma with osteoclast-like stromal giant cells",
+        "breast carcinoma with choriocarcinomatous features",
+        "breast carcinoma with melanotic features",
+        "mucinous adenocarcinoma",
+        "papillary carcinoma",
+        "cribriform carcinoma",
+        "tubular adenocarcinoma"
+      ]
+    },
+    {
+      "disease_name": "kaposi sarcoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "organ transplantation",
+        "blood transfusion"
+      ],
+      "symptoms": [
+        "abdominal pain",
+        "diarrhea",
+        "no shortness of breath",
+        "fever",
+        "cough",
+        "chest pain",
+        "weight loss",
+        "nausea",
+        "vomiting",
+        "malabsorption",
+        "intestinal obstruction"
+      ],
+      "diagnosis": [],
+      "treatments": [
+        "radiation therapy",
+        "cryosurgery",
+        "immunotherapy",
+        "biological therapy",
+        "interferon alpha",
+        "thalidomide",
+        "paclitaxel"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "classic kaposi sarcoma",
+        "obsolete aids-related kaposi's sarcoma",
+        "kaposi's sarcoma"
+      ]
+    },
+    {
+      "disease_name": "kidney cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "gene mutation",
+        "hepatitis c infection"
+      ],
+      "risk_factors": [
+        "aging",
+        "smoking",
+        "obesity",
+        "family history of kidney cancer"
+      ],
+      "symptoms": [
+        "loss of appetite",
+        "fever",
+        "flank pain",
+        "back pain",
+        "night sweats",
+        "bone pain",
+        "liver dysfunction",
+        "primary hyperaldosteronism",
+        "amyloidosis",
+        "anemia"
+      ],
+      "diagnosis": [
+        "biopsy",
+        "comprehensive metabolic panel",
+        "urinalysis",
+        "immunocytochemistry"
+      ],
+      "treatments": [
+        "chemotherapy",
+        "radiation therapy",
+        "biological therapy",
+        "targeted therapy",
+        "everolimus",
+        "axitinib",
+        "sunitinib",
+        "pazopanib",
+        "nivolumab",
+        "cabozantinib"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "nephroblastoma",
+        "collecting duct carcinoma",
+        "renal cell carcinoma associated with neuroblastoma",
+        "mucinous tubular and spindle renal cell carcinoma",
+        "mixed epithelial stromal tumour"
+      ]
+    },
+    {
+      "disease_name": "laryngeal cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "smoking tobacco"
+      ],
+      "risk_factors": [
+        "tobacco use"
+      ],
+      "symptoms": [
+        "ear pain"
+      ],
+      "diagnosis": [
+        "history and physical exam"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "chemotherapy",
+        "targeted therapy",
+        "physical therapy",
+        "occupational therapy",
+        "speech therapist",
+        "psychosocial care",
+        "dental care"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "supraglottis cancer",
+        "glottis cancer",
+        "subglottis cancer"
+      ]
+    },
+    {
+      "disease_name": "head and neck cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "tobacco use",
+        "alcohol consumption"
+      ],
+      "risk_factors": [
+        "tobacco use",
+        "alcohol consumption",
+        "hpv16 infection",
+        "epstein-barr virus infectious disease"
+      ],
+      "symptoms": [],
+      "diagnosis": [
+        "panendoscopy"
+      ],
+      "treatments": [
+        "surgery",
+        "radiation therapy",
+        "chemotherapy",
+        "cancer immunotherapy",
+        "targeted therapy",
+        "physical therapy",
+        "speech therapist"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "squamous cell carcinoma"
+      ]
+    },
+    {
+      "disease_name": "leiomyosarcoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "genomic instability"
+      ],
+      "risk_factors": [],
+      "symptoms": [
+        "nausea",
+        "vomiting",
+        "pain",
+        "breeding"
+      ],
+      "diagnosis": [],
+      "treatments": [
+        "surgery",
+        "chemotherapy",
+        "radiation therapy",
+        "targeted therapy"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "uterus leiomyosarcoma",
+        "cutaneous leiomyosarcoma",
+        "retroperitoneal leiomyosarcoma",
+        "rectal leiomyosarcoma"
+      ]
+    },
+    {
+      "disease_name": "leukemia",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "formaldehyde exposure",
+        "tobacco use",
+        "maternal transmission"
+      ],
+      "risk_factors": [
+        "smoking",
+        "ionizing radiation",
+        "prior chemotherapy",
+        "down syndrome",
+        "fanconi anemia",
+        "family history of leukemia"
+      ],
+      "symptoms": [
+        "feel tired",
+        "fever",
+        "night sweats",
+        "easy bruising",
+        "breeding",
+        "weight loss",
+        "loss of appetite",
+        "bone pain",
+        "dyspnea",
+        "headache"
+      ],
+      "diagnosis": [
+        "bone marrow aspiration",
+        "bone marrow biopsy",
+        "lymph node biopsy"
+      ],
+      "treatments": [
+        "chemotherapy",
+        "radiation therapy",
+        "targeted therapy",
+        "chlorambucil",
+        "cyclophosphamide",
+        "splenectomy"
+      ],
+      "related_genes": [
+        "spred1"
+      ],
+      "subtypes": [
+        "acute lymphoblastic leukemia",
+        "acute myeloid leukemia",
+        "chronic lymphocytic leukemia",
+        "chronic myeloid leukemia",
+        "hairy cell leukemia",
+        "t-cell prolymphocytic leukemia",
+        "t-cell large granular lymphocyte leukemia",
+        "adult t-cell leukemia/lymphoma",
+        "juvenile myelomonocytic leukemia",
+        "acute promyelocytic leukemia",
+        "acute myeloid leukemia",
+        "acute megakaryoblastic leukemia",
+        "b-cell prolymphocytic leukemia",
+        "chronic myelomonocytic leukemia",
+        "burkitt leukemia",
+        "acute biphenotypic leukemia",
+        "recurrent b acute lymphoblastic leukemia",
+        "t-cell adult acute lymphocytic leukemia"
+      ]
+    },
+    {
+      "disease_name": "liposarcoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [
+        "urinary tract obstruction",
+        "chronic orbital inflammation"
+      ],
+      "diagnosis": [
+        "magnetic resonance imaging"
+      ],
+      "treatments": [
+        "supportive care"
+      ],
+      "related_genes": [
+        "mdm2",
+        "cdk4",
+        "tspan31",
+        "hmga2",
+        "jun",
+        "tp53",
+        "rb1",
+        "pik3ca",
+        "ptk2b",
+        "epha5",
+        "erbb4",
+        "rp1",
+        "rcbtb2",
+        "dleu1",
+        "itm2b",
+        "mtor"
+      ],
+      "subtypes": [
+        "dedifferentiated liposarcoma",
+        "myxoid liposarcoma",
+        "pleomorphic liposarcoma",
+        "myxoid pleomorphic liposarcoma"
+      ]
+    },
+    {
+      "disease_name": "liver cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "cirrhosis",
+        "nonalcoholic fatty liver disease",
+        "nonalcoholic steatohepatitis",
+        "fascioliasis",
+        "hereditary hemochromatosis",
+        "primary biliary cirrhosis",
+        "opisthorchis viverrini infection",
+        "sclerosing cholangitis",
+        "choledochal cyst",
+        "caroli disease",
+        "congenital hepatic fibrosis",
+        "alpha-1 antitrypsin deficiency",
+        "glycogen storage disease",
+        "porphyria cutanea tarda",
+        "wilson disease",
+        "tyrosinemia",
+        "arsenic exposure",
+        "thorotrast exposure",
+        "radiation exposure"
+      ],
+      "risk_factors": [
+        "hepatitis b",
+        "hepatitis c",
+        "cirrhosis",
+        "hemochromatosis",
+        "obesity",
+        "diabetes mellitus",
+        "smoking",
+        "primary sclerosing cholangitis",
+        "chronic liver disease",
+        "beckwith-wiedemann syndrome",
+        "familial adenomatous polyposis",
+        "low birth weight",
+        "progressive familial intrahepatic cholestasis",
+        "trisomy 18"
+      ],
+      "symptoms": [
+        "abdominal mass",
+        "abdominal pain",
+        "vomiting",
+        "anemia",
+        "back pain",
+        "twitching",
+        "weight loss",
+        "fever",
+        "sweating",
+        "fatigue",
+        "cholestasis"
+      ],
+      "diagnosis": [
+        "chest computed tomography",
+        "magnetic resonance imaging",
+        "liver biopsy",
+        "endoscopic retrograde cholangiopancreatography",
+        "magnetic resonance cholangiopancreatography"
+      ],
+      "treatments": [
+        "liver transplantation",
+        "radiation therapy",
+        "chemotherapy",
+        "immunotherapy",
+        "transarterial chemoembolization",
+        "transarterial radioembolization",
+        "photodynamic therapy",
+        "chimeric antigen receptor t-cell therapy"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "hepatocellular carcinoma",
+        "intrahepatic cholangiocarcinoma",
+        "angiosarcoma",
+        "angiosarcoma",
+        "hepatoblastoma",
+        "liver embryonal sarcoma",
+        "bladder rhabdomyosarcoma"
+      ]
+    },
+    {
+      "disease_name": "lung cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "cigarette smoking",
+        "asbestos exposure",
+        "arsenic exposure",
+        "chromium exposure",
+        "radiation exposure",
+        "hiv infection",
+        "alpha-1 antitrypsin deficiency",
+        "scleroderma",
+        "tuberculosis",
+        "epstein-barr virus",
+        "human papillomavirus",
+        "bk virus",
+        "jc virus",
+        "cytomegalovirus mrna",
+        "sv40",
+        "retinoblastoma",
+        "li-fraumeni syndrome",
+        "egfr gene mutation",
+        "alk gene mutation",
+        "met gene mutation",
+        "braf gene mutation",
+        "kras gene mutation",
+        "pik3ca gene mutation",
+        "ros1 gene mutation",
+        "ntrk1 gene mutation",
+        "ret gene mutation"
+      ],
+      "risk_factors": [
+        "smoking",
+        "family history of kidney cancer",
+        "occupational exposure",
+        "hiv infection",
+        "vaping",
+        "unit of exposure to ionizing radiation",
+        "diesel exhaust exposure"
+      ],
+      "symptoms": [
+        "pain or discomfort",
+        "have trouble breathing",
+        "wheezing",
+        "hoarseness",
+        "loss of appetite",
+        "no shortness of breath",
+        "fever",
+        "night sweats",
+        "headache",
+        "nausea",
+        "vomiting",
+        "seizure",
+        "bone pain",
+        "spinal cord compression",
+        "myelophthisic anemia",
+        "hypercalcemia",
+        "hypokalemia",
+        "hyponatremia",
+        "secondary hypertrophic osteoarthropathy",
+        "lambert-eaton myasthenic syndrome",
+        "sensory peripheral neuropathy",
+        "disseminated intravascular coagulation",
+        "skin fissure",
+        "superior vena cava syndrome",
+        "arrhythmia",
+        "heart failure"
+      ],
+      "diagnosis": [
+        "magnetic resonance imaging",
+        "liquid biopsy"
+      ],
+      "treatments": [
+        "surgery",
+        "chemotherapy",
+        "radiation therapy",
+        "immunotherapy",
+        "laser therapy",
+        "targeted therapy",
+        "photodynamic therapy",
+        "cryosurgery",
+        "cisplatin",
+        "carboplatin",
+        "etoposide",
+        "irinotecan",
+        "topotecan",
+        "lurbinectedin",
+        "paclitaxel",
+        "docetaxel",
+        "vinorelbine",
+        "gemcitabine",
+        "osimertinib",
+        "erlotinib",
+        "gefitinib",
+        "afatinib",
+        "dacomitinib",
+        "crizotinib",
+        "alectinib",
+        "brigatinib",
+        "ceritinib",
+        "lorlatinib",
+        "capmatinib",
+        "tepotinib",
+        "dabrafenib",
+        "trametinib",
+        "entrectinib",
+        "larotrectinib",
+        "selpercatinib",
+        "pembrolizumab",
+        "atezolizumab",
+        "nivolumab",
+        "ipilimumab",
+        "ramucirumab",
+        "pemetrexed",
+        "brachytherapy",
+        "bronchoscopy",
+        "ablation therapy",
+        "antibiotic",
+        "diuretic",
+        "benzodiazepine",
+        "acetaminophen",
+        "nonsteroidal antiinflammatory drug",
+        "tricyclic antidepressant",
+        "prophylactic cranial irradiation",
+        "segmentectomy",
+        "pneumonectomy",
+        "stereotactic body radiation therapy",
+        "video-assisted thoracic surgery"
+      ],
+      "related_genes": [
+        "egfr",
+        "alk",
+        "met",
+        "braf",
+        "kras",
+        "pik3ca",
+        "ros1",
+        "ntrk1",
+        "ret",
+        "tp53"
+      ],
+      "subtypes": [
+        "lung non-small cell carcinoma",
+        "adenocarcinoma",
+        "squamous cell carcinoma",
+        "adenosquamous carcinoma",
+        "sarcomatoid carcinoma",
+        "lepidic adenocarcinoma",
+        "lung acinar adenocarcinoma",
+        "papillary adenocarcinoma",
+        "lung micropapillary adenocarcinoma",
+        "extensive stage",
+        "pancoast tumor"
+      ]
+    },
+    {
+      "disease_name": "lymphangiosarcoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "primary lymphedema",
+        "secondary lymphedema"
+      ],
+      "symptoms": [
+        "metastasis"
+      ],
+      "diagnosis": [],
+      "treatments": [
+        "chemotherapy",
+        "paclitaxel",
+        "doxorubicin",
+        "ifosfamide",
+        "gemcitabine"
+      ],
+      "related_genes": [],
+      "subtypes": []
+    },
+    {
+      "disease_name": "lymphoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "autoimmune disease",
+        "smoking tobacco"
+      ],
+      "symptoms": [
+        "fever",
+        "have trouble breathing",
+        "chest pain",
+        "weakness",
+        "twitching",
+        "anemia",
+        "breeding",
+        "respiratory distress",
+        "dyspnea"
+      ],
+      "diagnosis": [
+        "immunophenotype",
+        "flow cytometry",
+        "fluorescence in situ hybridization"
+      ],
+      "treatments": [
+        "chemotherapy",
+        "radiation therapy",
+        "targeted therapy",
+        "biological therapy",
+        "surgery",
+        "platelet transfusion"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "hodgkin's lymphoma",
+        "non-hodgkin lymphoma",
+        "acute lymphoblastic leukemia",
+        "chronic lymphocytic leukemia",
+        "acute myeloid leukemia",
+        "chronic myeloid leukemia",
+        "burkitt lymphoma",
+        "diffuse large b-cell lymphoma, not otherwise specified",
+        "diffuse large b-cell lymphoma associated with chronic inflammation",
+        "fibrin-associated diffuse large b-cell lymphoma",
+        "primary effusion lymphoma",
+        "plasmablastic lymphoma",
+        "nasal type extranodal nk/t-cell lymphoma",
+        "peripheral t-cell lymphoma, not otherwise specified",
+        "angioimmunoblastic t-cell lymphoma",
+        "small lymphocytic lymphoma",
+        "follicular lymphoma",
+        "mantle cell lymphoma",
+        "enteropathy-associated t-cell lymphoma"
+      ]
+    },
+    {
+      "disease_name": "male breast cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "radiation exposure",
+        "family history of breast cancer",
+        "klinefelter syndrome",
+        "liver cirrhosis",
+        "ventricular dysfunction",
+        "diabetes mellitus",
+        "alcohol consumption",
+        "physical activity level"
+      ],
+      "symptoms": [
+        "breast lump",
+        "breast swelling"
+      ],
+      "diagnosis": [
+        "mammography",
+        "ultrasonogram",
+        "magnetic resonance imaging",
+        "scintimammography",
+        "incisional biopsy",
+        "excisional biopsy",
+        "progesterone receptor test",
+        "tnm staging system",
+        "sentinel lymph node biopsy"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "chemotherapy",
+        "hormone therapy",
+        "aromatase inhibitor",
+        "immunotherapy"
+      ],
+      "related_genes": [
+        "brca1",
+        "brca2",
+        "chek2",
+        "palb2",
+        "pten",
+        "atm",
+        "rad51d",
+        "mlh1",
+        "msh2",
+        "msh6",
+        "pms2",
+        "epcam",
+        "tp53"
+      ],
+      "subtypes": [
+        "invasive ductal carcinoma",
+        "ductal carcinoma in situ",
+        "breast medullary carcinoma",
+        "mucinous adenocarcinoma",
+        "inflammatory breast carcinoma",
+        "phyllodes tumor",
+        "breast leiomyosarcoma",
+        "mammary paget's disease",
+        "invasive lobular carcinoma",
+        "mammary analogue secretory carcinoma",
+        "invasive breast cribriform carcinoma",
+        "breast tubular carcinoma",
+        "triple-negative breast cancer finding"
+      ]
+    },
+    {
+      "disease_name": "malignant melanoma of the eye",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [],
+      "diagnosis": [],
+      "treatments": [
+        "surgery",
+        "radiation therapy",
+        "art therapy",
+        "laser therapy"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "retinoblastoma"
+      ]
+    },
+    {
+      "disease_name": "malignant mesothelioma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "asbestos exposure"
+      ],
+      "risk_factors": [
+        "genetics"
+      ],
+      "symptoms": [
+        "have trouble breathing",
+        "no shortness of breath",
+        "cough",
+        "chest wall pain",
+        "blood clot",
+        "constipation",
+        "fatigue",
+        "anemia",
+        "wheezing",
+        "hoarseness",
+        "fever",
+        "night sweats",
+        "poor appetite",
+        "vomiting",
+        "umbilical hernia",
+        "thrombophlebitis",
+        "disseminated intravascular coagulation",
+        "jaundice"
+      ],
+      "diagnosis": [
+        "immunocytochemistry",
+        "thoracoscopy",
+        "thoracotomy",
+        "laparoscopy"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "targeted therapy",
+        "hyperthermic intraperitoneal chemotherapy"
+      ],
+      "related_genes": [
+        "bap1",
+        "nf2",
+        "tp53",
+        "egfr",
+        "axl",
+        "pdgfrb"
+      ],
+      "subtypes": [
+        "epithelioid mesothelioma",
+        "sarcomatoid mesothelioma",
+        "biphasic mesothelioma",
+        "desmoplastic",
+        "clear cell",
+        "benign pleural mesothelioma",
+        "peritoneal mesothelioma",
+        "pericardial mesothelioma"
+      ]
+    },
+    {
+      "disease_name": "malignant mixed müllerian tumor",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "obesity"
+      ],
+      "symptoms": [],
+      "diagnosis": [],
+      "treatments": [],
+      "related_genes": [],
+      "subtypes": [
+        "endometrioid adenocarcinoma",
+        "serous adenocarcinoma",
+        "clear cell adenocarcinoma"
+      ]
+    },
+    {
+      "disease_name": "malignant peripheral nerve sheath tumor",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "gene mutation",
+        "chromosome 11 loss of heterozygosity"
+      ],
+      "risk_factors": [
+        "neurofibromatosis type 1"
+      ],
+      "symptoms": [
+        "lip",
+        "dizziness"
+      ],
+      "diagnosis": [
+        "x-ray",
+        "bone scan"
+      ],
+      "treatments": [
+        "chemotherapy",
+        "radiation therapy"
+      ],
+      "related_genes": [
+        "tp53",
+        "nf1"
+      ],
+      "subtypes": []
+    },
+    {
+      "disease_name": "malignant rhabdoid tumor",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [
+        "pain",
+        "fever",
+        "lethargy"
+      ],
+      "diagnosis": [],
+      "treatments": [
+        "surgery",
+        "chemotherapy",
+        "radiation therapy"
+      ],
+      "related_genes": [
+        "smarcb1"
+      ],
+      "subtypes": []
+    },
+    {
+      "disease_name": "mediastinal germ cell tumor",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "klinefelter syndrome"
+      ],
+      "symptoms": [],
+      "diagnosis": [
+        "physical examination"
+      ],
+      "treatments": [],
+      "related_genes": [],
+      "subtypes": [
+        "seminoma",
+        "nongerminomatous germ cell tumor"
+      ]
+    },
+    {
+      "disease_name": "medullary thyroid cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [
+        "have trouble breathing"
+      ],
+      "diagnosis": [],
+      "treatments": [
+        "chemotherapy"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "familial medullary thyroid carcinoma"
+      ]
+    },
+    {
+      "disease_name": "medulloblastoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "ctnnb1 gene mutation",
+        "ptch1 gene mutation",
+        "smarca4 gene mutation",
+        "ddx3x gene mutation",
+        "kdm6a gene mutation"
+      ],
+      "risk_factors": [
+        "nevoid basal cell carcinoma syndrome",
+        "turcot syndrome"
+      ],
+      "symptoms": [
+        "no hearing problems",
+        "have trouble walking",
+        "personality change",
+        "seizure",
+        "diplopia",
+        "papilledema",
+        "cranial nerve x palsy",
+        "nystagmus",
+        "focal motor weakness"
+      ],
+      "diagnosis": [
+        "histology",
+        "evans staging system",
+        "atypical teratoid rhabdoid tumor"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "chemotherapy",
+        "lomustine",
+        "cisplatin",
+        "carboplatin",
+        "vincristine",
+        "cyclophosphamide"
+      ],
+      "related_genes": [
+        "ctnnb1",
+        "ptch1",
+        "smarca4",
+        "ddx3x",
+        "ctdnep1",
+        "kdm6a",
+        "tbr1",
+        "myc",
+        "mycn",
+        "gli2",
+        "sufu",
+        "cxcl3",
+        "tp53"
+      ],
+      "subtypes": [
+        "obsolete group b streptococcal pneumonia",
+        "obsolete group b streptococcal pneumonia"
+      ]
+    },
+    {
+      "disease_name": "melanoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "gene mutation"
+      ],
+      "risk_factors": [
+        "xeroderma pigmentosum",
+        "fair skin",
+        "large congenital melanocytic nevus"
+      ],
+      "symptoms": [],
+      "diagnosis": [
+        "dermoscopy",
+        "reflectance confocal microscopy",
+        "sentinel lymph node biopsy"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "biological therapy",
+        "talimogene laherparepvec"
+      ],
+      "related_genes": [
+        "braf",
+        "nf1",
+        "tp53",
+        "cdkn2a",
+        "mc1r",
+        "raf1",
+        "alk",
+        "ret",
+        "ros1",
+        "ntrk1",
+        "ntrk3",
+        "met",
+        "igf1r",
+        "mcm6",
+        "timeless",
+        "wipi1"
+      ],
+      "subtypes": [
+        "nodular malignant melanoma",
+        "amelanotic melanoma",
+        "anal melanoma",
+        "mucosal melanoma",
+        "desmoplastic melanoma",
+        "uveal melanoma",
+        "vaginal melanoma",
+        "lentigo maligna melanoma",
+        "acral lentiginous melanoma"
+      ]
+    },
+    {
+      "disease_name": "meningioma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "brain injury",
+        "neurofibromatosis type 2"
+      ],
+      "risk_factors": [
+        "unit of exposure to ionizing radiation",
+        "neurofibromatosis type 2"
+      ],
+      "symptoms": [
+        "nausea and vomiting",
+        "seizure",
+        "dementia",
+        "incontinence"
+      ],
+      "diagnosis": [
+        "biopsy",
+        "arteriography",
+        "medical image"
+      ],
+      "treatments": [
+        "surgery",
+        "radiosurgery",
+        "hydroxyurea"
+      ],
+      "related_genes": [
+        "traf7",
+        "klf4",
+        "akt1",
+        "smo"
+      ],
+      "subtypes": [
+        "transition",
+        "angioblast",
+        "choroid",
+        "clear cell",
+        "papillary",
+        "hemangiopericytoma"
+      ]
+    },
+    {
+      "disease_name": "merkel cell carcinoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "merkel cell polyomavirus"
+      ],
+      "risk_factors": [
+        "fair skin"
+      ],
+      "symptoms": [],
+      "diagnosis": [
+        "sentinel lymph node biopsy"
+      ],
+      "treatments": [
+        "radiation therapy"
+      ],
+      "related_genes": [
+        "tp53",
+        "piezo2",
+        "atoh1"
+      ],
+      "subtypes": []
+    },
+    {
+      "disease_name": "mesothelioma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "asbestos exposure"
+      ],
+      "risk_factors": [
+        "genetics"
+      ],
+      "symptoms": [
+        "have trouble breathing",
+        "cough",
+        "abdominal pain",
+        "weight loss",
+        "blood clot",
+        "constipation",
+        "fatigue",
+        "anemia",
+        "wheezing",
+        "hoarseness",
+        "fever",
+        "night sweats",
+        "poor appetite",
+        "vomiting",
+        "umbilical hernia",
+        "constrictive pericarditis",
+        "heart failure",
+        "pulmonary embolism",
+        "cardiac tamponade",
+        "orthopnea",
+        "jaundice",
+        "thrombophlebitis",
+        "disseminated intravascular coagulation"
+      ],
+      "diagnosis": [
+        "thoracentesis",
+        "tube thoracostomy",
+        "paracentesis",
+        "pericardiocentesis",
+        "immunocytochemistry"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "targeted therapy",
+        "hyperthermic intraperitoneal chemotherapy"
+      ],
+      "related_genes": [
+        "bap1",
+        "nf2",
+        "tp53",
+        "egfr",
+        "axl",
+        "pdgfrb"
+      ],
+      "subtypes": [
+        "epithelioid mesothelioma",
+        "sarcomatoid mesothelioma",
+        "biphasic mesothelioma",
+        "benign pleural mesothelioma",
+        "peritoneal mesothelioma",
+        "pericardial mesothelioma"
+      ]
+    },
+    {
+      "disease_name": "mucinous carcinoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [],
+      "diagnosis": [],
+      "treatments": [],
+      "related_genes": [],
+      "subtypes": [
+        "ovarian mucinous tumor",
+        "colorectal mucinous adenocarcinoma"
+      ]
+    },
+    {
+      "disease_name": "mucinous ovarian tumor",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [
+        "hemorrhage",
+        "neurosis"
+      ],
+      "diagnosis": [],
+      "treatments": [],
+      "related_genes": [],
+      "subtypes": [
+        "mucinous cystadenocarcinoma"
+      ]
+    },
+    {
+      "disease_name": "mucosal melanoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [],
+      "diagnosis": [],
+      "treatments": [],
+      "related_genes": [],
+      "subtypes": [
+        "vaginal melanoma",
+        "vaginal melanoma"
+      ]
+    },
+    {
+      "disease_name": "multiple endocrine neoplasia",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "men1 gene mutation"
+      ],
+      "risk_factors": [
+        "autosomal dominant inheritance"
+      ],
+      "symptoms": [
+        "pheochromocytoma",
+        "medullary thyroid carcinoma",
+        "adrenal cortex cancer",
+        "skin lipoma",
+        "meningioma",
+        "collagenase",
+        "gastric carcinoma"
+      ],
+      "diagnosis": [],
+      "treatments": [],
+      "related_genes": [
+        "men1",
+        "ret"
+      ],
+      "subtypes": [
+        "multiple endocrine neoplasia type 1",
+        "multiple endocrine neoplasia type 2a",
+        "multiple endocrine neoplasia type 2b"
+      ]
+    },
+    {
+      "disease_name": "multiple myeloma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "unknown",
+        "gene mutation"
+      ],
+      "risk_factors": [
+        "obesity",
+        "radiation exposure",
+        "monoclonal gammopathy of undetermined significance",
+        "smoldering multiple myeloma"
+      ],
+      "symptoms": [
+        "weakness",
+        "fatigue",
+        "weight loss",
+        "fever",
+        "anemia"
+      ],
+      "diagnosis": [
+        "bone marrow biopsy",
+        "cytogenetics"
+      ],
+      "treatments": [
+        "chemotherapy",
+        "radiation therapy",
+        "targeted therapy",
+        "biphosphonate"
+      ],
+      "related_genes": [
+        "atm",
+        "braf",
+        "ccnd1",
+        "dis3",
+        "fam246c",
+        "kras",
+        "nras",
+        "tp53",
+        "ezh2"
+      ],
+      "subtypes": [
+        "solitary plasmacytoma",
+        "plasma cell leukemia",
+        "monoclonal gammopathy of undetermined significance",
+        "smoldering multiple myeloma",
+        "non-secretory myeloma"
+      ]
+    },
+    {
+      "disease_name": "myelodysplastic syndromes",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "gene mutation",
+        "unit of exposure to ionizing radiation",
+        "prior chemotherapy",
+        "prior radiation therapy",
+        "gata2 deficiency",
+        "dna damage"
+      ],
+      "risk_factors": [
+        "prior chemotherapy",
+        "prior radiation therapy",
+        "down syndrome",
+        "fanconi anemia"
+      ],
+      "symptoms": [
+        "no shortness of breath",
+        "fatigue",
+        "fever",
+        "splenomegaly",
+        "hepatomegaly",
+        "weight loss",
+        "chest pain",
+        "purpura"
+      ],
+      "diagnosis": [
+        "bone marrow biopsy",
+        "flow cytometry"
+      ],
+      "treatments": [
+        "supportive care",
+        "chemotherapy",
+        "lenalidomide",
+        "anti-thymocyte globulin",
+        "luspatercept"
+      ],
+      "related_genes": [
+        "gata2",
+        "samd9",
+        "samd9l",
+        "tp53",
+        "flt3",
+        "sf3b1",
+        "idh1",
+        "idh2",
+        "cebpa",
+        "ddx41",
+        "runx1"
+      ],
+      "subtypes": [
+        "clonal cytopenia of undetermined significance",
+        "chromosome 18q deletion syndrome",
+        "refractory anemia",
+        "chronic myelomonocytic leukemia"
+      ]
+    },
+    {
+      "disease_name": "myelofibrosis",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "genetics",
+        "environmental risk factor"
+      ],
+      "risk_factors": [],
+      "symptoms": [
+        "fever",
+        "night sweats",
+        "bone pain",
+        "fatigue",
+        "abdominal pain",
+        "easy bleeding",
+        "chills",
+        "weight loss",
+        "gout",
+        "pallor",
+        "no shortness of breath",
+        "anemia"
+      ],
+      "diagnosis": [
+        "bone marrow biopsy",
+        "reticulocyte count"
+      ],
+      "treatments": [
+        "allogeneic stem cell transplantation",
+        "supportive care",
+        "folic acid",
+        "allopurinol",
+        "blood transfusion",
+        "dexamethasone",
+        "interferon alpha-2",
+        "lenalidomide",
+        "thalidomide",
+        "splenectomy"
+      ],
+      "related_genes": [
+        "jak2",
+        "calr",
+        "mpl"
+      ],
+      "subtypes": [
+        "overt primary myelofibrosis"
+      ]
+    },
+    {
+      "disease_name": "myxofibrosarcoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [],
+      "diagnosis": [],
+      "treatments": [
+        "adjuvant radiotherapy",
+        "angiogenesis inhibitor"
+      ],
+      "related_genes": [
+        "nf1",
+        "cdkn2a",
+        "cdkn2b",
+        "cdk6",
+        "ccnd1",
+        "mdm2"
+      ],
+      "subtypes": [
+        "epithelioid myxofibrosarcoma"
+      ]
+    },
+    {
+      "disease_name": "nasal cavity and paranasal sinus cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "smoking"
+      ],
+      "symptoms": [],
+      "diagnosis": [],
+      "treatments": [
+        "surgery",
+        "radiation therapy",
+        "chemotherapy"
+      ],
+      "related_genes": [],
+      "subtypes": []
+    },
+    {
+      "disease_name": "nasal cavity cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "smoking"
+      ],
+      "symptoms": [],
+      "diagnosis": [],
+      "treatments": [
+        "surgery",
+        "tradition",
+        "chemotherapy"
+      ],
+      "related_genes": [],
+      "subtypes": []
+    },
+    {
+      "disease_name": "nasopharyngeal carcinoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "epstein-barr virus infectious disease",
+        "genetic susceptibility"
+      ],
+      "risk_factors": [
+        "tobacco use",
+        "alcohol consumption"
+      ],
+      "symptoms": [
+        "ear pain",
+        "headache",
+        "have trouble hearing",
+        "have trouble breathing",
+        "trismus",
+        "otitis media",
+        "hearing loss",
+        "cranial nerve palsy",
+        "bone pain",
+        "ovarian dysfunction"
+      ],
+      "diagnosis": [
+        "history and physical exam"
+      ],
+      "treatments": [
+        "surgery",
+        "targeted therapy"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "keratinizing squamous cell carcinoma",
+        "basaloid squamous cell carcinoma"
+      ]
+    },
+    {
+      "disease_name": "wilms tumor",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "congenital abnormality",
+        "wt1 gene mutation"
+      ],
+      "risk_factors": [
+        "aniridia",
+        "denys-drash syndrome",
+        "hemihypertrophy",
+        "perlman syndrome"
+      ],
+      "symptoms": [
+        "fever",
+        "loss of appetite",
+        "abdominal pain",
+        "nausea and vomiting",
+        "varicocele"
+      ],
+      "diagnosis": [
+        "skin examination"
+      ],
+      "treatments": [
+        "chemotherapy",
+        "radiation therapy",
+        "actinomycin f1"
+      ],
+      "related_genes": [
+        "wt1",
+        "wnt2",
+        "ctnnb1",
+        "h19"
+      ],
+      "subtypes": [
+        "obsolete anaplastic renal wilms' tumor"
+      ]
+    },
+    {
+      "disease_name": "neuroblastoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "atopy"
+      ],
+      "symptoms": [
+        "bone pain",
+        "have trouble breathing",
+        "abdominal distension",
+        "constipation",
+        "fatigue",
+        "loss of appetite",
+        "fever"
+      ],
+      "diagnosis": [
+        "biopsy",
+        "bone marrow aspiration and biopsy",
+        "surgical pathology",
+        "immunohistochemical test",
+        "international neuroblastoma staging system",
+        "international neuroblastoma risk group staging system"
+      ],
+      "treatments": [
+        "surgery",
+        "radiation therapy",
+        "chemotherapy",
+        "targeted therapy",
+        "naxitamab",
+        "granulocyte-macrophage colony-stimulating factor"
+      ],
+      "related_genes": [
+        "alk",
+        "phox2b",
+        "kif1b",
+        "mycn",
+        "lmo1",
+        "ahcy",
+        "dpysl3",
+        "nme1",
+        "nbpf1"
+      ],
+      "subtypes": [
+        "ganglioneuroma",
+        "ganglioneuroblastoma"
+      ]
+    },
+    {
+      "disease_name": "neuroendocrine tumors",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [
+        "flushing",
+        "diarrhea",
+        "have trouble breathing",
+        "congestive heart failure",
+        "abdominal cramp",
+        "airway obstruction",
+        "pneumonia",
+        "pleurisy",
+        "cough",
+        "hemoptysis",
+        "weakness",
+        "nausea",
+        "weight loss",
+        "night sweats",
+        "neuralgia",
+        "primary hyperaldosteronism",
+        "acromegaly",
+        "bowel obstruction",
+        "dermatitis",
+        "dementia"
+      ],
+      "diagnosis": [
+        "neuroendocrine secretory protein 55",
+        "mrs"
+      ],
+      "treatments": [
+        "surgery",
+        "cholecystectomy",
+        "interferon",
+        "peptide receptor radionuclide therapy",
+        "hepatic artery embolization",
+        "selective internal radiation therapy"
+      ],
+      "related_genes": [
+        "men1",
+        "en2",
+        "vhl",
+        "nf1",
+        "tsc1",
+        "tsc2",
+        "cdx2"
+      ],
+      "subtypes": [
+        "pancreatic neuroendocrine tumor",
+        "pheochromocytoma",
+        "paraganglioma",
+        "neuroblastoma",
+        "merkel cell carcinoma of anal skin",
+        "medullary thyroid carcinoma",
+        "thymic neuroendocrine tumor",
+        "pulmonary neuroendocrine tumor",
+        "breast neuroendocrine neoplasm",
+        "peripheral nervous system",
+        "schwannoma"
+      ]
+    },
+    {
+      "disease_name": "non-hodgkin lymphoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "autoimmune disease",
+        "helicobacter pylori infection",
+        "hepatitis c infection",
+        "epstein-barr virus infectious disease",
+        "hiv infection"
+      ],
+      "risk_factors": [],
+      "symptoms": [
+        "fever",
+        "have trouble breathing",
+        "chest pain",
+        "weakness",
+        "seizure",
+        "personality change",
+        "bone pain"
+      ],
+      "diagnosis": [
+        "bone marrow aspiration",
+        "immunocytochemistry",
+        "cytogenetic analysis",
+        "immunophenotype"
+      ],
+      "treatments": [
+        "chemotherapy",
+        "radiation therapy",
+        "targeted therapy",
+        "surgery",
+        "plasmapheresis",
+        "mesenchymal stromal cell",
+        "platelet transfusion"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "burkitt lymphoma",
+        "follicular dendritic cell sarcoma",
+        "diffuse large b-cell lymphoma",
+        "gastric lymphoma",
+        "primary effusion lymphoma",
+        "multicentric castleman disease",
+        "splenic marginal zone lymphoma",
+        "lymphoplasmacytic lymphoma"
+      ]
+    },
+    {
+      "disease_name": "skin cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "environmental carcinogen"
+      ],
+      "risk_factors": [
+        "smoking tobacco",
+        "fair skin",
+        "family history of ovarian cancer"
+      ],
+      "symptoms": [
+        "cancer"
+      ],
+      "diagnosis": [
+        "biopsy",
+        "histopathologic examination",
+        "photography",
+        "dermatoscope",
+        "sonographer",
+        "confocal microscopy",
+        "raman spectroscopy",
+        "fluorescence spectroscopy",
+        "optical coherence tomography",
+        "multispectral imaging",
+        "thermography"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "chemotherapy",
+        "targeted therapy",
+        "mohs surgery",
+        "external beam radiation therapy",
+        "brachytherapy",
+        "cryotherapy",
+        "photodynamic therapy",
+        "electrodessication and curettage",
+        "vaccine therapy",
+        "reconstructive surgery",
+        "skin graft"
+      ],
+      "related_genes": [
+        "ptch1"
+      ],
+      "subtypes": [
+        "melanoma",
+        "melanoma",
+        "merkel cell carcinoma",
+        "mammary paget's disease",
+        "atypical fibroxanthoma",
+        "porocarcinoma",
+        "sebaceous carcinoma",
+        "microcystic adnexal carcinoma",
+        "keratoacanthoma",
+        "skin sarcoma",
+        "angiosarcoma",
+        "dermatofibrosarcoma protuberans",
+        "kaposi's sarcoma",
+        "leiomyosarcoma",
+        "amelanotic melanoma"
+      ]
+    },
+    {
+      "disease_name": "oligodendroglioma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "unknown"
+      ],
+      "risk_factors": [],
+      "symptoms": [
+        "leisure activity"
+      ],
+      "diagnosis": [
+        "biopsy of brain",
+        "histopathologic examination",
+        "molecular diagnosis",
+        "fluorescence in situ hybridization",
+        "loss of heterozygosity analysis"
+      ],
+      "treatments": [
+        "radiation therapy"
+      ],
+      "related_genes": [
+        "idh1",
+        "idh2",
+        "egfr",
+        "tp53",
+        "olig2"
+      ],
+      "subtypes": [
+        "anaplastic oligodendroglioma"
+      ]
+    },
+    {
+      "disease_name": "oral cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "tobacco use",
+        "hpv16 infection",
+        "acetaldehyde",
+        "tradition"
+      ],
+      "risk_factors": [
+        "tobacco use",
+        "hpv16 infection",
+        "allogeneic hematopoietic stem cell transplantation"
+      ],
+      "symptoms": [
+        "ear pain"
+      ],
+      "diagnosis": [
+        "panendoscopy",
+        "fine-needle aspiration",
+        "lymph node biopsy",
+        "sentinel lymph node biopsy"
+      ],
+      "treatments": [
+        "surgery",
+        "radiation therapy",
+        "chemotherapy",
+        "targeted therapy",
+        "immunotherapy"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "squamous cell carcinoma",
+        "oral cavity cancer",
+        "tongue cancer",
+        "lip cancer",
+        "oropharynx cancer"
+      ]
+    },
+    {
+      "disease_name": "oropharyngeal cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "tobacco use",
+        "asbestos exposure"
+      ],
+      "risk_factors": [
+        "smoking",
+        "chewing tobacco",
+        "plummer-vinson syndrome"
+      ],
+      "symptoms": [
+        "ear pain",
+        "hoarseness"
+      ],
+      "diagnosis": [
+        "history and physical exam"
+      ],
+      "treatments": [
+        "surgery",
+        "radiation therapy",
+        "chemotherapy",
+        "targeted therapy",
+        "immunotherapy"
+      ],
+      "related_genes": [
+        "tp53"
+      ],
+      "subtypes": [
+        "stage r1",
+        "stage r2",
+        "stage m3",
+        "stage a",
+        "stage b",
+        "stage c"
+      ]
+    },
+    {
+      "disease_name": "osteosarcoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "gene mutation",
+        "giant rod chromosome",
+        "rothmund-thomson syndrome"
+      ],
+      "risk_factors": [],
+      "symptoms": [],
+      "diagnosis": [],
+      "treatments": [
+        "salvage surgery",
+        "amputation",
+        "rotationplasty",
+        "etoposide"
+      ],
+      "related_genes": [
+        "tp53",
+        "tp53",
+        "rb1",
+        "pten",
+        "myc",
+        "pik3ca",
+        "setd2"
+      ],
+      "subtypes": [
+        "secondary",
+        "extraskeletal"
+      ]
+    },
+    {
+      "disease_name": "ovarian cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "brca1 gene mutation",
+        "brca2 gene mutation",
+        "lynch syndrome",
+        "endometriosis",
+        "hormone replacement therapy",
+        "obesity",
+        "tall stature",
+        "polycystic ovary syndrome"
+      ],
+      "risk_factors": [
+        "family history of ovarian cancer",
+        "lynch syndrome",
+        "endometriosis",
+        "obesity",
+        "tall stature",
+        "polycystic ovary syndrome",
+        "prolonged standing",
+        "diabetes mellitus",
+        "body mass index"
+      ],
+      "symptoms": [
+        "loss of appetite",
+        "fatigue",
+        "diarrhea",
+        "digestion",
+        "heartburn",
+        "nausea",
+        "back pain",
+        "hirsutism",
+        "virilization",
+        "adnexal mass",
+        "pleural effusion"
+      ],
+      "diagnosis": [
+        "retinal examination"
+      ],
+      "treatments": [
+        "chemotherapy",
+        "targeted therapy",
+        "radiation therapy",
+        "hormone therapy",
+        "immunotherapy",
+        "interval debulking surgery",
+        "laparoscopic surgery",
+        "laparotomy",
+        "bilateral salpingectomy",
+        "hysterectomy",
+        "omentectomy",
+        "splenectomy",
+        "appendectomy",
+        "posterior pelvic exenteration",
+        "lymphadenectomy",
+        "intraperitoneal chemotherapy",
+        "palliative radiation therapy"
+      ],
+      "related_genes": [
+        "brca1",
+        "brca2",
+        "nf1",
+        "cdk12",
+        "braf",
+        "kras",
+        "pten",
+        "pik3ca",
+        "arid1a",
+        "tp53",
+        "msh2",
+        "mlh1",
+        "pms1",
+        "pms2",
+        "esr2",
+        "brip1",
+        "msh6",
+        "rad51c",
+        "rad51d",
+        "cdh1",
+        "chek2",
+        "palb2",
+        "rad50",
+        "smarca4",
+        "kit",
+        "wt1",
+        "foxm1"
+      ],
+      "subtypes": [
+        "ovary epithelial cancer",
+        "fallopian tube cancer",
+        "malignant germ cell tumor",
+        "obsolete stromal neoplasm",
+        "serous tubal intraepithelial carcinoma",
+        "adenocarcinoma cell",
+        "endometrial carcinoma",
+        "mucinous adenocarcinoma",
+        "mucinous adenocarcinoma",
+        "mucinous cystadenocarcinoma",
+        "pseudomyxoma peritonei",
+        "esophageal undifferentiated carcinoma",
+        "bone cancer",
+        "transitional cell carcinoma",
+        "sex cord-stromal tumor",
+        "juvenile granulosa cell tumor",
+        "thecoma",
+        "fibroma",
+        "germ cell tumor",
+        "dysgerminoma",
+        "choriocarcinoma",
+        "embryonal carcinoma",
+        "squamous cell carcinoma",
+        "mixed cell type cancer"
+      ]
+    },
+    {
+      "disease_name": "ovarian germ cell tumors",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "gene mutation",
+        "environmental risk factor",
+        "endometriosis",
+        "polycystic ovary syndrome",
+        "hereditary nonpolyposis colorectal cancer syndrome"
+      ],
+      "risk_factors": [
+        "endometriosis",
+        "polycystic ovary syndrome",
+        "hereditary nonpolyposis colorectal cancer syndrome"
+      ],
+      "symptoms": [
+        "bloating",
+        "abdominal distension",
+        "dyspareunia",
+        "ovarian torsion",
+        "hemorrhage"
+      ],
+      "diagnosis": [
+        "pelvic examination",
+        "biopsy of soft tissue",
+        "omentectomy"
+      ],
+      "treatments": [],
+      "related_genes": [
+        "brca1",
+        "brca2"
+      ],
+      "subtypes": [
+        "dysgerminoma"
+      ]
+    },
+    {
+      "disease_name": "pancreatic cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "gene mutation",
+        "pancreatic intraepithelial neoplasia",
+        "pancreatic mucinous cystadenoma",
+        "pancreatic intraductal tubulopapillary neoplasm",
+        "kras gene mutation",
+        "cdkn2a gene mutation",
+        "tp53 gene mutation",
+        "smad4 gene mutation",
+        "men1 gene mutation",
+        "cigarette smoking",
+        "obesity",
+        "diabetes mellitus",
+        "chronic pancreatitis",
+        "hereditary pancreatitis",
+        "peutz-jeghers syndrome",
+        "lynch syndrome",
+        "familial adenomatous polyposis",
+        "multiple endocrine neoplasia type 1",
+        "von hippel-lindau disease"
+      ],
+      "risk_factors": [
+        "smoking",
+        "chronic pancreatitis",
+        "obesity",
+        "family history of prostate cancer",
+        "red meat consumption"
+      ],
+      "symptoms": [
+        "weight loss",
+        "fatigue",
+        "loss of appetite",
+        "nausea",
+        "vomiting",
+        "constipation",
+        "major depressive disorder",
+        "weakness",
+        "digestion"
+      ],
+      "diagnosis": [
+        "liver function test",
+        "genetic testing"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "immunotherapy",
+        "pain management",
+        "radiofrequency ablation",
+        "hepatic artery embolization"
+      ],
+      "related_genes": [
+        "kras",
+        "cdkn2a",
+        "tp53",
+        "smad4",
+        "men1",
+        "daxx",
+        "mtor",
+        "atrx",
+        "stk11",
+        "brca2",
+        "palb2",
+        "atm",
+        "brca1",
+        "gnas",
+        "rnf43",
+        "muc1",
+        "pelp1"
+      ],
+      "subtypes": [
+        "pancreatic adenocarcinoma",
+        "pancreatic ductal adenocarcinoma",
+        "acinar cell carcinoma",
+        "cystadenocarcinoma",
+        "pancreatoblastoma",
+        "adenosquamous carcinoma",
+        "signet ring cell carcinoma",
+        "hepatoid adenocarcinoma",
+        "colon carcinoma",
+        "undifferentiated carcinoma",
+        "undifferentiated carcinoma with osteoclast-like giant cells",
+        "obsolete papillary cystic tumor",
+        "pancreatic mucinous cystadenoma",
+        "advanced pancreatic neuroendocrine tumor",
+        "insulinoma",
+        "gastrinoma"
+      ]
+    },
+    {
+      "disease_name": "pancreatoblastoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [
+        "abdominal pain",
+        "jaundice"
+      ],
+      "diagnosis": [
+        "clinical history",
+        "pathology"
+      ],
+      "treatments": [
+        "adjuvant chemotherapy"
+      ],
+      "related_genes": [],
+      "subtypes": []
+    },
+    {
+      "disease_name": "paraganglioma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [
+        "painless mass",
+        "hypertension",
+        "tachycardia",
+        "headache",
+        "palpitation",
+        "have difficulty swallowing",
+        "dysphagia",
+        "hoarseness"
+      ],
+      "diagnosis": [
+        "x-ray",
+        "immunocytochemistry",
+        "histochemistry"
+      ],
+      "treatments": [
+        "surgery",
+        "long-term follow-up"
+      ],
+      "related_genes": [
+        "sdhd",
+        "sdha",
+        "sdhc",
+        "sdhb",
+        "sdhaf2",
+        "vhl",
+        "nf1",
+        "tmem127",
+        "max",
+        "slc25a11"
+      ],
+      "subtypes": [
+        "pheochromocytoma",
+        "head and neck paraganglioma",
+        "vagal paraganglioma",
+        "laryngeal paraganglioma",
+        "thyroid gland paraganglioma",
+        "bladder paraganglioma"
+      ]
+    },
+    {
+      "disease_name": "parathyroid carcinoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "multiple endocrine neoplasia type 1",
+        "hyperparathyroidism-jaw tumor syndrome"
+      ],
+      "symptoms": [],
+      "diagnosis": [],
+      "treatments": [],
+      "related_genes": [],
+      "subtypes": []
+    },
+    {
+      "disease_name": "penile cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "human papillomavirus infection",
+        "condyloma acuminatum"
+      ],
+      "risk_factors": [
+        "phimosis",
+        "smoking",
+        "hiv infection",
+        "anogenital venereal wart",
+        "balanitis",
+        "paraphimosis"
+      ],
+      "symptoms": [
+        "nipple discharge",
+        "difficulty urinating"
+      ],
+      "diagnosis": [
+        "biopsy"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "chemotherapy",
+        "biological therapy"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "melanoma",
+        "basal cell carcinoma"
+      ]
+    },
+    {
+      "disease_name": "pheochromocytoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "chromaffin cell"
+      ],
+      "risk_factors": [
+        "multiple endocrine neoplasia",
+        "neurofibromatosis 1",
+        "carney triad",
+        "carney-stratakis syndrome"
+      ],
+      "symptoms": [
+        "headache",
+        "sweating",
+        "pallor",
+        "weight loss",
+        "palpitation",
+        "constipation",
+        "orthostatic hypotension",
+        "anxiety",
+        "panic attack",
+        "nervousness",
+        "tremor",
+        "rhabdomyolysis",
+        "acute renal failure",
+        "multiple organ dysfunction syndrome"
+      ],
+      "diagnosis": [
+        "chromogranin"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "vasopressor"
+      ],
+      "related_genes": [
+        "vhl",
+        "nf1",
+        "epas1",
+        "gata3",
+        "sox10",
+        "s100b",
+        "sdhb",
+        "th",
+        "dbh",
+        "chat",
+        "mki67"
+      ],
+      "subtypes": [
+        "adrenal gland pheochromocytoma",
+        "extra-adrenal pheochromocytoma",
+        "malignant pheochromocytoma"
+      ]
+    },
+    {
+      "disease_name": "pituitary adenoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "growth hormone secreting pituitary adenoma"
+      ],
+      "risk_factors": [
+        "multiple endocrine neoplasia type 1"
+      ],
+      "symptoms": [
+        "headache",
+        "nausea",
+        "vomiting",
+        "decreased visual acuity",
+        "depression",
+        "anxiety",
+        "apathy",
+        "gigantism",
+        "acromegaly",
+        "fatigue",
+        "weight gain",
+        "hypertension",
+        "glucose intolerance",
+        "erectile dysfunction",
+        "hypopituitarism"
+      ],
+      "diagnosis": [],
+      "treatments": [
+        "chemotherapy",
+        "hormone replacement therapy"
+      ],
+      "related_genes": [
+        "aip",
+        "gpr101"
+      ],
+      "subtypes": [
+        "prolactinoma",
+        "growth hormone secreting pituitary adenoma",
+        "acth-secreting pituitary adenoma"
+      ]
+    },
+    {
+      "disease_name": "plasma cell leukemia",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [
+        "splenomegaly",
+        "lymphadenopathy",
+        "hepatomegaly",
+        "kidney failure",
+        "central nervous system cyst",
+        "peripheral neuropathy"
+      ],
+      "diagnosis": [],
+      "treatments": [
+        "autologous stem cell transplantation",
+        "intensive chemotherapy"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "secondary plasma cell leukemia"
+      ]
+    },
+    {
+      "disease_name": "primary peritoneal cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "brca1 gene mutation",
+        "brca2 gene mutation"
+      ],
+      "risk_factors": [
+        "family history of ovarian cancer",
+        "lynch syndrome",
+        "endometriosis",
+        "hormone replacement therapy",
+        "tall stature"
+      ],
+      "symptoms": [
+        "trouble relaxing"
+      ],
+      "diagnosis": [],
+      "treatments": [
+        "chemotherapy",
+        "targeted therapy"
+      ],
+      "related_genes": [
+        "brca1",
+        "brca2",
+        "tp53",
+        "wt1"
+      ],
+      "subtypes": [
+        "serous surface papillary carcinoma",
+        "ovarian serous carcinoma",
+        "endometrial serous adenocarcinoma",
+        "fallopian tube serous adenocarcinoma",
+        "cervical serous adenocarcinoma"
+      ]
+    },
+    {
+      "disease_name": "prostate cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "family history of prostate cancer",
+        "african american",
+        "obesity"
+      ],
+      "symptoms": [
+        "erectile dysfunction",
+        "fatigue",
+        "lethargy",
+        "generalized muscle weakness",
+        "loss of appetite",
+        "nausea",
+        "constipation",
+        "anemia",
+        "anxiety",
+        "depression",
+        "confusion",
+        "hallucination"
+      ],
+      "diagnosis": [
+        "biopsy of prostate",
+        "gleason score 6",
+        "prostate health index",
+        "4kscore"
+      ],
+      "treatments": [
+        "observation",
+        "prior active surveillance",
+        "targeted therapy",
+        "pembrolizumab",
+        "blood transfusion"
+      ],
+      "related_genes": [
+        "brca2",
+        "hoxb13",
+        "brca1",
+        "atm",
+        "msh2",
+        "msh6",
+        "pms2",
+        "chek2",
+        "rad51d",
+        "palb2",
+        "myc",
+        "cyp3a4",
+        "tmprss2",
+        "erg",
+        "spop",
+        "foxa1",
+        "tp53",
+        "rb1",
+        "pten",
+        "apc",
+        "ctnnb1",
+        "akt1"
+      ],
+      "subtypes": [
+        "castration-sensitive prostate carcinoma"
+      ]
+    },
+    {
+      "disease_name": "retinoblastoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "rb1 gene mutation",
+        "mycn gene mutation",
+        "rb1 gene mutation",
+        "short somatic mutation"
+      ],
+      "risk_factors": [],
+      "symptoms": [
+        "glaucoma",
+        "developmental delay",
+        "proptosis"
+      ],
+      "diagnosis": [
+        "red reflex test",
+        "eye examination",
+        "lumbar puncture"
+      ],
+      "treatments": [
+        "brachytherapy",
+        "thermotherapy",
+        "cryotherapy",
+        "systemic chemotherapy",
+        "intrathecal chemotherapy"
+      ],
+      "related_genes": [
+        "rb1",
+        "mycn"
+      ],
+      "subtypes": [
+        "sporadic retinoblastoma",
+        "unilateral retinoblastoma",
+        "bilateral retinoblastoma",
+        "trilateral retinoblastoma"
+      ]
+    },
+    {
+      "disease_name": "rhabdomyosarcoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "prior radiation therapy",
+        "congenital abnormality",
+        "neurofibromatosis type 1",
+        "beckwith-wiedemann syndrome",
+        "costello syndrome",
+        "noonan syndrome",
+        "dicer1 syndrome"
+      ],
+      "symptoms": [
+        "pain",
+        "have trouble breathing",
+        "hematuria",
+        "urinary tract obstruction",
+        "otorrhea",
+        "headache",
+        "facial pain",
+        "proptosis"
+      ],
+      "diagnosis": [
+        "biopsy",
+        "electron microscopy",
+        "lumbar puncture",
+        "abdominal"
+      ],
+      "treatments": [
+        "surgery",
+        "radiation therapy",
+        "chemotherapy",
+        "immunotherapy",
+        "doxorubicin",
+        "cisplatin",
+        "brachytherapy",
+        "menin inhibitor"
+      ],
+      "related_genes": [
+        "pax3",
+        "pax7",
+        "foxo1",
+        "myc",
+        "mycn",
+        "myod1",
+        "brd4",
+        "igf2",
+        "tp53",
+        "myc",
+        "nras",
+        "kras",
+        "pi16",
+        "fgfr3"
+      ],
+      "subtypes": [
+        "embryonal rhabdomyosarcoma",
+        "alveolar rhabdomyosarcoma",
+        "pleomorphic rhabdomyosarcoma",
+        "botryoid rhabdomyosarcoma"
+      ]
+    },
+    {
+      "disease_name": "salivary gland cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "ionizing radiation"
+      ],
+      "risk_factors": [],
+      "symptoms": [
+        "cranial nerve palsy",
+        "facial pain",
+        "paresthesia"
+      ],
+      "diagnosis": [
+        "biopsy",
+        "panendoscopy",
+        "radiograph",
+        "orthopantomogram",
+        "chest radiography",
+        "ultrasound"
+      ],
+      "treatments": [
+        "surgery",
+        "radiation therapy",
+        "chemotherapy",
+        "chemoradiotherapy",
+        "targeted therapy",
+        "systemic therapy"
+      ],
+      "related_genes": [
+        "egfr",
+        "herc2",
+        "kit"
+      ],
+      "subtypes": [
+        "epithelial malignant thymoma",
+        "pleomorphic adenoma",
+        "warthin tumor",
+        "myoepithelioma",
+        "basal cell adenoma",
+        "oxyphilic adenoma",
+        "sebaceous adenoma",
+        "intraductal papilloma",
+        "intraductal papilloma",
+        "cystadenoma",
+        "acinar cell carcinoma",
+        "mucoepidermoid carcinoma",
+        "adenoid cystic carcinoma",
+        "epithelial-myoepithelial carcinoma",
+        "cervical adenocarcinoma, not otherwise specified",
+        "basophilic adenocarcinoma cell",
+        "sebaceous carcinoma",
+        "sebaceous adenocarcinoma",
+        "cystadenocarcinoma",
+        "mucinous adenocarcinoma",
+        "oncocytic adenocarcinoma",
+        "salivary duct carcinoma",
+        "salivary gland adenocarcinoma, not otherwise specified",
+        "thymic adenocarcinoma, not otherwise specified",
+        "myoepithelial carcinoma",
+        "carcinoma ex pleomorphic adenoma",
+        "mammary analogue secretory carcinoma",
+        "carcinosarcoma",
+        "squamous cell carcinoma",
+        "large cell carcinoma",
+        "lymphoepithelioma-like carcinoma",
+        "sialoblastoma",
+        "hemangioma",
+        "hodgkin lymphoma",
+        "diffuse large b-cell lymphoma",
+        "thyroid gland carcinoma",
+        "sialolipoma"
+      ]
+    },
+    {
+      "disease_name": "uterine cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "obesity",
+        "metabolic syndrome",
+        "type 2 diabetes mellitus",
+        "polycystic ovary syndrome",
+        "lynch syndrome",
+        "endometrial hyperplasia"
+      ],
+      "symptoms": [
+        "pelvic pain",
+        "enlarged uterus",
+        "pelvic mass",
+        "difficulty urinating"
+      ],
+      "diagnosis": [
+        "biopsy"
+      ],
+      "treatments": [
+        "hysterectomy",
+        "hormone therapy",
+        "radiation therapy",
+        "chemotherapy"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "endometrial cancer",
+        "uterine angiosarcoma"
+      ]
+    },
+    {
+      "disease_name": "serous carcinoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [],
+      "diagnosis": [],
+      "treatments": [],
+      "related_genes": [],
+      "subtypes": [
+        "obsolete ovarian serous tumor",
+        "endometrial serous adenocarcinoma",
+        "serous cystadenoma",
+        "cystadenofibroma",
+        "adenofibroma",
+        "primary peritoneal serous adenocarcinoma"
+      ]
+    },
+    {
+      "disease_name": "skin cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "environmental carcinogen"
+      ],
+      "risk_factors": [
+        "family history of ovarian cancer",
+        "fair skin",
+        "excessive blinking"
+      ],
+      "symptoms": [],
+      "diagnosis": [
+        "biopsy",
+        "histopathologic examination",
+        "photography",
+        "dermatoscope",
+        "sonographer",
+        "confocal microscopy",
+        "raman spectroscopy",
+        "fluorescence spectroscopy",
+        "optical coherence tomography",
+        "multispectral imaging",
+        "thermography"
+      ],
+      "treatments": [
+        "chemotherapy",
+        "photodynamic therapy",
+        "biological therapy",
+        "cryotherapy"
+      ],
+      "related_genes": [
+        "ptch1"
+      ],
+      "subtypes": [
+        "melanoma",
+        "merkel cell carcinoma",
+        "mammary paget's disease",
+        "atypical fibroxanthoma",
+        "porocarcinoma",
+        "sebaceous carcinoma",
+        "microcystic adnexal carcinoma",
+        "keratoacanthoma"
+      ]
+    },
+    {
+      "disease_name": "soft tissue sarcoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "radiation therapy"
+      ],
+      "risk_factors": [
+        "prior radiation therapy"
+      ],
+      "symptoms": [],
+      "diagnosis": [],
+      "treatments": [
+        "radiation therapy",
+        "chemotherapy",
+        "targeted therapy"
+      ],
+      "related_genes": [
+        "tp53",
+        "nf1",
+        "rb1"
+      ],
+      "subtypes": [
+        "liver angiosarcoma",
+        "kaposi sarcoma",
+        "rhabdomyosarcoma",
+        "synovial sarcoma",
+        "alveolar soft part sarcoma",
+        "undifferentiated pleomorphic sarcoma"
+      ]
+    },
+    {
+      "disease_name": "stomach cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "helicobacter pylori infection",
+        "epstein-barr virus",
+        "bile reflux"
+      ],
+      "risk_factors": [
+        "cigarette smoking",
+        "family history of stomach cancer",
+        "obesity",
+        "alcohol consumption",
+        "iodine deficiency",
+        "acquired immunodeficiency syndrome"
+      ],
+      "symptoms": [
+        "digestion",
+        "heartburn",
+        "nausea",
+        "loss of appetite",
+        "vomiting",
+        "jaundice",
+        "fatigue",
+        "diarrhea",
+        "constipation",
+        "anemia"
+      ],
+      "diagnosis": [
+        "endoscopic ultrasound"
+      ],
+      "treatments": [
+        "radiation therapy"
+      ],
+      "related_genes": [
+        "cdh1",
+        "itgav",
+        "dusp1",
+        "p2rx7"
+      ],
+      "subtypes": [
+        "gastric adenocarcinoma",
+        "intestinal-type adenocarcinoma",
+        "diffuse type adenocarcinoma",
+        "signet ring cell carcinoma",
+        "mesenchymal cell neoplasm",
+        "obsolete stromal neoplasm"
+      ]
+    },
+    {
+      "disease_name": "testicular cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "cryptorchidism",
+        "family history of testicular cancer",
+        "inguinal hernia",
+        "klinefelter syndrome",
+        "sedentary lifestyle"
+      ],
+      "symptoms": [
+        "cough"
+      ],
+      "diagnosis": [],
+      "treatments": [
+        "radiation therapy",
+        "high-dose chemotherapy with stem cell support",
+        "retroperitoneal lymph node dissection",
+        "surveillance"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "seminoma",
+        "nonseminomatous",
+        "sex cord-stromal tumor",
+        "lymphoma",
+        "gonadoblastoma",
+        "germinoma",
+        "embryonal carcinoma",
+        "yolk sac tumor",
+        "choriocarcinoma",
+        "teratoma",
+        "leydig cell tumor",
+        "sertoli cell tumor"
+      ]
+    },
+    {
+      "disease_name": "thymoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [],
+      "symptoms": [
+        "chest pain",
+        "have trouble breathing",
+        "superior vena cava syndrome"
+      ],
+      "diagnosis": [
+        "serum protein electrophoresis",
+        "electrolytes",
+        "renal function"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "hormone therapy"
+      ],
+      "related_genes": [],
+      "subtypes": []
+    },
+    {
+      "disease_name": "thyroid cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "multiple endocrine neoplasia type 2",
+        "thyroiditis"
+      ],
+      "risk_factors": [
+        "obesity"
+      ],
+      "symptoms": [
+        "have trouble breathing"
+      ],
+      "diagnosis": [
+        "biopsy",
+        "ultrasound",
+        "calcitonin measurement",
+        "tnm staging system"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "radioactive iodine therapy",
+        "chemotherapy",
+        "targeted therapy",
+        "sorafenib",
+        "lenvatinib",
+        "vandetanib"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "papillary carcinoma",
+        "obsolete oxyphilic adenocarcinoma",
+        "thyroid lymphoma",
+        "thymic squamous cell carcinoma",
+        "thyroid sarcoma",
+        "thyroid gland noninvasive follicular neoplasm with papillary-like nuclear features"
+      ]
+    },
+    {
+      "disease_name": "urethral cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "tradition",
+        "urethral stricture"
+      ],
+      "risk_factors": [
+        "chronic inflammation",
+        "radiation exposure",
+        "urethral stricture",
+        "squamous cell carcinoma"
+      ],
+      "symptoms": [],
+      "diagnosis": [
+        "x-ray"
+      ],
+      "treatments": [
+        "radiation therapy",
+        "medicine"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "bladder urothelial papillary carcinoma",
+        "squamous cell carcinoma",
+        "adenocarcinoma",
+        "anterior urethra cancer"
+      ]
+    },
+    {
+      "disease_name": "uterine sarcoma",
+      "synonyms": [],
+      "summary": [],
+      "causes": [],
+      "risk_factors": [
+        "obesity",
+        "metabolic syndrome",
+        "type 2 diabetes mellitus",
+        "polycystic ovary syndrome",
+        "lynch syndrome",
+        "endometrial hyperplasia"
+      ],
+      "symptoms": [
+        "pelvic pain",
+        "enlarged uterus",
+        "pelvic mass",
+        "difficulty urinating"
+      ],
+      "diagnosis": [
+        "biopsy",
+        "hysteroscopy"
+      ],
+      "treatments": [
+        "bilateral salpingectomy",
+        "hormone therapy",
+        "radiation therapy",
+        "chemotherapy"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "leiomyosarcoma",
+        "endometrial stromal sarcoma",
+        "carcinosarcoma",
+        "uterine angiosarcoma",
+        "carcinosarcoma"
+      ]
+    },
+    {
+      "disease_name": "vaginal cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "human papillomavirus infection"
+      ],
+      "risk_factors": [
+        "smoking"
+      ],
+      "symptoms": [
+        "vaginal discharge",
+        "pelvic pain",
+        "constipation",
+        "blood in stool"
+      ],
+      "diagnosis": [
+        "colposcopy",
+        "biopsy",
+        "history and physical exam"
+      ],
+      "treatments": [
+        "surgery",
+        "radiation therapy",
+        "chemotherapy"
+      ],
+      "related_genes": [],
+      "subtypes": [
+        "squamous cell carcinoma",
+        "vaginal adenocarcinoma",
+        "clear cell adenocarcinoma",
+        "vaginal melanoma"
+      ]
+    },
+    {
+      "disease_name": "vulvar cancer",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "human papillomavirus infection",
+        "vulvar intraepithelial neoplasia"
+      ],
+      "risk_factors": [
+        "number of female sexual partners",
+        "vulvar lichen sclerosus",
+        "immunodeficiency syndrome"
+      ],
+      "symptoms": [],
+      "diagnosis": [
+        "biopsy",
+        "intravenous pyelogram",
+        "cystoscopy",
+        "proctoscopy"
+      ],
+      "treatments": [
+        "surgery",
+        "radiation therapy",
+        "chemotherapy",
+        "biological therapy",
+        "wide local excision"
+      ],
+      "related_genes": [
+        "braf",
+        "kit"
+      ],
+      "subtypes": [
+        "squamous cell carcinoma",
+        "adenocarcinoma",
+        "melanoma",
+        "sarcoma",
+        "basal cell carcinoma",
+        "bartholin gland carcinoma",
+        "verrucous carcinoma",
+        "in situ carcinoma",
+        "differentiated intraepithelial neoplasia",
+        "cutaneous paget's disease"
+      ]
+    },
+    {
+      "disease_name": "wilms tumor",
+      "synonyms": [],
+      "summary": [],
+      "causes": [
+        "nephrogenic rest",
+        "denys-drash syndrome",
+        "gene mutation",
+        "congenital abnormality"
+      ],
+      "risk_factors": [
+        "aniridia",
+        "hemihypertrophy",
+        "perlman syndrome"
+      ],
+      "symptoms": [
+        "fever",
+        "loss of appetite",
+        "abdominal pain",
+        "nausea and vomiting",
+        "varicocele"
+      ],
+      "diagnosis": [
+        "skin examination",
+        "computed tomography",
+        "tissue sample"
+      ],
+      "treatments": [
+        "chemotherapy",
+        "radiation therapy",
+        "actinomycin f1"
+      ],
+      "related_genes": [
+        "wt1",
+        "wnt2",
+        "ctnnb1",
+        "h19"
+      ],
+      "subtypes": [
+        "obsolete anaplastic renal wilms' tumor"
+      ]
+    }
+  ]
+}

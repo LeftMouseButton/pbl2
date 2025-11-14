@@ -1,0 +1,71 @@
+{
+  "disease_name": "Primary peritoneal cancer",
+  "synonyms": [
+    "Serous surface papillary carcinoma",
+    "Primary peritoneal carcinoma",
+    "Extra-ovarian serous carcinoma",
+    "Primary serous papillary carcinoma",
+    "Psammomacarcinoma",
+    "Carcinoma of unknown primary (CUP)"
+  ],
+  "summary": "Primary peritoneal cancer (PPC) is a cancer of the cells lining the peritoneum, or abdominal cavity. It is histomorphologically and molecular biologically similar to serous carcinomas, including ovarian serous carcinoma, and is often considered one entity with ovarian cancer, fallopian tube cancer, and uterine serous carcinoma. It usually affects women and is diagnosed after the age of 60.",
+  "causes": [
+    "Genetic mutations in DNA",
+    "Inherited genetic changes",
+    "BRCA1 gene mutations",
+    "BRCA2 gene mutations",
+    "Tumor suppressor gene dysfunction (p53, WT1)",
+    "Increased expression of HER-2/neu",
+    "Association with vascular endothelial growth factor"
+  ],
+  "risk_factors": [
+    "Family history of ovarian cancer",
+    "Inherited BRCA1 or BRCA2 gene mutations",
+    "Lynch syndrome",
+    "Endometriosis",
+    "Hormone replacement therapy",
+    "Overweight or obesity",
+    "Tall stature",
+    "Older age (post-menopause)",
+    "Never been pregnant"
+  ],
+  "symptoms": [
+    "Pain in the abdomen or pelvis",
+    "Swelling in the abdomen or pelvis",
+    "Feeling of pressure in the abdomen or pelvis",
+    "Sudden or frequent urge to urinate",
+    "Trouble eating",
+    "Feeling full quickly",
+    "Lump in the pelvic area",
+    "Gastrointestinal problems (gas, bloating, constipation)"
+  ],
+  "diagnosis": [
+    "Medical history assessment",
+    "Family health history assessment",
+    "Physical exam",
+    "Pelvic exam",
+    "Imaging tests",
+    "CA-125 blood test",
+    "Biopsy of tissue (often during surgery)"
+  ],
+  "treatments": [
+    "Surgery to remove cancer",
+    "Chemotherapy",
+    "Targeted therapy",
+    "Genetic testing to guide treatment"
+  ],
+  "related_genes": [
+    "BRCA1",
+    "BRCA2",
+    "p53",
+    "WT1",
+    "HER-2/neu"
+  ],
+  "subtypes": [
+    "Serous surface papillary carcinoma",
+    "Ovarian serous carcinoma",
+    "Uterine serous carcinoma",
+    "Fallopian tube serous carcinoma",
+    "Cervical serous carcinoma"
+  ]
+}

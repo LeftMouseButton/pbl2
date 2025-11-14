@@ -1,0 +1,24 @@
+{
+  "disease_name": "Malignant melanoma of the eye",
+  "synonyms": [
+    "Eye cancer",
+    "Intraocular cancer"
+  ],
+  "summary": "Malignant melanoma of the eye is a type of cancer that affects the eye. It can occur in the outer parts of the eye or inside the eyeball. The most common intraocular cancers in adults are melanoma and lymphoma. Retinoblastoma is the most common eye cancer in children. Cancer can also spread to the eye from other parts of the body.",
+  "causes": [],
+  "risk_factors": [],
+  "symptoms": [],
+  "diagnosis": [],
+  "treatments": [
+    "Surgery",
+    "Radiation therapy",
+    "Freezing therapy",
+    "Heat therapy",
+    "Laser therapy"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Intraocular cancer",
+    "Retinoblastoma"
+  ]
+}

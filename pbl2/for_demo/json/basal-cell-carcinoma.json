@@ -1,0 +1,86 @@
+{
+  "disease_name": "Basal-cell carcinoma",
+  "synonyms": [
+    "Basal-cell cancer",
+    "Basalioma",
+    "Rodent ulcer"
+  ],
+  "summary": "Basal-cell carcinoma (BCC) is the most common type of skin cancer, often appearing as a painless, raised, shiny skin area with small blood vessels or ulceration. It grows slowly, can damage surrounding tissue, but rarely spreads to distant areas or results in death.",
+  "causes": [
+    "Sun exposure (leading to DNA damage like thymine dimers)",
+    "Genetic mutations",
+    "Reduced DNA repair capacity",
+    "Depressed local immune system (due to sunlight)",
+    "Basal-cell nevus syndrome (Gorlin syndrome)",
+    "PTCH1 gene mutation",
+    "SMO gene mutation"
+  ],
+  "risk_factors": [
+    "UV light exposure",
+    "Childhood UV light exposure",
+    "Tanning bed use",
+    "Lighter skin, hair, and eye color",
+    "Fair skin",
+    "Family history of skin cancer",
+    "Family history of basal-cell carcinoma",
+    "Age over 50",
+    "Age over 80",
+    "Prior radiation therapy",
+    "Long-term arsenic exposure",
+    "Poor immune system function",
+    "White ethnicity",
+    "Geographic location (closer to equator or higher altitudes)"
+  ],
+  "symptoms": [
+    "Painless, raised, shiny skin area with small blood vessels",
+    "Raised area with ulceration",
+    "Shiny, pearly skin nodule",
+    "Red patch (similar to eczema)",
+    "Skin thickening",
+    "Scar tissue",
+    "Loss of sensation (if impinging on nerves)",
+    "Loss of function (if impinging on nerves)"
+  ],
+  "diagnosis": [
+    "Skin examination",
+    "Tissue biopsy (histopathologic analysis)",
+    "Shave biopsy",
+    "Immunohistochemistry (using BerEP4)",
+    "Exfoliative cytology"
+  ],
+  "treatments": [
+    "Surgery",
+    "Standard surgical excision",
+    "Mohs surgery",
+    "Electrodesiccation and curettage (EDC)",
+    "Cryosurgery",
+    "Topical chemotherapy (e.g., 5-fluorouracil)",
+    "Photodynamic therapy (PDT)",
+    "Laser surgery",
+    "Imiquimod cream (immunotherapy)",
+    "Radiation therapy",
+    "External beam radiotherapy",
+    "Brachytherapy",
+    "Epidermal radioisotope therapy (e.g., 188Re)",
+    "Systemic chemotherapy",
+    "Targeted therapy",
+    "Vismodegib",
+    "Sonidegib",
+    "Itraconazole",
+    "Biologic therapy",
+    "Euphorbia peplus (experimental topical treatment)"
+  ],
+  "related_genes": [
+    "PTCH1",
+    "SMO"
+  ],
+  "subtypes": [
+    "Superficial basal-cell carcinoma",
+    "Infiltrative basal-cell carcinoma",
+    "Morpheaform basal-cell cancer",
+    "Micronodular basal-cell cancer",
+    "Nodular basal-cell carcinoma",
+    "Classic basal-cell carcinoma",
+    "Adenoidal BCC"
+  ]
+}

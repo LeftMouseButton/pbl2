@@ -1,0 +1,153 @@
+Glioblastoma, previously known as glioblastoma multiforme (GBM), is the most aggressive and most common type of cancer that originates in the brain, and has a very poor prognosis for survival. Initial signs and symptoms of glioblastoma are nonspecific. They may include headaches, personality changes, nausea, and symptoms similar to those of a stroke. Symptoms often worsen rapidly and may progress to unconsciousness.
+The cause of most cases of glioblastoma is not known. Uncommon risk factors include genetic disorders, such as neurofibromatosis and Li–Fraumeni syndrome, and previous radiation therapy. Glioblastomas represent 15% of all brain tumors. They are thought to arise from astrocytes. The diagnosis typically is made by a combination of a CT scan, MRI scan, and tissue biopsy.
+There is no known method of preventing the cancer. Treatment usually involves surgery, after which chemotherapy and radiation therapy are used. The medication temozolomide is frequently used as part of chemotherapy. High-dose steroids may be used to help reduce swelling and decrease symptoms. Surgical removal (decompression) of the tumor is linked to increased survival, but only by some months.
+Despite maximum treatment, the cancer almost always recurs. The typical duration of survival following diagnosis is 10–13 months, with fewer than 5–10% of people surviving longer than five years. Without treatment, survival is typically three months. It is the most common cancer that begins within the brain and the second-most common brain tumor, after meningioma, which is benign in most cases. About 3 in 100,000 people develop the disease per year. The average age at diagnosis is 64, and the disease occurs more commonly in males than females.
+
+== Signs and symptoms ==
+Common symptoms include seizures, headaches, nausea and vomiting, memory loss, changes to personality, mood or concentration, and localized neurological problems. The kinds of symptoms produced depend more on the location of the tumor than on its pathological properties. The tumor can start producing symptoms quickly, but occasionally is an asymptomatic condition until it reaches an enormous size.
+
+== Risk factors ==
+The cause of most cases is unclear. The best known risk factor is exposure to ionizing radiation, and CT scan radiation is an important cause. About 5% of cases develop from certain hereditary syndromes.
+
+=== Genetics ===
+Uncommon risk factors include genetic disorders such as neurofibromatosis, Li–Fraumeni syndrome, tuberous sclerosis, or Turcot syndrome. Previous radiation therapy is also a risk. For unknown reasons, it occurs more commonly in males.
+
+=== Environmental ===
+Other associations include exposure to smoking, pesticides, and working in petroleum refining or rubber manufacturing.
+Glioblastoma has been associated with the viruses SV40, HHV-6, and cytomegalovirus (CMV). Infection with an oncogenic CMV may even be necessary for the development of glioblastoma.
+
+=== Other ===
+Research has been done to see if consumption of cured meat is a risk factor. No risk had been confirmed as of 2003. Similarly, exposure to formaldehyde, and residential electromagnetic fields, such as from cell phones and electrical wiring within homes, have been studied as risk factors. As of 2015, they had not been shown to cause GBM.
+
+== Pathogenesis ==
+The cellular origin of glioblastoma is unknown. Because of the similarities in immunostaining of glial cells and glioblastoma, gliomas such as glioblastoma have long been assumed to originate from glial-type stem cells found in the subventricular zone. More recent studies suggest that astrocytes, oligodendrocyte progenitor cells, and neural stem cells could all serve as the cell of origin.
+GBMs usually form in the cerebral white matter, grow quickly, and can become very large before producing symptoms. Since the function of glial cells in the brain is to support neurons, they have the ability to divide, to enlarge, and to extend cellular projections along neurons and blood vessels. Once cancerous, these cells are predisposed to spread along existing paths in the brain, typically along white-matter tracts, blood vessels and the perivascular space. The tumor may extend into the meninges or ventricular wall, leading to high protein content in the cerebrospinal fluid (CSF) (> 100 mg/dl), as well as an occasional pleocytosis of 10 to 100 cells, mostly lymphocytes. Malignant cells carried in the CSF may spread (rarely) to the spinal cord or cause meningeal gliomatosis. However, metastasis of GBM beyond the central nervous system is extremely unusual. About 50% of GBMs occupy more than one lobe of a hemisphere or are bilateral. Tumors of this type usually arise from the cerebrum and may exhibit the classic infiltration across the corpus callosum, producing a butterfly (bilateral) glioma.
+
+=== Glioblastoma classification ===
+Brain tumor classification has been traditionally based on histopathology at macroscopic level, measured in hematoxylin-eosin sections. The World Health Organization published the first standard classification in 1979 and has been doing so since. The 2007 WHO Classification of Tumors of the Central Nervous System was the last classification mainly based on microscopy features. The new 2016 WHO Classification of Tumors of the Central Nervous System was a paradigm shift: some of the tumors were defined also by their genetic composition as well as their cell morphology.
+In 2021, the fifth edition of the WHO Classification of Tumors of the Central Nervous System was released. This update eliminated the classification of secondary glioblastoma and reclassified those tumors as Astrocytoma, IDH mutant, grade 4. Only tumors that are IDH wild type are now classified as glioblastoma.
+
+=== Molecular alterations ===
+There are currently three molecular subtypes of glioblastoma that were identified based on gene expression:
+
+Classical: Around 97% of tumors in this subtype carry extra copies of the epidermal growth factor receptor (EGFR) gene, and most have higher than normal expression of EGFR, whereas the gene TP53 (p53), which is often mutated in glioblastoma, is rarely mutated in this subtype. Loss of heterozygosity in chromosome 10 is also frequently seen in the classical subtype alongside chromosome 7 amplification.
+The proneural subtype often has high rates of alterations in TP53 (p53), and in PDGFRA the gene encoding a-type platelet-derived growth factor receptor.
+The mesenchymal subtype is characterized by high rates of mutations or other alterations in NF1, the gene encoding neurofibromin 1 and fewer alterations in the EGFR gene and less expression of EGFR than other types.
+Initial analyses of gene expression had revealed a fourth neural subtype. However, further analyses revealed that this subtype is non-tumor specific and is potential contamination caused by the normal cells.
+Many other genetic alterations have been described in glioblastoma, and the majority of them are clustered in two pathways, the RB and the PI3K/AKT. 68–78% and 88% of Glioblastomas have alterations in these pathways, respectively.
+Another important alteration is methylation of MGMT, a "suicide" DNA repair enzyme. Methylation impairs DNA transcription and expression of the MGMT gene. Since the MGMT enzyme can repair only one DNA alkylation due to its suicide repair mechanism, reserve capacity is low and methylation of the MGMT gene promoter greatly affects DNA-repair capacity. MGMT methylation is associated with an improved response to treatment with DNA-damaging chemotherapeutics, such as temozolomide.
+Studies using genome-wide profiling have revealed glioblastomas to have a remarkable genetic variety.
+At least three distinct paths in the development of Glioblastomas have been identified with the aid of molecular investigations.
+
+The first pathway involves the amplification and mutational activation of receptor tyrosine kinase (RTK) genes, leading to the dysregulation of growth factor signaling. Epithelial growth factor (EGF), vascular endothelial growth factor (VEGF), and platelet-derived growth factor (PDGF) are all recognized by transmembrane proteins called RTKs. Additionally, they can function as receptors for hormones, cytokines, and other signaling pathways.
+The second method involves activating the intracellular signaling system known as phosphatidylinositol-3-OH kinase (PI3K)/AKT/mTOR, which is crucial for controlling cell survival.
+The third pathway is defined by p53 and retinoblastoma (Rb) tumor suppressor pathway inactivation.
+
+=== Cancer stem cells ===
+Glioblastoma cells with properties similar to progenitor cells (glioblastoma cancer stem cells) have been found in glioblastomas. Their presence, coupled with the glioblastoma's diffuse nature results in difficulty in removing them completely by surgery, and is therefore believed to be the possible cause behind resistance to conventional treatments, and the high recurrence rate. Glioblastoma cancer stem cells share some resemblance with neural progenitor cells, both expressing the surface receptor CD133. CD44 can also be used as a cancer stem cell marker in a subset of glioblastoma tumour cells. Glioblastoma cancer stem cells appear to exhibit enhanced resistance to radiotherapy and chemotherapy mediated, at least in part, by up-regulation of the DNA damage response.
+
+=== Metabolism ===
+The IDH1 gene encodes for the enzyme isocitrate dehydrogenase 1 and is not mutated in glioblastoma. As such, these tumors behave more aggressively compared to IDH1-mutated astrocytomas.
+
+=== Ion channels ===
+Furthermore, GBM exhibits numerous alterations in genes that encode for ion channels, including upregulation of gBK potassium channels and ClC-3 chloride channels. By upregulating these ion channels, glioblastoma tumor cells are hypothesized to facilitate increased ion movement over the cell membrane, thereby increasing H2O movement through osmosis, which aids glioblastoma cells in changing cellular volume very rapidly. This is helpful in their extremely aggressive invasive behavior because quick adaptations in cellular volume can facilitate movement through the sinuous extracellular matrix of the brain.
+
+=== MicroRNA ===
+As of 2012, RNA interference, usually microRNA, was under investigation in tissue culture, pathology specimens, and preclinical animal models of glioblastoma. Additionally, experimental observations suggest that microRNA-451 is a key regulator of LKB1/AMPK signaling in cultured glioma cells and that miRNA clustering controls epigenetic pathways in the disease.
+
+=== Tumor vasculature ===
+GBM is characterized by abnormal vessels that present disrupted morphology and functionality. The high permeability and poor perfusion of the vasculature result in a disorganized blood flow within the tumor and can lead to increased hypoxia, which in turn facilitates cancer progression by promoting processes such as immunosuppression.
+
+== Diagnosis ==
+
+When viewed with MRI, glioblastomas often appear as ring-enhancing lesions. The appearance is not specific, however, as other lesions such as abscess, metastasis, tumefactive multiple sclerosis, and other entities may have a similar appearance. Definitive diagnosis of a suspected GBM on CT or MRI requires a stereotactic biopsy or a craniotomy with tumor resection and pathologic confirmation. Because the tumor grade is based upon the most malignant portion of the tumor, biopsy or subtotal tumor resection can result in undergrading of the lesion. Imaging of tumor blood flow using perfusion MRI and measuring tumor metabolite concentration with MR spectroscopy may add diagnostic value to standard MRI in select cases by showing increased relative cerebral blood volume and increased choline peak, respectively, but pathology remains the gold standard for diagnosis and molecular characterization.
+Distinguishing glioblastoma from high-grade astrocytoma is important. These tumors occur spontaneously (de novo) and have not progressed from a lower-grade glioma, as in high-grade astrocytomas. Glioblastomas have a worse prognosis and different tumor biology, and may have a different response to therapy, which makes this a critical evaluation to determine patient prognosis and therapy. Astrocytomas carry a mutation in IDH1 or IDH2, whereas this mutation is not present in glioblastoma. Thus, IDH1 and IDH2 mutations are a useful tool to distinguish glioblastomas from astrocytomas, since histopathologically they are similar and the distinction without molecular biomarkers is unreliable. IDH-wildtype glioblastomas usually have lower OLIG2 expression compared with IDH-mutant lower grade astrocytomas. In patients aged over 55 years with a histologically typical glioblastoma, without a pre-existing lower grade glioma, with a non-midline tumor location and with retained nuclear ATRX expression, immunohistochemical negativity for IDH1 R132H suffices for the classification as IDH-wild-type glioblastoma. In all other instances of diffuse gliomas, a lack of IDH1 R132H immunopositivity should be followed by IDH1 and IDH2 DNA sequencing to detect or exclude the presence of non-canonical mutations. IDH-wild-type diffuse astrocytic gliomas without microvascular proliferation or necrosis should be tested for EGFR amplification, TERT promoter mutation and a +7/–10 cytogenetic signature as molecular characteristics of IDH-wild-type glioblastomas.
+
+== Prevention ==
+There are no known methods to prevent glioblastoma. It is the case for most gliomas, unlike for some other forms of cancer, that they happen without previous warning and there are no known ways to prevent them.
+
+== Treatment ==
+
+Treating glioblastoma is difficult due to several complicating factors:
+
+The tumor cells are resistant to conventional therapies.
+The brain is susceptible to damage from conventional therapy.
+The brain has a limited capacity to repair itself.
+Many drugs cannot cross the blood–brain barrier to act on the tumor.
+Treatment of primary brain tumors consists of palliative (symptomatic) care and therapies intended to improve survival.
+
+=== Symptomatic therapy ===
+Supportive treatment focuses on relieving symptoms and improving the patient's neurologic function. The primary supportive agents are anticonvulsants and corticosteroids.
+
+Historically, around 90% of patients with glioblastoma underwent anticonvulsant treatment, although only an estimated 40% of patients required this treatment. Neurosurgeons have recommended that anticonvulsants not be administered prophylactically, and should wait until a seizure occurs before prescribing this medication. Those receiving phenytoin concurrent with radiation may have serious skin reactions such as erythema multiforme and Stevens–Johnson syndrome.
+Corticosteroids, usually dexamethasone, can reduce peritumoral edema (through rearrangement of the blood–brain barrier), diminishing mass effect and lowering intracranial pressure, with a decrease in headache or drowsiness.
+
+=== Surgery ===
+
+Surgery is the first stage of treatment for glioblastoma. An average GBM tumor contains 1011 cells, which is, on average, reduced to 109 cells after surgery (a reduction of 99%). Benefits of surgery include resection for a pathological diagnosis, alleviation of symptoms related to mass effect, and potentially removing the disease before secondary resistance to radiotherapy and chemotherapy occurs.
+The greater the extent of tumor removal, the better. In retrospective analyses, removal of 98% or more of the tumor has been associated with a significantly longer healthier time than if less than 98% of the tumor is removed. The chances of near-complete initial removal of the tumor may be increased if the surgery is guided by a fluorescent dye known as 5-aminolevulinic acid. GBM cells are widely infiltrative through the brain at diagnosis, and despite a "total resection" of all obvious tumor, most people with GBM later develop recurrent tumors either near the original site or at more distant locations within the brain. Other modalities, typically radiation and chemotherapy, are used after surgery in an effort to suppress and slow recurrent disease through damaging the DNA of rapidly proliferative GBM cells.
+Between 60–85% of glioblastoma patients report cancer-related cognitive impairments following surgery, which refers to problems with executive functioning, verbal fluency, attention, and speed of processing. These symptoms may be managed with cognitive behavioral therapy, physical exercise, yoga and meditation.
+
+=== Radiotherapy ===
+
+Subsequent to surgery, radiotherapy becomes the mainstay of treatment for people with glioblastoma. It is typically performed along with giving temozolomide. A pivotal clinical trial carried out in the early 1970s showed that among 303 GBM patients randomized to radiation or best medical therapy, those who received radiation had a median survival more than double those who did not. Subsequent clinical research has attempted to build on the backbone of surgery followed by radiation. Whole-brain radiotherapy does not improve when compared to the more precise and targeted three-dimensional conformal radiotherapy. A total radiation dose of 60–65 Gy has been found to be optimal for treatment.
+GBM tumors are well known to contain zones of tissue exhibiting hypoxia, which are highly resistant to radiotherapy. Various approaches to chemotherapy radiosensitizers have been pursued, with limited success as of 2016. As of 2010, newer research approaches included preclinical and clinical investigations into the use of an oxygen diffusion-enhancing compound such as trans sodium crocetinate as radiosensitizers, and as of 2015 a clinical trial was underway. Boron neutron capture therapy has been tested as an alternative treatment for glioblastoma, but is not in common use.
+
+=== Chemotherapy ===
+Most studies show no benefit from the addition of chemotherapy. However, a large clinical trial of 575 participants randomized to standard radiation versus radiation plus temozolomide chemotherapy showed that the group receiving temozolomide survived a median of 14.6 months as opposed to 12.1 months for the group receiving radiation alone. This treatment regimen is now standard for most cases of glioblastoma where the person is not enrolled in a clinical trial. Temozolomide seems to work by sensitizing the tumor cells to radiation, and appears more effective for tumors with MGMT promoter methylation. High doses of temozolomide in high-grade gliomas yield low toxicity, but the results are comparable to the standard doses. Antiangiogenic therapy with medications such as bevacizumab control symptoms, but do not appear to affect overall survival in those with glioblastoma. A 2018 systematic review found that the overall benefit of anti-angiogenic therapies was unclear. In older adults with newly diagnosed glioblastoma who are reasonably fit, concurrent and adjuvant chemoradiotherapy gives the best overall survival but is associated with a greater risk of haematological adverse events than radiotherapy alone.
+
+=== Immunotherapy ===
+Phase 3 clinical trials of T cell-targeting immunotherapy treatments for glioblastoma have largely failed. This might be due to the presence of a distinct state of tolerized T cells in glioblastoma patients that are unresponsive to such immunotherapies.
+
+=== Other procedures ===
+Alternating electric field therapy is an FDA-approved therapy for newly diagnosed and recurrent glioblastoma. In 2015, initial results from a phase-III randomized clinical trial of alternating electric field therapy plus temozolomide in newly diagnosed glioblastoma reported a three-month improvement in progression-free survival, and a five-month improvement in overall survival compared to temozolomide therapy alone, representing the first large trial in a decade to show a survival improvement in this setting. Despite these results, the efficacy of this approach remains controversial among medical experts. However, increasing understanding of the mechanistic basis through which alternating electric field therapy exerts anti-cancer effects and results from ongoing phase-III clinical trials in extracranial cancers may help facilitate increased clinical acceptance to treat glioblastoma in the future.
+Studies have been conducted on the benefits of exercise and physical rehabilitation for patients with glioblastoma. Patients may not be aware of options to improve quality of life, or may not see the benefit of physical therapy treatments due to depression or despair at a terminal diagnosis. Despite this, research has shown that exercise and physical rehabilitation can improve the quality of life for individuals with glioblastoma.
+
+== Prognosis ==
+The most common length of survival following diagnosis is 10 to 13 months (although recent research points to a median survival rate of 15 months), with fewer than 1–3% of people surviving longer than five years. In the United States between 2012 and 2016, five-year survival was 6.8%. Without treatment, survival is typically three months. Complete cures are extremely rare, but have been reported.
+Increasing age (> 60 years) carries a worse prognostic risk. Death is usually due to widespread tumor infiltration with cerebral edema and increased intracranial pressure.
+A good initial Karnofsky performance score (KPS) and MGMT methylation are associated with longer survival. A DNA test can be conducted on glioblastomas to determine whether or not the promoter of the MGMT gene is methylated. Patients with a methylated MGMT promoter have longer survival than those with an unmethylated MGMT promoter, due in part to increased sensitivity to temozolomide.
+Long-term benefits have also been associated with those patients who receive surgery, radiotherapy, and temozolomide chemotherapy. However, much remains unknown about why some patients survive longer with glioblastoma. Age under 50 is linked to more prolonged survival in GBM, as is 98%+ resection and use of temozolomide chemotherapy, and better KPSs. A recent study confirms that younger age is associated with a much better prognosis, with a small fraction of patients under 40 years of age achieving a population-based cure. Cure is thought to occur when a person's risk of death returns to that of the normal population, and in GBM, this is believed to occur after 10 years.
+UCLA Neuro-oncology publishes real-time survival data for patients with this diagnosis.
+According to a 2003 study, GBM prognosis can be divided into three subgroups based on KPS, patient age, and treatment.
+
+== Epidemiology ==
+In the US during 2004–2013, the annual incidence of GBM was three cases per 100,000 individuals, albeit with regional variation. Incidence in England doubled between 1995 and 2015.
+GBM is the second-most common central nervous system tumor after meningioma. It occurs more commonly in males than females. Although the median age at diagnosis is 64, in 2014, the broader category of brain cancers was second only to leukemia in Americans younger than 20 in terms of incidence.
+
+== History ==
+The term glioblastoma multiforme was introduced in 1926 by Percival Bailey and Harvey Cushing, based on the idea that the tumor originates from primitive precursors of glial cells (glioblasts), and the highly variable appearance due to the presence of necrosis, hemorrhage, and cysts (multiform).
+
+== Research ==
+
+=== Gene therapy ===
+Gene therapy has been explored as a method to treat glioblastoma, and while animal models and early-phase clinical trials have been successful, as of 2017, all gene-therapy drugs that had been tested in phase-III clinical trials for glioblastoma had failed. Scientists have developed the core–shell nanostructured LPLNP-PPT (long persistent luminescence nanoparticles. PPT refers to polyetherimide, PEG and trans-activator of transcription, and TRAIL is the human tumor necrosis factor-related apoptosis-induced ligand) for effective gene delivery and tracking, with positive results. This is a TRAIL ligand that has been encoded to induce apoptosis of cancer cells, more specifically glioblastomas. Although this study was still in clinical trials in 2017, it has shown diagnostic and therapeutic functionalities, and will open great interest for clinical applications in stem-cell-based therapy.
+Other gene therapy approaches have also been explored in the context of glioblastoma, including suicide gene therapy. Suicide gene therapy is a two-step approach that includes the delivery of a foreign enzyme-gene to the cancer cells followed by activation with a pro-drug causing toxicities in the cancer-cells, which induces cell death. This approach has succeeded in animal models and small clinical studies but has not shown survival benefit in larger clinical studies. Using new, more efficient delivery vectors and suicide gene-prodrug systems could improve the clinical benefit from these types of therapies.
+
+=== Oncolytic virotherapy ===
+Oncolytic virotherapy is an emerging novel treatment that is under investigation both at preclinical and clinical stages. Several viruses including herpes simplex virus, adenovirus, poliovirus, and reovirus are currently being tested in phases I and II of clinical trials for glioblastoma therapy and have shown to improve overall survival.
+
+=== Intranasal drug delivery ===
+Direct nose-to-brain drug delivery is being explored as a means to achieve higher, and hopefully more effective, drug concentrations in the brain. A clinical phase-I/II study with glioblastoma patients in Brazil investigated the natural compound perillyl alcohol for intranasal delivery as an aerosol. The results were encouraging and, as of 2016, a similar trial for the NEO100 therapy had been initiated in the United States. By 2021 early trials demonstrated successful drug delivery in animals, and having been fast-tracked by the FDA, in 2025 phase-II human trials were underway. Among literature on novel mechanisms for treatment, by 2022 a promising area of research was focusing on the potential use of nanotechnology to intranasally deliver double stranded RNA and microRNA to affected tissue and thereby bypass the blood-brain barrier. Most studies of this nature were in the pre-clinical phase.
+In 2024, research showed that use of a ferritin-based nano-vector for intranasal drug delivery in mice was successful, and that treatment using this method was effective in shrinking tumor size by 20% and increasing duration of survival in "a statistically significant manner." Similar studies are ongoing.
+
+=== Enhancer RNAs (eRNAs) ===
+Enhancer RNAs (eRNAs), a class of non-coding RNAs transcribed from enhancer regions, have emerged as critical regulators of gene expression in glioblastoma. Recent studies highlight their role in modulating oncogenic pathways, including the JAK-STAT signaling cascade, which is central to tumor progression and therapy resistance. For example, CYP1B1-AS1 and AC003092.1 have been identified as eRNAs associated with poor prognosis and immune microenvironment modulation in glioblastoma 14.
+TMZR1-eRNA, an eRNA transcribed from the STAT3 locus, directly regulates STAT3 expression, a key driver of temozolomide (TMZ) resistance in glioblastoma. Silencing TMZR1-eRNA reduced STAT3 mRNA and protein levels, sensitizing tumor cells to TMZ-induced apoptosis. Notably, TMZR1-eRNA is overexpressed in glioblastoma but minimally expressed in healthy brain tissue and peripheral blood cells, suggesting a tumor-specific therapeutic target.
+
+=== Nanoparticle-based therapeutics ===
+A 2025 review highlights rapid advances in using engineered nanoparticles, such as liposomes, polymeric micelles, dendrimers, metallic and magnetic particles to ferry chemotherapeutics, genes and immunomodulators across the blood–brain barrier directly to glioblastoma cells. Pre-clinical studies report improved tumour drug concentrations and reduced systemic toxicity, suggesting nanotechnology may complement existing surgery, radiotherapy and temozolomide regimens.
+
+== See also ==
+
+Adegramotide
+Asunercept
+Glioblastoma Foundation
+Lomustine
+List of people with brain tumors
+
+== References ==
+
+== External links ==
+
+Information about glioblastoma Archived 5 February 2024 at the Wayback Machine from the American Brain Tumor Association

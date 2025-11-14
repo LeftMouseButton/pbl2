@@ -1,0 +1,98 @@
+Invasive carcinoma of no special type (invasive carcinoma NST), invasive breast carcinoma of no special type (IBC-NST), invasive ductal carcinoma (IDC), infiltrating ductal carcinoma (IDC) or invasive ductal carcinoma, not otherwise specified (NOS) is a disease. For international audiences this article will use "invasive carcinoma NST" because it is the preferred term of the World Health Organization (WHO).
+Invasive carcinoma NST accounts for half of all breast cancer diagnoses in women and is the most common type of invasive breast cancer. It is also the most commonly diagnosed form of male breast cancer. Invasive carcinoma NST is classified by its microscopic, molecular, and genetic features. Microscopically it is a breast carcinoma of the adenocarcinoma type, originating from the breast ducts. It shows invasive features but lacks the "specific differentiating features" of other types of invasive breast cancers. Invasive carcinoma NST is a diagnosis of exclusion, which means that for the diagnosis to be made all the other specific types must be ruled out. There are several rare sub-types of invasive carcinoma NST including pleomorphic carcinoma, carcinoma with osteoclast-like stromal giant cells, carcinoma with choriocarcinomatous features, and carcinoma with melanotic features.
+Invasive breast carcinomas are most common in White women, followed by Black and Hispanic women. Black women tend to have greater severity of disease at diagnosis with worse overall survival. Breast cancer is often asymptomatic and diagnosis by screening, but may present with symptoms of pain, palpable mass, skin changes, or complications of metastasis.
+Clinical disease or suspicious lesions on screening may evaluated further with tissue sampling. Diagnostic analysis will include histopathological typing, grading, and analysis for DNA markers and receptor-status. The prognosis for patients with invasive carcinoma NST is heterogenous and difficult to predict for every individual. However, general factors such as high tumor grade, stage, receptor negativity, BRCA1-positivity suggest higher risk of recurrence and lower overall survival. Treatment is individualized however most patients are offered some combination of neoadjuvant, surgical, radiation, and adjuvant systemic medical therapies.
+
+
+== Epidemiology ==
+Invasive carcinoma NST is one of the most common types of all breast cancers, accounting for 55% of breast cancer incidence. Of the invasive breast cancers, invasive carcinoma NST accounts for up to 75% of cases. It is also the most common form of breast cancer occurring in men, accounting for 85% of cases.
+The incidence of ductal carcinomas as a whole is 86.3 cases per 100,000 women, with the incidence increasing sharply for women over 40 years of age and peaking at 285.6 cases per 100,000 for women between 70 and 79. This incidence has decreased slightly over time. Incidence of diagnosed cases is highest among White and non-Hispanic women, followed by Black and Hispanic women.
+
+
+== Terminology ==
+Invasive carcinoma NST is a type of breast cancer. It is one of the invasive breast cancers that originates from the breast ductal system, so that it is a type of ductal carcinoma. A defining feature of this ductal carcinoma is that it lacks the "specific differentiating features" of other types of ductal carcinomas. It is important to note that IDC, invasive ductal carcinoma NOS, and invasive carcinoma NST all refer to the same type of breast cancer. For consistency and to serve an international audience, this article will use invasive ductal NST.
+The terminology of invasive carcinoma NST has undergone change since 2012. Differing opinions within the medical and public health communities have led to some variance in how this disease is referred in research and clinical settings.
+In 2012 the International Agency for Research on Cancer (IARC), a sub-department of the WHO, published the 4th edition of the WHO Classification of Tumors of the Breast. Previously known as 'invasive ductal carcinoma, not otherwise specified', these most recent guidelines advocated for the use of 'invasive carcinoma of no special type'.
+There are, however, differing opinions and practices. The research literature continues to use IDC or invasive ductal carcinoma NOS, and some medical textbooks have offered support for continued use of IDC or invasive ductal carcinoma NOS.
+
+
+== Signs and symptoms ==
+In most cases breast cancers are asymptomatic and are detected by routine clinical screening exams. In about 30% of cases a breast mass may be felt. The mass will not fluctuate with the menstrual period. Changes to the overlying skin including dimpling, pinching, orange peel-like texture, or nipple retraction may be seen. Non-healing ulcers can form in advanced disease, and were more common historically prior to modern medical care.Metastatic lesions from breast cancer may produce symptoms according to that organ system. The most common sites for metastasis are the bone, lung, liver, and brain. Skin metastases most commonly extend to the skin overlying the mass, but may spread to the axilla or more distant areas. Metastasis to adjacent lymphatics may produce palpable masses in the axilla or an orange peel-like texture of the skin of the effected breast.
+
+
+== Diagnosis ==
+
+The process of diagnosing invasive carcinoma NST is similar to that of other breast cancers. The process may be prompted by a patient presenting with a palpable mass or by evidence of a suspicious lesion on routine screening tests. Tissue sampling is required for complete classification which will help determine prognosis and treatment plan. Tissue samples will be looked at under the microscope for histopathological type, grade, and stage (TNM). Immunohistochemical staining is used to establish receptor status, and the presence or absence of pertinent genes is determined by DNA testing.
+This article will discuss the features specific to invasive carcinoma NST. More general and complete discussions can be found in articles on breast cancer screening and breast cancer classification.
+
+
+=== Histopathologic criteria ===
+
+On microscopic evaluation carcinomatous cells are seen below the basement membrane of lactiferous ducts and invade into the surrounding breast stroma. Otherwise, there are no specific histologic characteristics, essentially making it a diagnosis of exclusion. The histopathologic characteristics seen in these lesions are heterogenous. The cells of a lesion of invasive carcinoma NST may retain >70% ductal differentiation or appear completely undifferentiated. The tumor cells may be arranged in sheets, nests, cords, or singly distributed. They are pleomorphic (i.e., vary in size and shape). They usually have prominent nucleoli and multiple mitotic cells per magnified field of view, which are features generally consistent with cancerous cells. The surrounding non-ductal tissue, known as stroma, can range from none to abundant.
+
+Small inclusions of special features may be present within an invasive carcinoma NST tissue sample, but will be  'limited' (i.e. <10%). Carcinomas of mixed type will have a specialized pattern or lobular carcinoma in the majority (i.e. at least 50%) of the tumor and a non-specialized pattern in between 10 and 49% of the sample. Thus, such tumors will be called mixed invasive NST and special type or mixed invasive carcinoma NST and lobular carcinoma.
+
+
+=== Staging ===
+Cancers in general will be staged according their degree of tumor size, lymph node involvement, and evidence of metastasis. There are two types, clinical staging and pathologic staging. Clinical staging uses information derived from physical examination, clinical imaging, and biopsy. Pathologic staging takes place after the tumor is removed surgically, when a pathologist is able to make more direct measurements of the tumor characteristics. Pathologic staging is considered more accurate, but clinical staging can give useful information to determine treatment plans prior to surgical efforts. Both clinical and pathologic staging use the TNM staging system, which take into account the tumor size (T), lymph node involvement (N), and evidence of metastasis (M). The TNM staging system designed for breast cancer is shown in the table below.
+
+
+==== Tumor size ====
+In clinical staging, tumor size is determined by clinical imaging. A more accurate measurement of tumor size and observation of extension into adjacent structures can be determined via pathological staging following surgery.
+
+
+==== Lymph node involvement ====
+Absence of cancer cells in the lymph nodes is a good indication that the cancer has not spread systemically.  Presence of cancer in the lymph nodes indicates the cancer may have spread.  In studies, some women have had presence of cancer in the lymph nodes, were not treated with chemotherapy, and still did not have a systemic spread.  Therefore, lymph node involvement is not an absolute predictor of spread.
+
+
+== Grading ==
+
+The appearance of cancer cells under a microscope is another predictor of systemic spread.  The more different the cancer cells look compared to normal duct cells, the greater the risk of systemic spread.  There are three characteristics that differentiate cancer cells from normal cells.
+
+Tendency to form tubular structures
+Nuclear size, shape, and staining intensity
+Mitotic rate - Rate of cell division
+The histologic appearance of cancer cells can be scored on these three parameters on a scale from one to three.  The sum of these grades is a number between 3 and 9.  The score is called a Bloom Richardson Grade (BR) and is expressed [sum of the grades]/9.  For example, cells that were graded 2 on all three parameters would result in a BR score of 6/9.
+A score of 5 and under is considered low.  6 to 7 is considered intermediate.  8 to 9 is considered high.
+
+
+=== Lymphovascular invasion ===
+
+Lymphovascular invasion is the presence of cancer cells in lymph channels and/or blood vessels. The presence of lymphovascular invasion increases the probability of systemic spread.
+
+
+=== DNA analysis ===
+DNA analysis indicates the amount of DNA in cancer cells and how fast the cancer is growing.
+Cells with the normal amount of DNA are called diploid.  Cells with too much or too little DNA are called aneuploid.  Aneuploid cells are more likely to spread than diploid cells.
+DNA testing indicates the rate of growth by determining the number of cells in the synthetic phase (S phase).  An S phase > 10% means a higher chance of spreading.
+The results of DNA testing are considered less reliable predictors of spread than size, histology, and lymph node involvement.
+
+
+== Prognosis ==
+
+While prognosis in invasive carcinoma NST is difficult to predict, there are some prognostic factors that help estimate survival. The factors included here tend to be generalizable to most breast cancers, and further information can be found in the main articles on breast cancer and breast cancer screening.
+The prognosis of ductal carcinomas in general depend, in part, on its histological subtype. Mucinous, papillary, cribriform, and tubular carcinomas have longer survival, and lower recurrence rates. The prognosis of the most common form of invasive carcinoma NST is intermediate. Regardless of the histological subtype, the prognosis of IDC depends also on tumor size, presence of cancer in the lymph nodes, histological grade, presence of cancer in small vessels (vascular invasion), expression of hormone receptors and of oncogenes like HER2/neu.
+Histologic factors associated with worse prognosis include high histologic grade, hormone receptor negativity, and HER2 negativity. Regarding genetic risk factors, BRCA1-associated breast cancers may have higher rates of lung and brain metastases but a lower rate of bone metastases. Cases detected by screening have favorable survival compared to cases that present clinically.
+White women have the highest rate of breast carcinoma, followed by Black, Asian/Pacific Islander, and Hispanic women. However, Black women are most likely to have greater severity of disease and triple-receptor negativity at time of diagnosis. Compared to other populations, they tend to have reduced chance of cure and a shorter survival after diagnosis if unable to be cured.
+In 2003, one study found the five-year survival rate of invasive carcinoma NST was approximately 85%. In general, greater tumor size and presence of lymph node metastasis predicts higher risk of recurrence after initial diagnosis and treatment. In one study, the lifetime risk of recurrence was 20% for smaller (<2 cm) tumors without lymph node metastasis. Larger tumors without lymph nodes had 38% risk of recurrence. Presence of lymph nodes in tumors of any size showed 62% and 86% risk of recurrence in patients with 1-3 and >4 positive lymph nodes, respectively. Another study showed "90% of recurrences occurred within 9, 7, and 5 years for patients with grades 1, 2, and 3 tumors, respectively. The rate of death due to breast carcinoma was also influenced by grade, with 90% occurring in 40, 13, and 8 years among patients with grades 1, 2, and 3 tumors, respectively."
+
+
+== Treatment ==
+The treatment of invasive carcinoma NST is often similar to management plans for other invasive breast carcinomas. The treatment options offered to an individual patient are determined by the form, stage and location of the cancer, and also by the age, history of prior disease and general health of the patient. Not all patients are treated the same way.
+
+Management options for patients with invasive breast carcinomas include surgery, radiotherapy, and systemic adjuvant medical therapy. Surgical treatment ranges from radical mastectomy to breast conserving procedures such as lumpectomy. Patients at risk for local recurrence of disease may be offered radiotherapy. Patients at risk for systemic disease may be offered chemotherapy, and those whose tumors test positive for certain hormone receptor or genetic markers may be offered specific adjuvant medical therapies. Selective estrogen receptor modifying drugs (e.g., tamoxifen) or aromatase inhibitors (e.g., anastrozole) may be offered to those with estrogen or progesterone receptor positive tumors. HER2-positive tumors may be treated with the targeted medical therapy (e.g., trastuzumab).
+Treatment of non-metastatic invasive breast cancer can vary based on staging, usually early stage (stages I and II) versus locally advanced (stage III). Patients with early stage disease may be offered surgery, including breast conserving therapy. This may be followed by radiotherapy for those at risk of local recurrence or systemic adjuvant medical therapy for those at risk of distant metastasis. Patient with locally advanced invasive breast cancer may be offered neoadjuvant systemic therapy and evaluated for tumor response prior to surgery, radiation, and adjuvant therapy.
+Prophylactic treatment may be an option for those with genetic predisposition to breast cancer. The National Comprehensive Cancer Network (NCCN) guidelines recommend bilateral prophylactic mastectomy and bilateral salpingo-oophorectomy for women who are carriers of germline BRCA1/2 mutation. At the age of 35 to 40 years, or once childbearing is completed, the procedure is recommended for risk reduction purposes. The NCCN states such management has led to reduced risk of breast carcinoma by 90% in this group.
+
+
+== See also ==
+Atypical ductal hyperplasia
+Collagenous spherulosis
+Male breast cancer
+
+
+== References ==
+
+
+== External links ==
+Infiltrating Ductal Carcinoma Archived 2010-06-25 at the Wayback Machine

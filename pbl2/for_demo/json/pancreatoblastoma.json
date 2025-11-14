@@ -1,0 +1,27 @@
+{
+  "disease_name": "Pancreatoblastoma",
+  "synonyms": [],
+  "summary": "Pancreatoblastoma is a rare type of pancreatic cancer that mainly occurs in childhood and has a relatively good prognosis. It is a tumor that can be quite large and is characterized by the presence of squamoid nests and at least two cell types: cells with acinar differentiation and cells forming small squamoid nests.",
+  "causes": [],
+  "risk_factors": [],
+  "symptoms": [
+    "Abdominal pain",
+    "Emesis",
+    "Jaundice"
+  ],
+  "diagnosis": [
+    "Clinical history",
+    "Imaging",
+    "Pathology",
+    "Histopathology showing acinar, ductal or neuroendocrine differentiation",
+    "Presence of squamoid nests",
+    "Tumor hypercellularity with fibrotic bands"
+  ],
+  "treatments": [
+    "Surgical resection",
+    "Adjuvant chemotherapy",
+    "Chemotherapy alone for inoperable disease"
+  ],
+  "related_genes": [],
+  "subtypes": []
+}

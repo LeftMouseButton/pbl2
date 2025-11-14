@@ -1,0 +1,55 @@
+{
+  "disease_name": "Uterine cancer",
+  "synonyms": [],
+  "summary": "Uterine cancer is a cancer that forms in tissues of the uterus, also known as the womb. There are two main types: endometrial cancer, which begins in the cells lining the uterus (endometrium), and uterine sarcoma, a rarer, more aggressive cancer that starts in the muscle or other tissues of the uterus.",
+  "causes": [],
+  "risk_factors": [
+    "Obesity",
+    "Metabolic syndrome",
+    "Estrogen-only hormone replacement therapy (HRT) after menopause",
+    "Type 2 diabetes",
+    "Early menarche",
+    "Late menopause",
+    "Nulliparity (never been pregnant)",
+    "Tamoxifen use",
+    "Polycystic ovary syndrome",
+    "Family history of endometrial cancer",
+    "Lynch syndrome",
+    "Endometrial hyperplasia",
+    "Past radiation therapy to the pelvis (for uterine sarcoma)"
+  ],
+  "symptoms": [
+    "Abnormal vaginal bleeding",
+    "Pelvic pain",
+    "Pelvic pressure",
+    "Unusual vaginal discharge",
+    "Enlarged uterus",
+    "Pelvic mass",
+    "Frequent urination",
+    "Difficulty urinating",
+    "Pain during sexual intercourse"
+  ],
+  "diagnosis": [
+    "Medical history",
+    "Family health history",
+    "Pelvic exam",
+    "Imaging tests",
+    "Biopsy",
+    "Dilation and curettage (D & C)"
+  ],
+  "treatments": [
+    "Hysterectomy",
+    "Oophorectomy (removal of ovaries)",
+    "Salpingectomy (removal of fallopian tubes)",
+    "Hormone therapy",
+    "Radiation therapy",
+    "Chemotherapy"
+  ],
+  "related_genes": [
+    "Lynch syndrome"
+  ],
+  "subtypes": [
+    "Endometrial cancer",
+    "Uterine sarcoma"
+  ]
+}

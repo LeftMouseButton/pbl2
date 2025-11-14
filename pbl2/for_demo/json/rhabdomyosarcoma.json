@@ -1,0 +1,86 @@
+{
+  "disease_name": "Rhabdomyosarcoma",
+  "synonyms": [
+    "RMS",
+    "Soft tissue sarcoma"
+  ],
+  "summary": "Rhabdomyosarcoma (RMS) is a highly aggressive form of cancer that develops from mesenchymal cells that have failed to fully differentiate into myocytes of skeletal muscle. It is the most common soft-tissue sarcoma in children and the third most common solid tumor in children. RMS can occur in any soft-tissue site but is primarily found in the head, neck, orbit, genitourinary tract, genitals, and extremities. Prognosis is closely tied to the location of the primary tumor and the subtype.",
+  "causes": [
+    "Mesenchymal cells failing to differentiate into myocytes of skeletal muscle"
+  ],
+  "risk_factors": [
+    "Exposure to certain chemicals",
+    "Prior radiation therapy",
+    "Congenital abnormalities",
+    "Inherited disorders such as Li-Fraumeni syndrome",
+    "Neurofibromatosis type 1",
+    "Beckwith-Wiedemann syndrome",
+    "Costello syndrome",
+    "Noonan syndrome",
+    "DICER1 syndrome",
+    "Parental use of cocaine",
+    "Parental use of marijuana"
+  ],
+  "symptoms": [
+    "Lump or swelling in soft tissue",
+    "Pain",
+    "Trouble breathing",
+    "Hematuria",
+    "Urinary tract obstruction",
+    "Scrotal or vaginal mass",
+    "Cranial nerve dysfunction",
+    "Symptoms of sinusitis",
+    "Ear discharge",
+    "Headaches",
+    "Facial pain",
+    "Orbital swelling",
+    "Proptosis",
+    "Rapidly enlarging, firm mass in extremity tissue"
+  ],
+  "diagnosis": [
+    "Biopsy",
+    "Immunohistochemical staining for muscle-specific proteins (myogenin, muscle-specific actin, desmin, D-myosin, myoD1)",
+    "Electron microscopy",
+    "Genetic sequencing of tumor cells",
+    "Imaging (MRI, ultrasound, bone scan)",
+    "Lumbar puncture",
+    "Abdominal CT"
+  ],
+  "treatments": [
+    "Surgery",
+    "Radiation therapy",
+    "Chemotherapy",
+    "Immunotherapy",
+    "VAC regimen (vincristine, actinomycin D, cyclophosphamide)",
+    "IVA regimen (ifosfamide, vincristine, actinomycin D)",
+    "Doxorubicin",
+    "Cisplatin",
+    "Brachytherapy",
+    "MEK inhibitor"
+  ],
+  "related_genes": [
+    "PAX3",
+    "PAX7",
+    "FOXO1",
+    "FKHR",
+    "MYC",
+    "MYCN",
+    "MYOD1",
+    "BRD4",
+    "IGF-2",
+    "P53",
+    "NMYC",
+    "NRAS",
+    "KRAS",
+    "P16",
+    "c-Met",
+    "FGFR3"
+  ],
+  "subtypes": [
+    "Embryonal rhabdomyosarcoma (ERMS)",
+    "Alveolar rhabdomyosarcoma (ARMS)",
+    "Pleomorphic rhabdomyosarcoma",
+    "Spindle-cell/sclerosing rhabdomyosarcoma",
+    "Botryoid rhabdomyosarcoma"
+  ]
+}

@@ -1,0 +1,73 @@
+Primary myelofibrosis (PMF) is a rare bone marrow blood cancer. It is classified by the World Health Organization (WHO) as a type of myeloproliferative neoplasm, a group of cancers in which there is activation and growth of mutated cells in the bone marrow. This is most often associated with a somatic mutation in the JAK2, CALR, or MPL genes. In PMF, the bony aspects of bone marrow are remodeled in a process called osteosclerosis; in addition, fibroblasts secrete collagen and reticulin proteins that are collectively referred to as fibrosis. These two pathological processes compromise the normal function of bone marrow, resulting in decreased production of blood cells such as erythrocytes (red cells), granulocytes, and megakaryocytes. The latter are responsible for the production of platelets.
+Signs and symptoms include fever, night sweats, bone pain, fatigue, and abdominal pain.  Increased infections, bleeding and an enlarged spleen (splenomegaly) are also hallmarks of the disease. Patients with myelofibrosis have an increased risk of acute meyloid leukemia and frank bone marrow failure.
+In 2016, prefibrotic primary myelofibrosis was formally classified as a distinct condition that progresses to overt PMF in many patients, the primary diagnostic difference being the grade of fibrosis.
+
+
+== Signs and symptoms ==
+The primary feature of primary myelofibrosis is bone marrow fibrosis, but it is often accompanied by:
+
+Abdominal fullness related to an enlarged spleen (splenomegaly).
+Enlargement of both the liver and spleen
+Splenomegaly due to extramedullary hematopoiesis (hematopoiesis occurring outside of the bone marrow)
+Bone pain
+Bruising and easy bleeding due to inadequate numbers of platelets
+Increased risk of thrombosis
+Cachexia (loss of appetite, weight loss, and fatigue)
+Fatigue
+Fevers
+Chills
+Weight loss
+Gout and high uric acid levels
+Increased susceptibility to infection, such as pneumonia
+Pallor and shortness of breath due to anemia
+Leukoerythroblastic smear (tear-drop RBCs, nucleated RBCs, and immature granulocytes)
+In rarer cases, a raised red blood cell volume
+Cutaneous myelofibrosis is a rare skin condition characterized by dermal and subcutaneous nodules.
+
+
+== Causes ==
+The underlying cause of PMF is almost always related to an acquired mutation in JAK2, CALR or MPL in a hematopoietic stem/progenitor cell in the bone marrow. There is an association between mutations to the JAK2, CALR, or MPL genes and myelofibrosis. Approximately 90% of those with myelofibrosis have one of these mutations; 10% do not have mutations in these three genes. These mutations are not specific to myelofibrosis, but are observed in other myeloproliferative neoplasms, specifically polycythemia vera and essential thrombocythemia.
+The JAK2 protein is mutated giving risk to a variant protein with an amino acid substitution commonly referred to as V617F; the mutation causing this variant is found in approximately half of individuals with primary myelofibrosis. The V617F substitution is an amino acid change of valine to phenylalanine at the 617 position in the JAK2 protein. Janus kinases (JAKs) are non-receptor tyrosine kinase part of the signaling pathway activated by receptors that recognize cytokines and growth factors. These include receptors for erythropoietin, thrombopoietin, most interleukins and interferon. JAK2 mutations play a significant role in the pathogenesis of all the myeloproliferative neoplasms because the recognized mutations all cause constitutive activation of the pathway controlling the production of blood cells arising from hematopoietic stem cells. The V617F subsustition also renders hematopoietic cells more sensitive to growth factors that use JAK2 for signal transduction, which include erythropoietin and thrombopoietin.
+The MPL gene codes for a protein that acts as a receptor for thrombopoietin, a growth factor that enhances production of platelets. A mutation in that gene, resulting in the substitution W515L, results in thrombopoietin receptor that is constitutively active even in the absence of thrompoietin. Abnormal megakaryocytes predominate in the bone marrow and platelet production is enhanced. The mutant megakaryocytes also release growth factors that stimulate other cells in the bone marrow including fibroblasts, the cells that are stimulated to secrete excess collagen, by secreting PDGF and TGF-β1.
+
+
+== Mechanism ==
+Myelofibrosis is a clonal neoplastic disorder of hematopoiesis, the formation of blood cellular components. It is one of the myeloproliferative disorders, diseases of the bone marrow in which excess cells are produced at some stage. Production of cytokines such as fibroblast growth factor by the abnormal hematopoietic cell clone (particularly by megakaryocytes) leads to replacement of the hematopoietic tissue of the bone marrow by connective tissue via collagen fibrosis. The decrease in hematopoietic tissue impairs the patient's ability to generate new blood cells, resulting in progressive pancytopenia, a shortage of all blood cell types. However, the proliferation of fibroblasts and deposition of collagen is a secondary phenomenon, and the fibroblasts themselves are not part of the abnormal cell clone.
+In primary myelofibrosis, progressive scarring, or fibrosis, of the bone marrow occurs, for the reasons outlined above. The result is extramedullary hematopoiesis, i.e. blood cell formation occurring in sites other than the bone marrow, as the hemopoietic cells are forced to migrate to other areas, particularly the liver and spleen. This causes an enlargement of these organs. In the liver, the abnormal size is called hepatomegaly. Enlargement of the spleen is called splenomegaly, which also contributes to causing pancytopenia, particularly thrombocytopenia and anemia. Another complication of extramedullary hematopoiesis is poikilocytosis, or the presence of abnormally shaped red blood cells.
+Myelofibrosis can be a late complication of other myeloproliferative disorders, such as polycythemia vera, and less commonly, essential thrombocythemia. In these cases, myelofibrosis occurs as a result of somatic evolution of the abnormal hematopoietic stem cell clone that caused the original disorder. In some cases, the development of myelofibrosis following these disorders may be accelerated by the oral chemotherapy drug hydroxyurea.
+
+
+=== Sites of hematopoiesis ===
+The principal site of extramedullary hematopoiesis in myelofibrosis is the spleen, which is usually markedly enlarged, sometimes weighing as much as 4000 g. As a result of massive enlargement of the spleen, multiple subcapsular infarcts often occur in the spleen, meaning that due to interrupted oxygen supply to the spleen partial or complete tissue death happens. On the cellular level, the spleen contains red blood cell precursors, granulocyte precursors and megakaryocytes, with the megakaryocytes prominent in their number and in their bizarre shapes. Megakaryocytes are believed to be involved in causing the secondary fibrosis seen in this condition, as discussed under "Mechanism" above. Sometimes unusual activity of the red blood cells, white blood cells, or platelets is seen. The liver is often moderately enlarged, with foci of extramedullary hematopoiesis. Microscopically, lymph nodes also contain foci of hematopoiesis, but these are insufficient to cause enlargement.
+There are also reports of hematopoiesis taking place in the lungs. These cases are associated with hypertension in the pulmonary arteries.
+The bone marrow in a typical case is hypercellular and diffusely fibrotic. Both early and late in disease, megakaryocytes are often prominent and are usually dysplastic.
+
+
+== Diagnosis ==
+Epidemiologically, the disorder usually develops slowly and is mainly observed in people over the age of 50.
+Diagnosis is made on the basis of bone marrow biopsy. Fibrosis grade 2 or 3 defines overt PMF whereas grade 0 or 1 defines prefibrotic primary myelofibrosis.
+A physical exam of the abdomen may reveal enlargement of the spleen, the liver, or both. Bone marrow biopsy shows fibrosis of the bone marrow. In early stages, this fibrosis is characterised by scattered linear reticulin fibres.
+
+
+== Treatment ==
+The one known curative treatment is allogeneic stem cell transplantation, but this approach involves significant risks.
+Other treatment options are largely supportive, and do not alter the course of the disorder (with the possible exception of ruxolitinib, as discussed below). These options may include regular folic acid, allopurinol or blood transfusions. Dexamethasone, alpha-interferon and hydroxyurea (also known as hydroxycarbamide) may play a role.
+Lenalidomide and thalidomide may be used in its treatment, though peripheral neuropathy is a common troublesome side-effect.
+Splenectomy is sometimes considered as a treatment option for patients with myelofibrosis in whom massive splenomegaly is contributing to anaemia because of hypersplenism, particularly if they have a heavy requirement for blood transfusions. However, splenectomy in the presence of massive splenomegaly is a high-risk procedure, with a mortality risk as high as 3% in some studies.
+In November 2011, the US Food and Drug Administration (FDA) approved ruxolitinib (Jakafi) as a treatment for intermediate or high-risk myelofibrosis. Ruxolitinib serves as an inhibitor of JAK 1 and 2. Data from two phase III studies of ruxolitinib showed that the treatment significantly reduced spleen volume, improved symptoms of myelofibrosis, and was associated with much improved overall survival rates compared to placebo. However, the beneficial effect of ruxolitinib on survival has been recently questioned.
+In August 2019, the FDA approved fedratinib (Inrebic) as a treatment for adults with intermediate-2 or high-risk primary or secondary (post-polycythemia vera or post-essential thrombocythemia) myelofibrosis (MF).
+In March 2022, the FDA approved pacritinib (Vonjo) with an indication to treat adults who have intermediate or high-risk primary or secondary myelofibrosis and who have platelet (blood clotting cells) levels below 50,000/μL.
+Momelotinib (Ojjaara) was approved for medical use in the United States in September 2023. It is indicated for the treatment of intermediate or high-risk myelofibrosis, including primary myelofibrosis or secondary myelofibrosis [post-polycythemia vera and post-essential thrombocythemia], in adults with anemia.
+
+
+== History ==
+Myelofibrosis was first described in 1879 by Gustav Heuck. Eponyms for the disease are Heuck-Assmann disease or Assmann's Disease, for Herbert Assmann, who published a description under the term "osteosclerosis" in 1907.
+It was characterised as a myeloproliferative condition in 1951 by William Dameshek.
+The disease was also known as myelofibrosis with myeloid metaplasia and agnogenic myeloid metaplasia The World Health Organization utilized the name chronic idiopathic myelofibrosis until 2008, when it adopted the name of primary myelofibrosis.
+In 2016, the WHO revised their classification of myeloproliferative neoplasms to define Prefibrotic primary myelofibrosis as a distinct clinical entity from overt PMF.
+
+
+== References ==
+
+
+== External links ==

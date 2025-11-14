@@ -1,0 +1,36 @@
+{
+  "disease_name": "Parathyroid carcinoma",
+  "synonyms": [
+    "Parathyroid cancer"
+  ],
+  "summary": "Parathyroid carcinoma is a rare cancer that forms in the parathyroid glands, which are responsible for producing parathyroid hormone (PTH) to regulate calcium and phosphorous levels. It can develop from parathyroid adenoma and is characterized by excessive PTH secretion leading to hypercalcemia.",
+  "causes": [
+    "Progression from parathyroid adenoma",
+    "External radiation exposure (associated, but more common with adenoma)"
+  ],
+  "risk_factors": [
+    "Multiple endocrine neoplasia type 1",
+    "Autosomal dominant familial isolated hyperparathyroidism",
+    "Hyperparathyroidism-jaw tumor syndrome",
+    "Hereditary conditions"
+  ],
+  "symptoms": [
+    "Moderate to severe hypercalcemia",
+    "High parathyroid hormone levels",
+    "Large mass in the neck",
+    "Kidney abnormalities",
+    "Bone abnormalities"
+  ],
+  "diagnosis": [
+    "Sestamibi parathyroid scan (intense radioactivity, no washout)",
+    "High parathyroid hormone concentration in blood (in those > 40 years)",
+    "High levels of HCG (suggestive in context)",
+    "Pathological examination of tissue"
+  ],
+  "treatments": [
+    "Aggressive excision (including thyroid and surrounding tissues if necessary)",
+    "Calcimimetics (e.g., cinacalcet) to lower calcium levels"
+  ],
+  "related_genes": [],
+  "subtypes": []
+}

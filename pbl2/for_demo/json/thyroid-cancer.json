@@ -1,0 +1,89 @@
+{
+  "disease_name": "Thyroid cancer",
+  "synonyms": [
+    "Thyroid carcinoma"
+  ],
+  "summary": "Thyroid cancer is a cancer that starts in the tissues of the thyroid gland, a small, butterfly-shaped gland in the front of the neck that makes hormones controlling metabolism. It is a disease in which cells grow abnormally and have the potential to spread to other parts of the body. Most cases are asymptomatic at diagnosis.",
+  "causes": [
+    "Environmental exposure to ionizing radiation",
+    "Radiation treatments to the head or neck as a child",
+    "Radiation emergency exposure",
+    "Certain genetic conditions",
+    "Multiple endocrine neoplasia type 2 (MEN2)",
+    "Mutations in the genes for MenA and Men2B",
+    "Thyroiditis",
+    "Other thyroid diseases"
+  ],
+  "risk_factors": [
+    "Age between 25 and 65",
+    "Being a woman",
+    "Being Asian",
+    "Exposure to certain types of radiation",
+    "Goiter (enlarged thyroid)",
+    "Family history of thyroid cancer",
+    "Family history of thyroid disease",
+    "Obesity",
+    "Young age at time of radiation exposure"
+  ],
+  "symptoms": [
+    "Lump (nodule) in the neck",
+    "Trouble breathing",
+    "Trouble swallowing",
+    "Pain when swallowing",
+    "Hoarseness or other changes to voice",
+    "Enlarged lymph node",
+    "Pain in the anterior region of the neck",
+    "Feeling of something in the throat"
+  ],
+  "diagnosis": [
+    "Physical exam",
+    "Medical history",
+    "Thyroid tests",
+    "Blood tests",
+    "Imaging tests",
+    "Biopsy",
+    "Ultrasound",
+    "Fine needle aspiration cytology (FNAC)",
+    "Thyroid stimulating hormone (TSH) level measurement",
+    "Triiodothyronine (T3) and thyroxine (T4) level measurement",
+    "Antithyroid antibody measurement",
+    "Thyroid scan",
+    "Radioactive iodine uptake test",
+    "Calcitonin measurement",
+    "TNM staging system"
+  ],
+  "treatments": [
+    "Surgery (Thyroidectomy)",
+    "Radiation therapy",
+    "Radioactive iodine therapy",
+    "Chemotherapy",
+    "Thyroid hormone therapy",
+    "Targeted therapy",
+    "Watchful waiting (active surveillance)",
+    "External irradiation",
+    "Sorafenib",
+    "Lenvatinib",
+    "Vandetanib"
+  ],
+  "related_genes": [
+    "RET proto-oncogene",
+    "BRAF 600E",
+    "RasGTPase",
+    "MenA",
+    "Men2B"
+  ],
+  "subtypes": [
+    "Differentiated thyroid cancer",
+    "Papillary thyroid cancer",
+    "Follicular thyroid cancer",
+    "Medullary thyroid cancer",
+    "Anaplastic thyroid cancer",
+    "Papillary microcarcinoma",
+    "Hürthle cell carcinoma",
+    "Poorly differentiated thyroid cancer",
+    "Thyroid lymphoma",
+    "Squamous cell thyroid carcinoma",
+    "Sarcoma of thyroid",
+    "Noninvasive follicular thyroid neoplasm with papillary-like nuclear features"
+  ]
+}

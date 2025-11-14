@@ -1,0 +1,91 @@
+An osteosarcoma (OS) or osteogenic sarcoma (OGS) is a cancerous tumor in a bone. Specifically, it is an aggressive malignant neoplasm that arises from primitive transformed cells of mesenchymal origin (and thus a sarcoma) and that exhibits osteoblastic differentiation and produces malignant osteoid.
+Osteosarcoma is the most common histological form of primary bone sarcoma. It is most prevalent in teenagers and young adults.
+
+== Signs and symptoms ==
+Many patients first complain of pain that may be worse at night, may be intermittent and of varying intensity and may have been occurring for a long time. Teenagers who are active in sports often complain of pain in the lower femur, or immediately below the knee. If the tumor is large, it can present as overt localised swelling. Sometimes a sudden fracture is the first symptom because the affected bone is not as strong as normal bone and may fracture abnormally with minor trauma. In cases of more deep-seated tumors that are not as close to the skin, such as those originating in the pelvis, localised swelling may not be apparent.
+
+== Causes ==
+Several research groups are investigating cancer stem cells and their potential to cause tumors along with genes and proteins causative in different phenotypes. Radiotherapy for unrelated conditions may be a rare cause.
+
+A small supernumerary marker chromosome or a giant rod chromosome is present in the tumor cells of low grade OS including low grade central OS and paraosteal OS (see below Variants section), carry various potentially pro-cancerous genes, and are thought to contribute to the development of these OS. (See Small supernumerary marker chromosomes and giant rod chromosomes in osteosarcomas)
+Familial cases where the deletion of chromosome 13q14 inactivates the retinoblastoma gene is associated with a high risk of osteosarcoma development.
+Bone dysplasias, including Paget's disease of bone, fibrous dysplasia, enchondromatosis, and hereditary multiple exostoses, increase the risk of osteosarcoma.
+Li–Fraumeni syndrome (germline TP53 mutation) is a predisposing factor for osteosarcoma development.
+Rothmund–Thomson syndrome (i.e. autosomal recessive association of congenital bone defects, hair and skin dysplasias, hypogonadism, and cataracts) is associated with increased risk of this disease.
+Large doses of Sr-90, nicknamed bone seeker, increases the risk of bone cancer and leukemia in animals and is presumed to do so in people.
+There is no clear association between water fluoridation and cancer or deaths due to cancer, both for cancer in general and also specifically for bone cancer and osteosarcoma. Series of research concluded that concentration of fluoride in water does not associate with osteosarcoma. The beliefs regarding association of fluoride exposure and osteosarcoma stem from a study of US National Toxicology program in 1990, which showed uncertain evidence of association of fluoride and osteosarcoma in male rats. But there is still no solid evidence of cancer-causing tendency of fluoride in mice. Fluoridation of water has been practiced around the world to improve citizens' dental health. It is also deemed as major health success. Fluoride concentration levels in water supplies are regulated, such as United States Environmental Protection Agency regulates fluoride levels to not be greater than 4 milligrams per liter. Actually, water supplies already have natural occurring fluoride, but many communities chose to add more fluoride to the point that it can reduce tooth decay. Fluoride is also known for its ability to cause new bone formation. Yet, further research shows no osteosarcoma risks from fluoridated water in humans. Most of the research involved counting number of osteosarcoma patients cases in particular areas which has difference concentrations of fluoride in drinking water. The statistic analysis of the data shows no significant difference in occurrences of osteosarcoma cases in different fluoridated regions. Another important research involved collecting bone samples from osteosarcoma patients to measure fluoride concentration and compare them to bone samples of newly diagnosed malignant bone tumors. The result is that the median fluoride concentrations in bone samples of osteosarcoma patients and tumor controls are not significantly different. Not only fluoride concentration in bones, Fluoride exposures of osteosarcoma patients are also proven to be not significantly different from healthy people.
+
+== Mechanism ==
+
+Osteosarcomas tend to occur at the sites of bone growth, presumably because proliferation makes osteoblastic cells in this region prone to acquire mutations that could lead to transformation of cells (the RB gene and p53 gene are commonly involved). The tumor may be localized at the end of the long bone (commonly in the metaphysis). Most often it affects the proximal end of tibia or humerus, or distal end of femur. Osteosarcoma tends to affect regions around the knee in 60% of cases, 15% around the hip, 10% at the shoulder, and 8% in the jaw. The tumor is solid, hard, irregular ("fir-tree," "moth-eaten", or "sun-burst" appearance on X-ray examination) due to the tumor spicules of calcified bone radiating at right angles. These right angles form what is known as a Codman triangle, which is characteristic but not diagnostic of osteosarcoma. Surrounding tissues are infiltrated.
+
+Microscopically: The characteristic feature of osteosarcoma is presence of osteoid (bone formation) within the tumor. Tumor cells are very pleomorphic (anaplastic), some are giant, numerous atypical mitoses. These cells produce osteoid describing irregular trabeculae (amorphous, eosinophilic/pink) with or without central calcification (hematoxylinophilic/blue, granular)—tumor bone. Tumor cells are included in the osteoid matrix. Depending on the features of the tumor cells present (whether they resemble bone cells, cartilage cells, or fibroblast cells), the tumor can be subclassified. Osteosarcomas may exhibit multinucleated osteoclast-like giant cells.
+
+== Diagnosis ==
+
+X-rays is the initial imaging of choice to diagnose osteosarcoma. Some characteristics of osteosarcoma on X-rays are sunburst appearance and Codman triangle (elevation of bony cortex by the tumour that caused new bone formation). CT scan is helpful in defining the bony anatomy, the integrity of the bony cortex, detecting pathologic fracture, and assessing ossification (laying of new bone materials) and calcification of the cartilage. On the other hand, soft tissue and medullary cavity is better imaged by MRI scan.
+Most times, the early signs of osteosarcoma are caught on X-rays taken during routine dental check-ups. Osteosarcoma frequently develops in the mandible (lower jaw); accordingly, dentists are trained to look for signs that may suggest osteosarcoma. Even though radiographic findings for this cancer vary greatly, one usually sees a symmetrical widening of the periodontal ligament space. A dentist who has reason to suspect osteosarcoma or another underlying disorder would then refer the patient to an Oral & Maxillofacial surgeon for biopsy. A biopsy of suspected osteosarcoma outside of the facial region should be performed by a qualified orthopedic oncologist. The American Cancer Society states: "Probably in no other cancer is it as important to perform this procedure properly. An improperly performed biopsy may make it difficult to save the affected limb from amputation." It may also metastasise to the lungs, mainly appearing on the chest X-ray as solitary or multiple round nodules most common at the lower regions.
+
+=== Variants ===
+Conventional: osteoblastic, chondroblastic, fibroblastic OS
+Telangiectatic OS
+Small cell OS
+Low-grade central OS
+Periosteal OS
+Paraosteal OS
+Secondary OS
+High-grade surface OS
+Extraskeletal OS
+
+== Treatment ==
+A complete radical, surgical, en bloc resection of the cancer, is the treatment of choice in osteosarcoma. Although most patients are able to have limb-salvage surgery, complications—particularly infection, prosthetic loosening and non-union, or local tumor recurrence—may cause the need for further surgery or amputation.
+Mifamurtide is used after a patient has had surgery to remove the tumor and together with chemotherapy to kill remaining cancer cells to reduce the risk of cancer recurrence. Also, the option to have rotationplasty after the tumor is taken out exists.
+Patients with osteosarcoma are best managed by a medical oncologist and an orthopedic oncologist experienced in managing sarcomas. Current standard treatment is to use neoadjuvant chemotherapy (chemotherapy given before surgery) followed by surgical resection. The percentage of tumor cell necrosis (cell death) seen in the tumor after surgery gives an idea of the prognosis and also lets the oncologist know if the chemotherapy regimen should be altered after surgery.
+Standard therapy is a combination of limb-salvage orthopedic surgery when possible (or amputation in some cases) and a combination of high-dose methotrexate with leucovorin rescue, intra-arterial cisplatin, adriamycin, ifosfamide with mesna, BCD (bleomycin, cyclophosphamide, dactinomycin), etoposide, and muramyl tripeptide. Rotationplasty may be used. Ifosfamide can be used as an adjuvant treatment if the necrosis rate is low.
+Despite the success of chemotherapy for osteosarcoma, it has one of the lowest survival rates for pediatric cancer. The best reported 10-year survival rate is 92%; the protocol used is an aggressive intra-arterial regimen that individualizes therapy based on arteriographic response. Three-year event-free survival ranges from 50% to 75%, and five-year survival ranges from 60% to 85+% in some studies. Overall, 65–70% patients treated five years ago will be alive today. These survival rates are overall averages and vary greatly depending on the individual necrosis rate.
+Filgrastim or pegfilgrastim help with white blood cell counts and neutrophil counts. Blood transfusions and epoetin alfa help with anemia. Computational analysis on a panel of osteosarcoma cell lines identified new shared and specific therapeutic targets (proteomic and genetic) in osteosarcoma, while phenotypes showed an increased role of tumor microenvironments.
+
+== Prognosis ==
+Prognosis is separated into three groups.
+
+Stage I osteosarcoma is rare and includes parosteal osteosarcoma or low-grade central osteosarcoma. It has an excellent prognosis (>90%) with wide resection.
+Stage II prognosis depends on the site of the tumor (proximal tibia, femur, pelvis, etc.), size of the tumor mass, and the degree of necrosis from neoadjuvant chemotherapy. Other pathological factors such as the degree of p-glycoprotein, whether the tumor is cxcr4-positive, or Her2-positive are also important, as these are associated with distant metastases to the lung. The prognosis for patients with metastatic osteosarcoma improves with longer times to metastases (more than 12 months to 4 months), a smaller number of metastases, and their resectability. It is better to have fewer metastases than longer time to metastases. Those with a longer length of time (more than 24 months) and few nodules (two or fewer) have the best prognosis, with a two-year survival after the metastases of 50%, five-year of 40%, and 10-year of 20%. If metastases are both local and regional, the prognosis is worse.
+Initial presentation of stage III osteosarcoma with lung metastases depends on the resectability of the primary tumor and lung nodules, degree of necrosis of the primary tumor, and maybe the number of metastases. Overall survival prognosis is about 30%.
+Deaths due to malignant neoplasms of the bones and joints account for an unknown number of childhood cancer deaths. Mortality rates due to osteosarcoma have been declining at about 1.3% per year. Long-term survival probabilities for osteosarcoma have improved dramatically during the late 20th century and approximated 68% in 2009.
+
+== Epidemiology ==
+Osteosarcoma is the eighth-most common form of childhood cancer, comprising 2.4% of all malignancies in pediatric patients, and about 20% of all primary bone cancers.
+Incidence rates for osteosarcoma in U.S. patients under 20 years of age are estimated at 5.0 per million per year in the general population, with a slight variation between individuals of black, Hispanic, and white ethnicities (6.8, 6.5, and 4.6 per million per year, respectively). It is slightly more common in males (5.4 per million per year) than in females (4.0 per million per year).
+It originates more frequently in the metaphyseal region of tubular long bones, with 42% occurring in the femur, 19% in the tibia, and 10% in the humerus. About 8% of all cases occur in the skull and jaw, and another 8% in the pelvis.
+Around 300 of the 900 people diagnosed in the United States will die each year. A second peak in incidence occurs in the elderly, usually associated with an underlying bone pathology such as Paget's disease of bone.
+
+== Other animals ==
+
+=== Risk factors ===
+Osteosarcoma is the most common bone tumor in dogs and typically affects middle-aged large and giant breed dogs such as Irish Wolfhounds, Greyhounds, German Shepherds, Rottweilers, mountain breeds (Great Pyrenees, St. Bernard, Leonberger, Newfoundland), Doberman Pinschers and Great Danes. It has a 10-fold greater incidence in dogs than humans. A hereditary base has been shown in St. Bernard dogs. Spayed/neutered dogs have twice the risk of intact ones to develop osteosarcoma. Infestation with the parasite Spirocerca lupi can cause osteosarcoma of the esophagus.
+
+=== Clinical presentation ===
+The most commonly affected bones are the proximal humerus, the distal radius, the distal femur, and the tibia, following the basic premise "far from the elbow, close to the knee". Other sites include the ribs, the mandible, the spine, and the pelvis. Rarely, osteosarcoma may arise from soft tissues (extraskeletal osteosarcoma). Metastasis of tumors involving the limb bones is very common, usually to the lungs. The tumor causes a great deal of pain, and can even lead to fracture of the affected bone. As with human osteosarcoma, bone biopsy is the definitive method to reach a final diagnosis. Osteosarcoma should be differentiated from other bone tumours and a range of other lesions, such as osteomyelitis. Differential diagnosis of the osteosarcoma of the skull in particular includes, among others, chondrosarcoma and the multilobular tumour of bone.
+
+=== Treatment and prognosis ===
+Amputation is the initial treatment, although this alone will not prevent metastasis. Chemotherapy combined with amputation improves the survival time, but most dogs still die within a year. Surgical techniques designed to save the leg (limb-sparing procedures) do not improve the prognosis.
+Some current studies indicate osteoclast inhibitors such as alendronate and pamidronate may have beneficial effects on the quality of life by reducing osteolysis, thus reducing the degree of pain, as well as the risk of pathological fractures.
+
+=== Molecular alterations ===
+Canine osteosarcoma shows similar patterns of molecular somatic alterations to the human disease. Both are characterized by genetic instability and karyotypic complexity and genes that are recurrently altered include TP53, RB1, PTEN, MYC, PIK3CA. In contrast, mutations in the histone methyltransferase gene SETD2 are rare in human osteosarcoma, but have been identified in 21% of canine tumors.
+
+=== Cats ===
+Osteosarcoma is also the most common bone tumor in cats, although not as frequently encountered, and most typically affect the rear legs. The cancer is generally less aggressive in cats than in dogs, so amputation alone can lead to a significant survival time in many affected cats, though post-amputation chemotherapy is recommended when a high grade is confirmed on histopathology.
+
+=== Dinosaurs ===
+An 2020 study, published in The Lancet Oncology, reports the first confirmed case of osteosarcoma in a dinosaur, a Centrosaurus apertus from the Late Cretaceous, about 77 to 75.5 million years ago. The bone showed typical characteristics of cancer, including areas of cortical destruction, neoplastic bone formations, and disordered organization inconsistent with a simple fracture or infection. The structural and histological similarities with a high-grade human osteosarcoma case strengthened the diagnosis. This study establishes that bone cancers, such as osteosarcoma, have deep roots in the evolutionary history of vertebrates.
+
+== References ==
+
+== Further reading ==
+Jaffe, N. (2010). Pediatric and Adolescent Osteosarcoma. New York: Springer. ISBN 978-1-4419-0283-2. Osteosarcoma research: past, present and future.
+
+== External links ==
+National Cancer Institute—patient information on osteosarcoma
+Osteosarcoma – An Introduction Archived 2020-10-27 at the Wayback Machine
+What is osteosarcoma? Archived 2009-04-21 at the Wayback Machine

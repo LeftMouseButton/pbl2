@@ -1,0 +1,102 @@
+{
+  "disease_name": "Male Breast Cancer",
+  "synonyms": [
+    "MBC",
+    "Male breast cancer"
+  ],
+  "summary": "Male breast cancer (MBC) is a cancer that originates in the breasts of males. It is much less common than breast cancer in females, accounting for less than 1% of new breast cancer cases worldwide. While many treatment strategies are adopted from female breast cancer, MBC can have distinct presentations, associations, and genetic factors.",
+  "causes": [
+    "Genetic mutations (BRCA1, BRCA2, CHEK2, PALB2, PTEN, ATM, RAD51L3)",
+    "Tumor protein P53 gene mutations (associated with Li-Fraumeni syndrome)",
+    "DNA mismatch repair gene mutations (MLH1, MSH2, MSH6, PMS2, EpCAM) (associated with Lynch syndrome)",
+    "PTEN gene mutations (associated with Cowden syndrome)"
+  ],
+  "risk_factors": [
+    "Age (most often between 60 and 70)",
+    "Exposure to radiation",
+    "Family history of breast cancer",
+    "High estrogen levels",
+    "Klinefelter syndrome",
+    "Liver cirrhosis",
+    "Testicular dysfunction",
+    "Consumption of hormonal drugs for gender reassignment therapy",
+    "Diabetes",
+    "High alcohol consumption",
+    "Occupations with long-term exposure to high temperatures, petrol emissions, or exhaust emissions",
+    "Low levels of physical activity",
+    "Gynecomastia (historically considered, but not definitively established as a risk factor)"
+  ],
+  "symptoms": [
+    "Breast lumps",
+    "Dimpled or puckered skin",
+    "Red, scaly nipple or skin",
+    "Fluid discharge from the nipple",
+    "Nipple retraction",
+    "Breast swelling"
+  ],
+  "diagnosis": [
+    "Physical examination (checking for lumps, lymph node enlargement)",
+    "Mammography",
+    "Ultrasonography",
+    "CT scans",
+    "Magnetic resonance imaging (MRI)",
+    "Positron-emission tomography (PET)",
+    "Scintimammography",
+    "Single-photon emission computed tomography (SPECT)",
+    "Needle biopsy (fine-needle aspiration or core needle biopsy)",
+    "Incisional biopsy",
+    "Excisional biopsy",
+    "Histopathology examination of tissue",
+    "Estrogen receptor (ER) testing",
+    "Progesterone receptor (PR) testing",
+    "HER2/neu receptor testing",
+    "Androgen receptor (AR) testing",
+    "Genetic and chromosomal testing",
+    "TNM staging system",
+    "Nottingham system (grading)",
+    "Sentinel lymph node biopsy"
+  ],
+  "treatments": [
+    "Mastectomy (total mastectomy)",
+    "Breast-conserving surgery",
+    "Radiation therapy",
+    "Chemotherapy",
+    "Hormone therapy",
+    "Tamoxifen therapy",
+    "Aromatase inhibitors",
+    "GNRH agonists",
+    "Immunotherapy"
+  ],
+  "related_genes": [
+    "BRCA1",
+    "BRCA2",
+    "CHEK2",
+    "PALB2",
+    "PTEN",
+    "ATM",
+    "RAD51L3",
+    "RAD51D",
+    "MLH1",
+    "MSH2",
+    "MSH6",
+    "PMS2",
+    "EpCAM",
+    "TP53"
+  ],
+  "subtypes": [
+    "Invasive ductal carcinoma",
+    "Ductal carcinoma in situ",
+    "Papillary carcinomas of the breast (in situ, encapsulated, solid-papillary, invasive)",
+    "Medullary breast carcinoma",
+    "Mucinous carcinoma",
+    "Inflammatory carcinoma",
+    "Phyllodes tumor",
+    "Leiomyosarcoma of the breast",
+    "Paget's disease of the breast",
+    "Invasive lobular carcinoma",
+    "Mammary secretory carcinoma",
+    "Invasive cribriform carcinoma of the breast",
+    "Tubular carcinoma of the breast",
+    "Triple-negative breast cancer"
+  ]
+}

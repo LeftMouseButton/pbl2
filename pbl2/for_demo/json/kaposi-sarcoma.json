@@ -1,0 +1,87 @@
+{
+  "disease_name": "Kaposi sarcoma",
+  "synonyms": [
+    "KS",
+    "Kaposi's sarcoma"
+  ],
+  "summary": "Kaposi sarcoma (KS) is a type of cancer that causes lesions (abnormal tissue) to grow in different parts of the body, including the skin, lymph nodes, mucous membranes, and other organs. These lesions are usually red or purple and are made of cancer cells, new blood vessels, and blood cells. KS can occur in multiple places simultaneously and is caused by infection with human herpesvirus-8 (HHV-8), also known as Kaposi sarcoma-associated herpesvirus (KSHV), in individuals with weakened immune systems.",
+  "causes": [
+    "Infection with human herpesvirus-8 (HHV-8)",
+    "Human herpesvirus-8 (HHV-8) infection in combination with immune suppression"
+  ],
+  "risk_factors": [
+    "Weakened immune systems due to HIV/AIDS",
+    "Weakened immune systems due to immunosuppressive medications after organ transplant",
+    "Older age",
+    "Mediterranean heritage",
+    "Eastern European Jewish heritage",
+    "Being a young man in Africa",
+    "Sexual transmission of KSHV (e.g., deep kissing)",
+    "Organ transplantation",
+    "Blood transfusion"
+  ],
+  "symptoms": [
+    "Red, purple, or brown skin lesions (nodules or blotches)",
+    "Lesions on legs and feet (ankles, soles)",
+    "Lesions in the mouth (hard palate, gums)",
+    "Lesions in the stomach or intestines",
+    "Lesions in the lungs",
+    "Painful swelling due to lymph and blood flow blockage",
+    "Abdominal pain",
+    "Diarrhea",
+    "Shortness of breath",
+    "Fever",
+    "Cough",
+    "Coughing up blood",
+    "Chest pain",
+    "Cosmetically disfiguring lesions",
+    "Interruption to organ function",
+    "Skin breakdown with fungating lesions",
+    "Weight loss",
+    "Nausea",
+    "Vomiting",
+    "Malabsorption",
+    "Intestinal obstruction",
+    "Vomiting blood",
+    "Passing blood with bowel movements"
+  ],
+  "diagnosis": [
+    "Physical exam",
+    "Biopsy of skin lesions",
+    "Chest x-ray",
+    "Endoscopy (for stomach and intestines)",
+    "Bronchoscopy (for lungs)",
+    "Blood tests",
+    "Imaging tests (to determine spread)",
+    "Microscopic examination of tissue",
+    "Detection of KSHV protein LANA in tumor cells"
+  ],
+  "treatments": [
+    "HIV medicines (for epidemic KS)",
+    "Adjusting dose or switching immunosuppressive medications (for iatrogenic KS)",
+    "Radiation therapy",
+    "Surgery (for localized skin lesions)",
+    "Injections of chemotherapy into the lesion",
+    "Cryosurgery",
+    "Chemotherapy (systemic therapy for widespread disease)",
+    "Immunotherapy",
+    "Biologic therapy",
+    "Highly active antiretroviral therapy (HAART) (for AIDS-associated KS)",
+    "Interferon alpha",
+    "Liposomal anthracyclines (e.g., liposomal doxorubicin, daunorubicin)",
+    "Thalidomide",
+    "Paclitaxel",
+    "Alitretinoin (topical)",
+    "Topical beta-blockers (e.g., timolol)"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Classic Kaposi sarcoma",
+    "Endemic Kaposi sarcoma",
+    "Iatrogenic (transplant-related) Kaposi sarcoma",
+    "Epidemic (HIV-associated) Kaposi sarcoma",
+    "African lymphadenopathic Kaposi sarcoma",
+    "African cutaneous Kaposi sarcoma",
+    "AIDS-associated Kaposi sarcoma"
+  ]
+}

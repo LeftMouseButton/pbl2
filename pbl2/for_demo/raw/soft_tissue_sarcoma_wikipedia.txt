@@ -1,0 +1,77 @@
+A soft-tissue sarcoma (STS) is a malignant tumor, a type of cancer, that develops in soft tissue. A soft-tissue sarcoma is often a painless mass that grows slowly over months or years. They may be superficial or deep-seated. Any such unexplained mass must be diagnosed by biopsy. Treatment may include surgery, radiotherapy, chemotherapy, and targeted drug therapy. Bone sarcomas are the other class of sarcomas.
+There are many different types, many of which are rarely found. The World Health Organization lists more than fifty subtypes.
+
+
+== Types ==
+
+An earlier version of this article was taken from the US National Cancer Center's Cancer Information Service. The names of several sarcomas have changed over time.
+
+
+== Signs and symptoms ==
+In their early stages, soft-tissue sarcomas usually do not cause symptoms. Because soft tissue is relatively elastic, tumors can grow rather large, pushing aside normal tissue, before they are felt or cause any problems. The first noticeable symptom is usually a painless lump or swelling. As the tumor grows, it may cause other symptoms, such as pain or soreness, as it presses against nearby nerves and muscles. If in the abdomen it can cause abdominal pains commonly mistaken for menstrual cramps, indigestion, or cause constipation.
+
+
+== Risk factors ==
+Most soft-tissue sarcomas are not associated with any known risk factors or identifiable cause. There are some exceptions:
+
+Studies suggest that workers who are exposed to chlorophenols in wood preservatives and phenoxy herbicides may have a somewhat increased risk of developing soft-tissue sarcomas, although other data sets refute this association. A small number of patients with a rare blood vessel tumor, angiosarcoma of the liver, had been exposed to vinyl chloride in their work. This substance is used in the manufacture of certain plastics, notably PVC.
+In the early 1900s, when scientists were just discovering the potential uses of radiation to treat disease, little was known about safe dosage levels and precise methods of delivery. At that time, radiation was used to treat a variety of noncancerous medical problems, including enlargement of the tonsils, adenoids, and thymus gland. Later, researchers found that high doses of radiation caused soft-tissue sarcomas in some patients. Because of this risk, radiation treatment for cancer is now planned to ensure that the maximum dosage of radiation is delivered to diseased tissue while surrounding healthy tissue is protected as much as possible.
+Kaposi sarcoma, a rare cancer of the cells that line blood vessels in the skin and mucous membranes, is caused by human herpesvirus 8. Kaposi sarcoma often occurs in patients with acquired immune deficiency syndrome. Kaposi sarcoma, however, has different characteristics from typical soft-tissue sarcomas and is treated differently.
+In a very small fraction of cases, sarcoma may be related to a rare inherited genetic alteration of the TP53 gene and is known as Li-Fraumeni syndrome. Certain other inherited diseases are associated with an increased risk of developing soft-tissue sarcomas. For example, people with neurofibromatosis type I (also called von Recklinghausen disease, associated with alterations in the NF1 gene) are at an increased risk of developing soft-tissue sarcomas known as malignant peripheral nerve-sheath tumors.  Patients with inherited retinoblastoma have alterations in the RB1 gene, a tumor-suppressor gene, and are likely to develop soft-tissue sarcomas as they mature into adulthood.
+
+
+== Diagnosis ==
+The only reliable way to determine whether a soft-tissue tumor is benign or malignant is through a biopsy. The two methods for acquisition of tumor tissue for cytopathological analysis are:
+
+Needle aspiration biopsy, via needle
+Surgically, via an incision made into the tumor
+A pathologist examines the tissue under a microscope. The pathologist may be the most important person in the treatment of sarcomas, because they are responsible for making the proper diagnosis. Pathologists at expert sarcoma centers are invaluable in identifying the type of sarcoma responsible for a patient's symptoms. If cancer is present, the pathologist can usually determine the type of cancer and its grade. Here, grade refers to a scale used to represent concisely the predicted growth rate of the tumor and its tendency to spread, and this is determined by the degree to which the cancer cells appear abnormal when examined under a microscope. Low-grade sarcomas, although cancerous, are defined as those that are less likely to metastasise. High-grade sarcomas are defined as those more likely to spread to other parts of the body. For soft-tissue sarcoma, the two histological grading systems are the National Cancer Institute system and the French Federation of Cancer Centers Sarcoma Group system.
+Soft-tissue sarcomas commonly originate in the upper body, in the shoulder or upper chest. Some symptoms are uneven posture, pain in the trapezius muscle, and cervical inflexibility [difficulty in turning the head]. The most common site to which soft-tissue sarcoma spreads is the lungs.
+
+
+== Treatment ==
+In general, treatment for soft-tissue sarcomas depends on the stage of the cancer. The stage of the sarcoma is based on the size and grade of the tumor, and whether the cancer has spread to the lymph nodes or other parts of the body (metastasized). Treatment options for soft-tissue sarcomas include surgery, radiotherapy, chemotherapy, and targeted drug therapy.
+
+Surgery is the most common treatment for soft-tissue sarcomas, and usually the only way to achieve a cure. The tumor is removed leaving a safe margin of surrounding healthy tissue to decrease the chances of its recurrence.
+Radiation therapy may be used as a neoadjuvant before surgery to shrink tumors, or as an adjuvant after surgery to kill any cancer cells that may have been left behind. In some cases, it can be used to treat tumor that cannot be surgically removed.
+Chemotherapy  may be used with radiation therapy either before or after surgery to try to shrink the tumor or kill any remaining cancer cells.  There is evidence to suggest that doxorubicin chemotherapy as an adjuvant can reduce recurrence at the original site or elsewhere in the body. Evidence also suggests chemotherapy can increase the length of time patients live, but this is less certain evidence. The use of chemotherapy to prevent the spread of soft-tissue sarcomas has not been proven to be effective. If the cancer has spread to other areas of the body, chemotherapy may be used to shrink tumors and reduce the pain and discomfort they cause, but is unlikely to eradicate the disease. A combination of docetaxel and gemcitabine could be an effective chemotherapy regimen in patients with advanced soft-tissue sarcoma.
+Outcomes are better for patients who are seen (and ideally treated) at expert sarcoma centers. In the United States, these are generally found in NCI-designated cancer centers.[1]
+
+
+== Research ==
+Soft-tissue sarcoma research requires significant effort due to its rarity; successful research requires substantial collaboration. Year by year, the medical field is learning that the various types cannot be lumped together and each sarcoma needs to be considered a different type of cancer.
+As a novel form of treatment used in other cancers, immunotherapy may have a role in treating soft-tissue sarcomas like alveolar soft part sarcoma and pleomorphic undifferentiated sarcoma. However, as of 2023, only alveolar soft part sarcoma has a regulatory approval for such an agent, in this case atezolizumab.
+
+
+=== Example of sarcoma immunology research: the Immunological Constant of Rejection ===
+When the immunological constant of rejection signature (ICR) was retrospectively applied ICR to 1455 non-metastatic STS and searched for correlations between ICR classes and clinicopathological and biological variables; thirty-four per cent of tumors were classified as ICR1, 27% ICR2, 24% ICR3, and 15% ICR4. These classes were associated with patients' age, pathological type, and tumor depth, and an enrichment from ICR1 to ICR4 of quantitative/qualitative scores of immune response. ICR1 class was associated with a 59% increased risk of metastatic relapse when compared with ICR2-4 class. In multivariate analysis, ICR classification remained associated with metastasis-free survival, as well as pathological type and Complexity Index in Sarcomas (CINSARC) classification, suggesting independent prognostic value.
+ICR signature is independently associated with postoperative MFS in early-stage STS, independently from other prognostic features, including CINSARC. A robust prognostic clinicogenomic model integrating ICR, CINSARC, and pathological type, and suggested differential vulnerability of each prognostic group to different systemic therapies.
+
+
+== Epidemiology ==
+Soft-tissue sarcomas are very uncommon cancers. They account for less than 1% of all new cancer cases each year.
+In 2023, about 14,300 new cases were diagnosed in the United States.  Soft-tissue sarcomas are more commonly found in older patients (>50 years old), although in children and adolescents under age 20, certain histologies are common (rhabdomyosarcoma, synovial sarcoma).
+Around 3,300 people were diagnosed with soft-tissue sarcoma in the UK in 2011.
+
+
+== Notable cases ==
+Actor Robert Urich died from synovial sarcoma.
+Folksinger Kate McGarrigle died from clear-cell sarcoma.
+Actress Michelle Thomas died from desmoplastic small-round-cell tumor, a rare abdominal soft-tissue sarcoma.
+It Is Written evangelist Henry Feyerabend died from sarcoma in his leg.
+Video game concept artist Adam Adamowicz died from complications of a rare muscle sarcoma on February 9, 2012, at age 42.
+Professional wrestler Jake Roberts revealed he has muscle cancer.
+Professional wrestler Zack Ryder revealed he had synovial sarcoma as a teenager.
+India's ex-finance minister Arun Jaitley died from sarcoma on August 24, 2019.
+Writer Rachel Caine died from the disease on November 1, 2020.
+YouTuber Technoblade died from the disease in June, 2022.
+
+
+== See also ==
+Soft tissue sarcoma in cats and dogs
+
+
+== References ==
+
+
+== External links ==

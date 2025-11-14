@@ -1,0 +1,78 @@
+{
+  "disease_name": "Oral cancer",
+  "synonyms": [
+    "Oral cavity cancer",
+    "Tongue cancer",
+    "Mouth cancer"
+  ],
+  "summary": "Oral cancer is a type of head and neck cancer that affects the lining of the lips, mouth, or upper throat. It most commonly begins as a painless red or white patch that thickens, ulcerates, and grows. On the lips, it may appear as a persistent, crusting ulcer that does not heal. Oral cancer can spread into deeper tissues as it grows.",
+  "causes": [
+    "Tobacco use",
+    "Heavy alcohol use",
+    "HPV infection",
+    "Betel nut chewing",
+    "Sun exposure (for lip cancer)",
+    "Acetaldehyde",
+    "UV light",
+    "Radiation"
+  ],
+  "risk_factors": [
+    "Tobacco use",
+    "Heavy alcohol use",
+    "Male sex",
+    "Age over 40",
+    "HPV infection",
+    "History of head or neck cancer",
+    "Frequent sun exposure (for lip cancer)",
+    "Betel nut chewing",
+    "Hematopoietic stem cell transplantation (HSCT)"
+  ],
+  "symptoms": [
+    "White or red patch in the mouth",
+    "Lip or mouth sore that won't heal",
+    "Bleeding, pain, or numbness in the lip or mouth",
+    "Loose teeth or dentures that no longer fit well",
+    "Problems or pain with swallowing",
+    "Lump in the neck",
+    "Ear pain",
+    "Trouble moving mouth or jaw",
+    "Swelling of the jaw",
+    "Sore throat or feeling that something is caught in the throat",
+    "Persistent rough patch with ulceration and raised border",
+    "Crusting and dry ulcer on the lip",
+    "Swelling in the mouth",
+    "Numbness in the mouth or lips",
+    "Bleeding gums",
+    "Persistent ear ache",
+    "Numbness in the lip and chin"
+  ],
+  "diagnosis": [
+    "Physical exam of the lips and mouth",
+    "Endoscopy",
+    "Biopsy or other procedure to collect cells for microscopic examination",
+    "Imaging tests (CT scan, MRI, PET scan)",
+    "Staging (imaging workup)",
+    "Panendoscopy (quadoscopy)",
+    "Fine needle aspiration",
+    "Biopsy of lymph nodes",
+    "Sentinel node biopsy",
+    "Salivary biomarkers (investigational)"
+  ],
+  "treatments": [
+    "Surgery",
+    "Radiation therapy",
+    "Chemotherapy",
+    "Targeted therapy",
+    "Monoclonal antibody therapy (e.g., cetuximab)",
+    "Immunotherapy",
+    "Rehabilitation (speech and language therapy)"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Squamous cell carcinoma",
+    "Oral cavity cancer",
+    "Tongue cancer",
+    "Lip cancer",
+    "Oropharyngeal cancer"
+  ]
+}

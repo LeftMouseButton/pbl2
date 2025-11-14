@@ -1,0 +1,102 @@
+Merkel cell carcinoma (MCC) is a rare and aggressive skin cancer occurring in about three people per million members of the population. It is also known as cutaneous APUDoma, primary neuroendocrine carcinoma of the skin, primary small cell carcinoma of the skin, and trabecular carcinoma of the skin. Factors involved in the development of MCC include the Merkel cell polyomavirus (MCPyV or MCV), a weakened immune system, and exposure to ultraviolet radiation. Merkel cell carcinoma usually arises on the head, neck, and extremities, as well as in the perianal region and on the eyelid. It is more common in people over sixty years old, Caucasian people, and males. MCC is less common in children.
+
+== Signs and symptoms ==
+
+Merkel cell carcinoma (MCC) usually presents as a firm nodule (up to 2 cm diameter) or mass (>2 cm diameter). These flesh-colored, red, or blue tumors typically vary in size from 0.5 cm (less than one-quarter of an inch) to more than 5 cm (2 inches) in diameter and may enlarge rapidly. Tumors can present as painless, tender or itchy, and other MCC manifestations as papules or plaques have also been reported. Although MCC may arise almost anywhere on the body, it is most commonly found in sun-exposed areas such as the head, neck, or extremities. Five key attributes of MCC were summarized in 2008 in the acronym AEIOU (Asymptomatic/lack of tenderness, Expanding rapidly, Immune suppression, Older than 50 years, and Ultraviolet-exposed site on a person with fair skin). Ninety percent of MCC's have three or more of those features.
+MCC is sometimes mistaken for other histological types of cancer, including basal cell carcinoma, squamous cell carcinoma, malignant melanoma, lymphoma, and small cell carcinoma, or as a benign cyst. Merkel cell carcinomas have been described in children, but pediatric cases are very rare.
+Merkel cell cancers tend to invade locally, infiltrating the underlying subcutaneous fat, fascia, and muscle, and typically metastasize early in their natural history, most often to the regional lymph nodes. MCCs also spread aggressively through the blood vessels to many organs, particularly to the liver, lung, brain, and bone.
+
+== Pathophysiology ==
+
+=== Cell of origin ===
+Although MCC was initially named for the Merkel cell due to histologic and physiologic similarities between MCC and Merkel cells, the cellular progenitor of MCC has been a heavily debated question. Merkel cells are highly specialized cells that act as pressure receptors in the epidermis. The origin of Merkel cells themselves is debated and proposed to be derived from neural crest cells or epidermal progenitors. MCC is similar to Merkel cells in its histological appearance (see below: Diagnosis) and shares many immunohistochemical markers with Merkel cells, including epidermal marker cytokeratin 20 and neuroendocrine markers synaptophysin and chromogranin A. Furthermore, the ion channel Piezo2 and transcription factor Atoh1, both specific to Merkel cells, are also expressed by MCC. However, Merkel cells are post-mitotic cells with a low probability of cancerous transformation. Additionally, they have not been shown to support Merkel cell polyoma virus infection, which is believed to drive oncogenesis in approximately 80% of MCC.
+Instead, it has been proposed the MCC may originate from a Merkel cell precursor, at which point it gains features similar to those of Merkel cells. One such precursor is the human fibroblast. Evidence for a fibroblast precursor includes its location in the dermis, which is thought to be the primary site of origin for MCC. Additionally, in vitro experiments have demonstrated that fibroblasts not only support Merkel cell polyomavirus (MCV) infection but can be induced into having a MCC phenotype by the expression of viral proteins.
+However, others have argued that MCC likely derives from an epithelial precursor cell due to its frequent presence in mixed tumors including epithelial neoplasms such as squamous cell carcinoma. While epithelial cells are not typically found in the dermis, hair follicles include epithelial cells that have been shown to have oncogenic potential, and have therefore been proposed as a possible site for a MCC precursor.
+Finally, the presence of B-cell surface markers on MCC in addition to the high correlation between MCC and B-cell lymphomatous cancers have also led to suggestions that MCC may share a progenitor with B-cells. Because of the differences in physiology and prognosis between MCV+ and MCV- MCC (see below), however, some have suggested that these two subtypes of MCC may derive from different progenitor cells.
+Several factors are involved in the pathophysiology of MCC, including MCV, ultraviolet radiation (UV) exposure, and weakened immune function.
+
+=== Merkel cell polyomavirus ===
+The MCV is a small double-stranded DNA virus that is believed to contribute to the development of the majority of MCC. About 80% of MCC tumors are infected with MCV, with the virus integrated into the host genome in a monoclonal pattern. However, the majority of people with MCV infection do not develop MCC: MCV is a ubiquitous virus and infection commonly occurs during childhood but remains asymptomatic throughout an individual's lifetime.
+MCC was first believed to be associated with MCV when it was observed to occur at a much higher rate in HIV patients during the 1980s. Since then, studies have demonstrated integration of the MCV genome into the genome of MCC tumor cells. Central to the understanding of the pathogenicity of MCV are two viral proteins expressed in infected cells known as the large tumor antigen (LT) and small tumor antigen (sT). Normally, patients infected with MCV show low levels of antibodies to the LT protein, perhaps due to a nuclear localization domain in its C-terminal that limits its cellular dispersion. However, integration of the viral genome into the host genome can result in truncation of the LT protein proximal to this domain. This serves two oncogenic purposes: first, it prevents successful viral replication that would culminate in the lysis of the infected cell. Second, it redistributes the LT protein to the cytoplasm, where it can interact with cytoplasmic signaling. The N-terminal LXCXE motif of the LT protein has been shown to interact with known oncogene Rb and is conserved in other cancer-causing viruses. Studies suggest that LT may also preserve cell proliferation signals such as c-Myc and cyclin E and cause DNA injury to the p53 tumor suppressor.
+Meanwhile, sT has been shown to induce cell proliferation through hyper-phosphorylation of the translation initiator 4EBP1 as well as the inhibition of a ubiquitin ligase complex responsible for the degradation of cellular proliferation signals. sT also contains a region known as the LT stabilization domain (LSD), which potentiates the LT protein's oncogenic function. Unlike LT, MCC samples have been identified that express sT alone, and sT expression in fibroblasts has been shown to cause MCC phenotype development.
+
+=== UV light ===
+About 20% of MCC tumors are MCV negative. In contrast to MCV-induced MCC, these tumors tend to have much higher mutational burdens with mutational signatures characteristic of UV damage. Genes frequently mutated in MCV-negative MCC include p53 and Rb, among others. The link between MCC and UV exposure has been demonstrated through various epidemiological studies indicating a higher incidence of MCC in fair-skinned people in areas of high UV exposure, as well as among those receiving UV phototherapy. The typical distribution of MCC in sun-exposed regions and its co-occurrence with other skin cancers also indicate that UV exposure is a contributing factor to MCC development. It is unclear whether this is through direct mutational impact, immune down-regulation, or some combination of the two.
+
+=== Immunosuppression ===
+The incidence of MCC is increased in conditions with defective immune functions such as malignancy, HIV infection, and organ transplant patients, etc. Conversely, patients with brisk immune response have been shown to have improved prognoses. This is suspected to be due to the inability of the body to defend itself from infection by or reactivation of MVC. The body of data indicating the importance of immune function in MCC pathogenesis has been exploited for the development of immunotherapies discussed below.
+
+== Diagnosis ==
+
+Diagnosis of MCC begins with a clinical examination of the skin and lymph nodes to determine suspicious areas for further investigation. Definitive diagnosis requires examination of biopsy tissue to identify its histopathologic features. An ideal biopsy specimen is either a punch biopsy or a full-thickness incisional biopsy of the skin including full-thickness dermis and subcutaneous fat. On light microscopy, MCC shows basaloid tumor nests with neuroendocrine features ("salt and pepper" chromatin, scarce cytoplasm, and brisk mitotic activity). In addition to standard examination under light microscopy, immunohistochemistry (IHC) is also generally required to differentiate MCC from other morphologically similar tumors such as skin metastases of small cell lung cancer, the small cell variant of melanoma, various cutaneous leukemic/lymphoid neoplasms, and Ewing's sarcoma. Neuroendocrine molecular markers such as synaptophysin or chromogranin A are characteristic of MCC and other neuroendocrine tumors, while other markers such as PAX5 or cytokeratin 20 can distinguish MCC from these tumors. Longitudinal imaging may also help in ruling out a diagnosis of metastatic small cell lung cancer. Once an MCC diagnosis is made, a sentinel lymph node biopsy as well as imaging are recommended as a part of the staging process, which determines prognosis and subsequent treatment options. Imaging may include positron emission tomography or CT scan.
+
+== Prevention ==
+Sunlight exposure is thought to be one of the causes of Merkel cell carcinoma (MCC). The World Health Organization, American Academy of Dermatology, and Skin Cancer Foundation recommend the following measures to prevent excessive UV exposure and skin cancer:
+
+Limiting sun exposure between the hours of 10 am and 4 pm, when UV rays are the strongest
+Seeking shade when UV rays are most intense
+Wearing sun-protective clothing including a wide-brim hat, sunglasses, and tightly woven, loose-fitting clothing
+Using sunscreen
+Avoiding tanning beds and artificial UV exposure
+
+== Treatment ==
+
+Merkel cell carcinoma is typically treated with surgery and radiation; immunotherapy is used in advanced disease. If an affected person is being treated with immunosuppressive drugs, they are reduced as much as possible.
+
+=== Surgery ===
+Surgical resection is typically performed before other treatments, if possible. The type of surgery used may be a simple wide excision or a more specialized technique like Mohs surgery, depending on the individual. Part of the staging process – sentinel lymph node biopsy – is often performed at the same time.
+
+=== Radiation ===
+Radiation therapy is the primary management of Merkel cell carcinoma (MCC). The largest studies to date, from Australia, demonstrated that radiotherapy alone achieves equal outcomes with upfront or neoadjuvant surgery followed by radiation therapy. The role of surgery is largely historical and relegated to biopsy. There have been no head-to-head trials comparing the two treatment strategies, and in the absence of this, surgeons tend to most commonly perform excisional biopsy prior to referring for radiation therapy to eradicate MCC. MCC is exquisitely radiosensitive. The conclusion amongst published studies in the Radiation Oncology community is that MCC should be managed ideally with radiation therapy alone.
+
+=== Chemotherapy ===
+Because of its significant adverse effects, traditional chemotherapy has been saved for late-stage highly metastasized cases of MCC. While some chemotherapeutic regimens have been shown to have transient effects, studies have not found any significant long-term effect on recurrence rate or life expectancy. As of 2015, there were no FDA-approved standard chemotherapy regimens for MCC treatment. The most recent American guidelines do not recommend adjuvant chemotherapy, citing a lack of evidence to suggest improved outcomes. Instead, consideration of the need for chemotherapy on a case-by-case basis is recommended.
+
+=== Drug therapy ===
+Immunotherapies, namely inhibitors of the PD1-PDL1 checkpoint signaling pathway, are novel anticancer agents that have shown benefit in advanced-stage MCC or chemotherapy-resistant MCC. The PD-1 pathway is responsible for regulating the balance between T-cell activation and over-activation leading to T-cell exhaustion or autoimmunity. However, over-expression of PD-1 ligands (PDL1) have been observed in tumors as a method of evading immune attack. PD-1 inhibition therefore enhances the body's immune response, enabling it to target cancer cells for destruction. Due to their side effects, however, National Comprehensive Cancer Network guidelines recommend PD-1 inhibitors for people with disseminated rather than early-stage MCC.
+PD1/PDL1 pathway inhibitors approved or in clinical trials for use in MCC treatment include:
+
+In March 2017, the U.S. Food and Drug Administration granted accelerated approval to avelumab, a PDL1 inhibitor, to treat adults and children above 12 years with metastatic MCC.
+In December 2018, the U.S. Food and Drug Administration granted accelerated approval to pembrolizumab (KEYTRUDA, Merck & Co. Inc.) for all ages (adults and pediatrics) with recurrent locally advanced or metastatic Merkel cell carcinoma
+Nivolumab (brand name Opdivo, Bristol-Myers Squibb) is in phase III/IV clinical trials
+Ipilimumab (brand name Yervoy, Bristol-Myers Squibb) is in phase II clinical trials for use in adults with metastatic MCC.
+Studies to date have shown a clinical response rate between 50 and 65% for MCC treated with PD-1 pathway inhibitors. Suggestions for further immunotherapy research areas have included therapeutic vaccines or epigenetic modification of HLA-receptors.
+
+== Prognosis ==
+According to the American Joint Committee on Cancer (AJCC), the natural course of MCC is "variable and heavily dependent on the stage at diagnosis". Staging of MCC is classified according to the TNM staging system, a notation system that describes the stage of cancer according to the size of the primary tumor (T), the degree of spread to regional lymph nodes (N), and the presence of distant metastasis (M). A combination of T, N, and M stages dictate the final clinical stage group (0, I, IIA, IIB, IIIA, IIIB, IV). Advanced stage (i.e. increased size of the tumor, spreading of the tumor into surrounding and/or distant tissue, and involvement of lymph nodes) is associated with lower survival rates.
+The National Cancer Data Base has survival rates collected from nearly 3000 MCC patients from year 1996–2000 with 5-year survival rates listed as follows:
+Stage IA: 80%. Stage IB: 60%.
+Stage IIA: 60%. Stage IIB: 50%. Stage IIC: 50%.
+Stage IIIA: 45%. Stage IIIB: 25%.
+Stage IV: 20%.
+Five-year survival may be 51% among people with localized disease, 35% for those with nodal disease, and 14% with metastases to a distant site.
+Several other features may also affect prognosis, independent of tumor stage. They include MCV viral status, histological features, and immune status. In viral status, MCV large tumor antigen (LT antigen) and retinoblastoma protein (RB protein) expression correlates with a more favorable prognosis, while p63 expression correlates with a poorer prognosis. Histological features such as intratumoral CD8+ T lymphocyte infiltration may be associated with a favorable prognosis, while lymphovascular infiltrative pattern may be associated with a poorer prognosis. Immunosuppressed status, especially T cell immunosuppression (e.g., organ transplant, HIV infection, certain malignancy) predicts poorer prognosis and higher mortality. Immunosuppression also raises the risk of recurrence.
+The antibody titer in the blood to the Merkel cell polyomavirus oncoprotein can be used as a treatment response biomarker in people who have detectable antibodies at the time of diagnosis.
+
+== Epidemiology ==
+Merkel cell carcinoma occurs most often in white men between 60 and 80 years of age. Its incidence is about twice as high in males as in females. It is a rare type of skin cancer, with a 2013 incidence of only 0.7 per 100,000 persons in the U.S. As of 2005, roughly 2,500 new cases of MCC are diagnosed each year in the United States, as compared to around 60,000 new cases of malignant melanoma and over 1 million new cases of nonmelanoma skin cancer. Similar to melanoma, the incidence of MCC in the US is increasing rapidly. Worldwide, MCC is most commonly found in regions with increased sun exposure. Australia is the country with the highest incidence of MCC but has a lower incidence of MCV-positive MCC than observed in other countries.
+Since 2006, it has been known that other primary cancers increase the risk of MCC significantly, especially in those with prior multiple myeloma, chronic lymphocytic leukemia, and malignant melanoma. Immunosuppression including HIV infection or immunosuppressant therapy following organ transplant or for autoimmune disease can also increase the odds of developing MCC.
+
+== History ==
+Friedrich Sigmund Merkel (1845–1919) was a German anatomist and histopathologist who first described the Tastzellen (touch cells) in the skin in 1875. In 1878 the term Merkel cell was coined by the anatomist Robert Bonnet (1851–1921).
+Merkel cell carcinoma was first described in 1972 by Cyril Toker. He reported five cases of 'trabecular carcinoma of the skin'.
+
+== Notable patients ==
+David Brudnoy – Boston talk radio host
+Maria Bueno – Tennis player
+Jimmy Buffett – American singer, songwriter, and author
+Al Copeland – New Orleans entrepreneur, powerboat racer
+Al Davis – Principal owner of the Oakland Raiders of the National Football League
+Ed Derwinski – U.S. Representative from Illinois and first Secretary of Veterans Affairs
+John Fitch – Race car driver and road safety pioneer
+Leonard Hirshan – Show business agent and manager
+Carl Mundy – 30th Commandant of the United States Marine Corps
+Geoffrey Penwill Parsons – Pianist
+Max Perutz – Nobel Prize-winning chemist
+Joe Zawinul – Jazz-fusion keyboardist and composer
+
+== References ==
+
+== External links ==
+ Media related to Merkel cell carcinoma at Wikimedia Commons
+National Cancer Institute "Merkel Cell Carcinoma Treatment"

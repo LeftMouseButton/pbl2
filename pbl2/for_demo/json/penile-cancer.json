@@ -1,0 +1,63 @@
+{
+  "disease_name": "Penile cancer",
+  "synonyms": [
+    "Penile carcinoma"
+  ],
+  "summary": "Penile cancer is a rare cancer that develops in the skin or tissues of the penis. It is highly curable when caught early. Symptoms can include abnormal growth, an ulcer or sore, and bleeding or foul-smelling discharge. It can spread to other parts of the body.",
+  "causes": [
+    "Human papillomavirus (HPV) infection",
+    "HPV-related precursor lesions (squamous hyperplasia, low-grade penile intraepithelial neoplasia, high-grade PIN)",
+    "Lichen sclerosus (in HPV-negative cancers)",
+    "Flat penile lesions (FPL)",
+    "Condylomata acuminata"
+  ],
+  "risk_factors": [
+    "Phimosis",
+    "Chronic inflammation of the penis",
+    "Smoking",
+    "Having multiple sexual partners",
+    "Early age of sexual intercourse",
+    "HIV infection",
+    "Genital warts",
+    "Poor hygiene",
+    "Smegma accumulation",
+    "Balanitis",
+    "Penile injury (small tears and abrasions)",
+    "Paraphimosis",
+    "Lichen sclerosus",
+    "Tobacco use (chewing or smoking)",
+    "UV light treatment for psoriasis"
+  ],
+  "symptoms": [
+    "Redness and irritation on the penis",
+    "Skin thickening on the glans or inner foreskin",
+    "Ulcerative growth",
+    "Outward growing (exophytic) growth",
+    "Finger-like (papillary) growth",
+    "Penile discharge",
+    "Difficulty urinating",
+    "Burning or tingling while urinating (dysuria)",
+    "Bleeding from the penis"
+  ],
+  "diagnosis": [
+    "p16INK4A immunostaining (for HPV-related penile cancer)",
+    "Biopsy",
+    "Staging (TNM staging guidelines)"
+  ],
+  "treatments": [
+    "Surgery (wide local excision, microsurgery, laser surgery, circumcision, amputation/penectomy)",
+    "Radiation therapy",
+    "Chemotherapy",
+    "Biological therapy"
+  ],
+  "related_genes": [],
+  "subtypes": [
+    "Squamous-cell carcinoma (basaloid, warty, mixed warty-basaloid, verrucous, papillary, other SCC mixed, sarcomatoid carcinomas)",
+    "Merkel-cell carcinoma",
+    "Small-cell carcinoma",
+    "Melanoma",
+    "Clear-cell tumors",
+    "Sebaceous-cell tumors",
+    "Basal-cell tumors"
+  ]
+}

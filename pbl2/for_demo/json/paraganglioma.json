@@ -1,0 +1,82 @@
+{
+  "disease_name": "Paraganglioma",
+  "synonyms": [
+    "Pheochromocytoma (when in adrenal gland)",
+    "Neuroendocrine neoplasm"
+  ],
+  "summary": "A rare neuroendocrine neoplasm that can develop at various body sites. When found in the adrenal gland, they are referred to as pheochromocytomas. They are rare tumors, with an overall estimated incidence of 1 in 300,000. About 75% of paragangliomas are sporadic, the remaining 25% are hereditary.",
+  "causes": [
+    "Mutations of the genes for the succinate dehydrogenase (SDHD, SDHA, SDHC, SDHB)",
+    "Mutations of SDHAF2",
+    "Mutations of VHL",
+    "Mutations of NF1",
+    "Mutations of TMEM127",
+    "Mutations of MAX",
+    "Mutations of SLC25A11",
+    "MEN type 2A and 2B"
+  ],
+  "risk_factors": [
+    "Hereditary conditions (25% of cases)",
+    "Family history of paraganglioma"
+  ],
+  "symptoms": [
+    "Asymptomatic (most common)",
+    "Painless mass",
+    "Hypertension",
+    "Tachycardia",
+    "Headache",
+    "Palpitations",
+    "Secretion of catecholamines (in 1-3% of cases)",
+    "Tinnitus (in glomus tympanicum and jugulare)",
+    "Hearing loss (in glomus tympanicum and jugulare)",
+    "Cranial nerve palsies (e.g., vagus nerve, hypoglossal nerve, spinal accessory nerve)",
+    "Swallowing difficulty",
+    "Dysphagia",
+    "Hoarseness",
+    "Coughing"
+  ],
+  "diagnosis": [
+    "Tests of blood, urine, or saliva for hormone levels",
+    "X-rays",
+    "CT scans",
+    "MRI scans",
+    "Gallium-68 DOTATATE PET/CT imaging",
+    "Biopsy (for microscopic inspection)",
+    "Immunohistochemistry",
+    "Histochemistry"
+  ],
+  "treatments": [
+    "Surgery",
+    "Embolization",
+    "Radiotherapy",
+    "Long-term follow-up"
+  ],
+  "related_genes": [
+    "SDHD",
+    "SDHA",
+    "SDHC",
+    "SDHB",
+    "SDHAF2",
+    "VHL",
+    "NF1",
+    "TMEM127",
+    "MAX",
+    "SLC25A11"
+  ],
+  "subtypes": [
+    "Pheochromocytoma",
+    "Head and neck paraganglioma (HNPGL)",
+    "Carotid paraganglioma (carotid body tumor)",
+    "Glomus tympanicum",
+    "Glomus jugulare (jugulotympanic paraganglioma)",
+    "Organ of Zuckerkandl paraganglioma",
+    "Vagal paraganglioma",
+    "Pulmonary paraganglioma",
+    "Laryngeal paraganglioma",
+    "Nasal cavity paraganglioma",
+    "Paranasal sinus paraganglioma",
+    "Thyroid gland paraganglioma",
+    "Thoracic inlet paraganglioma",
+    "Bladder paraganglioma"
+  ]
+}
