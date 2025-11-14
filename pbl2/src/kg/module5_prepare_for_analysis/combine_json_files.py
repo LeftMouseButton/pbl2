@@ -190,20 +190,45 @@ def normalize_entity_lists(data, ontology_dicts, stats, mapping_dict, filename, 
                 new_values.append(item)
                 continue
 
+            original_item = item
+
+            # ---------------------------------------------------------------
+            # Strip typical gene mutation suffixes before normalization
+            # e.g., "msh3 gene mutation" -> "msh3"
+            #       "pten gene"          -> "pten"
+            #       "msh6 mutation"      -> "msh6"
+            # ---------------------------------------------------------------
+            if key == "related_genes" and isinstance(item, str):
+                cleaned = item.lower()
+                for suf in [
+                    " gene mutation",
+                    " mutation",
+                    " gene",
+                    " variant",
+                ]:
+                    if cleaned.endswith(suf):
+                        cleaned = cleaned[: -len(suf)]
+                item = cleaned.strip()
+
+            # Perform ontology match using the cleaned term
             result = normalize_term(item, field_dict)
+            result["original"] = original_item  # keep full original text in mapping
+
             key_mappings.append(result)
             stats["total"] += 1
             stats["scores"].append(result["score"])
 
             if result["matched"]:
                 stats["matched"] += 1
-                value = result["normalized"]
+                value = result["normalized"]    # ontology canonical label
             else:
                 stats["unmatched"] += 1
-                stats["unmatched_terms"].add(item)
-                value = item
+                stats["unmatched_terms"].add(original_item)
+                value = original_item           # fall back to original string
 
+            # keep lowercase behavior consistent with rest of pipeline
             new_values.append(value.lower() if lowercase else value)
+
 
         data[key] = new_values
         mapping_dict[filename][key] = key_mappings
