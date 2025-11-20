@@ -48,7 +48,7 @@ OR
 3) python -m src.kg.module3_extraction_entity_relationship.extraction_entity_relationship --all
 4) python -m src.kg.module4_validate_json.validate_json data/json/
 5) python -m src.kg.module5_prepare_for_analysis.combine_json_files
-6) python -m src.kg.module6_analysis.analyse   --input data/combined/all_diseases_matched.json   --outdir data/analysis   --validation   --enhanced-viz   --memory-monitor
+6) python -m src.kg.module6_analysis.analyse   --input data/combined/all_diseases_matched.json   --outdir data/analysis   --validation   --enhanced-viz   --memory-monitor --seed "lung cancer" --seed "liver cancer"
 
 ```
 ## Modules/Steps:
