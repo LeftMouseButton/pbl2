@@ -69,7 +69,7 @@ Two authoritative biomedical repositories were used:
 
 \subsection{Data Source Description}
 The KG pipeline ingests semi-structured textual data;
-Wikipedia entries provide user-moderated summaries, causes, and subtypes, while MedlinePlus provides clinically verified symptoms, diagnoses, and treatments. 
+Wikipedia entries provide user-moderated summaries, causes, and subtypes, while MedlinePlus provides clinically verified symptoms, diagnoses, and treatments. MedlinePlus results are ranked via a transparent heuristic that weights URL tokens, titles, alternate titles, summary mentions, and the API-provided rank.
 
 \subsection{Data Acquisition}
 A custom Python crawler automates acquisition of raw data. Each record is saved with provenance metadata.
@@ -78,8 +78,7 @@ MedlinePlus search results are ranked using heuristics to weight title, \texttt{
 
 
 \subsection{Cleaning and Preprocessing}
-HTML tags and boilerplate sections (e.g., “Start Here”) are removed, and text is normalized for large-language-model (LLM) processing. 
-This ensures compatibility with token constraints while maintaining biomedical accuracy.
+HTML tags and boilerplate sections are removed, text is normalized (mojibake fixes, whitespace smoothing), and two strict trimming rules are applied: (1) drop all content up to and including the first line matching ``- Patient Handouts'', and (2) drop all content from the first heading matching ``## Start Here'' to the end. Slugified filenames preserve disease/source provenance. This ensures compatibility with token constraints while maintaining biomedical accuracy.
 
 \subsection{Entity and Relationship Extraction}
 Using Google AI Studio API (gemini-2.5-flash-lite), structured entities and relations are extracted following this schema:
@@ -102,15 +101,17 @@ Using Google AI Studio API (gemini-2.5-flash-lite), structured entities and rela
 Validated JSON outputs are merged into a unified dataset.
 
 \subsection{Graph Construction}
-The graph is built using \textbf{NetworkX}, where each entity type corresponds to a node label and each relation forms a typed edge (e.g., \texttt{has\_symptom}, \texttt{associated\_gene}, \texttt{treated\_by}). 
+The graph is built using \textbf{NetworkX}, where each entity type corresponds to a node label and each relation forms a typed edge (e.g., \texttt{has\_symptom}, \texttt{associated\_gene}, \texttt{treated\_with}, \texttt{has\_diagnosis}). 
 Interactive visualization is provided using \textbf{PyVis}.
 
 \subsection{Tools and Frameworks}
-Python 3.12, NetworkX, PyVis, Pandas, and Leiden/Louvain community-detection algorithms were employed.
-Adamic–Adar, Jaccard, and Preferential Attachment were used for link prediction, while ChatGPT-5 supported interpretive analysis.
+Python 3.12, NetworkX, and PyVis were employed. Louvain community detection is used when available, otherwise greedy modularity with an optional consensus that combines Louvain, greedy modularity, and label propagation results. Adamic–Adar, Jaccard, and Preferential Attachment were used for link prediction, while ChatGPT-5 supported interpretive analysis.
+
+\subsection{Normalization and Matching}
+Validated per-disease JSON files are normalized against local ontologies (disease and gene if available) using fuzzy matching (token-sort ratio cutoff) to reduce naming variation. For all runs, the ontology set comprises NCIT\_ThesaurusInferred.owl (National Cancer Institute Thesaurus: clinical and research terminology with rich definitions/synonyms), doid.obo (Human Disease Ontology: etiology-based disease classification), and hgnc.owl (HGNC gene nomenclature with approved gene symbols/names and cross-references). Outputs include an ontology mapping log, normalization statistics, unmatched term lists, and a matched-only dataset used for analysis; if no gene ontology is detected, gene normalization is skipped to prevent cross-category errors related to acronyms.
 
 \subsection{Data Definition}
-The cancer knowledge graph represents entities across multiple biomedical layers, including \textit{diseases, genes, treatments, symptoms, risk factors, biomarkers, and biological pathways}. Each entity type corresponds to a node label, while their interactions (e.g., \textit{associated\_gene}, \textit{treated\_by}, \textit{has\_symptom}) form typed edges. This schema allows both molecular and clinical aspects of oncological data to coexist within a unified graph, enabling cross-domain reasoning and multi-scale analysis.
+The cancer knowledge graph represents entities across multiple biomedical layers, including \textit{diseases, genes, treatments, symptoms, risk factors, diagnoses, and subtypes}. Each entity type corresponds to a node label, while their interactions (e.g., \textit{associated\_gene}, \textit{treated\_with}, \textit{has\_symptom}, \textit{has\_diagnosis}) form typed edges.
 
 
 \begin{figure}[H]
@@ -125,7 +126,7 @@ The cancer knowledge graph represents entities across multiple biomedical layers
 \section{Graph Analysis and Experiments}
 
 \subsection{Data Justification}
-The chosen entity and relationship schema follows design principles from established biomedical knowledge graphs such as \textit{Hetionet}~\cite{hetionet2017} and \textit{DisGeNET}~\cite{disgenet2020}, where disease--gene--drug triplets form the foundation for mechanistic and therapeutic inference. Integrating additional layers---such as \textit{symptoms, biomarkers,} and \textit{risk factors}---follows recommendations from Kaur \textit{et al.}~\cite{kaur2021}, emphasizing multi-level data integration to improve explainability in oncology AI systems. This structure ensures semantic alignment with biomedical ontologies like the National Cancer Institute Thesaurus (NCIt) and compliance with FAIR data principles, supporting interoperability and reusability for future biomedical graph research.
+The chosen entity and relationship schema follows design principles from established biomedical knowledge graphs such as \textit{Hetionet}~\cite{hetionet2017} and \textit{DisGeNET}~\cite{disgenet2020}, where disease--gene--drug triplets form the foundation for mechanistic and therapeutic inference. Integrating additional layers---such as \textit{symptoms} and \textit{risk factors}---follows recommendations from Kaur \textit{et al.}~\cite{kaur2021}, emphasizing multi-level data integration to improve explainability in oncology AI systems. This structure ensures semantic alignment with biomedical ontologies like the National Cancer Institute Thesaurus (NCIt) and compliance with FAIR data principles, supporting interoperability and reusability for future biomedical graph research.
 
 
 \subsection{Connectivity}
@@ -135,7 +136,7 @@ Diseases act as bridges between molecular (genes) and clinical (symptoms/treatme
 
 
 \subsection{Community Detection}
-Using Leiden and Louvain algorithms, twelve communities were identified, each corresponding to major biomedical themes (TABLE I).
+Using Louvain (or greedy modularity when Louvain is unavailable) with an optional consensus across Louvain/greedy/label-propagation, twelve communities were identified, each corresponding to major biomedical themes (TABLE I).
 
 \begin{table*}[t]
 \caption{Cancer Clusters: Major Themes and Key Entities}
