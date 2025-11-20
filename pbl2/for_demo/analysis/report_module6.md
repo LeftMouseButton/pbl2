@@ -144,7 +144,28 @@
 - Neighbor-majority accuracy: **8.45%** on 142 hidden nodes.
 
 ## Traversal & Shortest Paths
-_No valid seed pairs or no paths found._
+### BFS (depth ≤ 3) from seeds
+```text
+Seed: lung cancer
+  lung cancer → surgery → chemotherapy → radiation therapy → immunotherapy → laser therapy → targeted therapy → photodynamic therapy → cryosurgery → cisplatin → carboplatin → etoposide → irinotecan → topotecan → lurbinectedin → paclitaxel → docetaxel → vinorelbine → gemcitabine → osimertinib
+
+Seed: liver cancer
+  liver cancer → liver transplantation → radiation therapy → chemotherapy → immunotherapy → transarterial chemoembolization → transarterial radioembolization → photodynamic therapy → chimeric antigen receptor t-cell therapy → chest computed tomography → magnetic resonance imaging → liver biopsy → endoscopic retrograde cholangiopancreatography → magnetic resonance cholangiopancreatography → cirrhosis → nonalcoholic fatty liver disease → nonalcoholic steatohepatitis → fascioliasis → hereditary hemochromatosis → primary biliary cirrhosis
+```
+
+### DFS (preorder) from seeds
+```text
+Seed: lung cancer
+  lung cancer → surgery → adrenal gland cancer → chemotherapy → anal cancer → radiation therapy → acoustic neuroma → nf2 → malignant mesothelioma → targeted therapy → anaplastic thyroid cancer → adjuvant radiotherapy → adenoid cystic carcinoma → palliative radiation therapy → adrenocortical carcinoma → genetic counseling → tp53 → bladder cancer → transurethral resection of bladder tumor → radical cystectomy
+
+Seed: liver cancer
+  liver cancer → liver transplantation → cholangiocarcinoma → radiation therapy → acoustic neuroma → nf2 → malignant mesothelioma → targeted therapy → anaplastic thyroid cancer → chemotherapy → adrenal gland cancer → surgery → anal cancer → cisplatin → astroblastoma → craniotomy → etoposide → lung cancer → immunotherapy → chronic lymphocytic leukemia
+```
+
+### Shortest paths among seeds
+```text
+lung cancer → radiation therapy → liver cancer
+```
 
 ## Biological Interpretation (High-Level)
 - The graph is highly connected, suggesting that the underlying disease–gene–treatment landscape is strongly interlinked. Many entities participate in shared pathways or therapeutic contexts.

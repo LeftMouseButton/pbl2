@@ -37,7 +37,7 @@ Module 3 -- Major issues
 
 ## Usage
 
-Edit disease_names.txt as desired, then:
+The `for_demo/` folder contains a single full run of the pipeline that supports the paper’s claims; analysis there uses `for_demo/combined/all_diseases_matched.json` to restrict to ontology-matched entries (see `for_demo/combined/normalization_stats.json` for match rates). To regenerate on new data, edit `disease_names.txt` as desired, then:
 ```
 1) python main.py
 
@@ -200,4 +200,3 @@ Input:
 Output:
     Token count printed to the command line.
 ```
-
