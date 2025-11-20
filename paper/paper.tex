@@ -30,9 +30,9 @@ Ritsumeikan University, Japan}
 \begin{abstract}
 This study presents the design and analysis of a comprehensive \textbf{knowledge graph (KG)} integrating information regarding cancer diseases, symptoms, treatments, and genes. 
 Data were collected automatically from \textbf{Wikipedia} and \textbf{MedlinePlus} via API-based crawling and processed through a structured \textbf{LLM-driven entity-relationship extraction pipeline}. 
-The resulting graph contains over \textbf{1,300 nodes} and \textbf{1,600 relationships}, representing a unified view of oncological knowledge. 
-Analyses including connectivity, community detection, centrality, link prediction, and graph traversal reveal highly connected biological patterns: \textit{TP53}, \textit{BRCA1/2}, and \textit{chemotherapy} emerge as central hubs. 
-The graph’s modular structure mirrors established cancer taxonomies, confirming the viability of automated biomedical KGs for exploratory research and hypothesis generation.
+The resulting graph contains \textbf{1,421 nodes} and \textbf{2,383 relationships} (matched-only subset), representing a unified view of oncological knowledge. 
+Analyses including connectivity, community detection, and centrality reveal highly connected patterns: \textit{radiation therapy}, \textit{chemotherapy}, \textit{lung cancer}, \textit{colorectal cancer}, \textit{ovarian cancer}, and \textit{TP53} emerge as major hubs. 
+The graph’s community structure (23 clusters in the analyzed run) mirrors key cancer groupings, confirming the viability of automated biomedical KGs for exploratory research and hypothesis generation.
 \end{abstract}
 
 \begin{IEEEkeywords}
@@ -108,7 +108,7 @@ Interactive visualization is provided using \textbf{PyVis}.
 Python 3.12, NetworkX, and PyVis were employed. Louvain community detection is used when available, otherwise greedy modularity with an optional consensus that combines Louvain, greedy modularity, and label propagation results. Adamic–Adar, Jaccard, and Preferential Attachment were used for link prediction, while ChatGPT-5 supported interpretive analysis.
 
 \subsection{Normalization and Matching}
-Validated per-disease JSON files are normalized against local ontologies (disease and gene if available) using fuzzy matching (token-sort ratio cutoff) to reduce naming variation. For all runs, the ontology set comprises NCIT\_ThesaurusInferred.owl (National Cancer Institute Thesaurus: clinical and research terminology with rich definitions/synonyms), doid.obo (Human Disease Ontology: etiology-based disease classification), and hgnc.owl (HGNC gene nomenclature with approved gene symbols/names and cross-references). Outputs include an ontology mapping log, normalization statistics, unmatched term lists, and a matched-only dataset used for analysis; if no gene ontology is detected, gene normalization is skipped to prevent cross-category errors related to acronyms.
+Validated per-disease JSON files are normalized against local ontologies (disease and gene if available) using fuzzy matching (token-sort ratio cutoff) to reduce naming variation. For all runs, the ontology set comprises NCIT\_ThesaurusInferred.owl (National Cancer Institute Thesaurus: clinical and research terminology with rich definitions/synonyms), doid.obo (Human Disease Ontology: etiology-based disease classification), and hgnc.owl (HGNC gene nomenclature with approved gene symbols/names and cross-references). Outputs include an ontology mapping log, normalization statistics, unmatched term lists, and a matched-only dataset used for analysis; if no gene ontology is detected, gene normalization is skipped to prevent cross-category errors related to acronyms. The analysis in this paper uses the matched-only dataset produced in the `for_demo/combined/all_diseases_matched.json` run (see its `normalization_stats.json`).
 
 \subsection{Data Definition}
 The cancer knowledge graph represents entities across multiple biomedical layers, including \textit{diseases, genes, treatments, symptoms, risk factors, diagnoses, and subtypes}. Each entity type corresponds to a node label, while their interactions (e.g., \textit{associated\_gene}, \textit{treated\_with}, \textit{has\_symptom}, \textit{has\_diagnosis}) form typed edges.
@@ -130,13 +130,12 @@ The chosen entity and relationship schema follows design principles from establi
 
 
 \subsection{Connectivity}
-The final graph comprises 1,340 nodes and 1,685 edges. 
-A single \textbf{giant component} connects over 90\% of nodes, showing strong biological integration.
-Diseases act as bridges between molecular (genes) and clinical (symptoms/treatments) layers.
+The final graph in this study (from the `for_demo` run) comprises 1,421 nodes and 2,383 edges, built from the ontology-matched subset `all_diseases_matched.json` to favor higher-quality entities.
+A single \textbf{giant component} connects 1,404 nodes (98.8\%), showing strong biological integration, with four additional small components. Diseases act as bridges between molecular (genes) and clinical (symptoms/treatments) layers.
 
 
 \subsection{Community Detection}
-Using Louvain (or greedy modularity when Louvain is unavailable) with an optional consensus across Louvain/greedy/label-propagation, twelve communities were identified, each corresponding to major biomedical themes (TABLE I).
+Using Louvain (or greedy modularity when Louvain is unavailable) with an optional consensus across Louvain/greedy/label-propagation, 23 communities were identified in the `for_demo` run. Community leaders include pancreatic cancer, radiation therapy, neuroendocrine tumors, colorectal cancer, brain tumor, carcinoid syndrome, multiple myeloma, skin cancer, ovarian cancer, lymphoma, and salivary gland cancer (see supplemental table from the analysis report). The previous Table~\ref{tab:cancer_clusters} summarizes an earlier thematic grouping.
 
 \begin{table*}[t]
 \caption{Cancer Clusters: Major Themes and Key Entities}
@@ -162,9 +161,9 @@ Using Louvain (or greedy modularity when Louvain is unavailable) with an optiona
 
 \subsection{Centrality Analysis}
 \begin{itemize}
-    \item \textbf{Degree}: High-degree nodes include Breast, Lung, and Leukemia.
-    \item \textbf{Betweenness}: TP53 and Chemotherapy serve as inter-cluster bridges.
-    \item \textbf{Eigenvector}: TP53 and BRCA1 remain globally influential.
+    \item \textbf{Degree}: Top nodes are lung cancer, colorectal cancer, ovarian cancer, radiation therapy, head and neck cancer, endometrial cancer, chemotherapy, and pancreatic cancer.
+    \item \textbf{Betweenness}: Radiation therapy and chemotherapy lead, followed by lung and colorectal cancer, TP53, ovarian cancer, and surgery.
+    \item \textbf{Eigenvector}: Radiation therapy and chemotherapy dominate, with colorectal cancer, lung cancer, ovarian cancer, TP53, and targeted therapy also prominent.
 \end{itemize}
 
 \begin{figure}[H]
@@ -186,41 +185,18 @@ A subgraph focusing on diseases and their associated genes demonstrates the stro
 
 
 \subsection{Link Prediction}
-\begin{table}[H]
-\centering
-\caption{Predicted New Relationships}
-\begin{tabular}{p{3cm}p{4cm}}
-\toprule
-\textbf{Edge} & \textbf{Rationale} \\
-\midrule
-\textbf{Pancreatic $\leftrightarrow$ BRCA2} & BRCA-driven DNA-repair defects extend to pancreatic tumors \\
-\textbf{Ovarian $\leftrightarrow$ TP53} & Shared apoptotic pathway alterations \\
-\textbf{Endometrial $\leftrightarrow$ Hormone therapy} & Consistent with estrogen-receptor modulation \\
-\textbf{Glioblastoma $\leftrightarrow$ EGFR inhibitors} & Pathway enrichment but under-linked in current data \\
-\bottomrule
-\end{tabular}
-\end{table}
+Two implementations are used: a basic variant that ranks disease–gene/treatment/symptom pairs, and an extended variant that evaluates all plausible typed edges (e.g., disease–diagnosis, gene–treatment). Both use ensemble-normalized Jaccard, Adamic–Adar, and Preferential Attachment scores; outputs are ranked edge lists without autogenerated biomedical rationales. In the `for_demo` run, top suggestions were dominated by treatment–treatment or gene–gene links (e.g., radiation therapy–chemotherapy, radiation therapy–surgery, MYB–NFIB), rather than disease–gene pairs.
 
 
 
 \subsection{Node Property Prediction}
-Neighbor-majority voting achieved approximately 93\% accuracy in recovering node types, validating schema consistency.
+Neighbor-majority voting achieved 8.45\% accuracy on 142 hidden nodes in the `for_demo` run, indicating weak recoverability of node types from local neighborhoods under the current schema and sparsity.
 
 \subsection{Traversal and Search}
-BFS from \textit{Breast cancer}:
-\begin{align*}
-&\textit{Breast cancer} \rightarrow \textbf{BRCA1} \rightarrow \\[3pt]
-&\textit{DNA repair} \rightarrow \textit{Chemotherapy response}
-\end{align*}
-
-
-DFS from \textit{Colorectal cancer} reveals longer disease–gene–therapy chains, illustrating multi-hop reasoning.
+Seeded traversals were generated in the `for_demo` run: BFS (depth ≤3) and DFS previews from \textit{lung cancer} and \textit{liver cancer} showed multi-hop chains through treatments, diagnoses, and related diseases (e.g., lung cancer → surgery → chemotherapy → radiation therapy …; liver cancer → liver transplantation → radiation therapy → chemotherapy …). The shortest path between the seeds was lung cancer → radiation therapy → liver cancer.
 
 \section{Discussion}
-The analyses demonstrate a biologically faithful topology. 
-Genes like TP53 and BRCA2 act as universal integrators, while Chemotherapy creates cross-domain connectivity.
-Community boundaries align with medical taxonomies, validating the extraction process.
-The graph structure reveals phenotype–genotype–therapy triads, where treatments cluster by mechanism (e.g., DNA damage response).
+The analyses demonstrate a biologically coherent topology with strong integration across entities (98.8\% giant component). Radiation therapy and chemotherapy act as dominant connectors across many disease, diagnosis, and treatment contexts, while high-degree diseases include lung, colorectal, and ovarian cancers; TP53 remains a key genetic bridge. Community boundaries (23 clusters) align with recognizable cancer groupings, and centrality patterns highlight phenotype–therapy–gene triads (e.g., treatment hubs paired with common diagnoses and cancer types).
 
 \subsection{Limitations}
 \begin{itemize}
@@ -237,9 +213,9 @@ Menche et al. (Science, 2015) explored curated interactomes; our work complement
 \section{Conclusion}
 The cancer knowledge graph demonstrates high connectivity, biologically coherent modularity, and realistic centrality distributions.
 \begin{itemize}
-    \item TP53 functions as a master hub across the oncological landscape.
-    \item BRCA1/2 anchor hereditary cancer subnetworks.
-    \item Chemotherapy connects molecular and clinical layers.
+    \item Radiation therapy and chemotherapy act as dominant hubs linking many disease, diagnosis, and treatment contexts.
+    \item High-degree diseases include lung, colorectal, and ovarian cancers; TP53 remains a key genetic bridge.
+    \item Twenty-three communities capture major cancer groupings with a 98.8\% giant component, indicating strong integration of the matched-only corpus.
 \end{itemize}
 Future work includes edge weighting, integration of non-cancer diseases, and deployment of Graph Neural Networks (GraphSAGE, GAT) for predictive tasks.
 
