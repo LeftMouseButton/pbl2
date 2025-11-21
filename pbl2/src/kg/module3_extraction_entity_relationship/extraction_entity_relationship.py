@@ -106,8 +106,21 @@ def process_once(disease, model):
         return False
 
     combined_text = ""
+    reliability_map = {}
     for path in disease_files:
+        reliability = 0.5
+        meta_path = DATA_PROCESSED_DIR / "metadata.jsonl"
+        if meta_path.exists():
+            try:
+                for line in meta_path.read_text(encoding="utf-8").splitlines():
+                    rec = json.loads(line)
+                    if rec.get("processed_filename") == path.name:
+                        reliability = float(rec.get("source_reliability", reliability))
+                        break
+            except Exception:
+                pass
         print(f"📖 Reading {path.name} ...")
+        reliability_map[path.name] = reliability
         combined_text += f"\n\n--- SOURCE: {path.name} ---\n"
         combined_text += path.read_text(encoding="utf-8")
 
@@ -139,6 +152,10 @@ def process_once(disease, model):
     except json.JSONDecodeError:
         print(f"❌ Invalid JSON for {disease}. Output preview:\n{text[:400]}...\n")
         return False
+
+    # Attach reliability map to output for downstream weighting
+    if isinstance(data, dict):
+        data["source_reliability"] = reliability_map
 
     out_path = OUTPUT_DIR / f"{disease}.json"
     out_path.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")

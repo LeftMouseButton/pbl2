@@ -11,7 +11,7 @@ Usage:
 
 from __future__ import annotations
 from pathlib import Path
-from typing import List
+from typing import List, Dict, Any
 import sys, json, datetime, pydantic
 
 # ---------------------------------------------------------------------
@@ -42,6 +42,8 @@ def create_model_from_schema(schema: dict):
     for key, val in schema.items():
         if isinstance(val, list):
             fields[key] = (List[str], [])
+        elif isinstance(val, dict):
+            fields[key] = (Dict[str, Any], {})
         elif isinstance(val, str):
             fields[key] = (str, "")
         else:
@@ -61,6 +63,9 @@ def repair_missing_keys(data: dict) -> dict:
         # Convert to list if default is a list
         if isinstance(default, list) and not isinstance(data[key], list):
             data[key] = [data[key]] if data[key] else []
+        # Convert to dict if default is a dict
+        if isinstance(default, dict) and not isinstance(data[key], dict):
+            data[key] = {}
     return data
 
 

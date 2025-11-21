@@ -88,6 +88,13 @@ CONFIG.raw_dir.mkdir(parents=True, exist_ok=True)
 SESSION = requests.Session()
 SESSION.headers.update({"User-Agent": CONFIG.user_agent})
 
+# Reliability labels for downstream edge weighting
+SOURCE_RELIABILITY = {
+    "wikipedia": 0.6,
+    "medlineplus": 0.8,
+    "pubmed": 1.0,  # reserved for future sources
+}
+
 # =============================================================================
 # Logging utilities
 # =============================================================================
@@ -436,6 +443,7 @@ def crawl_wikipedia_for_disease(disease_name: str) -> None:
         "disease": disease_name,
         "slug": slug,
         "source_type": "wikipedia",
+        "source_reliability": SOURCE_RELIABILITY.get("wikipedia", 0.6),
         "url": f"https://en.wikipedia.org/wiki/{disease_name.replace(' ', '_')}",
         "path": str(out_path),
         "crawl_timestamp": datetime.utcnow().isoformat() + "Z",
@@ -478,6 +486,7 @@ def crawl_medlineplus_for_disease(disease_name: str) -> None:
         "disease": disease_name,
         "slug": slug,
         "source_type": "medlineplus",
+        "source_reliability": SOURCE_RELIABILITY.get("medlineplus", 0.8),
         "url": best["url"],
         "path": str(out_path),
         "crawl_timestamp": datetime.utcnow().isoformat() + "Z",

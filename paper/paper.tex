@@ -110,6 +110,8 @@ Python 3.12, NetworkX, and PyVis were employed. Louvain community detection is u
 \subsection{Normalization and Matching}
 Validated per-disease JSON files are normalized against local ontologies (disease and gene if available) using fuzzy matching (token-sort ratio cutoff) to reduce naming variation. For all runs, the ontology set comprises \texttt{NCIT\_ThesaurusInferred.owl} (National Cancer Institute Thesaurus: clinical and research terminology with rich definitions/synonyms), \texttt{doid.obo} (Human Disease Ontology: etiology-based disease classification), and \texttt{hgnc.owl} (HGNC gene nomenclature with approved gene symbols/names and cross-references). Outputs include an ontology mapping log, normalization statistics, unmatched term lists, and a matched-only dataset used for analysis; if no gene ontology is detected, gene normalization is skipped to prevent cross-category errors related to acronyms. The analysis in this paper uses the matched-only dataset produced in the \texttt{for\_demo/combined/all\_diseases\_matched.json} run (see its \texttt{normalization\_stats.json}).
 
+\subsection{Edge Weighting}
+Edges carry a multi-factor weight for downstream analysis: \(w = \log(1+f) \times C \times M \times S\), where \(f\) is term frequency, \(C\) is extraction confidence (default 1.0), \(M\) is ontology match strength (1.0 exact; 0.7 synonym; 0.4–0.5 partial fuzzy), and \(S\) is source reliability (Wikipedia 0.6, MedlinePlus 0.8, reserved PubMed 1.0). We report both unweighted and weighted metrics in the analysis.
 \subsection{Data Definition}
 The cancer knowledge graph represents entities across multiple biomedical layers, including \textit{diseases, genes, treatments, symptoms, risk factors, diagnoses, and subtypes}. Each entity type corresponds to a node label, while their interactions (e.g., \textit{associated\_gene}, \textit{treated\_with}, \textit{has\_symptom}, \textit{has\_diagnosis}) form typed edges.
 
@@ -165,6 +167,7 @@ Using Louvain (or greedy modularity when Louvain is unavailable) with an optiona
     \item \textbf{Degree}: Top nodes are lung cancer, colorectal cancer, ovarian cancer, radiation therapy, head and neck cancer, endometrial cancer, chemotherapy, and pancreatic cancer.
     \item \textbf{Betweenness}: Radiation therapy and chemotherapy lead, followed by lung and colorectal cancer, TP53, ovarian cancer, and surgery.
     \item \textbf{Eigenvector}: Radiation therapy and chemotherapy dominate, with colorectal cancer, lung cancer, ovarian cancer, TP53, and targeted therapy also prominent.
+    \item \textbf{Weighted metrics}: Weighted centrality (using the multi-factor edge weights) is reported alongside unweighted metrics to highlight high-confidence, high-reliability relationships.
 \end{itemize}
 
 \begin{figure}[H]

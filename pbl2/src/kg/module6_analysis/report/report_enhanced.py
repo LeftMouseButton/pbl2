@@ -79,7 +79,7 @@ def generate_enhanced_report(
     G: nx.Graph,
     stats: Any,
     connectivity: Dict[str, Any],
-    cent: Dict[str, Dict[str, float]],
+    cent: Dict[str, Dict[str, Dict[str, float]]],
     node2comm: Dict[str, int],
     comms: List[Set[str]],
     linkpred_rows: List[Dict[str, Any]],
@@ -102,8 +102,8 @@ def generate_enhanced_report(
         but any object with equivalent attributes or keys is accepted.
     connectivity : Dict[str, Any]
         Output of connectivity_summary().
-    cent : Dict[str, Dict[str, float]]
-        Centralities from compute_centrality().
+    cent : Dict[str, Dict[str, Dict[str, float]]]
+        Centralities from compute_centrality(), keyed by "unweighted" and "weighted".
     node2comm : Dict[str, int]
         Node → community mapping.
     comms : List[Set[str]]
@@ -150,9 +150,12 @@ def generate_enhanced_report(
     avg_deg = (2 * n_edges) / n_nodes if n_nodes else 0.0
     density = nx.density(G)
 
+    cent_unw = cent.get("unweighted", cent)
+    cent_w = cent.get("weighted", {})
+
     # Centrality statistics (if NumPy available)
-    if np is not None and cent["degree"]:
-        deg_values = list(cent["degree"].values())
+    if np is not None and cent_unw and cent_unw.get("degree"):
+        deg_values = list(cent_unw["degree"].values())
         deg_stats = {
             "mean": float(np.mean(deg_values)),
             "std": float(np.std(deg_values)),
@@ -178,9 +181,13 @@ def generate_enhanced_report(
 
     # Top-k central nodes
     k_eff = min(top_k, 20)
-    top_deg = _topk_dict(cent["degree"], G, giant, k_eff)
-    top_btw = _topk_dict(cent["betweenness"], G, giant, k_eff)
-    top_eig = _topk_dict(cent["eigenvector"], G, giant, k_eff)
+    top_deg = _topk_dict(cent_unw.get("degree", {}), G, giant, k_eff)
+    top_btw = _topk_dict(cent_unw.get("betweenness", {}), G, giant, k_eff)
+    top_eig = _topk_dict(cent_unw.get("eigenvector", {}), G, giant, k_eff)
+
+    top_deg_w = _topk_dict(cent_w.get("degree", {}), G, giant, k_eff)
+    top_btw_w = _topk_dict(cent_w.get("betweenness", {}), G, giant, k_eff)
+    top_eig_w = _topk_dict(cent_w.get("eigenvector", {}), G, giant, k_eff)
 
     # Community leaders table
     leaders: List[Dict[str, Any]] = []
@@ -287,12 +294,20 @@ def generate_enhanced_report(
 
     # Centrality
     sections.append("## Centrality (Top Hubs)\n")
-    sections.append("### Degree\n")
+    sections.append("### Degree (Unweighted)\n")
     sections.append(degree_table + "\n\n")
-    sections.append("### Betweenness\n")
+    sections.append("### Betweenness (Unweighted)\n")
     sections.append(betw_table + "\n\n")
-    sections.append("### Eigenvector\n")
+    sections.append("### Eigenvector (Unweighted)\n")
     sections.append(eig_table + "\n\n")
+
+    if top_deg_w or top_btw_w or top_eig_w:
+        sections.append("### Degree (Weighted)\n")
+        sections.append(_fmt_table(top_deg_w, ["label", "type", "score"]) + "\n\n")
+        sections.append("### Betweenness (Weighted)\n")
+        sections.append(_fmt_table(top_btw_w, ["label", "type", "score"]) + "\n\n")
+        sections.append("### Eigenvector (Weighted)\n")
+        sections.append(_fmt_table(top_eig_w, ["label", "type", "score"]) + "\n\n")
 
     # Link Prediction
     sections.append("## Link Prediction (Top Suggestions)\n")
@@ -315,18 +330,31 @@ def generate_enhanced_report(
                     "over an exponential model (AIC comparison).\n"
                 )
 
-        corr = validation_results.get("centrality_correlations", {})
-        if "degree_betweenness" in corr:
-            db = corr["degree_betweenness"]
+        corr_unw = validation_results.get("centrality_correlations", {})
+        if "degree_betweenness" in corr_unw:
+            db = corr_unw["degree_betweenness"]
             sections.append(
                 f"- Spearman correlation (degree vs betweenness): "
                 f"**r = {db['correlation']:.3f}**, p = {db['p_value']:.3g}\n"
             )
-        if "degree_eigenvector" in corr:
-            de = corr["degree_eigenvector"]
+        if "degree_eigenvector" in corr_unw:
+            de = corr_unw["degree_eigenvector"]
             sections.append(
                 f"- Spearman correlation (degree vs eigenvector): "
                 f"**r = {de['correlation']:.3f}**, p = {de['p_value']:.3g}\n"
+            )
+        corr_w = validation_results.get("centrality_correlations_weighted", {})
+        if "degree_betweenness" in corr_w:
+            dbw = corr_w["degree_betweenness"]
+            sections.append(
+                f"- Weighted Spearman (degree vs betweenness): "
+                f"**r = {dbw['correlation']:.3f}**, p = {dbw['p_value']:.3g}\n"
+            )
+        if "degree_eigenvector" in corr_w:
+            dew = corr_w["degree_eigenvector"]
+            sections.append(
+                f"- Weighted Spearman (degree vs eigenvector): "
+                f"**r = {dew['correlation']:.3f}**, p = {dew['p_value']:.3g}\n"
             )
     else:
         sections.append("- Statistical validation was not performed.\n")

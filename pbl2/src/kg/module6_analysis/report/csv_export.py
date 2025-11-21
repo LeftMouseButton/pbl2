@@ -100,6 +100,18 @@ def export_centrality_csv(
     _write_csv(path, rows, ["node", "degree", "betweenness", "eigenvector"])
 
 
+def export_centrality_dual_csvs(
+    cent_unweighted: Dict[str, Dict[str, float]],
+    cent_weighted: Dict[str, Dict[str, float]],
+    outdir: Path,
+) -> None:
+    """
+    Write separate CSVs for unweighted and weighted centralities.
+    """
+    export_centrality_csv(cent_unweighted, outdir / "centrality_unweighted.csv")
+    export_centrality_csv(cent_weighted, outdir / "centrality_weighted.csv")
+
+
 # ---------------------------------------------------------------------------
 # LINK PREDICTION
 # ---------------------------------------------------------------------------

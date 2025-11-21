@@ -35,7 +35,7 @@ except Exception:
 def statistical_validation(
     G: nx.Graph,
     node2comm: Dict[str, int],
-    centrality: Dict[str, Dict[str, float]],
+    centrality: Dict[str, Dict[str, Dict[str, float]]],
 ) -> Dict[str, Any]:
     """
     Perform statistical validation of key graph properties.
@@ -116,11 +116,15 @@ def statistical_validation(
     # ────────────────────────────────────────────────────────────────────────
     # 3. Centrality correlations (Spearman)
     # ────────────────────────────────────────────────────────────────────────
-    if stats is not None and len(centrality["degree"]) > 5:
+    # use unweighted centrality for correlations by default
+    cent_unw = centrality.get("unweighted", centrality)
+    cent_w = centrality.get("weighted", {})
+
+    if stats is not None and len(cent_unw.get("degree", {})) > 5:
         try:
-            deg_vals = [centrality["degree"][n] for n in G.nodes()]
-            btw_vals = [centrality["betweenness"][n] for n in G.nodes()]
-            eig_vals = [centrality["eigenvector"][n] for n in G.nodes()]
+            deg_vals = [cent_unw["degree"][n] for n in G.nodes()]
+            btw_vals = [cent_unw["betweenness"][n] for n in G.nodes()]
+            eig_vals = [cent_unw["eigenvector"][n] for n in G.nodes()]
 
             deg_btw_corr = stats.spearmanr(deg_vals, btw_vals)
             deg_eig_corr = stats.spearmanr(deg_vals, eig_vals)
@@ -142,6 +146,34 @@ def statistical_validation(
     else:
         results["centrality_correlations"] = {
             "note": "SciPy unavailable or insufficient sample size"
+        }
+
+    if stats is not None and cent_w and len(cent_w.get("degree", {})) > 5:
+        try:
+            deg_vals_w = [cent_w["degree"][n] for n in G.nodes()]
+            btw_vals_w = [cent_w["betweenness"][n] for n in G.nodes()]
+            eig_vals_w = [cent_w["eigenvector"][n] for n in G.nodes()]
+
+            deg_btw_corr_w = stats.spearmanr(deg_vals_w, btw_vals_w)
+            deg_eig_corr_w = stats.spearmanr(deg_vals_w, eig_vals_w)
+
+            results["centrality_correlations_weighted"] = {
+                "degree_betweenness": {
+                    "correlation": float(deg_btw_corr_w.correlation),
+                    "p_value": float(deg_btw_corr_w.pvalue),
+                },
+                "degree_eigenvector": {
+                    "correlation": float(deg_eig_corr_w.correlation),
+                    "p_value": float(deg_eig_corr_w.pvalue),
+                },
+            }
+        except Exception:
+            results["centrality_correlations_weighted"] = {
+                "note": "Could not compute weighted correlations"
+            }
+    else:
+        results["centrality_correlations_weighted"] = {
+            "note": "SciPy unavailable or insufficient sample size (weighted)"
         }
 
     return results

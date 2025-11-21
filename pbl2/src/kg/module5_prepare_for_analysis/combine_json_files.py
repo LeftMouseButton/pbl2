@@ -18,11 +18,12 @@ Features:
 
 import json
 import argparse
+import math
 from pathlib import Path
 from rapidfuzz import process, fuzz
 from statistics import mean
 from datetime import datetime
-from collections import OrderedDict
+from collections import OrderedDict, Counter
 
 try:
     from pronto import Ontology
@@ -235,6 +236,57 @@ def normalize_entity_lists(data, ontology_dicts, stats, mapping_dict, filename, 
 
     return data
 
+def _ontology_match_strength(match_info):
+    """
+    Derive ontology match strength M in [0.3, 1.0] from mapping info.
+    """
+    if not match_info:
+        return 0.4
+    if match_info.get("matched"):
+        return 1.0
+    score = match_info.get("score", 0)
+    if score >= 90:
+        return 0.7  # synonym-level
+    if score >= 70:
+        return 0.5  # partial fuzzy
+    return 0.4
+
+def _source_reliability(rec):
+    if isinstance(rec, dict):
+        vals = list(rec.values())
+        if vals:
+            try:
+                return sum(float(v) for v in vals) / len(vals)
+            except Exception:
+                return 0.5
+    return 0.5
+
+def _compute_weights(values, mapping_infos, reliability_map):
+    """
+    Compute per-value edge weights using multi-factor formula:
+      w = log(1+f) * C * M * S
+    where f = frequency, C = extraction confidence (default 1.0),
+          M = ontology match strength, S = source reliability (avg).
+    """
+    weights = []
+    freq = Counter(values)
+    S = _source_reliability(reliability_map)
+    for idx, val in enumerate(values):
+        f = freq.get(val, 1)
+        C = 1.0
+        m_info = mapping_infos[idx] if idx < len(mapping_infos) else {}
+        M = _ontology_match_strength(m_info)
+        w = math.log(1 + f) * C * M * S
+        weights.append({
+            "value": val,
+            "weight": w,
+            "f": f,
+            "C": C,
+            "M": M,
+            "S": S,
+        })
+    return weights
+
 def create_matched_only_dataset(combined, mapping_file, output_dir, schema_path=Path("schema/schema_keys.json")):
     """
     Create a filtered dataset containing only ontology-matched terms,
@@ -335,6 +387,17 @@ def combine_json_files(no_normalize=False, lowercase=True):
                     for key in ["causes", "risk_factors", "symptoms", "diagnosis", "treatments", "related_genes", "subtypes"]:
                         if key in data and isinstance(data[key], list):
                             data[key] = [v.lower() if isinstance(v, str) else v for v in data[key]]
+
+                # compute edge weights using mapping_dict and source reliability metadata
+                weights = {}
+                reliability_map = data.get("source_reliability", {})
+                for key in ["causes", "risk_factors", "symptoms", "diagnosis", "treatments", "related_genes", "subtypes"]:
+                    if key in data and isinstance(data[key], list):
+                        mapping_infos = mapping_dict.get(file.name, {}).get(key, [])
+                        weights[key] = _compute_weights(data[key], mapping_infos, reliability_map)
+                if weights:
+                    data["_edge_weights"] = weights
+
                 combined["diseases"].append(data)
                 print(f"✅ Added {file.name}{' (no normalization)' if no_normalize else ''}")
             else:

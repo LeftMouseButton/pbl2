@@ -8,5 +8,6 @@
     "diagnosis": [],
     "treatments": [],
     "related_genes": [],
-    "subtypes": []
+    "subtypes": [],
+    "source_reliability": {}
 }

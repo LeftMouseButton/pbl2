@@ -20,7 +20,8 @@ import networkx as nx
 
 def compute_centrality(
     G: nx.Graph,
-    k_sample: int = 0
+    k_sample: int = 0,
+    use_weights: bool = False,
 ) -> Dict[str, Dict[str, float]]:
     """
     Compute degree, betweenness, and eigenvector centrality.
@@ -44,8 +45,10 @@ def compute_centrality(
             "eigenvector": {node: score}
         }
     """
+    weight_kw = {"weight": "weight"} if use_weights else {}
+
     # ---- Degree centrality (normalized) ------------------------------------
-    deg = dict(G.degree())
+    deg = dict(G.degree(weight=weight_kw.get("weight")))
     n = max(1, G.number_of_nodes() - 1)  # avoid division by zero
     deg_norm = {node: d / n for node, d in deg.items()}
 
@@ -61,15 +64,15 @@ def compute_centrality(
         # NetworkX has two APIs depending on version; try both
         try:
             btw = nx.betweenness_centrality(
-                G, normalized=True, nodes=sample_nodes, seed=0
+                G, normalized=True, nodes=sample_nodes, seed=0, **weight_kw
             )
         except TypeError:
             btw = nx.betweenness_centrality(
-                G, k=sample_size, normalized=True, seed=0
+                G, k=sample_size, normalized=True, seed=0, **weight_kw
             )
     else:
         # Full betweenness
-        btw = nx.betweenness_centrality(G, normalized=True)
+        btw = nx.betweenness_centrality(G, normalized=True, **weight_kw)
 
     # ---- Eigenvector centrality --------------------------------------------
     # Use the giant component only for convergence stability
@@ -81,7 +84,7 @@ def compute_centrality(
         giant = G
 
     try:
-        eig = nx.eigenvector_centrality(giant, max_iter=2000)
+        eig = nx.eigenvector_centrality(giant, max_iter=2000, **weight_kw)
     except nx.PowerIterationFailedConvergence:
         eig = nx.eigenvector_centrality_numpy(giant)
 

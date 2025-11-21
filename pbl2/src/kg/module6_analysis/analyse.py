@@ -53,7 +53,7 @@ from .viz.pyvis_enhanced import enhanced_pyvis_visualization
 
 from .report.report_enhanced import generate_enhanced_report
 from .report.csv_export import (
-    export_centrality_csv,
+    export_centrality_dual_csvs,
     export_linkpred_csv,
 )
 
@@ -203,7 +203,9 @@ def main() -> None:
 
     # Centrality
     print("📈 Centrality metrics …")
-    cent = compute_centrality(G, k_sample=args.betweenness_sample)
+    cent_unweighted = compute_centrality(G, k_sample=args.betweenness_sample, use_weights=False)
+    cent_weighted = compute_centrality(G, k_sample=args.betweenness_sample, use_weights=True)
+    cent = {"unweighted": cent_unweighted, "weighted": cent_weighted}
 
     if args.memory_monitor:
         optimize_memory()
@@ -216,9 +218,9 @@ def main() -> None:
             label = G.nodes[node].get("label", node)
             print(f"   {i:>2}. {label} ({score:.4f})")
 
-    _print_top5("degree", cent["degree"])
-    _print_top5("betweenness", cent["betweenness"])
-    _print_top5("eigenvector", cent["eigenvector"])
+    _print_top5("degree (unweighted)", cent_unweighted["degree"])
+    _print_top5("betweenness (unweighted)", cent_unweighted["betweenness"])
+    _print_top5("eigenvector (unweighted)", cent_unweighted["eigenvector"])
 
     # Link prediction
     print("🔮 Link prediction …")
@@ -277,8 +279,8 @@ def main() -> None:
     print(f"🌐 Saved interactive HTML → {html_path}")
 
     # CSV exports
-    centrality_csv = outdir / "centrality.csv"
-    export_centrality_csv(cent, centrality_csv)
+    centrality_csv_dir = outdir
+    export_centrality_dual_csvs(cent_unweighted, cent_weighted, centrality_csv_dir)
 
     linkpred_csv = outdir / "link_predictions.csv"
     export_linkpred_csv(lp_rows, linkpred_csv)

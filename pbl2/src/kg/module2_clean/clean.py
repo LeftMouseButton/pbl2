@@ -38,6 +38,7 @@ from slugify import slugify
 # ---------------------------------------------------------------------------
 
 RAW_DIR = Path("data/raw")
+RAW_META_PATH = RAW_DIR / "metadata.jsonl"
 OUT_DIR = Path("data/processed")
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 META_PATH = OUT_DIR / "metadata.jsonl"
@@ -273,6 +274,25 @@ def derive_disease_and_source(stem: str) -> (str, str):
     source = slugify(source_part) or "unknown"
     return disease, source
 
+def lookup_source_reliability(source_slug: str) -> float:
+    """
+    Look up source reliability from raw metadata or default heuristics.
+    """
+    default_map = {
+        "wikipedia": 0.6,
+        "medlineplus": 0.8,
+        "pubmed": 1.0,
+    }
+    if RAW_META_PATH.exists():
+        try:
+            for line in RAW_META_PATH.read_text(encoding="utf-8").splitlines():
+                rec = json.loads(line)
+                if slugify(rec.get("source_type", "")) == source_slug:
+                    return float(rec.get("source_reliability", default_map.get(source_slug, 0.5)))
+        except Exception:
+            pass
+    return default_map.get(source_slug, 0.5)
+
 
 def process_file(raw_path: Path) -> Dict[str, Any]:
     """
@@ -315,6 +335,7 @@ def process_file(raw_path: Path) -> Dict[str, Any]:
         "clean_checksum": checksum(cleaned),
         "clean_length": len(cleaned),
         "timestamp": time.strftime("%Y-%m-%dT%H:%M:%SZ", time.gmtime()),
+        "source_reliability": lookup_source_reliability(source),
     }
 
     try:
